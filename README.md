@@ -6,9 +6,9 @@ NOTE: many politicians have yet to be researched; if you have some spare time, I
 How to find financial disclosures: [US House](https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure) [US Senate](https://efdsearch.senate.gov/search/) [US Executive Branch](https://extapps2.oge.gov/201/Presiden.nsf).
 
 | Name        | Party | State  | House | Bitcoin Ownership | Recent Disclosure |
-| :---------: |:------: |:------: | :------: | :---------: |
+| :---------: |:------: |:------: | :------: | :---------: | :---------: |
 | Alma Adams | D | NC | House | UNKNOWN | UNKNOWN |
-
+<pre>
 Rep. Robert Aderholt [R-AL4]Aderholt, Robert
 Rep. Pete Aguilar [D-CA31]Aguilar, Pete
 Rep. Rick Allen [R-GA12]Allen, Rick
@@ -546,3 +546,4 @@ Rep. John Yarmuth [D-KY3]Yarmuth, John
 Rep. Don Young [R-AK0]Young, Don
 Sen. Todd Young [R-IN]Young, Todd
 Rep. Lee Zeldin [R-NY1]Zeldin, Lee
+</pre>
