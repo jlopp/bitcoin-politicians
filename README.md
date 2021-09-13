@@ -1,11 +1,12 @@
 # Bitcoin Holdings of US Congress Members
 Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the game. Because searching through financial disclosures can be a time intensive process, this project's goal is to crowdsource the work.
 
-NOTE: many politicians have yet to be researched; if you have some spare time, I encourage you to look some up and contribute to this project with a pull request.
+## Contributing
+NOTE: many politicians have yet to be researched; if you have some spare time, I encourage you to look some up and contribute to this project by [editing the README.md file](https://github.com/jlopp/bitcoin-politicians/edit/master/README.md).
 
-How to find financial disclosures: [US House](https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure) [US Senate](https://efdsearch.senate.gov/search/) [US Executive Branch](https://extapps2.oge.gov/201/Presiden.nsf).
+You can find financial disclosures here: [US House](https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure) [US Senate](https://efdsearch.senate.gov/search/) [US Executive Branch](https://extapps2.oge.gov/201/Presiden.nsf). Sort by date and open their most recent year's annual report, to which you will link on this page.
 
-| Name        | Party | State  | House | Bitcoin Ownership | Recent Disclosure |
+| Name        | Party | State  | House | Bitcoin Owner | Disclosure |
 | :---------: |:------: |:------: | :------: | :---------: | :---------: |
 | Alma Adams | D | NC | House | ? | ? |
 | Robert Aderholt | R | AL | House | ? | ? |
@@ -50,286 +51,289 @@ How to find financial disclosures: [US House](https://disclosures-clerk.house.go
 | Mike Bost | R | IL | House | ? | ? |
 | Carolyn Bourdeaux | D | GA | House | ? | ? |
 | Jamaal Bowman | D | NY | House | ? | ? |
+| Brendan Boyle | D | PA | House | ? | ? |
+| Kevin Brady | R | TX | House | ? | ? |
+| Mike Braun | R | IN | Senate | ? | ? |
+| Mo Brooks | R | AL | House | ? | ? |
+| Anthony Brown | D | MD | House | ? | ? |
+| Sherrod Brown | D | OH | Senate | ? | ? |
+| Julia Brownley | D | CA | House | ? | ? |
+| Vern Buchanan | R | FL | House | ? | ? |
+| Ken Buck | R | CO | House | ? | ? |
+| Larry Bucshon | R | IN | House | ? | ? |
+| Ted Budd | R | NC | House | ? | ? |
+| Tim Burchett | R | TN | House | ? | ? |
+| Michael Burgess | R | TX | House | ? | ? |
+| Richard Burr | R | NC | Senate | ? | ? |
+| Cori Bush | D | MO | House | ? | ? |
+| Cheri Bustos | D | IL | House | ? | ? |
+| George Butterfield | D | NC | House | ? | ? |
+| Ken Calvert | R | CA | House | ? | ? |
+| Katherin Cammack | R | FL | House | ? | ? |
+| Maria Cantwell | D | WA | Senate | ? | ? |
+| Shelley Capito | R | WV | Senate | ? | ? |
+| Salud Carbajal | D | CA | House | ? | ? |
+| Benjamin Cardin | D | MD | Senate | ? | ? |
+| Jerry Carl | R | AL | House | ? | ? |
+| Thomas Carper | D | DE | Senate | ? | ? |
+| André Carson | D | IN | House | ? | ? |
+| Earl Carter | R | GA | House | ? | ? |
+| John Carter | R | TX | House | ? | ? |
+| Troy Carter | D | LA | House | ? | ? |
+| Matthew Cartwright | D | PA | House | ? | ? |
+| Ed Case | D | HI | House | ? | ? |
+| Robert Casey | D | PA | Senate | ? | ? |
+| Bill Cassidy | R | LA | Senate | ? | ? |
+| Sean Casten | D | IL | House | ? | ? |
+| Kathy Castor | D | FL | House | ? | ? |
+| Joaquin Castro | D | TX | House | ? | ? |
+| David Cawthorn | R | NC | House | ? | ? |
+| Steve Chabot | R | OH | House | ? | ? |
+| Liz Cheney | R | WY | House | ? | ? |
+| Judy Chu | D | CA | House | ? | ? |
+| David Cicilline | D | RI | House | ? | ? |
+| Katherine Clark | D | MA | House | ? | ? |
+| Yvette Clark | D | NY | House | ? | ? |
+| Emanuel Cleaver | D | MO | House | ? | ? |
+| Ben Cline | R | VA | House | ? | ? |
+| Michael Cloud | R | TX | House | ? | ? |
+| James Clyburn | D | SC | House | ? | ? |
+| Andrew Clyde | R | GA | House | ? | ? |
+| Steve Cohen | D | TN | House | ? | ? |
+| Tom Cole | R | OK | House | ? | ? |
+| Susan Collins | R | ME | Senate | ? | ? |
+| James Comer | R | KY | House | ? | ? |
+| Gerald Connolly | D | VA | House | ? | ? |
+| Christopher Coons | D | DE | Senate | ? | ? |
+| Jim Cooper | D | TN | House | ? | ? |
+| John Cornyn | R | TX | Senate | ? | ? |
+| Luis Correa | D | CA | House | ? | ? |
+| Catherine Cortez Masto | D | NV | Senate | ? | ? |
+| Jim Costa | D | CA | House | ? | ? |
+| Tom Cotton | R | AR | Senate | ? | ? |
+| Joe Courtney | D | CT | House | ? | ? |
+| Angie Craig | D | MN | House | ? | ? |
+| Kevin Cramer | R | ND | Senate | ? | ? |
+| Michael Crapo | R | ID | Senate | ? | ? |
+| Eric Crawford | R | AR | House | ? | ? |
+| Dan Crenshaw | R | TX | House | ? | ? |
+| Charlie Crist | D | FL | House | ? | ? |
+| Jason Crow | D | CO | House | ? | ? |
+| Ted Cruz | R | TX | Senate | ? | ? |
+| Henry Cuellar | D | TX | House | ? | ? |
+| John Curtis | R | UT | House | ? | ? |
+| Tony Cárdenas | D | CA | House | ? | ? |
+| Steve Daines | R | MT | Senate | ? | ? |
+| Sharice Davids | D | KS | House | ? | ? |
+| Warren Davidson | R | OH | House | ? | ? |
+| Danny Davis | D | IL | House | ? | ? |
+| Rodney Davis | R | IL | House | ? | ? |
+| Peter DeFazio | D | OR | House | ? | ? |
+| Diana DeGette | D | CO | House | ? | ? |
+| Rosa DeLauro | D | CT | House | ? | ? |
+| Mark DeSaulnier | D | CA | House | ? | ? |
+| Madeleine Dean | D | PA | House | ? | ? |
+| Suzan DelBene | D | WA | House | ? | ? |
+| Antonio Delgado | D | NY | House | ? | ? |
+| Val Demings | D | FL | House | ? | ? |
+| Scott DesJarlais | R | TN | House | ? | ? |
+| Theodore Deutch | D | FL | House | ? | ? |
+| Mario Diaz-Balart | R | FL | House | ? | ? |
+| Debbie Dingell | D | MI | House | ? | ? |
+| Lloyd Doggett | D | TX | House | ? | ? |
+| Byron Donalds | R | FL | House | ? | ? |
+| Michael Doyle | D | PA | House | ? | ? |
+| Tammy Duckworth | D | IL | Senate | ? | ? |
+| Jeff Duncan | R | SC | House | ? | ? |
+| Neal Dunn | R | FL | House | ? | ? |
+| Richard Durbin | D | IL | Senate | ? | ? |
+| Jake Ellzey | R | TX | House | ? | ? |
+| Tom Emmer | R | MN | House | ? | ? |
+| Joni Ernst | R | IA | Senate | ? | ? |
+| Veronica Escobar | D | TX | House | ? | ? |
+| Anna Eshoo | D | CA | House | ? | ? |
+| Adriano Espaillat | D | NY | House | ? | ? |
+| Ron Estes | R | KS | House | ? | ? |
+| Dwight Evans | D | PA | House | ? | ? |
+| Patrick Fallon | R | TX | House | ? | ? |
+| Randy Feenstra | R | IA | House | ? | ? |
+| Dianne Feinstein | D | CA | Senate | ? | ? |
+| Drew Ferguson | R | GA | House | ? | ? |
+| Michelle Fischbach | R | MN | House | ? | ? |
+| Deb Fischer | R | NE | Senate | ? | ? |
+| Scott Fitzgerald | R | WI | House | ? | ? |
+| Brian Fitzpatrick | R | PA | House | ? | ? |
+| Charles Fleischmann | R | TN | House | ? | ? |
+| Lizzie Fletcher | D | TX | House | ? | ? |
+| Jeff Fortenberry | R | NE | House | ? | ? |
+| Bill Foster | D | IL | House | ? | ? |
+| Virginia Foxx | R | NC | House | ? | ? |
+| Lois Frankel | D | FL | House | ? | ? |
+| Scott Franklin | R | FL | House | ? | ? |
+| Russ Fulcher | R | ID | House | ? | ? |
+| Matt Gaetz | R | FL | House | ? | ? |
+| Mike Gallagher | R | WI | House | ? | ? |
+| Ruben Gallego | D | AZ | House | ? | ? |
+| John Garamendi | D | CA | House | ? | ? |
+| Andrew Garbarino | R | NY | House | ? | ? |
+| Mike Garcia | R | CA | House | ? | ? |
+| Sylvia Garcia | D | TX | House | ? | ? |
+| Jesús García | D | IL | House | ? | ? |
+| Bob Gibbs | R | OH | House | ? | ? |
+| Kirsten Gillibrand | D | NY | Senate | ? | ? |
+| Carlos Gimenez | R | FL | House | ? | ? |
+| Louie Gohmert | R | TX | House | ? | ? |
+| Jared Golden | D | ME | House | ? | ? |
+| Jimmy Gomez | D | CA | House | ? | ? |
+| Ernest Gonzales | R | TX | House | ? | ? |
+| Anthony Gonzalez | R | OH | House | ? | ? |
+| Vicente Gonzalez | D | TX | House | ? | ? |
+| Robert Good | R | VA | House | ? | ? |
+| Lance Gooden | R | TX | House | ? | ? |
+| Paul Gosar | R | AZ | House | ? | ? |
+| Josh Gottheimer | D | NJ | House | ? | ? |
+| Lindsey Graham | R | SC | Senate | ? | ? |
+| Kay Granger | R | TX | House | ? | ? |
+| Charles Grassley | R | IA | Senate | ? | ? |
+| Garret Graves | R | LA | House | ? | ? |
+| Sam Graves | R | MO | House | ? | ? |
+| Al Green | D | TX | House | ? | ? |
+| Mark Green | R | TN | House | ? | ? |
+| Marjorie Greene | R | GA | House | ? | ? |
+| Morgan Griffith | R | VA | House | ? | ? |
+| Raúl Grijalva | D | AZ | House | ? | ? |
+| Glenn Grothman | R | WI | House | ? | ? |
+| Michael Guest | R | MS | House | ? | ? |
+| Brett Guthrie | R | KY | House | ? | ? |
+| Jim Hagedorn | R | MN | House | ? | ? |
+| Bill Hagerty | R | TN | Senate | ? | ? |
+| Josh Harder | D | CA | House | ? | ? |
+| Andy Harris | R | MD | House | ? | ? |
+| Diana Harshbarger | R | TN | House | ? | ? |
+| Vicky Hartzler | R | MO | House | ? | ? |
+| Margaret Hassan | D | NH | Senate | ? | ? |
+| Joshua Hawley | R | MO | Senate | ? | ? |
+| Jahana Hayes | D | CT | House | ? | ? |
+| Martin Heinrich | D | NM | Senate | ? | ? |
+| Kevin Hern | R | OK | House | ? | ? |
+| Yvette Herrell | R | NM | House | ? | ? |
+| Jaime Herrera Beutler | R | WA | House | ? | ? |
+| Jody Hice | R | GA | House | ? | ? |
+| John Hickenlooper | D | CO | Senate | ? | ? |
+| Brian Higgens | D | NY | House | ? | ? |
+| Clay Higgens | R | LA | House | ? | ? |
+| French Hill | R | AR | House | ? | ? |
+| James Himes | D | CT | House | ? | ? |
+| Ashley Hinson | R | IA | House | ? | ? |
+| Mazie Hirono | D | HI | Senate | ? | ? |
+| John Hoeven | R | ND | Senate | ? | ? |
+| Trey Hollingsworth | R | IN | House | ? | ? |
+| Steven Horsford | D | NV | House | ? | ? |
+| Chrissy Houlahan | D | PA | House | ? | ? |
+| Steny Hoyer | D | MD | House | ? | ? |
+| Richard Hudson | R | NC | House | ? | ? |
+| Jared Huffman | D | CA | House | ? | ? |
+| Bill Huizenga | R | MI | House | ? | ? |
+| Cindy Hyde-Smith | R | MS | Senate | ? | ? |
+| James Inhofe | R | OK | Senate | ? | ? |
+| Darrell Issa | R | CA | House | ? | ? |
+| Sheila Jackson Lee | D | TX | House | ? | ? |
+| Ronny Jackson | R | TX | House | ? | ? |
+| Chris Jacobs | R | NY | House | ? | ? |
+| Sara Jacobs | D | CA | House | ? | ? |
+| Pramila Jayapal | D | WA | House | ? | ? |
+| Hakeem Jeffries | D | NY | House | ? | ? |
+| Bill Johnson | R | OH | House | ? | ? |
+| Dusty Johnson | R | SD | House | ? | ? |
+| Eddie Johnson | D | TX | House | ? | ? |
+| Henry Johnson | D | GA | House | ? | ? |
+| Mike Johnson | R | LA | House | ? | ? |
+| Ron Johnson | R | WI | Senate | ? | ? |
+| Mondaire Jones | D | NY | House | ? | ? |
+| Jim Jordan | R | OH | House | ? | ? |
+| David Joyce | R | OH | House | ? | ? |
+| John Joyce | R | PA | House | ? | ? |
+| Kaialiʻi Kahele | D | HI | House | ? | ? |
+| Timothy Kaine | D | VA | Senate | ? | ? |
+| Marcy Kaptur | D | OH | House | ? | ? |
+| John Katko | R | NY | House | ? | ? |
+| William Keating | D | MA | House | ? | ? |
+| Fred Keller | R | PA | House | ? | ? |
+| Mark Kelly | D | AZ | Senate | ? | ? |
+| Mike Kelly | R | PA | House | ? | ? |
+| Robin Kelly | D | IL | House | ? | ? |
+| Trent Kelly | R | MS | House | ? | ? |
+| John Kennedy | R | LA | Senate | ? | ? |
+| Ro Khanna | D | CA | House | ? | ? |
+| Daniel Kildee | D | MI | House | ? | ? |
+| Derek Kilmer | D | WA | House | ? | ? |
+| Andy Kim | D | NJ | House | ? | ? |
+| Young Kim | R | CA | House | ? | ? |
+| Ron Kind | D | WI | House | ? | ? |
+| Angus King | I | ME | Senate | ? | ? |
+| Adam Kinzinger | R | IL | House | ? | ? |
+| Ann Kirkpatrick | D | AZ | House | ? | ? |
+| Amy Klobuchar | D | MN | Senate | ? | ? |
+| Raja Krishnamoorthi | D | IL | House | ? | ? |
+| Ann Kuster | D | NH | House | ? | ? |
+| David Kustoff | R | TN | House | ? | ? |
+| Darin LaHood | R | IL | House | ? | ? |
+| Dough LaMalfa | R | CA | House | ? | ? |
+| Jacob LaTurner | R | KS | House | ? | ? |
+| Conor Lamb | D | PA | House | ? | ? |
+| Doug Lamborn | R | CO | House | ? | ? |
+| James Langevin | D | RI | House | ? | ? |
+| James Lankford | R | OK | Senate | ? | ? |
+| Rick Larsen | D | WA | House | ? | ? |
+| John Larson | D | CT | House | ? | ? |
+| Robert Latta | R | OH | House | ? | ? |
+| Brenda Lawrence | D | MI | House | ? | ? |
+| Al Lawson | D | FL | House | ? | ? |
+| Patrick Leahy | D | VT | Senate | ? | ? |
+| Barbara Lee | D | CA | House | ? | ? |
+| Mike Lee | R | UT | Senate | ? | ? |
+| Susie Lee | D | NV | House | ? | ? |
+| Teresa Leger Fernandez | D | NM | House | ? | ? |
+| Debbie Lesko | R | AZ | House | ? | ? |
+| Julia Letlow | R | LA | House | ? | ? |
+| Andy Levin | D | MI | House | ? | ? |
+| Mike Levin | D | CA | House | ? | ? |
+| Ted Lieu | D | CA | House | ? | ? |
+| Zoe Lofgren | D | CA | House | ? | ? |
+| Billy Long | R | MO | House | ? | ? |
+| Barry Loudermilk | R | GA | House | ? | ? |
+| Alan Lowenthal | D | CA | House | ? | ? |
+| Frank Lucas | R | OK | House | ? | ? |
+| Blaine Luetkemeyer | R | MO | House | ? | ? |
+| Ben Luján | D | NM | House | ? | ? |
+| Cynthia Lummis | R | WY | House | YES | ? |
+| Elanie Luria | D | VA | House | ? | ? |
+| Stephen Lynch | D | MA | House | ? | ? |
+| Nancy Mace | R | SC | House | ? | ? |
+| Tom Malinowski | D | NJ | House | ? | ? |
+| Nicole Malliotakis | R | NY | House | ? | ? |
+| Carolyn Maloney | D | NY | House | ? | ? |
+| Sean Maloney | D | NY | House | ? | ? |
+| Joe Manchin | D | WV | Senate | ? | ? |
+| Tracey Mann | R | KS | House | ? | ? |
+| Kathy Manning | D | NC | House | ? | ? |
+| Edward Markey | D | MA | Senate | ? | ? |
+| Roger Marshall | R | KS | Senate | ? | ? |
+| Thomas Massie | R | KY | House | ? | ? |
+| Brian Mast | R | FL | House | ? | ? |
+| Doris Matsui | D | CA | House | ? | ? |
+| Lucy McBath | D | GA | House | ? | ? |
+| Kevin McCarthy | R | CA | House | ? | ? |
+| Michael McCaul | R | TX | House | ? | ? |
+| Lisa McClain | R | MI | House | ? | ? |
+| Tom McClintock | R | CA | House | ? | ? |
+| Betty McCollum | D | MN | House | ? | ? |
+| Mitch McConnell | R | KY | Senate | ? | ? |
+| Donald McEachin | D | VA | House | ? | ? |
+| James McGovern | D | MA | House | ? | ? |
+| Patrick McHenry | R | NC | House | ? | ? |
+|  | D |  | House | ? | ? |
 <pre>
-Rep. Brendan Boyle [D-PA2]Boyle, Brendan
-Rep. Kevin Brady [R-TX8]Brady, Kevin
-Sen. Mike Braun [R-IN]Braun, Mike
-Rep. Mo Brooks [R-AL5]Brooks, Mo
-Rep. Anthony Brown [D-MD4]Brown, Anthony
-Sen. Sherrod Brown [D-OH]Brown, Sherrod
-Rep. Julia Brownley [D-CA26]Brownley, Julia
-Rep. Vern Buchanan [R-FL16]Buchanan, Vern
-Rep. Ken Buck [R-CO4]Buck, Ken
-Rep. Larry Bucshon [R-IN8]Bucshon, Larry
-Rep. Ted Budd [R-NC13]Budd, Ted
-Rep. Tim Burchett [R-TN2]Burchett, Tim
-Rep. Michael Burgess [R-TX26]Burgess, Michael
-Sen. Richard Burr [R-NC]Burr, Richard
-Rep. Cori Bush [D-MO1]Bush, Cori
-Rep. Cheri Bustos [D-IL17]Bustos, Cheri
-Rep. George “G.K.” Butterfield [D-NC1]Butterfield, George “G.K.”
-Rep. Ken Calvert [R-CA42]Calvert, Ken
-Rep. Katherine “Kat” Cammack [R-FL3]Cammack, Katherine “Kat”
-Sen. Maria Cantwell [D-WA]Cantwell, Maria
-Sen. Shelley Capito [R-WV]Capito, Shelley
-Rep. Salud Carbajal [D-CA24]Carbajal, Salud
-Sen. Benjamin Cardin [D-MD]Cardin, Benjamin
-Rep. Jerry Carl [R-AL1]Carl, Jerry
-Sen. Thomas Carper [D-DE]Carper, Thomas
-Rep. André Carson [D-IN7]Carson, André
-Rep. Earl “Buddy” Carter [R-GA1]Carter, Earl “Buddy”
-Rep. John Carter [R-TX31]Carter, John
-Rep Carter, Troy [D-LA]
-Rep. Matthew “Matt” Cartwright [D-PA8]Cartwright, Matthew “Matt”
-Rep. Ed Case [D-HI1]Case, Ed
-Sen. Robert “Bob” Casey [D-PA]Casey, Robert “Bob”
-Sen. Bill Cassidy [R-LA]Cassidy, Bill
-Rep. Sean Casten [D-IL6]Casten, Sean
-Rep. Kathy Castor [D-FL14]Castor, Kathy
-Rep. Joaquin Castro [D-TX20]Castro, Joaquin
-Rep. David “Madison” Cawthorn [R-NC11]Cawthorn, David “Madison”
-Rep. Steve Chabot [R-OH1]Chabot, Steve
-Rep. Liz Cheney [R-WY0]Cheney, Liz
-Rep. Judy Chu [D-CA27]Chu, Judy
-Rep. David Cicilline [D-RI1]Cicilline, David
-Rep. Katherine Clark [D-MA5]Clark, Katherine
-Rep. Yvette Clarke [D-NY9]Clarke, Yvette
-Rep. Emanuel Cleaver [D-MO5]Cleaver, Emanuel
-Rep. Ben Cline [R-VA6]Cline, Ben
-Rep. Michael Cloud [R-TX27]Cloud, Michael
-Rep. James “Jim” Clyburn [D-SC6]Clyburn, James “Jim”
-Rep. Clyde, Andrew [R-GA]
-Rep. Steve Cohen [D-TN9]Cohen, Steve
-Rep. Tom Cole [R-OK4]Cole, Tom
-Sen. Susan Collins [R-ME]Collins, Susan
-Rep. James Comer [R-KY1]Comer, James
-Rep. Gerald Connolly [D-VA11]Connolly, Gerald
-Sen. Christopher Coons [D-DE]Coons, Christopher
-Rep. Jim Cooper [D-TN5]Cooper, Jim
-Sen. John Cornyn [R-TX]Cornyn, John
-Rep. Luis Correa [D-CA46]Correa, Luis
-Sen. Catherine Cortez Masto [D-NV]Cortez Masto, Catherine
-Rep. Jim Costa [D-CA16]Costa, Jim
-Sen. Tom Cotton [R-AR]Cotton, Tom
-Rep. Joe Courtney [D-CT2]Courtney, Joe
-Rep. Angie Craig [D-MN2]Craig, Angie
-Sen. Kevin Cramer [R-ND]Cramer, Kevin
-Sen. Michael “Mike” Crapo [R-ID]Crapo, Michael “Mike”
-Rep. Eric “Rick” Crawford [R-AR1]Crawford, Eric “Rick”
-Rep. Dan Crenshaw [R-TX2]Crenshaw, Dan
-Rep. Charlie Crist [D-FL13]Crist, Charlie
-Rep. Jason Crow [D-CO6]Crow, Jason
-Sen. Ted Cruz [R-TX]Cruz, Ted
-Rep. Henry Cuellar [D-TX28]Cuellar, Henry
-Rep. John Curtis [R-UT3]Curtis, John
-Rep. Tony Cárdenas [D-CA29]Cárdenas, Tony
-Sen. Steve Daines [R-MT]Daines, Steve
-Rep. Sharice Davids [D-KS3]Davids, Sharice
-Rep. Warren Davidson [R-OH8]Davidson, Warren
-Rep. Danny Davis [D-IL7]Davis, Danny
-Rep. Rodney Davis [R-IL13]Davis, Rodney
-Rep. Peter DeFazio [D-OR4]DeFazio, Peter
-Rep. Diana DeGette [D-CO1]DeGette, Diana
-Rep. Rosa DeLauro [D-CT3]DeLauro, Rosa
-Rep. Mark DeSaulnier [D-CA11]DeSaulnier, Mark
-Rep. Madeleine Dean [D-PA4]Dean, Madeleine
-Rep. Suzan DelBene [D-WA1]DelBene, Suzan
-Rep. Antonio Delgado [D-NY19]Delgado, Antonio
-Rep. Val Demings [D-FL10]Demings, Val
-Rep. Scott DesJarlais [R-TN4]DesJarlais, Scott
-Rep. Theodore “Ted” Deutch [D-FL22]Deutch, Theodore “Ted”
-Rep. Mario Diaz-Balart [R-FL25]Diaz-Balart, Mario
-Rep. Debbie Dingell [D-MI12]Dingell, Debbie
-Rep. Lloyd Doggett [D-TX35]Doggett, Lloyd
-Rep. Byron Donalds [R-FL19]Donalds, Byron
-Rep. Michael Doyle [D-PA18]Doyle, Michael
-Sen. Tammy Duckworth [D-IL]Duckworth, Tammy
-Rep. Jeff Duncan [R-SC3]Duncan, Jeff
-Rep. Neal Dunn [R-FL2]Dunn, Neal
-Sen. Richard Durbin [D-IL]Durbin, Richard
-Rep. Jake Ellzey [R-TX]
-Rep. Tom Emmer [R-MN6]Emmer, Tom
-Sen. Joni Ernst [R-IA]Ernst, Joni
-Rep. Veronica Escobar [D-TX16]Escobar, Veronica
-Rep. Anna Eshoo [D-CA18]Eshoo, Anna
-Rep. Adriano Espaillat [D-NY13]Espaillat, Adriano
-Rep. Ron Estes [R-KS4]Estes, Ron
-Rep. Dwight Evans [D-PA3]Evans, Dwight
-Rep. Patrick “Pat” Fallon [R-TX4]Fallon, Patrick “Pat”
-Rep. Randy Feenstra [R-IA4]Feenstra, Randy
-Sen. Dianne Feinstein [D-CA]Feinstein, Dianne
-Rep. Drew Ferguson [R-GA3]Ferguson, Drew
-Rep. Michelle Fischbach [R-MN7]Fischbach, Michelle
-Sen. Deb Fischer [R-NE]Fischer, Deb
-Rep. Scott Fitzgerald [R-WI5]Fitzgerald, Scott
-Rep. Brian Fitzpatrick [R-PA1]Fitzpatrick, Brian
-Rep. Charles “Chuck” Fleischmann [R-TN3]Fleischmann, Charles “Chuck”
-Rep. Lizzie Fletcher [D-TX7]Fletcher, Lizzie
-Rep. Jeff Fortenberry [R-NE1]Fortenberry, Jeff
-Rep. Bill Foster [D-IL11]Foster, Bill
-Rep. Virginia Foxx [R-NC5]Foxx, Virginia
-Rep. Lois Frankel [D-FL21]Frankel, Lois
-Rep. Scott Franklin [R-FL15]Franklin, Scott
-Rep. Russ Fulcher [R-ID1]Fulcher, Russ
-Rep. Matt Gaetz [R-FL1]Gaetz, Matt
-Rep. Mike Gallagher [R-WI8]Gallagher, Mike
-Rep. Ruben Gallego [D-AZ7]Gallego, Ruben
-Rep. John Garamendi [D-CA3]Garamendi, John
-Rep. Andrew Garbarino [R-NY2]Garbarino, Andrew
-Rep. Mike Garcia [R-CA25]Garcia, Mike
-Rep. Sylvia Garcia [D-TX29]Garcia, Sylvia
-Rep. Jesús “Chuy” García [D-IL4]García, Jesús “Chuy”
-Rep. Bob Gibbs [R-OH7]Gibbs, Bob
-Sen. Kirsten Gillibrand [D-NY]Gillibrand, Kirsten
-Rep. Carlos Gimenez [R-FL26]Gimenez, Carlos
-Rep. Louie Gohmert [R-TX1]Gohmert, Louie
-Rep. Jared Golden [D-ME2]Golden, Jared
-Rep. Jimmy Gomez [D-CA34]Gomez, Jimmy
-Rep. Ernest “Tony” Gonzales [R-TX23]Gonzales, Ernest “Tony”
-Rep. Anthony Gonzalez [R-OH16]Gonzalez, Anthony
-Rep. Vicente Gonzalez [D-TX15]Gonzalez, Vicente
-Commish. Jenniffer González-Colón [R-PR0]González-Colón, Jenniffer
-Rep. Robert “Bob” Good [R-VA5]Good, Robert “Bob”
-Rep. Lance Gooden [R-TX5]Gooden, Lance
-Rep. Paul Gosar [R-AZ4]Gosar, Paul
-Rep. Josh Gottheimer [D-NJ5]Gottheimer, Josh
-Sen. Lindsey Graham [R-SC]Graham, Lindsey
-Rep. Kay Granger [R-TX12]Granger, Kay
-Sen. Charles “Chuck” Grassley [R-IA]Grassley, Charles “Chuck”
-Rep. Garret Graves [R-LA6]Graves, Garret
-Rep. Sam Graves [R-MO6]Graves, Sam
-Rep. Al Green [D-TX9]Green, Al
-Rep. Mark Green [R-TN7]Green, Mark
-Rep. Marjorie Greene [R-GA14]Greene, Marjorie
-Rep. Morgan Griffith [R-VA9]Griffith, Morgan
-Rep. Raúl Grijalva [D-AZ3]Grijalva, Raúl
-Rep. Glenn Grothman [R-WI6]Grothman, Glenn
-Rep. Michael Guest [R-MS3]Guest, Michael
-Rep. Brett Guthrie [R-KY2]Guthrie, Brett
-Rep. Jim Hagedorn [R-MN1]Hagedorn, Jim
-Sen. Bill Hagerty [R-TN]Hagerty, Bill
-Rep. Josh Harder [D-CA10]Harder, Josh
-Rep. Andy Harris [R-MD1]Harris, Andy
-Rep. Diana Harshbarger [R-TN1]Harshbarger, Diana
-Rep. Vicky Hartzler [R-MO4]Hartzler, Vicky
-Sen. Margaret “Maggie” Hassan [D-NH]Hassan, Margaret “Maggie”
-Sen. Joshua “Josh” Hawley [R-MO]Hawley, Joshua “Josh”
-Rep. Jahana Hayes [D-CT5]Hayes, Jahana
-Sen. Martin Heinrich [D-NM]Heinrich, Martin
-Rep. Kevin Hern [R-OK1]Hern, Kevin
-Rep. Yvette Herrell [R-NM2]Herrell, Yvette
-Rep. Jaime Herrera Beutler [R-WA3]Herrera Beutler, Jaime
-Rep. Jody Hice [R-GA10]Hice, Jody
-Sen. John Hickenlooper [D-CO]Hickenlooper, John
-Rep. Brian Higgins [D-NY26]Higgins, Brian
-Rep. Clay Higgins [R-LA3]Higgins, Clay
-Rep. French Hill [R-AR2]Hill, French
-Rep. James “Jim” Himes [D-CT4]Himes, James “Jim”
-Rep. Ashley Hinson [R-IA1]Hinson, Ashley
-Sen. Mazie Hirono [D-HI]Hirono, Mazie
-Sen. John Hoeven [R-ND]Hoeven, John
-Rep. Trey Hollingsworth [R-IN9]Hollingsworth, Trey
-Rep. Steven Horsford [D-NV4]Horsford, Steven
-Rep. Chrissy Houlahan [D-PA6]Houlahan, Chrissy
-Rep. Steny Hoyer [D-MD5]Hoyer, Steny
-Rep. Richard Hudson [R-NC8]Hudson, Richard
-Rep. Jared Huffman [D-CA2]Huffman, Jared
-Rep. Bill Huizenga [R-MI2]Huizenga, Bill
-Sen. Cindy Hyde-Smith [R-MS]Hyde-Smith, Cindy
-Sen. James “Jim” Inhofe [R-OK]Inhofe, James “Jim”
-Rep. Darrell Issa [R-CA50]Issa, Darrell
-Rep. Sheila Jackson Lee [D-TX18]Jackson Lee, Sheila
-Rep. Ronny Jackson [R-TX13]Jackson, Ronny
-Rep. Chris Jacobs [R-NY27]Jacobs, Chris
-Rep. Sara Jacobs [D-CA53]Jacobs, Sara
-Rep. Pramila Jayapal [D-WA7]Jayapal, Pramila
-Rep. Hakeem Jeffries [D-NY8]Jeffries, Hakeem
-Rep. Bill Johnson [R-OH6]Johnson, Bill
-Rep. Dusty Johnson [R-SD0]Johnson, Dusty
-Rep. Eddie Johnson [D-TX30]Johnson, Eddie
-Rep. Henry “Hank” Johnson [D-GA4]Johnson, Henry “Hank”
-Rep. Mike Johnson [R-LA4]Johnson, Mike
-Sen. Ron Johnson [R-WI]Johnson, Ron
-Rep. Mondaire Jones [D-NY17]Jones, Mondaire
-Rep. Jim Jordan [R-OH4]Jordan, Jim
-Rep. David Joyce [R-OH14]Joyce, David
-Rep. John Joyce [R-PA13]Joyce, John
-Rep. Kaialiʻi Kahele [D-HI2]Kahele, Kaialiʻi
-Sen. Timothy “Tim” Kaine [D-VA]Kaine, Timothy “Tim”
-Rep. Marcy Kaptur [D-OH9]Kaptur, Marcy
-Rep. John Katko [R-NY24]Katko, John
-Rep. William Keating [D-MA9]Keating, William
-Rep. Fred Keller [R-PA12]Keller, Fred
-Sen. Mark Kelly [D-AZ]Kelly, Mark
-Rep. Mike Kelly [R-PA16]Kelly, Mike
-Rep. Robin Kelly [D-IL2]Kelly, Robin
-Rep. Trent Kelly [R-MS1]Kelly, Trent
-Sen. John Kennedy [R-LA]Kennedy, John
-Rep. Ro Khanna [D-CA17]Khanna, Ro
-Rep. Daniel Kildee [D-MI5]Kildee, Daniel
-Rep. Derek Kilmer [D-WA6]Kilmer, Derek
-Rep. Andy Kim [D-NJ3]Kim, Andy
-Rep. Young Kim [R-CA39]Kim, Young
-Rep. Ron Kind [D-WI3]Kind, Ron
-Sen. Angus King [I-ME]King, Angus
-Rep. Adam Kinzinger [R-IL16]Kinzinger, Adam
-Rep. Ann Kirkpatrick [D-AZ2]Kirkpatrick, Ann
-Sen. Amy Klobuchar [D-MN]Klobuchar, Amy
-Rep. Raja Krishnamoorthi [D-IL8]Krishnamoorthi, Raja
-Rep. Ann Kuster [D-NH2]Kuster, Ann
-Rep. David Kustoff [R-TN8]Kustoff, David
-Rep. Darin LaHood [R-IL18]LaHood, Darin
-Rep. Doug LaMalfa [R-CA1]LaMalfa, Doug
-Rep. Jacob “Jake” LaTurner [R-KS2]LaTurner, Jacob “Jake”
-Rep. Conor Lamb [D-PA17]Lamb, Conor
-Rep. Doug Lamborn [R-CO5]Lamborn, Doug
-Rep. James “Jim” Langevin [D-RI2]Langevin, James “Jim”
-Sen. James Lankford [R-OK]Lankford, James
-Rep. Rick Larsen [D-WA2]Larsen, Rick
-Rep. John Larson [D-CT1]Larson, John
-Rep. Robert Latta [R-OH5]Latta, Robert
-Rep. Brenda Lawrence [D-MI14]Lawrence, Brenda
-Rep. Al Lawson [D-FL5]Lawson, Al
-Sen. Patrick Leahy [D-VT]Leahy, Patrick
-Rep. Barbara Lee [D-CA13]Lee, Barbara
-Sen. Mike Lee [R-UT]Lee, Mike
-Rep. Susie Lee [D-NV3]Lee, Susie
-Rep. Teresa Leger Fernandez [D-NM3]Leger Fernandez, Teresa
-Rep. Debbie Lesko [R-AZ8]Lesko, Debbie
-Rep. Julia Letlow [R-LA5]Letlow, Julia
-Rep. Andy Levin [D-MI9]Levin, Andy
-Rep. Mike Levin [D-CA49]Levin, Mike
-Rep. Ted Lieu [D-CA33]Lieu, Ted
-Rep. Zoe Lofgren [D-CA19]Lofgren, Zoe
-Rep. Billy Long [R-MO7]Long, Billy
-Rep. Barry Loudermilk [R-GA11]Loudermilk, Barry
-Rep. Alan Lowenthal [D-CA47]Lowenthal, Alan
-Rep. Frank Lucas [R-OK3]Lucas, Frank
-Rep. Blaine Luetkemeyer [R-MO3]Luetkemeyer, Blaine
-Sen. Ben Luján [D-NM]Luján, Ben
-Sen. Cynthia Lummis [R-WY]Lummis, Cynthia
-Rep. Elaine Luria [D-VA2]Luria, Elaine
-Rep. Stephen Lynch [D-MA8]Lynch, Stephen
-Rep. Nancy Mace [R-SC1]Mace, Nancy
-Rep. Tom Malinowski [D-NJ7]Malinowski, Tom
-Rep. Nicole Malliotakis [R-NY11]Malliotakis, Nicole
-Rep. Carolyn Maloney [D-NY12]Maloney, Carolyn
-Rep. Sean Maloney [D-NY18]Maloney, Sean
-Sen. Joe Manchin [D-WV]Manchin, Joe
-Rep. Tracey Mann [R-KS1]Mann, Tracey
-Rep. Kathy Manning [D-NC6]Manning, Kathy
-Sen. Edward “Ed” Markey [D-MA]Markey, Edward “Ed”
-Sen. Roger Marshall [R-KS]Marshall, Roger
-Rep. Thomas Massie [R-KY4]Massie, Thomas
-Rep. Brian Mast [R-FL18]Mast, Brian
-Rep. Doris Matsui [D-CA6]Matsui, Doris
-Rep. Lucy McBath [D-GA6]McBath, Lucy
-Rep. Kevin McCarthy [R-CA23]McCarthy, Kevin
-Rep. Michael McCaul [R-TX10]McCaul, Michael
-Rep. Lisa McClain [R-MI10]McClain, Lisa
-Rep. Tom McClintock [R-CA4]McClintock, Tom
-Rep. Betty McCollum [D-MN4]McCollum, Betty
-Sen. Mitch McConnell [R-KY]McConnell, Mitch
 Rep. Donald McEachin [D-VA4]McEachin, Donald
 Rep. James “Jim” McGovern [D-MA2]McGovern, James “Jim”
 Rep. Patrick McHenry [R-NC10]McHenry, Patrick
