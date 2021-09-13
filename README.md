@@ -1,56 +1,56 @@
 # Bitcoin Holdings of US Congress Members
 Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the game. Because searching through financial disclosures can be a time intensive process, this project's goal is to crowdsource the work.
 
-NOTE: many politicians have yet to be researched; if you have some spare time, I encourage you to look up a few and contribute to this project with a pull request.
+NOTE: many politicians have yet to be researched; if you have some spare time, I encourage you to look some up and contribute to this project with a pull request.
 
 How to find financial disclosures: [US House](https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure) [US Senate](https://efdsearch.senate.gov/search/) [US Executive Branch](https://extapps2.oge.gov/201/Presiden.nsf).
 
 | Name        | Party | State  | House | Bitcoin Ownership | Recent Disclosure |
 | :---------: |:------: |:------: | :------: | :---------: | :---------: |
-| Alma Adams | D | NC | House | UNKNOWN | UNKNOWN |
+| Alma Adams | D | NC | House | ? | ? |
+| Robert Aderholt | R | AL | House | ? | ? |
+| Pete Aguilar | D | CA | House | ? | ? |
+| Rick Allen | R | GA | House | ? | ? |
+| Colin Allred | D | TX | House | ? | ? |
+| Mark Amodei | R | NV | House | ? | ? |
+| Kelly Armstrong | R | ND | House | ? | ? |
+| Jodey Arrington | R | TX | House | ? | ? |
+| Jake Auchincloss | D | MA | House | ? | ? |
+| Cynthia Axne | D | IA | House | ? | ? |
+| Brian Babin | R | TX | House | ? | ? |
+| Don Bacon | R | NE | House | ? | ? |
+| James Baird | R | IN | House | ? | ? |
+| Troy Balderson | R | OH | House | ? | ? |
+| Tammy Baldwin | D | WI | Senate | ? | ? |
+| Jim Banks | R | IN | House | ? | ? |
+| Garland Barr | R | KY | House | ? | ? |
+| Nanette Barragan | D | CA | House | ? | ? |
+| John Barrasso | R | WY | Senate | ? | ? |
+| Karen Bass | D | CA | House | ? | ? |
+| Joyce Beatty | D | OH | House | ? | ? |
+| Michael Bennet | D | CO | Senate | ? | ? |
+| Cliff Bentz | R | OR | House | ? | ? |
+| Ami Bera | D | CA | House | ? | ? |
+| Jack Bergman | R | MI | House | ? | ? |
+| Donald Beyer | D | VA | House | ? | ? |
+| Stephanie Bice | R | OK | House | ? | ? |
+| Andy Biggs | R | AZ | House | ? | ? |
+| Gus Bilirakis | R | FL | House | ? | ? |
+| Dan Bishop | R | NC | House | ? | ? |
+| Sanford Bishop | D | GA | House | ? | ? |
+| Marsha Blackburn | R | TN | Senate | ? | ? |
+| Earl Blumenauer | D | OR | House | ? | ? |
+| Richard Blumenthal | D | CT | Senate | ? | ? |
+| Lisa Blunt Rochester | D | DE | House | ? | ? |
+| Roy Blunt | R | MO | Senate | ? | ? |
+| Lauren Boebert | R | CO | House | ? | ? |
+| Suzanne Bonamici | D | OR | House | ? | ? |
+| Cory Booker | D | NJ | Senate | ? | ? |
+| John Boozman | R | AR | Senate | ? | ? |
+| Mike Bost | R | IL | House | ? | ? |
+| Carolyn Bourdeaux | D | GA | House | ? | ? |
+| Jamaal Bowman | D | NY | House | ? | ? |
 <pre>
-Rep. Robert Aderholt [R-AL4]Aderholt, Robert
-Rep. Pete Aguilar [D-CA31]Aguilar, Pete
-Rep. Rick Allen [R-GA12]Allen, Rick
-Rep. Colin Allred [D-TX32]Allred, Colin
-Rep. Mark Amodei [R-NV2]Amodei, Mark
-Rep. Kelly Armstrong [R-ND0]Armstrong, Kelly
-Rep. Jodey Arrington [R-TX19]Arrington, Jodey
-Rep. Jake Auchincloss [D-MA4]Auchincloss, Jake
-Rep. Cynthia Axne [D-IA3]Axne, Cynthia
-Rep. Brian Babin [R-TX36]Babin, Brian
-Rep. Don Bacon [R-NE2]Bacon, Don
-Rep. James Baird [R-IN4]Baird, James
-Rep. Troy Balderson [R-OH12]Balderson, Troy
-Sen. Tammy Baldwin [D-WI]Baldwin, Tammy
-Rep. Jim Banks [R-IN3]Banks, Jim
-Rep. Garland “Andy” Barr [R-KY6]Barr, Garland “Andy”
-Rep. Nanette Barragán [D-CA44]Barragán, Nanette
-Sen. John Barrasso [R-WY]Barrasso, John
-Rep. Karen Bass [D-CA37]Bass, Karen
-Rep. Joyce Beatty [D-OH3]Beatty, Joyce
-Sen. Michael Bennet [D-CO]Bennet, Michael
-Rep. Cliff Bentz [R-OR2]Bentz, Cliff
-Rep. Ami Bera [D-CA7]Bera, Ami
-Rep. Jack Bergman [R-MI1]Bergman, Jack
-Rep. Donald Beyer [D-VA8]Beyer, Donald
-Rep. Stephanie Bice [R-OK5]Bice, Stephanie
-Rep. Andy Biggs [R-AZ5]Biggs, Andy
-Rep. Gus Bilirakis [R-FL12]Bilirakis, Gus
-Rep. Dan Bishop [R-NC9]Bishop, Dan
-Rep. Sanford Bishop [D-GA2]Bishop, Sanford
-Sen. Marsha Blackburn [R-TN]Blackburn, Marsha
-Rep. Earl Blumenauer [D-OR3]Blumenauer, Earl
-Sen. Richard Blumenthal [D-CT]Blumenthal, Richard
-Rep. Lisa Blunt Rochester [D-DE0]Blunt Rochester, Lisa
-Sen. Roy Blunt [R-MO]Blunt, Roy
-Rep Boebert, Lauren [R-CO]
-Rep. Suzanne Bonamici [D-OR1]Bonamici, Suzanne
-Sen. Cory Booker [D-NJ]Booker, Cory
-Sen. John Boozman [R-AR]Boozman, John
-Rep. Mike Bost [R-IL12]Bost, Mike
-Rep. Carolyn Bourdeaux [D-GA7]Bourdeaux, Carolyn
-Rep. Jamaal Bowman [D-NY16]Bowman, Jamaal
 Rep. Brendan Boyle [D-PA2]Boyle, Brendan
 Rep. Kevin Brady [R-TX8]Brady, Kevin
 Sen. Mike Braun [R-IN]Braun, Mike
