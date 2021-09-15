@@ -305,8 +305,8 @@ You can find financial disclosures here: [US House](https://disclosures-clerk.ho
 | Alan Lowenthal | D | CA | House | ? | ? |
 | Frank Lucas | R | OK | House | ? | ? |
 | Blaine Luetkemeyer | R | MO | House | ? | ? |
-| Ben Luján | D | NM | House | ? | ? |
-| Cynthia Lummis | R | WY | House | YES | ? |
+| Ben Luján | D | NM | Senate | ? | ? |
+| Cynthia Lummis | R | WY | Senate | YES | ? |
 | Elanie Luria | D | VA | House | ? | ? |
 | Stephen Lynch | D | MA | House | ? | ? |
 | Nancy Mace | R | SC | House | ? | ? |
@@ -332,222 +332,213 @@ You can find financial disclosures here: [US House](https://disclosures-clerk.ho
 | Donald McEachin | D | VA | House | ? | ? |
 | James McGovern | D | MA | House | ? | ? |
 | Patrick McHenry | R | NC | House | ? | ? |
-|  | D |  | House | ? | ? |
-<pre>
-Rep. Donald McEachin [D-VA4]McEachin, Donald
-Rep. James “Jim” McGovern [D-MA2]McGovern, James “Jim”
-Rep. Patrick McHenry [R-NC10]McHenry, Patrick
-Rep. David McKinley [R-WV1]McKinley, David
-Rep. Jerry McNerney [D-CA9]McNerney, Jerry
-Rep. Gregory Meeks [D-NY5]Meeks, Gregory
-Rep. Peter Meijer [R-MI3]Meijer, Peter
-Sen. Robert “Bob” Menendez [D-NJ]Menendez, Robert “Bob”
-Rep. Grace Meng [D-NY6]Meng, Grace
-Sen. Jeff Merkley [D-OR]Merkley, Jeff
-Rep. Daniel Meuser [R-PA9]Meuser, Daniel
-Rep. Kweisi Mfume [D-MD7]Mfume, Kweisi
-Rep. Carol Miller [R-WV3]Miller, Carol
-Rep. Mary Miller [R-IL15]Miller, Mary
-Rep. Mariannette Miller-Meeks [R-IA2]Miller-Meeks, Mariannette
-Rep. John Moolenaar [R-MI4]Moolenaar, John
-Rep. Alexander Mooney [R-WV2]Mooney, Alexander
-Rep. Barry Moore [R-AL2]Moore, Barry
-Rep. Blake Moore [R-UT1]Moore, Blake
-Rep. Gwen Moore [D-WI4]Moore, Gwen
-Sen. Jerry Moran [R-KS]Moran, Jerry
-Rep. Joseph Morelle [D-NY25]Morelle, Joseph
-Rep. Seth Moulton [D-MA6]Moulton, Seth
-Rep. Frank Mrvan [D-IN1]Mrvan, Frank
-Rep. Markwayne Mullin [R-OK2]Mullin, Markwayne
-Sen. Lisa Murkowski [R-AK]Murkowski, Lisa
-Sen. Christopher Murphy [D-CT]Murphy, Christopher
-Rep. Gregory Murphy [R-NC3]Murphy, Gregory
-Rep. Stephanie Murphy [D-FL7]Murphy, Stephanie
-Sen. Patty Murray [D-WA]Murray, Patty
-Rep. Jerrold Nadler [D-NY10]Nadler, Jerrold
-Rep. Grace Napolitano [D-CA32]Napolitano, Grace
-Rep. Richard Neal [D-MA1]Neal, Richard
-Rep. Joe Neguse [D-CO2]Neguse, Joe
-Rep. Troy Nehls [R-TX22]Nehls, Troy
-Rep. Dan Newhouse [R-WA4]Newhouse, Dan
-Rep. Marie Newman [D-IL3]Newman, Marie
-Rep. Donald Norcross [D-NJ1]Norcross, Donald
-Rep. Ralph Norman [R-SC5]Norman, Ralph
-Rep. Eleanor Norton [D-DC0]Norton, Eleanor
-Rep. Devin Nunes [R-CA22]Nunes, Devin
-Rep. Jay Obernolte [R-CA8]Obernolte, Jay
-Rep. Alexandria Ocasio-Cortez [D-NY14]Ocasio-Cortez, Alexandria
-Rep. Ilhan Omar [D-MN5]Omar, Ilhan
-Sen. Jon Ossoff [D-GA]
-Rep. Clarence “Burgess” Owens [R-UT4]Owens, Clarence “Burgess”
-Rep. Tom O’Halleran [D-AZ1]O’Halleran, Tom
-Sen. Alejandro “Alex” Padilla [D-CA]Padilla, Alejandro “Alex”
-Rep. Steven Palazzo [R-MS4]Palazzo, Steven
-Rep. Frank Pallone [D-NJ6]Pallone, Frank
-Rep. Gary Palmer [R-AL6]Palmer, Gary
-Rep. Jimmy Panetta [D-CA20]Panetta, Jimmy
-Rep. Chris Pappas [D-NH1]Pappas, Chris
-Rep. Bill Pascrell [D-NJ9]Pascrell, Bill
-Sen. Rand Paul [R-KY]Paul, Rand
-Rep. Donald Payne [D-NJ10]Payne, Donald
-Rep. Nancy Pelosi [D-CA12]Pelosi, Nancy
-Rep. Greg Pence [R-IN6]Pence, Greg
-Rep. Ed Perlmutter [D-CO7]Perlmutter, Ed
-Rep. Scott Perry [R-PA10]Perry, Scott
-Sen. Gary Peters [D-MI]Peters, Gary
-Rep. Scott Peters [D-CA52]Peters, Scott
-Rep. August Pfluger [R-TX11]Pfluger, August
-Rep. Dean Phillips [D-MN3]Phillips, Dean
-Rep. Chellie Pingree [D-ME1]Pingree, Chellie
-Rep. Stacey Plaskett [D-VI0]Plaskett, Stacey
-Rep. Mark Pocan [D-WI2]Pocan, Mark
-Rep. Katie Porter [D-CA45]Porter, Katie
-Sen. Robert “Rob” Portman [R-OH]Portman, Robert “Rob”
-Rep. Bill Posey [R-FL8]Posey, Bill
-Rep. Ayanna Pressley [D-MA7]Pressley, Ayanna
-Rep. David Price [D-NC4]Price, David
-Rep. Mike Quigley [D-IL5]Quigley, Mike
-Rep. Aumua Amata Radewagen [R-AS0]Radewagen, Aumua Amata
-Rep. Jamie Raskin [D-MD8]Raskin, Jamie
-Sen. John “Jack” Reed [D-RI]Reed, John “Jack”
-Rep. Tom Reed [R-NY23]Reed, Tom
-Rep. Guy Reschenthaler [R-PA14]Reschenthaler, Guy
-Rep. Kathleen Rice [D-NY4]Rice, Kathleen
-Rep. Tom Rice [R-SC7]Rice, Tom
-Sen. James Risch [R-ID]Risch, James
-Rep. Cathy Rodgers [R-WA5]Rodgers, Cathy
-Rep. Harold “Hal” Rogers [R-KY5]Rogers, Harold “Hal”
-Rep. Mike Rogers [R-AL3]Rogers, Mike
-Sen. Mitt Romney [R-UT]Romney, Mitt
-Rep. John Rose [R-TN6]Rose, John
-Sen. Jacky Rosen [D-NV]Rosen, Jacky
-Rep. Matthew Rosendale [R-MT0]Rosendale, Matthew
-Rep. Deborah Ross [D-NC2]Ross, Deborah
-Sen. Mike Rounds [R-SD]Rounds, Mike
-Rep. David Rouzer [R-NC7]Rouzer, David
-Rep. Chip Roy [R-TX21]Roy, Chip
-Rep. Lucille Roybal-Allard [D-CA40]Roybal-Allard, Lucille
-Sen. Marco Rubio [R-FL]Rubio, Marco
-Rep. Raul Ruiz [D-CA36]Ruiz, Raul
-Rep. A. Dutch Ruppersberger [D-MD2]Ruppersberger, A. Dutch
-Rep. Bobby Rush [D-IL1]Rush, Bobby
-Rep. John Rutherford [R-FL4]Rutherford, John
-Rep. Tim Ryan [D-OH13]Ryan, Tim
-Rep. Gregorio Sablan [D-MP0]Sablan, Gregorio
-Rep. Maria Salazar [R-FL27]Salazar, Maria
-Rep. Michael San Nicolas [D-GU0]San Nicolas, Michael
-Sen. Bernard “Bernie” Sanders [I-VT]Sanders, Bernard “Bernie”
-Rep. John Sarbanes [D-MD3]Sarbanes, John
-Sen. Benjamin “Ben” Sasse [R-NE]Sasse, Benjamin “Ben”
-Rep. Steve Scalise [R-LA1]Scalise, Steve
-Rep. Mary Scanlon [D-PA5]Scanlon, Mary
-Rep. Janice “Jan” Schakowsky [D-IL9]Schakowsky, Janice “Jan”
-Sen. Brian Schatz [D-HI]Schatz, Brian
-Rep. Adam Schiff [D-CA28]Schiff, Adam
-Rep. Bradley “Brad” Schneider [D-IL10]Schneider, Bradley “Brad”
-Rep. Kurt Schrader [D-OR5]Schrader, Kurt
-Rep. Kim Schrier [D-WA8]Schrier, Kim
-Sen. Charles “Chuck” Schumer [D-NY]Schumer, Charles “Chuck”
-Rep. David Schweikert [R-AZ6]Schweikert, David
-Rep. Austin Scott [R-GA8]Scott, Austin
-Rep. David Scott [D-GA13]Scott, David
-Sen. Rick Scott [R-FL]Scott, Rick
-Rep. Robert “Bobby” Scott [D-VA3]Scott, Robert “Bobby”
-Sen. Tim Scott [R-SC]Scott, Tim
-Rep. Pete Sessions [R-TX17]Sessions, Pete
-Rep. Terri Sewell [D-AL7]Sewell, Terri
-Sen. Jeanne Shaheen [D-NH]Shaheen, Jeanne
-Sen. Richard Shelby [R-AL]Shelby, Richard
-Rep. Brad Sherman [D-CA30]Sherman, Brad
-Rep. Mikie Sherrill [D-NJ11]Sherrill, Mikie
-Rep. Michael “Mike” Simpson [R-ID2]Simpson, Michael “Mike”
-Sen. Kyrsten Sinema [D-AZ]Sinema, Kyrsten
-Rep. Albio Sires [D-NJ8]Sires, Albio
-Rep. Elissa Slotkin [D-MI8]Slotkin, Elissa
-Rep. Adam Smith [D-WA9]Smith, Adam
-Rep. Adrian Smith [R-NE3]Smith, Adrian
-Rep. Christopher “Chris” Smith [R-NJ4]Smith, Christopher “Chris”
-Rep. Jason Smith [R-MO8]Smith, Jason
-Sen. Tina Smith [D-MN]Smith, Tina
-Rep. Lloyd Smucker [R-PA11]Smucker, Lloyd
-Rep. Darren Soto [D-FL9]Soto, Darren
-Rep. Abigail Spanberger [D-VA7]Spanberger, Abigail
-Rep. Victoria Spartz [R-IN5]Spartz, Victoria
-Rep. Jackie Speier [D-CA14]Speier, Jackie
-Sen. Debbie Stabenow [D-MI]Stabenow, Debbie
-Rep. Melanie Stansbury [D-NM]
-Rep. Greg Stanton [D-AZ9]Stanton, Greg
-Rep. Pete Stauber [R-MN8]Stauber, Pete
-Rep. Michelle Steel [R-CA48]Steel, Michelle
-Rep. Elise Stefanik [R-NY21]Stefanik, Elise
-Rep. Bryan Steil [R-WI1]Steil, Bryan
-Rep. Gregory Steube [R-FL17]Steube, Gregory
-Rep. Haley Stevens [D-MI11]Stevens, Haley
-Rep. Chris Stewart [R-UT2]Stewart, Chris
-Rep. Marilyn Strickland [D-WA10]Strickland, Marilyn
-Sen. Dan Sullivan [R-AK]Sullivan, Dan
-Rep. Thomas Suozzi [D-NY3]Suozzi, Thomas
-Rep. Eric Swalwell [D-CA15]Swalwell, Eric
-Rep. Linda Sánchez [D-CA38]Sánchez, Linda
-Rep. Mark Takano [D-CA41]Takano, Mark
-Rep. Van Taylor [R-TX3]Taylor, Van
-Rep. Claudia Tenney [R-NY22]Tenney, Claudia
-Sen. Jon Tester [D-MT]Tester, Jon
-Rep. Bennie Thompson [D-MS2]Thompson, Bennie
-Rep. Glenn Thompson [R-PA15]Thompson, Glenn
-Rep. Mike Thompson [D-CA5]Thompson, Mike
-Sen. John Thune [R-SD]Thune, John
-Rep. Thomas Tiffany [R-WI7]Tiffany, Thomas
-Sen. Thom Tillis [R-NC]Tillis, Thom
-Rep. William Timmons [R-SC4]Timmons, William
-Rep. Dina Titus [D-NV1]Titus, Dina
-Rep. Rashida Tlaib [D-MI13]Tlaib, Rashida
-Rep. Paul Tonko [D-NY20]Tonko, Paul
-Sen. Patrick “Pat” Toomey [R-PA]Toomey, Patrick “Pat”
-Rep. Norma Torres [D-CA35]Torres, Norma
-Rep. Ritchie Torres [D-NY15]Torres, Ritchie
-Rep. Lori Trahan [D-MA3]Trahan, Lori
-Rep. David Trone [D-MD6]Trone, David
-Sen. Tommy Tuberville [R-AL]Tuberville, Tommy
-Rep. Michael Turner [R-OH10]Turner, Michael
-Rep. Lauren Underwood [D-IL14]Underwood, Lauren
-Rep. Fred Upton [R-MI6]Upton, Fred
-Rep. David Valadao [R-CA21]Valadao, David
-Rep. Jefferson Van Drew [R-NJ2]Van Drew, Jefferson
-Rep. Beth Van Duyne [R-TX24]Van Duyne, Beth
-Sen. Chris Van Hollen [D-MD]Van Hollen, Chris
-Rep. Juan Vargas [D-CA51]Vargas, Juan
-Rep. Marc Veasey [D-TX33]Veasey, Marc
-Rep. Filemon Vela [D-TX34]Vela, Filemon
-Rep. Nydia Velázquez [D-NY7]Velázquez, Nydia
-Rep. Ann Wagner [R-MO2]Wagner, Ann
-Rep. Tim Walberg [R-MI7]Walberg, Tim
-Rep. Jackie Walorski [R-IN2]Walorski, Jackie
-Rep. Michael Waltz [R-FL6]Waltz, Michael
-Sen. Mark Warner [D-VA]Warner, Mark
-Sen. Raphael Warnock [D-GA]Warnock, Raphael
-Sen. Elizabeth Warren [D-MA]Warren, Elizabeth
-Rep. Debbie Wasserman Schultz [D-FL23]Wasserman Schultz, Debbie
-Rep. Maxine Waters [D-CA43]Waters, Maxine
-Rep. Bonnie Watson Coleman [D-NJ12]Watson Coleman, Bonnie
-Rep. Randy Weber [R-TX14]Weber, Randy
-Rep. Daniel Webster [R-FL11]Webster, Daniel
-Rep. Peter Welch [D-VT0]Welch, Peter
-Rep. Brad Wenstrup [R-OH2]Wenstrup, Brad
-Rep. Bruce Westerman [R-AR4]Westerman, Bruce
-Rep. Jennifer Wexton [D-VA10]Wexton, Jennifer
-Sen. Sheldon Whitehouse [D-RI]Whitehouse, Sheldon
-Sen. Roger Wicker [R-MS]Wicker, Roger
-Rep. Susan Wild [D-PA7]Wild, Susan
-Rep. Nikema Williams [D-GA5]Williams, Nikema
-Rep. Roger Williams [R-TX25]Williams, Roger
-Rep. Frederica Wilson [D-FL24]Wilson, Frederica
-Rep. Joe Wilson [R-SC2]Wilson, Joe
-Rep. Robert Wittman [R-VA1]Wittman, Robert
-Rep. Steve Womack [R-AR3]Womack, Steve
-Sen. Ron Wyden [D-OR]Wyden, Ron
-Rep. John Yarmuth [D-KY3]Yarmuth, John
-Rep. Don Young [R-AK0]Young, Don
-Sen. Todd Young [R-IN]Young, Todd
-Rep. Lee Zeldin [R-NY1]Zeldin, Lee
-</pre>
+| David McKinley | D | WV | House | ? | ? |
+| Jerry McNerney | D | CA | House | ? | ? |
+| Gregory Meeks | D | NY | House | ? | ? |
+| Peter Meijer | R | MI | House | ? | ? |
+| Robert Menendez | D | NJ | Senate | ? | ? |
+| Grace Meng | D | NY | House | ? | ? |
+| Jeff Merkley | D | OR | Senate | ? | ? |
+| Daniel Meuser | R | PA | House | ? | ? |
+| Kweisi Mfume | D | MD | House | ? | ? |
+| Carol Miller | R | WV | House | ? | ? |
+| Mary Miller | R | IL | House | ? | ? |
+| Mariannette Miller-Meeks | R | IA | House | ? | ? |
+| John Moolenaar | R | MI | House | ? | ? |
+| Alexander Mooney | R | WV | House | ? | ? |
+| Barry Moore | R | AL | House | ? | ? |
+| Blake Moore | R | UT | House | ? | ? |
+| Gwen Moore | D | WI | House | ? | ? |
+| Jerry Moran | R | KS | Senate | ? | ? |
+| Joseph Morelle | D | NY | House | ? | ? |
+| Seth Moulton | D | MA | House | ? | ? |
+| Frank Mrvan | D | IN | House | ? | ? |
+| Markwayne Mullin | R | OK | House | ? | ? |
+| Lisa Murkowski | R | AK | Senate | ? | ? |
+| Christopher Murphy | D | CT | Senate | ? | ? |
+| Stephanie Murphy | R | NC | House | ? | ? |
+| Patty Murray | D | WA | Senate | ? | ? |
+| Jerrold Nadler | D | NY | House | ? | ? |
+| Grace Napolitano | D | CA | House | ? | ? |
+| Richard Neal | D | MA | House | ? | ? |
+| Joe Neguse | D | CO | House | ? | ? |
+| Troy Nehls | R | TX | House | ? | ? |
+| Dan Newhouse | R | WA | House | ? | ? |
+| Marie Newman | D | IL | House | ? | ? |
+| Donald Norcross | D | NJ | House | ? | ? |
+| Ralph Norman | R | SC | House | ? | ? |
+| Eleanor Norton | D | DC | House | ? | ? |
+| Devin Nunes | R | CA | House | ? | ? |
+| Jay Obernolte | R | CA | House | ? | ? |
+| Alexandria Ocasion-Cortez | D | NY | House | ? | ? |
+| Ilhan Omar | D | MN | House | ? | ? |
+| Jon Ossoff | D | GA | Senate | ? | ? |
+| Clarence Owens | R | UT | House | ? | ? |
+| Tom O'Halleran | D | AZ | House | ? | ? |
+| Alejandro Padilla | D | CA | Senate | ? | ? |
+| Steven Palazzo | R | MS | House | ? | ? |
+| Frank Pallone | D | NJ | House | ? | ? |
+| Gary Palmer | R | AL | House | ? | ? |
+| Jimmy Panetta | D | CA | House | ? | ? |
+| Chris Pappas | D | NH | House | ? | ? |
+| Bill Pascrell | D | NJ | House | ? | ? |
+| Rand Paul | R | KY | Senate | ? | ? |
+| Donald Payne | D | NJ | House | ? | ? |
+| Nancy Pelosi | D | CA | House | ? | ? |
+| Greg Pence | R | IN | House | ? | ? |
+| Ed Perlmutter | D | CO | House | ? | ? |
+| Scott Perry | R | PA | House | ? | ? |
+| Gary Peters | D | MI | Senate | ? | ? |
+| Scott Peters | D | CA | House | ? | ? |
+| August Pfluger | R | TX | House | ? | ? |
+| Dean Phillips | D | MN | House | ? | ? |
+| Chellie Pingree | D | ME | House | ? | ? |
+| Stacey Plaskett | D | VI | House | ? | ? |
+| Mark Pocan | D | WI | House | ? | ? |
+| Katie Porter | D | CA | House | ? | ? |
+| Robert Portman | R | OH | Senate | ? | ? |
+| Bill Posey | R | FL | House | ? | ? |
+| Ayanna Pressley | D | MA | House | ? | ? |
+| David Price | D | NC | House | ? | ? |
+| Mike Quigley | D | IL | House | ? | ? |
+| Aumua Amata Radewagen | R | AS | House | ? | ? |
+| Jamie Raskin | D | MD | House | ? | ? |
+| John Reed | D | RI | Senate | ? | ? |
+| Tom Reed | R | NY | House | ? | ? |
+| Guy Reschenthaler | R | PA | House | ? | ? |
+| Kathleen Rice | D | NY | House | ? | ? |
+| Tom Rice | R | SC | House | ? | ? |
+| James Risch | R | ID | Senate | ? | ? |
+| Cathy Rodgers | R | WA | House | ? | ? |
+| Harold Rogers | R | KY | House | ? | ? |
+| Mike Rogers | R | AL | House | ? | ? |
+| Mitt Romney | R | UT | Senate | ? | ? |
+| John Rose | R | TN | House | ? | ? |
+| Jacky Rosen | R | NV | Senate | ? | ? |
+| Matthew Rosendale | R | MT | House | ? | ? |
+| Deborah Ross | D | NC | House | ? | ? |
+| Mike Rounds | R | SD | Senate | ? | ? |
+| David Rouzer | R | NC | House | ? | ? |
+| Chip Roy | R | TX | House | ? | ? |
+| Lucille Roybal-Allard | D | CA | House | ? | ? |
+| Marco Rubio | R | FL | Senate | ? | ? |
+| Raul Ruiz | D | CA | House | ? | ? |
+| A. Dutch Ruppersberger | D | MD | House | ? | ? |
+| Bobby Rush | D | IL | House | ? | ? |
+| John Rutherford | R | FL | House | ? | ? |
+| Tim Ryan | D | OH | House | ? | ? |
+| Gregorio Sablan | D | MP | House | ? | ? |
+| Maria Salazar | R | FL | House | ? | ? |
+| Michael San Nicolas | D | GU | House | ? | ? |
+| Bernard Sanders | I | VT | Senate | ? | ? |
+| John Sarbanes | D | MD | House | ? | ? |
+| Benjamin Sasse | R | NE | Senate | ? | ? |
+| Steve Scalise | R | LA | House | ? | ? |
+| Mary Scanlon | D | PA | House | ? | ? |
+| Janice Schakowsky | D | IL | House | ? | ? |
+| Brian Schatz | D | HI | Senate | ? | ? |
+| Adam Schiff | D | CA | House | ? | ? |
+| Bradley Schneider | D | IL | House | ? | ? |
+| Kurt Schrader | D | OR | House | ? | ? |
+| Kim Schrier | D | WA | House | ? | ? |
+| Charles Schumer | D | NY | Senate | ? | ? |
+| David Schweikert | R | AZ | House | ? | ? |
+| Austin Scott | R | GA | House | ? | ? |
+| Rick Scott | R | FL | Senate | ? | ? |
+| Robert Scott | D | VA | House | ? | ? |
+| Tim Scott | R | SC | Senate | ? | ? |
+| Pete Sessions | R | TX | House | ? | ? |
+| Terri Sewell | D | AL | House | ? | ? |
+| Jeanne Shaheen | D | NH | Senate | ? | ? |
+| Richard Shelby | R | AL | Senate | ? | ? |
+| Brad Sherman | D | CA | House | ? | ? |
+| Mikie Sherrill | D | NJ | House | ? | ? |
+| Michael Simpson | R | ID | House | ? | ? |
+| Kyrsten Sinema | D | AZ | Senate | ? | ? |
+| Albio Sires | D | NJ | House | ? | ? |
+| Elissa Slotkin | D | MI | House | ? | ? |
+| Adam Smith | D | WA | House | ? | ? |
+| Adrian Smith | R | NE | House | ? | ? |
+| Christopher Smith | R | NJ | House | ? | ? |
+| Jason Smith | R | MO | House | ? | ? |
+| Tina Smith | D | MN | Senate | ? | ? |
+| Lloyd Smucker | R | PA | House | ? | ? |
+| Darren Soto | D | FL | House | ? | ? |
+| Abigail Spanberger | D | VA | House | ? | ? |
+| Victoria Spartz | R | IN | House | ? | ? |
+| Jackie Speier | D | CA | House | ? | ? |
+| Debbie Stabenow | D | MI | Senate | ? | ? |
+| Melanie Stansbury | D | NM | House | ? | ? |
+| Greg Stanton | D | AZ | House | ? | ? |
+| Pete Stauber | R | MN | House | ? | ? |
+| Michelle Steel | R | CA | House | ? | ? |
+| Elise Stefanik | R | NY | House | ? | ? |
+| Bryan Steil | R | WI | House | ? | ? |
+| Gregory Steube | R | FL | House | ? | ? |
+| Haley Stevens | D | MI | House | ? | ? |
+| Chris Stewart | R | UT | House | ? | ? |
+| Marilyn Strickland | D | WA | House | ? | ? |
+| Dan Sullivan | R | AK | Senate | ? | ? |
+| Thomas Suozzi | D | NY | House | ? | ? |
+| Eric Swalwell | D | CA | House | ? | ? |
+| Linda Sánchez | D | CA | House | ? | ? |
+| Mark Takano | D | CA | House | ? | ? |
+| Van Taylor | R | TX | House | ? | ? |
+| Claudia Tenney | R | NY | House | ? | ? |
+| Jon Tester | D | MT | Senate | ? | ? |
+| Bennie Thompson | D | MS | House | ? | ? |
+| Glenn Thompson | R | PA | House | ? | ? |
+| Mike Thompson | D | CA | House | ? | ? |
+| John Thune | R | SD | Senate | ? | ? |
+| Thomas Tiffany | R | WI | House | ? | ? |
+| Thom Tillis | R | NC | Senate | ? | ? |
+| William Timmons | R | SC | House | ? | ? |
+| Dina Titus | D | NV | House | ? | ? |
+| Rashida Tlaib | D | MI | House | ? | ? |
+| Paul Tonko | D | NY | House | ? | ? |
+| Patrick Toomey | R | PA | Senate | ? | ? |
+| Norma Torres | D | CA | House | ? | ? |
+| Richie Torres | D | NY | House | ? | ? |
+| Lori Trahan | D | MA | House | ? | ? |
+| David Trone | D | MD | House | ? | ? |
+| Tommy Tuberville | R | AL | Senate | ? | ? |
+| Michael Turner | R | OH | House | ? | ? |
+| Lauren Underwood | D | IL | House | ? | ? |
+| Fred Upton | R | MI | House | ? | ? |
+| David Valadao | R | CA | House | ? | ? |
+| Jefferson Van Drew | R | NJ | House | ? | ? |
+| Beth Van Duyne | R | TX | House | ? | ? |
+| Chris Van Hollen | D | MD | Senate | ? | ? |
+| Juan Vargas | D | CA | House | ? | ? |
+| Marc Veasey | D | TX | House | ? | ? |
+| Filemon Vela | D | TX | House | ? | ? |
+| Nydia Velázquez | D | NY | House | ? | ? |
+| Ann Wagner | R | MO | House | ? | ? |
+| Tim Walberg | R | MI | House | ? | ? |
+| Jackie Walorski | R | IN | House | ? | ? |
+| Michael Waltz | R | FL | House | ? | ? |
+| Mark Warner | D | VA | Senate | ? | ? |
+| Raphael Warnock | D | GA | Senate | ? | ? |
+| Elizabeth Warren | D | MA | Senate | ? | ? |
+| Debbie Wasserman Schultz | D | FL | House | ? | ? |
+| Maxine Waters | D | CA | House | ? | ? |
+| Bonnie Watson Coleman | D | NJ | House | ? | ? |
+| Randy Weber | R | TX | House | ? | ? |
+| Peter Welch | D | VT | House | ? | ? |
+| Brad Wenstrup | R | OH | House | ? | ? |
+| Bruce Westerman | R | AR | House | ? | ? |
+| Jennifer Wexton | D | VA | House | ? | ? |
+| Sheldon Whitehouse | D | RI | Senate | ? | ? |
+| Roger Wicker | R | MS | Senate | ? | ? |
+| Susan Wild | D | PA | House | ? | ? |
+| Nikema Williams | D | GA | House | ? | ? |
+| Roger Williams | R | TX | House | ? | ? |
+| Frederica Wilson | D | FL | House | ? | ? |
+| Joe Wilson | R | SC | House | ? | ? |
+| Robert Wittman | R | VA | House | ? | ? |
+| Steve Womack | R | AR | House | ? | ? |
+| Ron Wyden | D | OR | Senate | ? | ? |
+| John Yarmuth | D | KY | House | ? | ? |
+| Don Young | R | AK | House | ? | ? |
+| Todd Young | R | IN | Senate | ? | ? |
+| Lee Zeldin | R | NY | House | ? | ? |
