@@ -44,7 +44,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Gus Bilirakis | R | FL | House | ? | ? |
 | Dan Bishop | R | NC | House | ? | ? |
 | Sanford Bishop | D | GA | House | ? | ? |
-| Marsha Blackburn | R | TN | Senate | ? | ? |
+| Marsha Blackburn | R | TN | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/d2c71251-566c-42a4-bdd3-3eb29450d6d4/) |
 | Earl Blumenauer | D | OR | House | ? | ? |
 | Richard Blumenthal | D | CT | Senate | ? | ? |
 | Lisa Blunt Rochester | D | DE | House | ? | ? |
@@ -58,7 +58,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Jamaal Bowman | D | NY | House | ? | ? |
 | Brendan Boyle | D | PA | House | ? | ? |
 | Kevin Brady | R | TX | House | ? | ? |
-| Mike Braun | R | IN | Senate | ? | ? |
+| Mike Braun | R | IN | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/61b143ed-2c78-46a4-854e-f81a39e46c91/) |
 | Mo Brooks | R | AL | House | ? | ? |
 | Anthony Brown | D | MD | House | ? | ? |
 | Sherrod Brown | D | OH | Senate | ? | ? |
@@ -66,7 +66,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Vern Buchanan | R | FL | House | ? | ? |
 | Ken Buck | R | CO | House | ? | ? |
 | Larry Bucshon | R | IN | House | ? | ? |
-| Ted Budd | R | NC | House | ? | ? |
+| Ted Budd | R | NC | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041365.pdf) |
 | Tim Burchett | R | TN | House | ? | ? |
 | Michael Burgess | R | TX | House | ? | ? |
 | Richard Burr | R | NC | Senate | ? | ? |
@@ -88,7 +88,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Matthew Cartwright | D | PA | House | ? | ? |
 | Ed Case | D | HI | House | ? | ? |
 | Robert Casey | D | PA | Senate | ? | ? |
-| Bill Cassidy | R | LA | Senate | ? | ? |
+| Bill Cassidy | R | LA | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/50e02aba-3d11-42d9-b0fd-153fd1b21a8c/) |
 | Sean Casten | D | IL | House | ? | ? |
 | Kathy Castor | D | FL | House | ? | ? |
 | Joaquin Castro | D | TX | House | ? | ? |
@@ -110,10 +110,10 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | James Comer | R | KY | House | ? | ? |
 | Gerald Connolly | D | VA | House | ? | ? |
 | Christopher Coons | D | DE | Senate | ? | ? |
-| Jim Cooper | D | TN | House | ? | ? |
+| Jim Cooper | D | TN | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041740.pdf) |
 | John Cornyn | R | TX | Senate | ? | ? |
 | Luis Correa | D | CA | House | ? | ? |
-| Catherine Cortez Masto | D | NV | Senate | ? | ? |
+| Catherine Cortez Masto | D | NV | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/1ca8ebc3-07e5-4fe3-855a-246dc3725e11/) |
 | Jim Costa | D | CA | House | ? | ? |
 | Tom Cotton | R | AR | Senate | ? | ? |
 | Joe Courtney | D | CT | House | ? | ? |
@@ -126,11 +126,11 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Jason Crow | D | CO | House | ? | ? |
 | Ted Cruz | R | TX | Senate | ? | ? |
 | Henry Cuellar | D | TX | House | ? | ? |
-| John Curtis | R | UT | House | ? | ? |
+| John Curtis | R | UT | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040200.pdf) |
 | Tony Cárdenas | D | CA | House | ? | ? |
 | Steve Daines | R | MT | Senate | ? | ? |
 | Sharice Davids | D | KS | House | ? | ? |
-| Warren Davidson | R | OH | House | ? | ? |
+| Warren Davidson | R | OH | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040160.pdf) |
 | Danny Davis | D | IL | House | ? | ? |
 | Rodney Davis | R | IL | House | ? | ? |
 | Peter DeFazio | D | OR | House | ? | ? |
@@ -149,14 +149,14 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Byron Donalds | R | FL | House | ? | ? |
 | Michael Doyle | D | PA | House | ? | ? |
 | Tammy Duckworth | D | IL | Senate | ? | ? |
-| Jeff Duncan | R | SC | House | ? | ? |
+| Jeff Duncan | R | SC | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041941.pdf) |
 | Neal Dunn | R | FL | House | ? | ? |
 | Richard Durbin | D | IL | Senate | ? | ? |
 | Jake Ellzey | R | TX | House | ? | ? |
-| Tom Emmer | R | MN | House | ? | ? |
+| Tom Emmer | R | MN | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218235.pdf) |
 | Joni Ernst | R | IA | Senate | ? | ? |
 | Veronica Escobar | D | TX | House | ? | ? |
-| Anna Eshoo | D | CA | House | ? | ? |
+| Anna Eshoo | D | CA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040599.pdf) |
 | Adriano Espaillat | D | NY | House | ? | ? |
 | Ron Estes | R | KS | House | ? | ? |
 | Dwight Evans | D | PA | House | ? | ? |
@@ -171,12 +171,12 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Charles Fleischmann | R | TN | House | ? | ? |
 | Lizzie Fletcher | D | TX | House | ? | ? |
 | Jeff Fortenberry | R | NE | House | ? | ? |
-| Bill Foster | D | IL | House | ? | ? |
+| Bill Foster | D | IL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040656.pdf) |
 | Virginia Foxx | R | NC | House | ? | ? |
 | Lois Frankel | D | FL | House | ? | ? |
 | Scott Franklin | R | FL | House | ? | ? |
 | Russ Fulcher | R | ID | House | ? | ? |
-| Matt Gaetz | R | FL | House | ? | ? |
+| Matt Gaetz | R | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043510.pdf) |
 | Mike Gallagher | R | WI | House | ? | ? |
 | Ruben Gallego | D | AZ | House | ? | ? |
 | John Garamendi | D | CA | House | ? | ? |
@@ -191,12 +191,12 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Jared Golden | D | ME | House | ? | ? |
 | Jimmy Gomez | D | CA | House | ? | ? |
 | Ernest Gonzales | R | TX | House | ? | ? |
-| Anthony Gonzalez | R | OH | House | ? | ? |
+| Anthony Gonzalez | R | OH | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041614.pdf) |
 | Vicente Gonzalez | D | TX | House | ? | ? |
 | Robert Good | R | VA | House | ? | ? |
 | Lance Gooden | R | TX | House | ? | ? |
 | Paul Gosar | R | AZ | House | ? | ? |
-| Josh Gottheimer | D | NJ | House | ? | ? |
+| Josh Gottheimer | D | NJ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041376.pdf) |
 | Lindsey Graham | R | SC | Senate | ? | ? |
 | Kay Granger | R | TX | House | ? | ? |
 | Charles Grassley | R | IA | Senate | ? | ? |
@@ -209,7 +209,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Raúl Grijalva | D | AZ | House | ? | ? |
 | Glenn Grothman | R | WI | House | ? | ? |
 | Michael Guest | R | MS | House | ? | ? |
-| Brett Guthrie | R | KY | House | ? | ? |
+| Brett Guthrie | R | KY | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218219.pdf) |
 | Jim Hagedorn | R | MN | House | ? | ? |
 | Bill Hagerty | R | TN | Senate | ? | ? |
 | Josh Harder | D | CA | House | ? | ? |
@@ -224,7 +224,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Yvette Herrell | R | NM | House | ? | ? |
 | Jaime Herrera Beutler | R | WA | House | ? | ? |
 | Jody Hice | R | GA | House | ? | ? |
-| John Hickenlooper | D | CO | Senate | ? | ? |
+| John Hickenlooper | D | CO | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/8ce6a0ba-f62b-401e-ac02-6f084b0d8c77/) |
 | Brian Higgens | D | NY | House | ? | ? |
 | Clay Higgens | R | LA | House | ? | ? |
 | French Hill | R | AR | House | ? | ? |
@@ -232,13 +232,13 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Ashley Hinson | R | IA | House | ? | ? |
 | Mazie Hirono | D | HI | Senate | ? | ? |
 | John Hoeven | R | ND | Senate | ? | ? |
-| Trey Hollingsworth | R | IN | House | ? | ? |
+| Trey Hollingsworth | R | IN | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218263.pdf) |
 | Steven Horsford | D | NV | House | ? | ? |
 | Chrissy Houlahan | D | PA | House | ? | ? |
 | Steny Hoyer | D | MD | House | ? | ? |
 | Richard Hudson | R | NC | House | ? | ? |
 | Jared Huffman | D | CA | House | ? | ? |
-| Bill Huizenga | R | MI | House | ? | ? |
+| Bill Huizenga | R | MI | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043445.pdf) |
 | Cindy Hyde-Smith | R | MS | Senate | ? | ? |
 | James Inhofe | R | OK | Senate | ? | ? |
 | Darrell Issa | R | CA | House | ? | ? |
@@ -268,8 +268,8 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Mike Kelly | R | PA | House | ? | ? |
 | Robin Kelly | D | IL | House | ? | ? |
 | Trent Kelly | R | MS | House | ? | ? |
-| John Kennedy | R | LA | Senate | ? | ? |
-| Ro Khanna | D | CA | House | ? | ? |
+| John Kennedy | R | LA | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/97aaf2cb-d457-426c-b5f4-c9a720283635/) |
+| Ro Khanna | D | CA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218200.pdf) |
 | Daniel Kildee | D | MI | House | ? | ? |
 | Derek Kilmer | D | WA | House | ? | ? |
 | Andy Kim | D | NJ | House | ? | ? |
@@ -279,7 +279,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Adam Kinzinger | R | IL | House | ? | ? |
 | Ann Kirkpatrick | D | AZ | House | ? | ? |
 | Amy Klobuchar | D | MN | Senate | ? | ? |
-| Raja Krishnamoorthi | D | IL | House | ? | ? |
+| Raja Krishnamoorthi | D | IL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041444.pdf) |
 | Ann Kuster | D | NH | House | ? | ? |
 | David Kustoff | R | TN | House | ? | ? |
 | Darin LaHood | R | IL | House | ? | ? |
@@ -290,7 +290,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | James Langevin | D | RI | House | ? | ? |
 | James Lankford | R | OK | Senate | ? | ? |
 | Rick Larsen | D | WA | House | ? | ? |
-| John Larson | D | CT | House | ? | ? |
+| John Larson | D | CT | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040701.pdf) |
 | Robert Latta | R | OH | House | ? | ? |
 | Brenda Lawrence | D | MI | House | ? | ? |
 | Al Lawson | D | FL | House | ? | ? |
@@ -308,13 +308,13 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Billy Long | R | MO | House | ? | ? |
 | Barry Loudermilk | R | GA | House | ? | ? |
 | Alan Lowenthal | D | CA | House | ? | ? |
-| Frank Lucas | R | OK | House | ? | ? |
+| Frank Lucas | R | OK | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041075.pdf) |
 | Blaine Luetkemeyer | R | MO | House | ? | ? |
 | Ben Luján | D | NM | Senate | ? | ? |
-| Cynthia Lummis | R | WY | Senate | YES | ? |
+| Cynthia Lummis | R | WY | Senate | YES | [2020 Report](https://efdsearch.senate.gov/search/view/annual/5a9f95fe-06e6-4abf-866f-d1d174e510e9/) |
 | Elanie Luria | D | VA | House | ? | ? |
-| Stephen Lynch | D | MA | House | ? | ? |
-| Nancy Mace | R | SC | House | ? | ? |
+| Stephen Lynch | D | MA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041076.pdf) |
+| Nancy Mace | R | SC | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043329.pdf) |
 | Tom Malinowski | D | NJ | House | ? | ? |
 | Nicole Malliotakis | R | NY | House | ? | ? |
 | Carolyn Maloney | D | NY | House | ? | ? |
@@ -324,9 +324,9 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Kathy Manning | D | NC | House | ? | ? |
 | Edward Markey | D | MA | Senate | ? | ? |
 | Roger Marshall | R | KS | Senate | ? | ? |
-| Thomas Massie | R | KY | House | ? | ? |
+| Thomas Massie | R | KY | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040193.pdf) |
 | Brian Mast | R | FL | House | ? | ? |
-| Doris Matsui | D | CA | House | ? | ? |
+| Doris Matsui | D | CA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
 | Lucy McBath | D | GA | House | ? | ? |
 | Kevin McCarthy | R | CA | House | ? | ? |
 | Michael McCaul | R | TX | House | ? | ? |
@@ -336,9 +336,9 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Mitch McConnell | R | KY | Senate | ? | ? |
 | Donald McEachin | D | VA | House | ? | ? |
 | James McGovern | D | MA | House | ? | ? |
-| Patrick McHenry | R | NC | House | ? | ? |
+| Patrick McHenry | R | NC | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041742.pdf) |
 | David McKinley | D | WV | House | ? | ? |
-| Jerry McNerney | D | CA | House | ? | ? |
+| Jerry McNerney | D | CA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042806.pdf) |
 | Gregory Meeks | D | NY | House | ? | ? |
 | Peter Meijer | R | MI | House | ? | ? |
 | Robert Menendez | D | NJ | Senate | ? | ? |
@@ -369,9 +369,9 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Joe Neguse | D | CO | House | ? | ? |
 | Troy Nehls | R | TX | House | ? | ? |
 | Dan Newhouse | R | WA | House | ? | ? |
-| Marie Newman | D | IL | House | ? | ? |
+| Marie Newman | D | IL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042122.pdf) |
 | Donald Norcross | D | NJ | House | ? | ? |
-| Ralph Norman | R | SC | House | ? | ? |
+| Ralph Norman | R | SC | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043088.pdf) |
 | Eleanor Norton | D | DC | House | ? | ? |
 | Devin Nunes | R | CA | House | ? | ? |
 | Jay Obernolte | R | CA | House | ? | ? |
@@ -387,7 +387,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Jimmy Panetta | D | CA | House | ? | ? |
 | Chris Pappas | D | NH | House | ? | ? |
 | Bill Pascrell | D | NJ | House | ? | ? |
-| Rand Paul | R | KY | Senate | ? | ? |
+| Rand Paul | R | KY | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/ffc1c882-f932-4788-951b-d9fff5b658b1/) |
 | Donald Payne | D | NJ | House | ? | ? |
 | Nancy Pelosi | D | CA | House | ? | ? |
 | Greg Pence | R | IN | House | ? | ? |
@@ -398,7 +398,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | August Pfluger | R | TX | House | ? | ? |
 | Dean Phillips | D | MN | House | ? | ? |
 | Chellie Pingree | D | ME | House | ? | ? |
-| Stacey Plaskett | D | VI | House | ? | ? |
+| Stacey Plaskett | D | VI | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2019/10038680.pdf) |
 | Mark Pocan | D | WI | House | ? | ? |
 | Katie Porter | D | CA | House | ? | ? |
 | Robert Portman | R | OH | Senate | ? | ? |
@@ -447,11 +447,11 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Kurt Schrader | D | OR | House | ? | ? |
 | Kim Schrier | D | WA | House | ? | ? |
 | Charles Schumer | D | NY | Senate | ? | ? |
-| David Schweikert | R | AZ | House | ? | ? |
+| David Schweikert | R | AZ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042643.pdf) |
 | Austin Scott | R | GA | House | ? | ? |
 | Rick Scott | R | FL | Senate | ? | ? |
 | Robert Scott | D | VA | House | ? | ? |
-| Tim Scott | R | SC | Senate | ? | ? |
+| Tim Scott | R | SC | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/383d5d69-3b2a-49ba-a57d-eba2e97726b3/) |
 | Pete Sessions | R | TX | House | ? | ? |
 | Terri Sewell | D | AL | House | ? | ? |
 | Jeanne Shaheen | D | NH | Senate | ? | ? |
@@ -459,7 +459,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Brad Sherman | D | CA | House | ? | ? |
 | Mikie Sherrill | D | NJ | House | ? | ? |
 | Michael Simpson | R | ID | House | ? | ? |
-| Kyrsten Sinema | D | AZ | Senate | ? | ? |
+| Kyrsten Sinema | D | AZ | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/429aa5eb-0b1f-470b-a5ee-10eaf7f43770/) |
 | Albio Sires | D | NJ | House | ? | ? |
 | Elissa Slotkin | D | MI | House | ? | ? |
 | Adam Smith | D | WA | House | ? | ? |
@@ -468,7 +468,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Jason Smith | R | MO | House | ? | ? |
 | Tina Smith | D | MN | Senate | ? | ? |
 | Lloyd Smucker | R | PA | House | ? | ? |
-| Darren Soto | D | FL | House | ? | ? |
+| Darren Soto | D | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042230.pdf) |
 | Abigail Spanberger | D | VA | House | ? | ? |
 | Victoria Spartz | R | IN | House | ? | ? |
 | Jackie Speier | D | CA | House | ? | ? |
@@ -478,21 +478,21 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Pete Stauber | R | MN | House | ? | ? |
 | Michelle Steel | R | CA | House | ? | ? |
 | Elise Stefanik | R | NY | House | ? | ? |
-| Bryan Steil | R | WI | House | ? | ? |
+| Bryan Steil | R | WI | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040794.pdf) |
 | Gregory Steube | R | FL | House | ? | ? |
 | Haley Stevens | D | MI | House | ? | ? |
 | Chris Stewart | R | UT | House | ? | ? |
 | Marilyn Strickland | D | WA | House | ? | ? |
 | Dan Sullivan | R | AK | Senate | ? | ? |
 | Thomas Suozzi | D | NY | House | ? | ? |
-| Eric Swalwell | D | CA | House | ? | ? |
+| Eric Swalwell | D | CA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041327.pdf) |
 | Linda Sánchez | D | CA | House | ? | ? |
 | Mark Takano | D | CA | House | ? | ? |
-| Van Taylor | R | TX | House | ? | ? |
+| Van Taylor | R | TX | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042566.pdf) |
 | Claudia Tenney | R | NY | House | ? | ? |
 | Jon Tester | D | MT | Senate | ? | ? |
 | Bennie Thompson | D | MS | House | ? | ? |
-| Glenn Thompson | R | PA | House | ? | ? |
+| Glenn Thompson | R | PA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042459.pdf) |
 | Mike Thompson | D | CA | House | ? | ? |
 | John Thune | R | SD | Senate | ? | ? |
 | Thomas Tiffany | R | WI | House | ? | ? |
@@ -501,7 +501,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Dina Titus | D | NV | House | ? | ? |
 | Rashida Tlaib | D | MI | House | ? | ? |
 | Paul Tonko | D | NY | House | ? | ? |
-| Patrick Toomey | R | PA | Senate | ? | ? |
+| Patrick Toomey | R | PA | Senate | YES | [2021 Report](https://efdsearch.senate.gov/search/view/ptr/b1deab19-2db4-481b-97eb-8b616f00d7f9/) |
 | Norma Torres | D | CA | House | ? | ? |
 | Richie Torres | D | NY | House | ? | ? |
 | Lori Trahan | D | MA | House | ? | ? |
@@ -521,8 +521,8 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Ann Wagner | R | MO | House | ? | ? |
 | Tim Walberg | R | MI | House | ? | ? |
 | Jackie Walorski | R | IN | House | ? | ? |
-| Michael Waltz | R | FL | House | ? | ? |
-| Mark Warner | D | VA | Senate | ? | ? |
+| Michael Waltz | R | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042264.pdf) |
+| Mark Warner | D | VA | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/4c7a6e56-310b-4cbc-9310-72af1e0ea0d8/) |
 | Raphael Warnock | D | GA | Senate | ? | ? |
 | Elizabeth Warren | D | MA | Senate | ? | ? |
 | Debbie Wasserman Schultz | D | FL | House | ? | ? |
@@ -540,10 +540,10 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Roger Williams | R | TX | House | ? | ? |
 | Frederica Wilson | D | FL | House | ? | ? |
 | Joe Wilson | R | SC | House | ? | ? |
-| Robert Wittman | R | VA | House | ? | ? |
+| Robert Wittman | R | VA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041201.pdf) |
 | Steve Womack | R | AR | House | ? | ? |
 | Ron Wyden | D | OR | Senate | ? | ? |
 | John Yarmuth | D | KY | House | ? | ? |
 | Don Young | R | AK | House | ? | ? |
-| Todd Young | R | IN | Senate | ? | ? |
+| Todd Young | R | IN | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/33d9f6e1-0cc6-41d8-acb6-619685ddde54/) |
 | Lee Zeldin | R | NY | House | ? | ? |
