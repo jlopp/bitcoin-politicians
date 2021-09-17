@@ -12,7 +12,7 @@ You can find financial disclosures here:
 Sort by date and open their most recent year's annual report, to which you should link on this page.
 
 | Name        | Party | State  | House | Bitcoin Owner | Disclosure | Notes |
-| :---------: |:------: |:------: | :------: | :---------: | :-----------: | :-------------------------------: |
+| :---------: |:------: |:------: | :------: | :---------: | :---------: | :---------: |
 | Alma Adams | D | NC | House | ? | ? |
 | Robert Aderholt | R | AL | House | ? | ? |
 | Pete Aguilar | D | CA | House | ? | ? |
@@ -311,7 +311,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Frank Lucas | R | OK | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041075.pdf) |
 | Blaine Luetkemeyer | R | MO | House | ? | ? |
 | Ben Luján | D | NM | Senate | ? | ? |
-| Cynthia Lummis | R | WY | Senate | YES | [2020 Report](https://efdsearch.senate.gov/search/view/annual/5a9f95fe-06e6-4abf-866f-d1d174e510e9/) |
+| Cynthia Lummis | R | WY | Senate | YES | [2020 Report](https://efdsearch.senate.gov/search/view/annual/5a9f95fe-06e6-4abf-866f-d1d174e510e9/) | $100K - $250K of bitcoin owned |
 | Elanie Luria | D | VA | House | ? | ? |
 | Stephen Lynch | D | MA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041076.pdf) |
 | Nancy Mace | R | SC | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043329.pdf) |
