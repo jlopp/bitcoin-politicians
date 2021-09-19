@@ -27,14 +27,14 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Don Bacon | R | NE | House | ? | ? |
 | James Baird | R | IN | House | ? | ? |
 | Troy Balderson | R | OH | House | ? | ? |
-| Tammy Baldwin | D | WI | Senate | ? | ? |
+| Tammy Baldwin | D | WI | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/94bbc60f-debe-4696-a27e-4e39f51a6fd9/) |
 | Jim Banks | R | IN | House | ? | ? |
 | Garland Barr | R | KY | House | ? | ? |
 | Nanette Barragan | D | CA | House | ? | ? |
-| John Barrasso | R | WY | Senate | ? | ? |
+| John Barrasso | R | WY | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/ad59484e-58c5-47a6-b96d-a5da3ea36e96/) |
 | Karen Bass | D | CA | House | ? | ? |
 | Joyce Beatty | D | OH | House | ? | ? |
-| Michael Bennet | D | CO | Senate | ? | ? |
+| Michael Bennet | D | CO | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/39baf99f-a698-44c5-a764-0eb6490253b2/) |
 | Cliff Bentz | R | OR | House | ? | ? |
 | Ami Bera | D | CA | House | ? | ? |
 | Jack Bergman | R | MI | House | ? | ? |
@@ -78,9 +78,9 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Maria Cantwell | D | WA | Senate | ? | ? |
 | Shelley Capito | R | WV | Senate | ? | ? |
 | Salud Carbajal | D | CA | House | ? | ? |
-| Benjamin Cardin | D | MD | Senate | ? | ? |
+| Benjamin Cardin | D | MD | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/b5cc6c13-c3e1-42fa-8922-a76e541f6443/) |
 | Jerry Carl | R | AL | House | ? | ? |
-| Thomas Carper | D | DE | Senate | ? | ? |
+| Thomas Carper | D | DE | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/78019695-788e-4b10-8612-73022fb76e51/) |
 | André Carson | D | IN | House | ? | ? |
 | Earl Carter | R | GA | House | ? | ? |
 | John Carter | R | TX | House | ? | ? |
@@ -278,7 +278,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Angus King | I | ME | Senate | ? | ? |
 | Adam Kinzinger | R | IL | House | ? | ? |
 | Ann Kirkpatrick | D | AZ | House | ? | ? |
-| Amy Klobuchar | D | MN | Senate | ? | ? |
+| Amy Klobuchar | D | MN | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/ac3395fd-85d3-46a4-aa7e-8368ea96d2af/) |
 | Raja Krishnamoorthi | D | IL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041444.pdf) |
 | Ann Kuster | D | NH | House | ? | ? |
 | David Kustoff | R | TN | House | ? | ? |
