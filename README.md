@@ -11,6 +11,9 @@ You can find financial disclosures here:
 Sort by date and open their most recent year's annual report, to which you should link on this page.
 
 # Bitcoin Holdings of US Congress Members
+
+NOTE: If you open a link to a Senator's disclosure, you need to paste the URL into a browser tab that has already accepted their site's Terms of Service.
+
 | Name | Party | State  | House | Bitcoin Owner | Disclosure | Notes |
 |------|:-----:|:------:|-------|:-------------:|:----------:|-------|
 | Alma Adams | D | NC | House | ? | ? |
