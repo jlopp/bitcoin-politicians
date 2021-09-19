@@ -154,10 +154,10 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Tammy Duckworth | D | IL | Senate | ? | ? |
 | Jeff Duncan | R | SC | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041941.pdf) |
 | Neal Dunn | R | FL | House | ? | ? |
-| Richard Durbin | D | IL | Senate | NO | https://efdsearch.senate.gov/search/print/paper/cec7aa17-c5f8-4280-be60-610b0517373e/ |
+| Richard Durbin | D | IL | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/print/paper/cec7aa17-c5f8-4280-be60-610b0517373e/)|
 | Jake Ellzey | R | TX | House | ? | NO DISCLOSURES |
 | Tom Emmer | R | MN | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218235.pdf) |
-| Joni Ernst | R | IA | Senate | NO | https://efdsearch.senate.gov/search/view/annual/b7ced2ee-ebfb-4d42-9ea6-328abecfc784/ |
+| Joni Ernst | R | IA | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/b7ced2ee-ebfb-4d42-9ea6-328abecfc784/)|
 | Veronica Escobar | D | TX | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040129.pdf) |
 | Anna Eshoo | D | CA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040599.pdf) |
 | Adriano Espaillat | D | NY | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042735.pdf) |
