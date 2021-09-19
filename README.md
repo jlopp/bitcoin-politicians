@@ -1,5 +1,3 @@
-{% include scripts.html %}
-
 Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the game. Because searching through financial disclosures can be a time intensive process, this project's goal is to crowdsource the work.
 
 ## Contributing
