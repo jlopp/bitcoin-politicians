@@ -1,4 +1,3 @@
-# Bitcoin Holdings of US Congress Members
 Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the game. Because searching through financial disclosures can be a time intensive process, this project's goal is to crowdsource the work.
 
 ## Contributing
@@ -11,8 +10,9 @@ You can find financial disclosures here:
 
 Sort by date and open their most recent year's annual report, to which you should link on this page.
 
-| Name        | Party | State  | House | Bitcoin Owner | Disclosure | Notes |
-| :---------: |:------: |:------: | :------: | :---------: | :---------: | :---------: |
+# Bitcoin Holdings of US Congress Members
+| Name | Party | State  | House | Bitcoin Owner | Disclosure | Notes |
+|------|:-----:|:------:|-------|:-------------:|:----------:|-------|
 | Alma Adams | D | NC | House | ? | ? |
 | Robert Aderholt | R | AL | House | ? | ? |
 | Pete Aguilar | D | CA | House | ? | ? |
