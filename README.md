@@ -217,7 +217,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Diana Harshbarger | R | TN | House | ? | ? |
 | Vicky Hartzler | R | MO | House | ? | ? |
 | Margaret Hassan | D | NH | Senate | ? | ? |
-| Joshua Hawley | R | MO | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/1eeb0aee-337c-4c4a-8176-3e131c78acd8/) |
+| Joshua Hawley | R | MO | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/1eeb0aee-337c-4c4a-8176-3e131c78acd8/) | Owns $1k-$15k of gold trust |
 | Jahana Hayes | D | CT | House | ? | ? |
 | Martin Heinrich | D | NM | Senate | ? | ? |
 | Kevin Hern | R | OK | House | ? | ? |
