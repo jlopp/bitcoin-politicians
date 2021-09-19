@@ -143,26 +143,26 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Madeleine Dean | D | PA | House | ? | ? |
 | Suzan DelBene | D | WA | House | ? | ? |
 | Antonio Delgado | D | NY | House | ? | ? |
-| Val Demings | D | FL | House | ? | ? |
-| Scott DesJarlais | R | TN | House | ? | ? |
-| Theodore Deutch | D | FL | House | ? | ? |
-| Mario Diaz-Balart | R | FL | House | ? | ? |
+| Val Demings | D | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043076.pdf) |
+| Scott DesJarlais | R | TN | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042786.pdf) |
+| Theodore Deutch | D | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042215.pdf) |
+| Mario Diaz-Balart | R | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041906.pdf) |
 | Debbie Dingell | D | MI | House | ? | ? |
 | Lloyd Doggett | D | TX | House | ? | ? |
-| Byron Donalds | R | FL | House | ? | ? |
-| Michael Doyle | D | PA | House | ? | ? |
+| Byron Donalds | R | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043295.pdf) |
+| Michael Doyle | D | PA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041825.pdf) |
 | Tammy Duckworth | D | IL | Senate | ? | ? |
 | Jeff Duncan | R | SC | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041941.pdf) |
 | Neal Dunn | R | FL | House | ? | ? |
-| Richard Durbin | D | IL | Senate | ? | ? |
-| Jake Ellzey | R | TX | House | ? | ? |
+| Richard Durbin | D | IL | Senate | NO | https://efdsearch.senate.gov/search/print/paper/cec7aa17-c5f8-4280-be60-610b0517373e/ |
+| Jake Ellzey | R | TX | House | ? | NO DISCLOSURES |
 | Tom Emmer | R | MN | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218235.pdf) |
-| Joni Ernst | R | IA | Senate | ? | ? |
-| Veronica Escobar | D | TX | House | ? | ? |
+| Joni Ernst | R | IA | Senate | NO | https://efdsearch.senate.gov/search/view/annual/b7ced2ee-ebfb-4d42-9ea6-328abecfc784/ |
+| Veronica Escobar | D | TX | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040129.pdf) |
 | Anna Eshoo | D | CA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040599.pdf) |
-| Adriano Espaillat | D | NY | House | ? | ? |
-| Ron Estes | R | KS | House | ? | ? |
-| Dwight Evans | D | PA | House | ? | ? |
+| Adriano Espaillat | D | NY | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042735.pdf) |
+| Ron Estes | R | KS | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042224.pdf) |
+| Dwight Evans | D | PA | House | ? | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041532.pdf) | ARKX + Paypal + Tesla + Western Union
 | Patrick Fallon | R | TX | House | ? | ? |
 | Randy Feenstra | R | IA | House | ? | ? |
 | Dianne Feinstein | D | CA | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/print/paper/90a993b4-9333-416f-b142-491f1f1caba8/) |
