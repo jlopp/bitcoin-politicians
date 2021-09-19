@@ -38,7 +38,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 | Cliff Bentz | R | OR | House | ? | ? |
 | Ami Bera | D | CA | House | ? | ? |
 | Jack Bergman | R | MI | House | ? | ? |
-| Donald Beyer | D | VA | House | ? | ? |
+| Donald Beyer | D | VA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040483.pdf) |
 | Stephanie Bice | R | OK | House | ? | ? |
 | Andy Biggs | R | AZ | House | ? | ? |
 | Gus Bilirakis | R | FL | House | ? | ? |
