@@ -233,7 +233,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | French Hill | R | AR | House | ? | ? |
 | James Himes | D | CT | House | ? | ? |
 | Ashley Hinson | R | IA | House | ? | ? |
-| Mazie Hirono | D | HI | Senate | ? | ? |
+| Mazie Hirono | D | HI | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/861b60bd-3808-4d4f-aa17-73d973ab21c9/) |
 | John Hoeven | R | ND | Senate | ? | ? |
 | Trey Hollingsworth | R | IN | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218263.pdf) |
 | Steven Horsford | D | NV | House | ? | ? |
@@ -444,7 +444,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Steve Scalise | R | LA | House | ? | ? |
 | Mary Scanlon | D | PA | House | ? | ? |
 | Janice Schakowsky | D | IL | House | ? | ? |
-| Brian Schatz | D | HI | Senate | ? | ? |
+| Brian Schatz | D | HI | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/1ff046fb-0d84-47a1-bdd5-b538bc3b4048/) |
 | Adam Schiff | D | CA | House | ? | ? |
 | Bradley Schneider | D | IL | House | ? | ? |
 | Kurt Schrader | D | OR | House | ? | ? |
