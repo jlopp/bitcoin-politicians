@@ -469,7 +469,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Adrian Smith | R | NE | House | ? | ? |
 | Christopher Smith | R | NJ | House | ? | ? |
 | Jason Smith | R | MO | House | ? | ? |
-| Tina Smith | D | MN | Senate | ? | ? |
+| Tina Smith | D | MN | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/ba4992b2-d537-4c70-a2ae-03b1ae293899/) |
 | Lloyd Smucker | R | PA | House | ? | ? |
 | Darren Soto | D | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042230.pdf) |
 | Abigail Spanberger | D | VA | House | ? | ? |
