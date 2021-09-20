@@ -181,7 +181,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Russ Fulcher | R | ID | House | ? | ? |
 | Matt Gaetz | R | FL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043510.pdf) |
 | Mike Gallagher | R | WI | House | ? | ? |
-| Ruben Gallego | D | AZ | House | ? | ? |
+| Ruben Gallego | D | AZ | House | No | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042071.pdf)| 
 | John Garamendi | D | CA | House | ? | ? |
 | Andrew Garbarino | R | NY | House | ? | ? |
 | Mike Garcia | R | CA | House | ? | ? |
