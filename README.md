@@ -89,7 +89,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | John Carter | R | TX | House | ? | ? |
 | Troy Carter | D | LA | House | ? | ? |
 | Matthew Cartwright | D | PA | House | ? | ? |
-| Ed Case | D | HI | House | ? | ? |
+| Ed Case | D | HI | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041773.pdf) |
 | Robert Casey | D | PA | Senate | ? | ? |
 | Bill Cassidy | R | LA | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/50e02aba-3d11-42d9-b0fd-153fd1b21a8c/) |
 | Sean Casten | D | IL | House | ? | ? |
@@ -261,7 +261,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jim Jordan | R | OH | House | ? | ? |
 | David Joyce | R | OH | House | ? | ? |
 | John Joyce | R | PA | House | ? | ? |
-| Kaialiʻi Kahele | D | HI | House | ? | ? |
+| Kaialiʻi Kahele | D | HI | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042595.pdf) |
 | Timothy Kaine | D | VA | Senate | ? | ? |
 | Marcy Kaptur | D | OH | House | ? | ? |
 | John Katko | R | NY | House | ? | ? |
