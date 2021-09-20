@@ -43,7 +43,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jack Bergman | R | MI | House | ? | ? |
 | Donald Beyer | D | VA | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040483.pdf) |
 | Stephanie Bice | R | OK | House | ? | ? |
-| Andy Biggs | R | AZ | House | NO | [2020 Report]9https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041364.pdf) |
+| Andy Biggs | R | AZ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041364.pdf) |
 | Gus Bilirakis | R | FL | House | ? | ? |
 | Dan Bishop | R | NC | House | ? | ? |
 | Sanford Bishop | D | GA | House | ? | ? |
