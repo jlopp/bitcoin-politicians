@@ -198,7 +198,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Vicente Gonzalez | D | TX | House | ? | ? |
 | Robert Good | R | VA | House | ? | ? |
 | Lance Gooden | R | TX | House | ? | ? |
-| Paul Gosar | R | AZ | House | ? | ? |
+| Paul Gosar | R | AZ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218236.pdf) |
 | Josh Gottheimer | D | NJ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041376.pdf) |
 | Lindsey Graham | R | SC | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/f0d05aaf-ea30-4e0e-b35b-368e14bb1935/) |
 | Kay Granger | R | TX | House | ? | ? |
