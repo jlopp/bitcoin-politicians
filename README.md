@@ -3,8 +3,8 @@ Based upon public financial disclosures, we can know which politicians in Congre
 ## Contributing
 NOTE: many politicians have yet to be researched; if you have some spare time, I encourage you to look some up and contribute to this project by [editing the README.md file](https://github.com/jlopp/bitcoin-politicians/edit/master/README.md).
 
-You can find financial disclosures here: 
-* [US House](https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure)
+You can find financial disclosures here:
+* [US House](https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure) - click "Search Reports"
 * [US Senate](https://efdsearch.senate.gov/search/)
 * [US Executive Branch](https://extapps2.oge.gov/201/Presiden.nsf)
 
