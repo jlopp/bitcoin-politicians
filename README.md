@@ -477,7 +477,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jackie Speier | D | CA | House | ? | ? |
 | Debbie Stabenow | D | MI | Senate | ? | ? |
 | Melanie Stansbury | D | NM | House | ? | ? |
-| Greg Stanton | D | AZ | House | ? | ? |
+| Greg Stanton | D | AZ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040307.pdf) |
 | Pete Stauber | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043358.pdf) |
 | Michelle Steel | R | CA | House | ? | ? |
 | Elise Stefanik | R | NY | House | ? | ? |
