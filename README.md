@@ -303,11 +303,11 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Susie Lee | D | NV | House | ? | ? |
 | Teresa Leger Fernandez | D | NM | House | ? | ? |
 | Debbie Lesko | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042354.pdf) |
-| Julia Letlow | R | LA | House | ? | ? |
-| Andy Levin | D | MI | House | ? | ? |
-| Mike Levin | D | CA | House | ? | ? |
-| Ted Lieu | D | CA | House | ? | ? |
-| Zoe Lofgren | D | CA | House | ? | ? |
+| Julia Letlow | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042967.pdf) |
+| Andy Levin | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041622.pdf) |
+| Mike Levin | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040396.pdf) |
+| Ted Lieu | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042330.pdf) |
+| Zoe Lofgren | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040456.pdf) |
 | Billy Long | R | MO | House | ? | ? |
 | Barry Loudermilk | R | GA | House | ? | ? |
 | Alan Lowenthal | D | CA | House | ? | ? |
