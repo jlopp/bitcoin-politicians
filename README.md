@@ -16,7 +16,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 
 | Name | Party | State  | House | Bitcoin Owner | Disclosure | Notes |
 |------|:-----:|:------:|-------|:-------------:|:----------:|-------|
-| Alma Adams | D | NC | House | ? | ? |
+| Alma Adams | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043648.pdf) |
 | Robert Aderholt | R | AL | House | ? | ? |
 | Pete Aguilar | D | CA | House | ? | ? |
 | Rick Allen | R | GA | House | ? | ? |
