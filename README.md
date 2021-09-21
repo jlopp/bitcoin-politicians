@@ -17,19 +17,19 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Name | Party | State  | House | Bitcoin Owner | Disclosure | Notes |
 |------|:-----:|:------:|-------|:-------------:|:----------:|-------|
 | Alma Adams | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043648.pdf) |
-| Robert Aderholt | R | AL | House | ? | ? |
-| Pete Aguilar | D | CA | House | ? | ? |
-| Rick Allen | R | GA | House | ? | ? |
-| Colin Allred | D | TX | House | ? | ? |
-| Mark Amodei | R | NV | House | ? | ? |
-| Kelly Armstrong | R | ND | House | ? | ? |
-| Jodey Arrington | R | TX | House | ? | ? |
-| Jake Auchincloss | D | MA | House | ? | ? |
-| Cynthia Axne | D | IA | House | ? | ? |
-| Brian Babin | R | TX | House | ? | ? |
-| Don Bacon | R | NE | House | ? | ? |
-| James Baird | R | IN | House | ? | ? |
-| Troy Balderson | R | OH | House | ? | ? |
+| Robert Aderholt | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042695.pdf) |
+| Pete Aguilar | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042324.pdf) |
+| Rick Allen | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041000.pdf) |
+| Colin Allred | D | TX | House | NO | [202](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042542.pdf) |
+| Mark Amodei | R | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041484.pdf) |
+| Kelly Armstrong | R | ND | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042511.pdf) |
+| Jodey Arrington | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042183.pdf) |
+| Jake Auchincloss | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040680.pdf) |
+| Cynthia Axne | D | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041493.pdf) |
+| Brian Babin | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043193.pdf) |
+| Don Bacon | R | NE | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041547.pdf) |
+| James Baird | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042980.pdf) |
+| Troy Balderson | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042269.pdf) |
 | Tammy Baldwin | D | WI | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/94bbc60f-debe-4696-a27e-4e39f51a6fd9/) |
 | Jim Banks | R | IN | House | ? | ? |
 | Garland Barr | R | KY | House | ? | ? |
