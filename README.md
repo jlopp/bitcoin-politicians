@@ -209,7 +209,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mark Green | R | TN | House | ? | ? |
 | Marjorie Greene | R | GA | House | ? | ? |
 | Morgan Griffith | R | VA | House | ? | ? |
-| Raúl Grijalva | D | AZ | House | ? | ? |
+| Raúl Grijalva | D | AZ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041464.pdf) | Ownes SPDR Gold Trust $1k - $15k x2
 | Glenn Grothman | R | WI | House | ? | ? |
 | Michael Guest | R | MS | House | ? | ? |
 | Brett Guthrie | R | KY | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218219.pdf) |
@@ -267,7 +267,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | John Katko | R | NY | House | ? | ? |
 | William Keating | D | MA | House | ? | ? |
 | Fred Keller | R | PA | House | ? | ? |
-| Mark Kelly | D | AZ | Senate | ? | ? |
+| Mark Kelly | D | AZ | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/9a632396-2fa3-4f41-b865-bcef0ddd2f7a/) |
 | Mike Kelly | R | PA | House | ? | ? |
 | Robin Kelly | D | IL | House | ? | ? |
 | Trent Kelly | R | MS | House | ? | ? |
@@ -280,7 +280,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Ron Kind | D | WI | House | ? | ? |
 | Angus King | I | ME | Senate | ? | ? |
 | Adam Kinzinger | R | IL | House | ? | ? |
-| Ann Kirkpatrick | D | AZ | House | ? | ? |
+| Ann Kirkpatrick | D | AZ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041924.pdf) |
 | Amy Klobuchar | D | MN | Senate | NO | [2020 Report](https://efdsearch.senate.gov/search/view/annual/ac3395fd-85d3-46a4-aa7e-8368ea96d2af/) |
 | Raja Krishnamoorthi | D | IL | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041444.pdf) |
 | Ann Kuster | D | NH | House | ? | ? |
@@ -302,7 +302,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mike Lee | R | UT | Senate | ? | ? |
 | Susie Lee | D | NV | House | ? | ? |
 | Teresa Leger Fernandez | D | NM | House | ? | ? |
-| Debbie Lesko | R | AZ | House | ? | ? |
+| Debbie Lesko | R | AZ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042354.pdf) |
 | Julia Letlow | R | LA | House | ? | ? |
 | Andy Levin | D | MI | House | ? | ? |
 | Mike Levin | D | CA | House | ? | ? |
@@ -382,7 +382,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Ilhan Omar | D | MN | House | ? | ? |
 | Jon Ossoff | D | GA | Senate | ? | ? |
 | Clarence Owens | R | UT | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041638.pdf) |
-| Tom O'Halleran | D | AZ | House | ? | ? |
+| Tom O'Halleran | D | AZ | House | NO | [2020 Report](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041769.pdf) |
 | Alejandro Padilla | D | CA | Senate | ? | ? |
 | Steven Palazzo | R | MS | House | ? | ? |
 | Frank Pallone | D | NJ | House | ? | ? |
