@@ -120,7 +120,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jim Costa | D | CA | House | ? | ? |
 | Tom Cotton | R | AR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/def41c9c-c01f-45c1-b29b-8ef91ec8fae3/) |
 | Joe Courtney | D | CT | House | ? | ? |
-| Angie Craig | D | MN | House | ? | ? |
+| Angie Craig | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218258.pdf) |
 | Kevin Cramer | R | ND | Senate | ? | ? |
 | Michael Crapo | R | ID | Senate | ? | ? |
 | Eric Crawford | R | AR | House | ? | ? |
@@ -167,7 +167,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Randy Feenstra | R | IA | House | ? | ? |
 | Dianne Feinstein | D | CA | Senate | NO | [2020](https://efdsearch.senate.gov/search/print/paper/90a993b4-9333-416f-b142-491f1f1caba8/) |
 | Drew Ferguson | R | GA | House | ? | ? |
-| Michelle Fischbach | R | MN | House | ? | ? |
+| Michelle Fischbach | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041736.pdf) |
 | Deb Fischer | R | NE | Senate | ? | ? |
 | Scott Fitzgerald | R | WI | House | ? | ? |
 | Brian Fitzpatrick | R | PA | House | ? | ? |
@@ -213,7 +213,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Glenn Grothman | R | WI | House | ? | ? |
 | Michael Guest | R | MS | House | ? | ? |
 | Brett Guthrie | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218219.pdf) |
-| Jim Hagedorn | R | MN | House | ? | ? |
+| Jim Hagedorn | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218317.pdf) |
 | Bill Hagerty | R | TN | Senate | ? | ? |
 | Josh Harder | D | CA | House | ? | ? |
 | Andy Harris | R | MD | House | ? | ? |
@@ -335,7 +335,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Michael McCaul | R | TX | House | ? | ? |
 | Lisa McClain | R | MI | House | ? | ? |
 | Tom McClintock | R | CA | House | ? | ? |
-| Betty McCollum | D | MN | House | ? | ? |
+| Betty McCollum | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042035.pdf) |
 | Mitch McConnell | R | KY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/2bb9f12b-c87c-44ce-a024-89a9a0e890c9/) |
 | Donald McEachin | D | VA | House | ? | ? |
 | James McGovern | D | MA | House | ? | ? |
@@ -379,7 +379,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Devin Nunes | R | CA | House | ? | ? |
 | Jay Obernolte | R | CA | House | ? | ? |
 | Alexandria Ocasio-Cortez | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043223.pdf) |
-| Ilhan Omar | D | MN | House | ? | ? |
+| Ilhan Omar | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042970.pdf) |
 | Jon Ossoff | D | GA | Senate | ? | ? |
 | Clarence Owens | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041638.pdf) |
 | Tom O'Halleran | D | AZ | House | ? | ? |
@@ -399,7 +399,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Gary Peters | D | MI | Senate | ? | ? |
 | Scott Peters | D | CA | House | ? | ? |
 | August Pfluger | R | TX | House | ? | ? |
-| Dean Phillips | D | MN | House | ? | ? |
+| Dean Phillips | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041411.pdf) |
 | Chellie Pingree | D | ME | House | ? | ? |
 | Stacey Plaskett | D | VI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2019/10038680.pdf) |
 | Mark Pocan | D | WI | House | ? | ? |
@@ -478,7 +478,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Debbie Stabenow | D | MI | Senate | ? | ? |
 | Melanie Stansbury | D | NM | House | ? | ? |
 | Greg Stanton | D | AZ | House | ? | ? |
-| Pete Stauber | R | MN | House | ? | ? |
+| Pete Stauber | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043358.pdf) |
 | Michelle Steel | R | CA | House | ? | ? |
 | Elise Stefanik | R | NY | House | ? | ? |
 | Bryan Steil | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040794.pdf) |
