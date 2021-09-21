@@ -286,7 +286,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Ann Kuster | D | NH | House | ? | ? |
 | David Kustoff | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043731.pdf) |
 | Darin LaHood | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041020.pdf) |
-| Dough LaMalfa | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041334.pdf) |
+| Doug LaMalfa | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041334.pdf) |
 | Jacob LaTurner | R | KS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042776.pdf) |
 | Conor Lamb | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041692.pdf) |
 | Doug Lamborn | R | CO | House | ? | ? |
