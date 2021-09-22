@@ -528,25 +528,25 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mark Warner | D | VA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/4c7a6e56-310b-4cbc-9310-72af1e0ea0d8/) |
 | Raphael Warnock | D | GA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8be79d29-e293-478f-a858-63936281f883/) |
 | Elizabeth Warren | D | MA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8685d414-5ed8-4d2e-b246-19790e981ff6/) |
-| Debbie Wasserman Schultz | D | FL | House | ? | ? |
-| Maxine Waters | D | CA | House | ? | ? |
+| Debbie Wasserman Schultz | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041274.pdf) |
+| Maxine Waters | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042931.pdf) |
 | Bonnie Watson Coleman | D | NJ | House | ? | ? |
-| Randy Weber | R | TX | House | ? | ? |
-| Peter Welch | D | VT | House | ? | ? |
+| Randy Weber | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042047.pdf) |
+| Peter Welch | D | VT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039965.pdf) |
 | Brad Wenstrup | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040308.pdf) |
-| Bruce Westerman | R | AR | House | ? | ? |
-| Jennifer Wexton | D | VA | House | ? | ? |
+| Bruce Westerman | R | AR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042589.pdf) |
+| Jennifer Wexton | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042650.pdf) |
 | Sheldon Whitehouse | D | RI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/326a471d-d6a2-47e8-92f2-2a72eff6dffc/) |
 | Roger Wicker | R | MS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/fdeb166e-b62a-43af-a8fb-9e2d29f75e41/) |
-| Susan Wild | D | PA | House | ? | ? |
-| Nikema Williams | D | GA | House | ? | ? |
-| Roger Williams | R | TX | House | ? | ? |
-| Frederica Wilson | D | FL | House | ? | ? |
-| Joe Wilson | R | SC | House | ? | ? |
+| Susan Wild | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041627.pdf) |
+| Nikema Williams | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039119.pdf) |
+| Roger Williams | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042789.pdf) |
+| Frederica Wilson | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040888.pdf) |
+| Joe Wilson | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040196.pdf) |
 | Robert Wittman | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041201.pdf) |
-| Steve Womack | R | AR | House | ? | ? |
+| Steve Womack | R | AR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041059.pdf) |
 | Ron Wyden | D | OR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/21ae59f2-b870-4a5d-b5ec-bb8d01b116f4/) |
-| John Yarmuth | D | KY | House | ? | ? |
-| Don Young | R | AK | House | ? | ? |
+| John Yarmuth | D | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042760.pdf) |
+| Don Young | R | AK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041860.pdf) |
 | Todd Young | R | IN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/33d9f6e1-0cc6-41d8-acb6-619685ddde54/) |
-| Lee Zeldin | R | NY | House | ? | ? |
+| Lee Zeldin | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041874.pdf) |
