@@ -201,24 +201,24 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Paul Gosar | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218236.pdf) |
 | Josh Gottheimer | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041376.pdf) |
 | Lindsey Graham | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f0d05aaf-ea30-4e0e-b35b-368e14bb1935/) |
-| Kay Granger | R | TX | House | ? | ? |
+| Kay Granger | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039886.pdf) |
 | Charles Grassley | R | IA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6dc791b1-c2ad-4c7a-82db-fe961d842977/) |
-| Garret Graves | R | LA | House | ? | ? |
-| Sam Graves | R | MO | House | ? | ? |
-| Al Green | D | TX | House | ? | ? |
-| Mark Green | R | TN | House | ? | ? |
-| Marjorie Greene | R | GA | House | ? | ? |
-| Morgan Griffith | R | VA | House | ? | ? |
+| Garret Graves | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043431.pdf) |
+| Sam Graves | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041852.pdf) |
+| Al Green | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041368.pdf) |
+| Mark Green | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040812.pdf) | $50-100k gold |
+| Marjorie Greene | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042733.pdf) |
+| Morgan Griffith | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041879.pdf) |
 | Raúl Grijalva | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041464.pdf) | $2k-$30k gold trust |
 | Glenn Grothman | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041686.pdf) |
 | Michael Guest | R | MS | House | ? | ? |
 | Brett Guthrie | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218219.pdf) |
 | Jim Hagedorn | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218317.pdf) |
 | Bill Hagerty | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b2a6bec1-d597-4bd8-8d93-dc1235a1adea/) | $50k-$100k gold trust |
-| Josh Harder | D | CA | House | ? | ? |
+| Josh Harder | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041879.pdf) |
 | Andy Harris | R | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043354.pdf)| $15k - $50k gold trust
-| Diana Harshbarger | R | TN | House | ? | ? |
-| Vicky Hartzler | R | MO | House | ? | ? |
+| Diana Harshbarger | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043328.pdf) |
+| Vicky Hartzler | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041198.pdf) |
 | Margaret Hassan | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8a373097-c7da-42f8-a91e-b408c8ab7278/) |
 | Joshua Hawley | R | MO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1eeb0aee-337c-4c4a-8176-3e131c78acd8/) | $1k-$15k gold trust |
 | Jahana Hayes | D | CT | House | ? | ? |
