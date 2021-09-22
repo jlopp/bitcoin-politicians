@@ -49,13 +49,13 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Sanford Bishop | D | GA | House | ? | ? |
 | Marsha Blackburn | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d2c71251-566c-42a4-bdd3-3eb29450d6d4/) |
 | Earl Blumenauer | D | OR | House | ? | ? |
-| Richard Blumenthal | D | CT | Senate | ? | ? |
+| Richard Blumenthal | D | CT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/3740ce3d-a430-41d6-9220-350437e1b83b/) |
 | Lisa Blunt Rochester | D | DE | House | ? | ? |
-| Roy Blunt | R | MO | Senate | ? | ? |
+| Roy Blunt | R | MO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/05338e3d-3140-4183-a426-d82750f5b028/) |
 | Lauren Boebert | R | CO | House | ? | ? |
 | Suzanne Bonamici | D | OR | House | ? | ? |
 | Cory Booker | D | NJ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/59bcec20-4be8-4b97-b453-5a867a1ae5e6/) |
-| John Boozman | R | AR | Senate | ? | ? |
+| John Boozman | R | AR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/a5045417-d7d0-4af1-b5f8-278d65999874/) |
 | Mike Bost | R | IL | House | ? | ? |
 | Carolyn Bourdeaux | D | GA | House | ? | ? |
 | Jamaal Bowman | D | NY | House | ? | ? |
@@ -64,7 +64,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mike Braun | R | IN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/61b143ed-2c78-46a4-854e-f81a39e46c91/) |
 | Mo Brooks | R | AL | House | ? | ? |
 | Anthony Brown | D | MD | House | ? | ? |
-| Sherrod Brown | D | OH | Senate | ? | ? |
+| Sherrod Brown | D | OH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c6720404-335d-44a6-891e-907418229c82/) |
 | Julia Brownley | D | CA | House | ? | ? |
 | Vern Buchanan | R | FL | House | ? | ? |
 | Ken Buck | R | CO | House | ? | ? |
@@ -72,13 +72,13 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Ted Budd | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041365.pdf) |
 | Tim Burchett | R | TN | House | ? | ? |
 | Michael Burgess | R | TX | House | ? | ? |
-| Richard Burr | R | NC | Senate | ? | ? |
+| Richard Burr | R | NC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/940a7e2d-f562-4163-bbf5-fc737cc76634/) |
 | Cori Bush | D | MO | House | ? | ? |
 | Cheri Bustos | D | IL | House | ? | ? |
 | George Butterfield | D | NC | House | ? | ? |
 | Ken Calvert | R | CA | House | ? | ? |
 | Katherin Cammack | R | FL | House | ? | ? |
-| Maria Cantwell | D | WA | Senate | ? | ? |
+| Maria Cantwell | D | WA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/39c11a93-d37f-4915-9c53-d841b06e9eba/) |
 | Shelley Capito | R | WV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/487f490c-9e41-4fbe-9644-97ee4d23f7a8/) |
 | Salud Carbajal | D | CA | House | ? | ? |
 | Benjamin Cardin | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b5cc6c13-c3e1-42fa-8922-a76e541f6443/) |
@@ -109,10 +109,10 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Andrew Clyde | R | GA | House | ? | ? |
 | Steve Cohen | D | TN | House | ? | ? |
 | Tom Cole | R | OK | House | ? | ? |
-| Susan Collins | R | ME | Senate | ? | ? |
+| Susan Collins | R | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1c630118-72c7-4281-8bc7-8ab3648070af/) |
 | James Comer | R | KY | House | ? | ? |
 | Gerald Connolly | D | VA | House | ? | ? |
-| Christopher Coons | D | DE | Senate | ? | ? |
+| Christopher Coons | D | DE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/2637ee01-8f91-42f6-8afd-30b150f7da44/) |
 | Jim Cooper | D | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041740.pdf) |
 | John Cornyn | R | TX | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1fc197cb-c7c7-4d4f-893d-18b5fdf57047/) |
 | Luis Correa | D | CA | House | ? | ? |
@@ -121,8 +121,8 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Tom Cotton | R | AR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/def41c9c-c01f-45c1-b29b-8ef91ec8fae3/) |
 | Joe Courtney | D | CT | House | ? | ? |
 | Angie Craig | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218258.pdf) |
-| Kevin Cramer | R | ND | Senate | ? | ? |
-| Michael Crapo | R | ID | Senate | ? | ? |
+| Kevin Cramer | R | ND | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/54d9ef7b-8ce3-4301-af5d-f67922f1dfea/) |
+| Michael Crapo | R | ID | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7842db15-848b-4e41-8205-8711c26927f1/) |
 | Eric Crawford | R | AR | House | ? | ? |
 | Dan Crenshaw | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043447.pdf) |
 | Charlie Crist | D | FL | House | ? | ? |
@@ -131,7 +131,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Henry Cuellar | D | TX | House | ? | ? |
 | John Curtis | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040200.pdf) |
 | Tony Cárdenas | D | CA | House | ? | ? |
-| Steve Daines | R | MT | Senate | ? | ? |
+| Steve Daines | R | MT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a69cd494-148f-43c0-b32a-4a365f62f764/) |
 | Sharice Davids | D | KS | House | ? | ? |
 | Warren Davidson | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040160.pdf) |
 | Danny Davis | D | IL | House | ? | ? |
@@ -151,7 +151,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Lloyd Doggett | D | TX | House | ? | ? |
 | Byron Donalds | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043295.pdf) |
 | Michael Doyle | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041825.pdf) |
-| Tammy Duckworth | D | IL | Senate | ? | ? |
+| Tammy Duckworth | D | IL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/499d6489-b706-4451-bcd9-b9dedd933266/) |
 | Jeff Duncan | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041941.pdf) |
 | Neal Dunn | R | FL | House | ? | ? |
 | Richard Durbin | D | IL | Senate | NO | [2020](https://efdsearch.senate.gov/search/print/paper/cec7aa17-c5f8-4280-be60-610b0517373e/)|
@@ -168,7 +168,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Dianne Feinstein | D | CA | Senate | NO | [2020](https://efdsearch.senate.gov/search/print/paper/90a993b4-9333-416f-b142-491f1f1caba8/) |
 | Drew Ferguson | R | GA | House | ? | ? |
 | Michelle Fischbach | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041736.pdf) |
-| Deb Fischer | R | NE | Senate | ? | ? |
+| Deb Fischer | R | NE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/3e5aa01a-7a28-4fbd-8141-4cba9fc537eb/) |
 | Scott Fitzgerald | R | WI | House | ? | ? |
 | Brian Fitzpatrick | R | PA | House | ? | ? |
 | Charles Fleischmann | R | TN | House | ? | ? |
@@ -202,7 +202,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Josh Gottheimer | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041376.pdf) |
 | Lindsey Graham | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f0d05aaf-ea30-4e0e-b35b-368e14bb1935/) |
 | Kay Granger | R | TX | House | ? | ? |
-| Charles Grassley | R | IA | Senate | ? | ? |
+| Charles Grassley | R | IA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6dc791b1-c2ad-4c7a-82db-fe961d842977/) |
 | Garret Graves | R | LA | House | ? | ? |
 | Sam Graves | R | MO | House | ? | ? |
 | Al Green | D | TX | House | ? | ? |
@@ -214,15 +214,15 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Michael Guest | R | MS | House | ? | ? |
 | Brett Guthrie | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218219.pdf) |
 | Jim Hagedorn | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218317.pdf) |
-| Bill Hagerty | R | TN | Senate | ? | ? |
+| Bill Hagerty | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b2a6bec1-d597-4bd8-8d93-dc1235a1adea/) |
 | Josh Harder | D | CA | House | ? | ? |
 | Andy Harris | R | MD | House | ? | ? |
 | Diana Harshbarger | R | TN | House | ? | ? |
 | Vicky Hartzler | R | MO | House | ? | ? |
-| Margaret Hassan | D | NH | Senate | ? | ? |
+| Margaret Hassan | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8a373097-c7da-42f8-a91e-b408c8ab7278/) |
 | Joshua Hawley | R | MO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1eeb0aee-337c-4c4a-8176-3e131c78acd8/) | Owns $1k-$15k of gold trust |
 | Jahana Hayes | D | CT | House | ? | ? |
-| Martin Heinrich | D | NM | Senate | ? | ? |
+| Martin Heinrich | D | NM | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7fa7db35-f3fc-48f2-84ea-eea4601b2676/) |
 | Kevin Hern | R | OK | House | ? | ? |
 | Yvette Herrell | R | NM | House | ? | ? |
 | Jaime Herrera Beutler | R | WA | House | ? | ? |
@@ -242,8 +242,8 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Richard Hudson | R | NC | House | ? | ? |
 | Jared Huffman | D | CA | House | ? | ? |
 | Bill Huizenga | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043445.pdf) |
-| Cindy Hyde-Smith | R | MS | Senate | ? | ? |
-| James Inhofe | R | OK | Senate | ? | ? |
+| Cindy Hyde-Smith | R | MS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/57bfa4f2-a036-466e-86c5-52e19b91fe05/) |
+| James Inhofe | R | OK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/aa625121-a7c6-4176-85b7-c714911d4731/) |
 | Darrell Issa | R | CA | House | ? | ? |
 | Sheila Jackson Lee | D | TX | House | ? | ? |
 | Ronny Jackson | R | TX | House | ? | ? |
@@ -256,13 +256,13 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Eddie Johnson | D | TX | House | ? | ? |
 | Henry Johnson | D | GA | House | ? | ? |
 | Mike Johnson | R | LA | House | ? | ? |
-| Ron Johnson | R | WI | Senate | ? | ? |
+| Ron Johnson | R | WI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/17a75cba-ab2a-42c3-84e7-7fbfd21d81f3/) |
 | Mondaire Jones | D | NY | House | ? | ? |
 | Jim Jordan | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040512.pdf) |
 | David Joyce | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041841.pdf) |
 | John Joyce | R | PA | House | ? | ? |
 | Kaialiʻi Kahele | D | HI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042595.pdf) |
-| Timothy Kaine | D | VA | Senate | ? | ? |
+| Timothy Kaine | D | VA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8c5a922e-6f4f-4b68-a0de-e64627a1cd9e/) |
 | Marcy Kaptur | D | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042389.pdf) |
 | John Katko | R | NY | House | ? | ? |
 | William Keating | D | MA | House | ? | ? |
@@ -278,29 +278,29 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Andy Kim | D | NJ | House | ? | ? |
 | Young Kim | R | CA | House | ? | ? |
 | Ron Kind | D | WI | House | ? | ? |
-| Angus King | I | ME | Senate | ? | ? |
+| Angus King | I | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/59245025-3bb4-482e-a804-e03971ad3705/) |
 | Adam Kinzinger | R | IL | House | ? | ? |
 | Ann Kirkpatrick | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041924.pdf) |
 | Amy Klobuchar | D | MN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ac3395fd-85d3-46a4-aa7e-8368ea96d2af/) |
 | Raja Krishnamoorthi | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041444.pdf) |
 | Ann Kuster | D | NH | House | ? | ? |
-| David Kustoff | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043731.pdf) |
-| Darin LaHood | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041020.pdf) |
-| Doug LaMalfa | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041334.pdf) |
-| Jacob LaTurner | R | KS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042776.pdf) |
-| Conor Lamb | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041692.pdf) |
+| David Kustoff | R | TN | House | ? | ? |
+| Darin LaHood | R | IL | House | ? | ? |
+| Dough LaMalfa | R | CA | House | ? | ? |
+| Jacob LaTurner | R | KS | House | ? | ? |
+| Conor Lamb | D | PA | House | ? | ? |
 | Doug Lamborn | R | CO | House | ? | ? |
 | James Langevin | D | RI | House | ? | ? |
-| James Lankford | R | OK | Senate | ? | ? |
+| James Lankford | R | OK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/95006fcd-7aa0-4ddd-9719-1e263e4b5de0/) |
 | Rick Larsen | D | WA | House | ? | ? |
 | John Larson | D | CT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040701.pdf) |
 | Robert Latta | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041391.pdf) |
-| Brenda Lawrence | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043435.pdf) |
-| Al Lawson | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042244.pdf) |
-| Patrick Leahy | D | VT | Senate | ? | ? |
-| Barbara Lee | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042276.pdf) |
-| Mike Lee | R | UT | Senate | ? | ? |
-| Susie Lee | D | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040247.pdf) |
+| Brenda Lawrence | D | MI | House | ? | ? |
+| Al Lawson | D | FL | House | ? | ? |
+| Patrick Leahy | D | VT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/27ca1d37-bb32-4a24-9c0b-41805d58031a/) |
+| Barbara Lee | D | CA | House | ? | ? |
+| Mike Lee | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/af2f05af-b704-4ef7-ad44-051b3109a2de/) |
+| Susie Lee | D | NV | House | ? | ? |
 | Teresa Leger Fernandez | D | NM | House | ? | ? |
 | Debbie Lesko | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042354.pdf) |
 | Julia Letlow | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042967.pdf) |
@@ -325,8 +325,8 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Joe Manchin | D | WV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a7607e49-f151-4bb1-b230-604ab8bdf2c3/) |
 | Tracey Mann | R | KS | House | ? | ? |
 | Kathy Manning | D | NC | House | ? | ? |
-| Edward Markey | D | MA | Senate | ? | ? |
-| Roger Marshall | R | KS | Senate | ? | ? |
+| Edward Markey | D | MA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/9dccb2c2-cd6f-4a6d-b644-c001653022bb/) |
+| Roger Marshall | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/9dccb2c2-cd6f-4a6d-b644-c001653022bb/) | Owns $15-50k of Sprott Physical Silver Trust USD (Purchased 8/10/2020) | Owns $15-50k of Sprott Physical Gold Trust (Purchased 8/10/2020)
 | Thomas Massie | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040193.pdf) |
 | Brian Mast | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041619.pdf) |
 | Doris Matsui | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
@@ -344,9 +344,9 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jerry McNerney | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042806.pdf) |
 | Gregory Meeks | D | NY | House | ? | ? |
 | Peter Meijer | R | MI | House | ? | ? |
-| Robert Menendez | D | NJ | Senate | ? | ? |
+| Robert Menendez | D | NJ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c29a3943-a0a4-4783-8b40-87853956b455/) |
 | Grace Meng | D | NY | House | ? | ? |
-| Jeff Merkley | D | OR | Senate | ? | ? |
+| Jeff Merkley | D | OR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/35a828c4-a167-4862-93e8-179d72e700d4/) |
 | Daniel Meuser | R | PA | House | ? | ? |
 | Kweisi Mfume | D | MD | House | ? | ? |
 | Carol Miller | R | WV | House | ? | ? |
@@ -357,7 +357,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Barry Moore | R | AL | House | ? | ? |
 | Blake Moore | R | UT | House | ? | ? |
 | Gwen Moore | D | WI | House | ? | ? |
-| Jerry Moran | R | KS | Senate | ? | ? |
+| Jerry Moran | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6cc69cc0-afd4-4328-9b15-cd1ad66cede5/) |
 | Joseph Morelle | D | NY | House | ? | ? |
 | Seth Moulton | D | MA | House | ? | ? |
 | Frank Mrvan | D | IN | House | ? | ? |
@@ -365,7 +365,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Lisa Murkowski | R | AK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c4061090-2ff1-444f-ae0d-777268a8ca7c/) |
 | Christopher Murphy | D | CT | Senate | ? | ? |
 | Stephanie Murphy | R | NC | House | ? | ? |
-| Patty Murray | D | WA | Senate | ? | ? |
+| Patty Murray | D | WA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d476ea8d-30b7-470d-bbb2-83247ef12bc6/) |
 | Jerrold Nadler | D | NY | House | ? | ? |
 | Grace Napolitano | D | CA | House | ? | ? |
 | Richard Neal | D | MA | House | ? | ? |
@@ -380,10 +380,10 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jay Obernolte | R | CA | House | ? | ? |
 | Alexandria Ocasio-Cortez | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043223.pdf) |
 | Ilhan Omar | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042970.pdf) |
-| Jon Ossoff | D | GA | Senate | ? | ? |
+| Jon Ossoff | D | GA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/51e488a6-2446-418c-810b-b55ae183e69c/) |
 | Clarence Owens | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041638.pdf) |
 | Tom O'Halleran | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041769.pdf) |
-| Alejandro Padilla | D | CA | Senate | ? | ? |
+| Alejandro Padilla | D | CA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7b77c9b2-ce8a-4958-b34f-387efb5940b9/) | Owns $1k-15k of $IAU - iShares Gold Trust |
 | Steven Palazzo | R | MS | House | ? | ? |
 | Frank Pallone | D | NJ | House | ? | ? |
 | Gary Palmer | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040165.pdf) |
@@ -396,7 +396,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Greg Pence | R | IN | House | ? | ? |
 | Ed Perlmutter | D | CO | House | ? | ? |
 | Scott Perry | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042142.pdf) |
-| Gary Peters | D | MI | Senate | ? | ? |
+| Gary Peters | D | MI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ce211035-9d0a-4679-b3d3-a3147b6abfe0/) |
 | Scott Peters | D | CA | House | ? | ? |
 | August Pfluger | R | TX | House | ? | ? |
 | Dean Phillips | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041411.pdf) |
@@ -411,21 +411,21 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mike Quigley | D | IL | House | ? | ? |
 | Aumua Amata Radewagen | R | AS | House | ? | ? |
 | Jamie Raskin | D | MD | House | ? | ? |
-| John Reed | D | RI | Senate | ? | ? |
+| John Reed | D | RI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/250dae9c-ee66-4527-9ace-16e026b5bc0a/) |
 | Tom Reed | R | NY | House | ? | ? |
 | Guy Reschenthaler | R | PA | House | ? | ? |
 | Kathleen Rice | D | NY | House | ? | ? |
 | Tom Rice | R | SC | House | ? | ? |
-| James Risch | R | ID | Senate | ? | ? |
+| James Risch | R | ID | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/9fe6b987-7d40-4fb5-ac66-9820580657c4/) |
 | Cathy Rodgers | R | WA | House | ? | ? |
 | Harold Rogers | R | KY | House | ? | ? |
 | Mike Rogers | R | AL | House | ? | ? |
 | Mitt Romney | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/580c4c34-031f-4dbc-89e3-52c84effb069/) | Owns $250K-$500K of gold bullion |
 | John Rose | R | TN | House | ? | ? |
-| Jacky Rosen | R | NV | Senate | ? | ? |
+| Jacky Rosen | R | NV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a0ba8285-475e-4619-8fce-b4606171ab41/) | Owns $15k-$50k of $SLV - iShares Silver Trust | Owns $50k-$100k of $SLV - iShares Silver Trust | Owns $50K-$100K of $GDX - VanEck Vectors Gold Miners ETF (x2) |
 | Matthew Rosendale | R | MT | House | ? | ? |
 | Deborah Ross | D | NC | House | ? | ? |
-| Mike Rounds | R | SD | Senate | ? | ? |
+| Mike Rounds | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a2db205f-0f01-41aa-a39c-237125042319/) | Owns $50K-100K of $IAU - iShares Gold Trust (x2) | Spouse Owns $1K-15K of $IAU - iShares Gold Trust | Sold $15K-50K of $IAU - iShares Gold Trust on 3/30/2020 | Purchased $1K-15K of $IAU - iShares Gold Trust on 9/28/2020 | Sold $1K-$15K of $IAU - iShares Gold Trust on 3/30/2020 | Spouse purchased $1K-15K of $IAU - iShares Gold Trust on 11/16/2020 |
 | David Rouzer | R | NC | House | ? | ? |
 | Chip Roy | R | TX | House | ? | ? |
 | Lucille Roybal-Allard | D | CA | House | ? | ? |
@@ -440,7 +440,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Michael San Nicolas | D | GU | House | ? | ? |
 | Bernard Sanders | I | VT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c4a5f872-617c-4ea9-82b3-4ac52bde7779/) |
 | John Sarbanes | D | MD | House | ? | ? |
-| Benjamin Sasse | R | NE | Senate | ? | ? |
+| Benjamin Sasse | R | NE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/96382550-3d02-40cc-9fd8-777bd3136d46/) |
 | Steve Scalise | R | LA | House | ? | ? |
 | Mary Scanlon | D | PA | House | ? | ? |
 | Janice Schakowsky | D | IL | House | ? | ? |
@@ -452,13 +452,13 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Charles Schumer | D | NY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/3bb014b5-83d4-469a-9d5e-6fdb4bc7259e/) |
 | David Schweikert | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042643.pdf) |
 | Austin Scott | R | GA | House | ? | ? |
-| Rick Scott | R | FL | Senate | ? | ? |
+| Rick Scott | R | FL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6b9fb205-454a-470b-b4cb-351f053b75e8/) | Purchased $500K-$1M of $GDX - VanEck Vectors Gold Miners ETF  on 7/21/2020 | Purchased $500K-$1M of $GLDM - SPDR Gold Minishares Trust on 3/18/2020 | Purchased $100K-250K of $GLDM - SPDR Gold Minishares Trust on 7/1/2020 | Purchased $500K-$1M of $GLDM - SPDR Gold Minishares Trust on 7/21/2020 | Spouse purchased $1M-$5M of $GDX - VanEck Vectors Gold Miners ETF on 7/21/2020 | Spouse purchased $500K-$1M of $GLDM - SPDR Gold Minishares Trust on 7/1/2020 | Spouse purchased $1M-5M of $GLDM - SPDR Gold Minishares Trust on 7/21/2020 | Spouse purcased $1M-$5M of $GDX - VanEck Vectors Gold Miners ETF on 7/21/2020 | Spouse purchased $1M-5M of $GLDM - SPDR Gold Minishares Trust on 3/18/2020 | Spouse purchased $1M-5M of $GLDM - SPDR Gold MiniShares Trust on 7/21/2020 | Spouse purchased $500k-$1m of $GDX - VanEck Vectors Gold Miners ETF on 7/21/2020 | Spouse purchased $250K-500K of $GLDM - SPDR Gold Minishares Trust on 7/1/2020 | Spouse purchased $500K-$1M of $GLDM - SPDR Gold Minishares Trust on 7/21/2020 |
 | Robert Scott | D | VA | House | ? | ? |
 | Tim Scott | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/383d5d69-3b2a-49ba-a57d-eba2e97726b3/) |
 | Pete Sessions | R | TX | House | ? | ? |
 | Terri Sewell | D | AL | House | ? | ? |
-| Jeanne Shaheen | D | NH | Senate | ? | ? |
-| Richard Shelby | R | AL | Senate | ? | ? |
+| Jeanne Shaheen | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/84ba6931-cc90-4227-b33c-96fa00a503a3/) |
+| Richard Shelby | R | AL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f77128bc-11ad-424d-99d0-03edc3704901/) |
 | Brad Sherman | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218239.pdf) |
 | Mikie Sherrill | D | NJ | House | ? | ? |
 | Michael Simpson | R | ID | House | ? | ? |
@@ -475,7 +475,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Abigail Spanberger | D | VA | House | ? | ? |
 | Victoria Spartz | R | IN | House | ? | ? |
 | Jackie Speier | D | CA | House | ? | ? |
-| Debbie Stabenow | D | MI | Senate | ? | ? |
+| Debbie Stabenow | D | MI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/879afb34-ce9d-412f-9d01-70c15bcac8e7/) |
 | Melanie Stansbury | D | NM | House | ? | ? |
 | Greg Stanton | D | AZ | House | ? | ? |
 | Pete Stauber | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043358.pdf) |
@@ -493,13 +493,13 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mark Takano | D | CA | House | ? | ? |
 | Van Taylor | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042566.pdf) |
 | Claudia Tenney | R | NY | House | ? | ? |
-| Jon Tester | D | MT | Senate | ? | ? |
+| Jon Tester | D | MT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f890a5f1-bfb7-41c4-89a7-23ad9c1badcb/)
 | Bennie Thompson | D | MS | House | ? | ? |
 | Glenn Thompson | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042459.pdf) |
 | Mike Thompson | D | CA | House | ? | ? |
-| John Thune | R | SD | Senate | ? | ? |
+| John Thune | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d0245a09-294f-491e-ad0b-081b33688f2a/) | 
 | Thomas Tiffany | R | WI | House | ? | ? |
-| Thom Tillis | R | NC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/008b142d-54f3-4e9b-8aca-f378eb9b9cf0/) |
+| Thom Tillis | R | NC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/008b142d-54f3-4e9b-8aca-f378eb9b9cf0/) | Owns $1K-15K of $SGGDX - First Eagle Gold A (NASDAQ) | Owns $1K-$15K of $PHYS - Sprott Physical Gold Trust ETV | Spouse purchased $1K-$15K of $SGGDX - First Eagle Gold Fund Class A on 8/6/2020| 
 | William Timmons | R | SC | House | ? | ? |
 | Dina Titus | D | NV | House | ? | ? |
 | Rashida Tlaib | D | MI | House | ? | ? |
@@ -516,7 +516,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | David Valadao | R | CA | House | ? | ? |
 | Jefferson Van Drew | R | NJ | House | ? | ? |
 | Beth Van Duyne | R | TX | House | ? | ? |
-| Chris Van Hollen | D | MD | Senate | ? | ? |
+| Chris Van Hollen | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/cd3c4664-9884-4b80-bed1-f14620a0f77c/) |
 | Juan Vargas | D | CA | House | ? | ? |
 | Marc Veasey | D | TX | House | ? | ? |
 | Filemon Vela | D | TX | House | ? | ? |
