@@ -171,25 +171,25 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Deb Fischer | R | NE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/3e5aa01a-7a28-4fbd-8141-4cba9fc537eb/) |
 | Scott Fitzgerald | R | WI | House | ? | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042167.pdf) | Nothing disclosed |
 | Brian Fitzpatrick | R | PA | House | ? | ? |
-| Charles Fleischmann | R | TN | House | ? | ? |
-| Lizzie Fletcher | D | TX | House | ? | ? |
+| Charles Fleischmann | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218180.pdf) |
+| Lizzie Fletcher | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041751.pdf) |
 | Jeff Fortenberry | R | NE | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042365.pdf) |
 | Bill Foster | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040656.pdf) |
-| Virginia Foxx | R | NC | House | ? | ? |
-| Lois Frankel | D | FL | House | ? | ? |
-| Scott Franklin | R | FL | House | ? | ? |
-| Russ Fulcher | R | ID | House | ? | ? |
+| Virginia Foxx | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040630.pdf) | $15-50k Gold Trust |
+| Lois Frankel | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040644.pdf) | $15-50k Gold Trust |
+| Scott Franklin | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042027.pdf) |
+| Russ Fulcher | R | ID | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041813.pdf) |
 | Matt Gaetz | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043510.pdf) |
 | Mike Gallagher | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041218.pdf) |
 | Ruben Gallego | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042071.pdf) |
-| John Garamendi | D | CA | House | ? | ? |
+| John Garamendi | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042524.pdf) |
 | Andrew Garbarino | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041328.pdf) |
-| Mike Garcia | R | CA | House | ? | ? |
-| Sylvia Garcia | D | TX | House | ? | ? |
+| Mike Garcia | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10036148.pdf) |
+| Sylvia Garcia | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042571.pdf) |
 | Jesús García | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042189.pdf) |
 | Bob Gibbs | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040278.pdf) |
 | Kirsten Gillibrand | D | NY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/62f96c02-951c-48f2-a227-9d8b17354f6d/) |
-| Carlos Gimenez | R | FL | House | ? | ? |
+| Carlos Gimenez | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042665.pdf) |
 | Louie Gohmert | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041594.pdf) |
 | Jared Golden | D | ME | House | ? | ? |
 | Jimmy Gomez | D | CA | House | ? | ? |
