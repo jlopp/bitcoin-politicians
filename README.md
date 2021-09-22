@@ -247,7 +247,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Darrell Issa | R | CA | House | ? | ? |
 | Sheila Jackson Lee | D | TX | House | ? | ? |
 | Ronny Jackson | R | TX | House | ? | ? |
-| Chris Jacobs | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040761.pdf) | Owns $50K-$100K in PayPal stock and $100K-$250K Gold Maple Leaf Coins |
+| Chris Jacobs | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040761.pdf) | $50K-$100K PayPal, $100K-$250K Gold Maple Leaf Coins |
 | Sara Jacobs | D | CA | House | ? | ? |
 | Pramila Jayapal | D | WA | House | ? | ? |
 | Hakeem Jeffries | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041804.pdf) |
@@ -367,7 +367,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Stephanie Murphy | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042169.pdf) |
 | Patty Murray | D | WA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d476ea8d-30b7-470d-bbb2-83247ef12bc6/) |
 | Jerrold Nadler | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218129.pdf) |
-| Grace Napolitano | D | CA | House | https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040823.pdf
+| Grace Napolitano | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040823.pdf) |
 | Richard Neal | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042257.pdf) |
 | Joe Neguse | D | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042263.pdf) |
 | Troy Nehls | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10035955.pdf) |
