@@ -98,17 +98,17 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | David Cawthorn | R | NC | House | ? | ? |
 | Steve Chabot | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041654.pdf) |
 | Liz Cheney | R | WY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043201.pdf) |
-| Judy Chu | D | CA | House | ? | ? |
-| David Cicilline | D | RI | House | ? | ? |
-| Katherine Clark | D | MA | House | ? | ? |
+| Judy Chu | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040998.pdf) |
+| David Cicilline | D | RI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043573.pdf) |
+| Katherine Clark | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041383.pdf) |
 | Yvette Clark | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043438.pdf) |
-| Emanuel Cleaver | D | MO | House | ? | ? |
-| Ben Cline | R | VA | House | ? | ? |
-| Michael Cloud | R | TX | House | ? | ? |
-| James Clyburn | D | SC | House | ? | ? |
-| Andrew Clyde | R | GA | House | ? | ? |
-| Steve Cohen | D | TN | House | ? | ? |
-| Tom Cole | R | OK | House | ? | ? |
+| Emanuel Cleaver | D | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042874.pdf) |
+| Ben Cline | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042173.pdf) |
+| Michael Cloud | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042165.pdf) | $1-15k precious metals |
+| James Clyburn | D | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042686.pdf) |
+| Andrew Clyde | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039523.pdf) |
+| Steve Cohen | D | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040832.pdf) | $50-100k gold bullion |
+| Tom Cole | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040523.pdf) |
 | Susan Collins | R | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1c630118-72c7-4281-8bc7-8ab3648070af/) |
 | James Comer | R | KY | House | ? | ? |
 | Gerald Connolly | D | VA | House | ? | ? |
