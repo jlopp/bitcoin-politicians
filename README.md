@@ -49,7 +49,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Sanford Bishop | D | GA | House | ? | ? |
 | Marsha Blackburn | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d2c71251-566c-42a4-bdd3-3eb29450d6d4/) |
 | Earl Blumenauer | D | OR | House | ? | ? |
-| Richard Blumenthal | D | CT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/3740ce3d-a430-41d6-9220-350437e1b83b/) |
+| Richard Blumenthal | D | CT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/3740ce3d-a430-41d6-9220-350437e1b83b/) | $1M+ gold bullion |
 | Lisa Blunt Rochester | D | DE | House | ? | ? |
 | Roy Blunt | R | MO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/05338e3d-3140-4183-a426-d82750f5b028/) |
 | Lauren Boebert | R | CO | House | ? | ? |
@@ -209,18 +209,18 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mark Green | R | TN | House | ? | ? |
 | Marjorie Greene | R | GA | House | ? | ? |
 | Morgan Griffith | R | VA | House | ? | ? |
-| Raúl Grijalva | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041464.pdf) | Owns SPDR Gold Trust $1k - $15k x2
+| Raúl Grijalva | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041464.pdf) | $2k-$30k gold trust |
 | Glenn Grothman | R | WI | House | ? | ? |
 | Michael Guest | R | MS | House | ? | ? |
 | Brett Guthrie | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218219.pdf) |
 | Jim Hagedorn | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218317.pdf) |
-| Bill Hagerty | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b2a6bec1-d597-4bd8-8d93-dc1235a1adea/) |
+| Bill Hagerty | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b2a6bec1-d597-4bd8-8d93-dc1235a1adea/) | $50k-$100k gold trust |
 | Josh Harder | D | CA | House | ? | ? |
 | Andy Harris | R | MD | House | ? | ? |
 | Diana Harshbarger | R | TN | House | ? | ? |
 | Vicky Hartzler | R | MO | House | ? | ? |
 | Margaret Hassan | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8a373097-c7da-42f8-a91e-b408c8ab7278/) |
-| Joshua Hawley | R | MO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1eeb0aee-337c-4c4a-8176-3e131c78acd8/) | Owns $1k-$15k of gold trust |
+| Joshua Hawley | R | MO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1eeb0aee-337c-4c4a-8176-3e131c78acd8/) | $1k-$15k gold trust |
 | Jahana Hayes | D | CT | House | ? | ? |
 | Martin Heinrich | D | NM | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7fa7db35-f3fc-48f2-84ea-eea4601b2676/) |
 | Kevin Hern | R | OK | House | ? | ? |
@@ -278,29 +278,29 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Andy Kim | D | NJ | House | ? | ? |
 | Young Kim | R | CA | House | ? | ? |
 | Ron Kind | D | WI | House | ? | ? |
-| Angus King | I | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/59245025-3bb4-482e-a804-e03971ad3705/) |
+| Angus King | I | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/66d8ba15-2b21-4d36-aae8-e135a8ae0e7e/) |
 | Adam Kinzinger | R | IL | House | ? | ? |
 | Ann Kirkpatrick | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041924.pdf) |
 | Amy Klobuchar | D | MN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ac3395fd-85d3-46a4-aa7e-8368ea96d2af/) |
 | Raja Krishnamoorthi | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041444.pdf) |
 | Ann Kuster | D | NH | House | ? | ? |
-| David Kustoff | R | TN | House | ? | ? |
-| Darin LaHood | R | IL | House | ? | ? |
-| Dough LaMalfa | R | CA | House | ? | ? |
-| Jacob LaTurner | R | KS | House | ? | ? |
-| Conor Lamb | D | PA | House | ? | ? |
+| David Kustoff | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043731.pdf) |
+| Darin LaHood | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041020.pdf) |
+| Doug LaMalfa | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041334.pdf) |
+| Jacob LaTurner | R | KS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042776.pdf) |
+| Conor Lamb | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041692.pdf) |
 | Doug Lamborn | R | CO | House | ? | ? |
 | James Langevin | D | RI | House | ? | ? |
 | James Lankford | R | OK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/95006fcd-7aa0-4ddd-9719-1e263e4b5de0/) |
 | Rick Larsen | D | WA | House | ? | ? |
 | John Larson | D | CT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040701.pdf) |
 | Robert Latta | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041391.pdf) |
-| Brenda Lawrence | D | MI | House | ? | ? |
-| Al Lawson | D | FL | House | ? | ? |
+| Brenda Lawrence | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043435.pdf) |
+| Al Lawson | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042244.pdf) |
 | Patrick Leahy | D | VT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/27ca1d37-bb32-4a24-9c0b-41805d58031a/) |
-| Barbara Lee | D | CA | House | ? | ? |
+| Barbara Lee | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042276.pdf) |
 | Mike Lee | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/af2f05af-b704-4ef7-ad44-051b3109a2de/) |
-| Susie Lee | D | NV | House | ? | ? |
+| Susie Lee | D | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040247.pdf) |
 | Teresa Leger Fernandez | D | NM | House | ? | ? |
 | Debbie Lesko | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042354.pdf) |
 | Julia Letlow | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042967.pdf) |
@@ -326,7 +326,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Tracey Mann | R | KS | House | ? | ? |
 | Kathy Manning | D | NC | House | ? | ? |
 | Edward Markey | D | MA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/9dccb2c2-cd6f-4a6d-b644-c001653022bb/) |
-| Roger Marshall | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/9dccb2c2-cd6f-4a6d-b644-c001653022bb/) | Owns $15-50k of Sprott Physical Silver Trust USD (Purchased 8/10/2020) | Owns $15-50k of Sprott Physical Gold Trust (Purchased 8/10/2020)
+| Roger Marshall | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a9188089-c0fa-4731-b759-58e429850cd8/) | $15-50k Silver Trust, $15-50k Gold Trust |
 | Thomas Massie | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040193.pdf) |
 | Brian Mast | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041619.pdf) |
 | Doris Matsui | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
@@ -383,7 +383,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jon Ossoff | D | GA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/51e488a6-2446-418c-810b-b55ae183e69c/) |
 | Clarence Owens | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041638.pdf) |
 | Tom O'Halleran | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041769.pdf) |
-| Alejandro Padilla | D | CA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7b77c9b2-ce8a-4958-b34f-387efb5940b9/) | Owns $1k-15k of $IAU - iShares Gold Trust |
+| Alejandro Padilla | D | CA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7b77c9b2-ce8a-4958-b34f-387efb5940b9/) | $1k-15k Gold Trust |
 | Steven Palazzo | R | MS | House | ? | ? |
 | Frank Pallone | D | NJ | House | ? | ? |
 | Gary Palmer | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040165.pdf) |
@@ -420,12 +420,12 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Cathy Rodgers | R | WA | House | ? | ? |
 | Harold Rogers | R | KY | House | ? | ? |
 | Mike Rogers | R | AL | House | ? | ? |
-| Mitt Romney | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/580c4c34-031f-4dbc-89e3-52c84effb069/) | Owns $250K-$500K of gold bullion |
+| Mitt Romney | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/580c4c34-031f-4dbc-89e3-52c84effb069/) | $250K-$500K gold bullion |
 | John Rose | R | TN | House | ? | ? |
-| Jacky Rosen | R | NV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a0ba8285-475e-4619-8fce-b4606171ab41/) | Owns $15k-$50k of $SLV - iShares Silver Trust | Owns $50k-$100k of $SLV - iShares Silver Trust | Owns $50K-$100K of $GDX - VanEck Vectors Gold Miners ETF (x2) |
+| Jacky Rosen | R | NV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a0ba8285-475e-4619-8fce-b4606171ab41/) | $50k-$100k $SLV, $50K-$100K $GDX |
 | Matthew Rosendale | R | MT | House | ? | ? |
 | Deborah Ross | D | NC | House | ? | ? |
-| Mike Rounds | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a2db205f-0f01-41aa-a39c-237125042319/) | Owns $50K-100K of $IAU - iShares Gold Trust (x2) | Spouse Owns $1K-15K of $IAU - iShares Gold Trust | Sold $15K-50K of $IAU - iShares Gold Trust on 3/30/2020 | Purchased $1K-15K of $IAU - iShares Gold Trust on 9/28/2020 | Sold $1K-$15K of $IAU - iShares Gold Trust on 3/30/2020 | Spouse purchased $1K-15K of $IAU - iShares Gold Trust on 11/16/2020 |
+| Mike Rounds | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a2db205f-0f01-41aa-a39c-237125042319/) | $50K-100K Gold Trust |
 | David Rouzer | R | NC | House | ? | ? |
 | Chip Roy | R | TX | House | ? | ? |
 | Lucille Roybal-Allard | D | CA | House | ? | ? |
@@ -452,7 +452,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Charles Schumer | D | NY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/3bb014b5-83d4-469a-9d5e-6fdb4bc7259e/) |
 | David Schweikert | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042643.pdf) |
 | Austin Scott | R | GA | House | ? | ? |
-| Rick Scott | R | FL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6b9fb205-454a-470b-b4cb-351f053b75e8/) | Purchased $500K-$1M of $GDX - VanEck Vectors Gold Miners ETF  on 7/21/2020 | Purchased $500K-$1M of $GLDM - SPDR Gold Minishares Trust on 3/18/2020 | Purchased $100K-250K of $GLDM - SPDR Gold Minishares Trust on 7/1/2020 | Purchased $500K-$1M of $GLDM - SPDR Gold Minishares Trust on 7/21/2020 | Spouse purchased $1M-$5M of $GDX - VanEck Vectors Gold Miners ETF on 7/21/2020 | Spouse purchased $500K-$1M of $GLDM - SPDR Gold Minishares Trust on 7/1/2020 | Spouse purchased $1M-5M of $GLDM - SPDR Gold Minishares Trust on 7/21/2020 | Spouse purcased $1M-$5M of $GDX - VanEck Vectors Gold Miners ETF on 7/21/2020 | Spouse purchased $1M-5M of $GLDM - SPDR Gold Minishares Trust on 3/18/2020 | Spouse purchased $1M-5M of $GLDM - SPDR Gold MiniShares Trust on 7/21/2020 | Spouse purchased $500k-$1m of $GDX - VanEck Vectors Gold Miners ETF on 7/21/2020 | Spouse purchased $250K-500K of $GLDM - SPDR Gold Minishares Trust on 7/1/2020 | Spouse purchased $500K-$1M of $GLDM - SPDR Gold Minishares Trust on 7/21/2020 |
+| Rick Scott | R | FL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6b9fb205-454a-470b-b4cb-351f053b75e8/) | $500K-$1M $GDX, $1M-$2M $GLDM |
 | Robert Scott | D | VA | House | ? | ? |
 | Tim Scott | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/383d5d69-3b2a-49ba-a57d-eba2e97726b3/) |
 | Pete Sessions | R | TX | House | ? | ? |
@@ -499,7 +499,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mike Thompson | D | CA | House | ? | ? |
 | John Thune | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d0245a09-294f-491e-ad0b-081b33688f2a/) | 
 | Thomas Tiffany | R | WI | House | ? | ? |
-| Thom Tillis | R | NC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/008b142d-54f3-4e9b-8aca-f378eb9b9cf0/) | Owns $1K-15K of $SGGDX - First Eagle Gold A (NASDAQ) | Owns $1K-$15K of $PHYS - Sprott Physical Gold Trust ETV | Spouse purchased $1K-$15K of $SGGDX - First Eagle Gold Fund Class A on 8/6/2020| 
+| Thom Tillis | R | NC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/008b142d-54f3-4e9b-8aca-f378eb9b9cf0/) | $1K-15K $SGGDX, $1K-$15K $PHYS |
 | William Timmons | R | SC | House | ? | ? |
 | Dina Titus | D | NV | House | ? | ? |
 | Rashida Tlaib | D | MI | House | ? | ? |
