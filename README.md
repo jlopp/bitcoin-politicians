@@ -363,7 +363,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Frank Mrvan | D | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218086.pdf) |
 | Markwayne Mullin | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041022.pdf) |
 | Lisa Murkowski | R | AK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c4061090-2ff1-444f-ae0d-777268a8ca7c/) |
-| Christopher Murphy | D | CT | Senate | ? | ? |
+| Christopher Murphy | D | CT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/dff99f15-f881-4399-be59-b2e054f20b55/) |
 | Stephanie Murphy | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042169.pdf) |
 | Patty Murray | D | WA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d476ea8d-30b7-470d-bbb2-83247ef12bc6/) |
 | Jerrold Nadler | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218129.pdf) |
