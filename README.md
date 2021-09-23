@@ -229,38 +229,38 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jody Hice | R | GA | House | ? | ? |
 | John Hickenlooper | D | CO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8ce6a0ba-f62b-401e-ac02-6f084b0d8c77/) |
 | Brian Higgins | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041409.pdf) |
-| Clay Higgens | R | LA | House | ? | ? |
-| French Hill | R | AR | House | ? | ? |
-| James Himes | D | CT | House | ? | ? |
+| Clay Higgens | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040372.pdf) | No assets disclosed |
+| French Hill | R | AR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041847.pdf) |
+| James Himes | D | CT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042008.pdf) |
 | Ashley Hinson | R | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043160.pdf) |
 | Mazie Hirono | D | HI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/861b60bd-3808-4d4f-aa17-73d973ab21c9/) |
 | John Hoeven | R | ND | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b27ecc82-4df2-43e4-833f-3296e3eeebeb/) |
 | Trey Hollingsworth | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218263.pdf) |
-| Steven Horsford | D | NV | House | ? | ? |
-| Chrissy Houlahan | D | PA | House | ? | ? |
+| Steven Horsford | D | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043460.pdf) |
+| Chrissy Houlahan | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042094.pdf) |
 | Steny Hoyer | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041882.pdf) |
-| Richard Hudson | R | NC | House | ? | ? |
-| Jared Huffman | D | CA | House | ? | ? |
+| Richard Hudson | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218206.pdf) |
+| Jared Huffman | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041332.pdf) |
 | Bill Huizenga | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043445.pdf) |
 | Cindy Hyde-Smith | R | MS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/57bfa4f2-a036-466e-86c5-52e19b91fe05/) |
 | James Inhofe | R | OK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/aa625121-a7c6-4176-85b7-c714911d4731/) |
-| Darrell Issa | R | CA | House | ? | ? |
-| Sheila Jackson Lee | D | TX | House | ? | ? |
-| Ronny Jackson | R | TX | House | ? | ? |
+| Darrell Issa | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040348.pdf) |
+| Sheila Jackson Lee | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218265.pdf) |
+| Ronny Jackson | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042367.pdf) |
 | Chris Jacobs | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040761.pdf) | $50K-$100K PayPal, $100K-$250K Gold Maple Leaf Coins |
-| Sara Jacobs | D | CA | House | ? | ? |
-| Pramila Jayapal | D | WA | House | ? | ? |
+| Sara Jacobs | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10035488.pdf) | $15-50k Gold Trust |
+| Pramila Jayapal | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041388.pdf) |
 | Hakeem Jeffries | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041804.pdf) |
 | Bill Johnson | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042321.pdf) |
 | Dusty Johnson | R | SD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041049.pdf) |
-| Eddie Johnson | D | TX | House | ? | ? |
-| Henry Johnson | D | GA | House | ? | ? |
-| Mike Johnson | R | LA | House | ? | ? |
+| Eddie Johnson | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041660.pdf) |
+| Henry Johnson | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042493.pdf) |
+| Mike Johnson | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043280.pdf) |
 | Ron Johnson | R | WI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/17a75cba-ab2a-42c3-84e7-7fbfd21d81f3/) |
 | Mondaire Jones | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218299.pdf) |
 | Jim Jordan | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040512.pdf) |
 | David Joyce | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041841.pdf) |
-| John Joyce | R | PA | House | ? | ? |
+| John Joyce | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042155.pdf) |
 | Kaialiʻi Kahele | D | HI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042595.pdf) |
 | Timothy Kaine | D | VA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8c5a922e-6f4f-4b68-a0de-e64627a1cd9e/) |
 | Marcy Kaptur | D | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042389.pdf) |
