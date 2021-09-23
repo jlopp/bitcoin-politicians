@@ -31,29 +31,29 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | James Baird | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042980.pdf) |
 | Troy Balderson | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042269.pdf) |
 | Tammy Baldwin | D | WI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/94bbc60f-debe-4696-a27e-4e39f51a6fd9/) |
-| Jim Banks | R | IN | House | ? | ? |
-| Garland Barr | R | KY | House | ? | ? |
-| Nanette Barragan | D | CA | House | ? | ? |
+| Jim Banks | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040942.pdf) |
+| Garland Barr | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042218.pdf) | $1-15k Gold Trust |
+| Nanette Barragan | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040102.pdf) |
 | John Barrasso | R | WY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ad59484e-58c5-47a6-b96d-a5da3ea36e96/) |
-| Karen Bass | D | CA | House | ? | ? |
+| Karen Bass | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042592.pdf) |
 | Joyce Beatty | D | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043705.pdf) |
 | Michael Bennet | D | CO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/39baf99f-a698-44c5-a764-0eb6490253b2/) |
-| Cliff Bentz | R | OR | House | ? | ? |
-| Ami Bera | D | CA | House | ? | ? |
-| Jack Bergman | R | MI | House | ? | ? |
+| Cliff Bentz | R | OR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041270.pdf) |
+| Ami Bera | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041885.pdf) |
+| Jack Bergman | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041937.pdf) |
 | Donald Beyer | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040483.pdf) |
-| Stephanie Bice | R | OK | House | ? | ? |
+| Stephanie Bice | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042939.pdf) |
 | Andy Biggs | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041364.pdf) |
 | Gus Bilirakis | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218227.pdf) |
-| Dan Bishop | R | NC | House | ? | ? |
-| Sanford Bishop | D | GA | House | ? | ? |
+| Dan Bishop | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040056.pdf) |
+| Sanford Bishop | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041468.pdf) |
 | Marsha Blackburn | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d2c71251-566c-42a4-bdd3-3eb29450d6d4/) |
-| Earl Blumenauer | D | OR | House | ? | ? |
+| Earl Blumenauer | D | OR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039957.pdf) |
 | Richard Blumenthal | D | CT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/3740ce3d-a430-41d6-9220-350437e1b83b/) | $1M+ gold bullion |
-| Lisa Blunt Rochester | D | DE | House | ? | ? |
+| Lisa Blunt Rochester | D | DE | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041776.pdf) | sold all Gold Trust |
 | Roy Blunt | R | MO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/05338e3d-3140-4183-a426-d82750f5b028/) |
-| Lauren Boebert | R | CO | House | ? | ? |
-| Suzanne Bonamici | D | OR | House | ? | ? |
+| Lauren Boebert | R | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043518.pdf) |
+| Suzanne Bonamici | D | OR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040877.pdf) | $100-250k gold coins |
 | Cory Booker | D | NJ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/59bcec20-4be8-4b97-b453-5a867a1ae5e6/) |
 | John Boozman | R | AR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/a5045417-d7d0-4af1-b5f8-278d65999874/) |
 | Mike Bost | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042894.pdf) |
