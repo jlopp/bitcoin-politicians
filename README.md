@@ -332,7 +332,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Doris Matsui | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
 | Lucy McBath | D | GA | House | ? | ? |
 | Kevin McCarthy | R | CA | House | ? | ? |
-| Michael McCaul | R | TX | House | ? | ? |
+| Michael McCaul | R | TX | House | YES | [2021](https://disclosures-clerk.house.gov//public_disc/ptr-pdfs/2021/8217869.pdf) | GBTC in children's trust |
 | Lisa McClain | R | MI | House | ? | ? |
 | Tom McClintock | R | CA | House | ? | ? |
 | Betty McCollum | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042035.pdf) |
@@ -525,7 +525,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Ann Wagner | R | MO | House | ? | ? |
 | Tim Walberg | R | MI | House | ? | ? |
 | Jackie Walorski | R | IN | House | ? | ? |
-| Michael Waltz | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042264.pdf) |
+| Michael Waltz | R | FL | House | YES | [2021](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019072.pdf) |
 | Mark Warner | D | VA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/4c7a6e56-310b-4cbc-9310-72af1e0ea0d8/) |
 | Raphael Warnock | D | GA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8be79d29-e293-478f-a858-63936281f883/) |
 | Elizabeth Warren | D | MA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8685d414-5ed8-4d2e-b246-19790e981ff6/) |
