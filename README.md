@@ -308,7 +308,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mike Levin | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040396.pdf) |
 | Ted Lieu | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042330.pdf) |
 | Zoe Lofgren | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040456.pdf) |
-| Billy Long | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040351.pdf) |
+| Billy Long | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218266.pdf) |
 | Barry Loudermilk | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043320.pdf) |
 | Alan Lowenthal | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040113.pdf) | $15K-$50K gold trust |
 | Frank Lucas | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041075.pdf) |
@@ -354,7 +354,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mariannette Miller-Meeks | R | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043392.pdf) |
 | John Moolenaar | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042174.pdf) |
 | Alexander Mooney | R | WV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043589.pdf) |
-| Barry Moore | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040681.pdf) | $1-15k "crypto currency" |
+| Barry Moore | R | AL | House | YES | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040681.pdf) | $1-15k "crypto currency" |
 | Blake Moore | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041325.pdf) |
 | Gwen Moore | D | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218087.pdf) |
 | Jerry Moran | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6cc69cc0-afd4-4328-9b15-cd1ad66cede5/) |
