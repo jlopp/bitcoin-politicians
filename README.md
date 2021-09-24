@@ -489,49 +489,48 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Dan Sullivan | R | AK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7567775a-9f88-42a7-b906-68a4449865a5/) |
 | Thomas Suozzi | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042262.pdf) |Owns $50K-$100K of $SQ - Square, Inc. | Owns $1K-$15K of $SQ - Square, Inc. (x2) |
 | Eric Swalwell | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041327.pdf) |
-| Linda Sánchez | D | CA | House | ? | ? |
-| Mark Takano | D | CA | House | ? | ? |
+| Linda Sánchez | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043493.pdf) |
+| Mark Takano | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042128.pdf) |
 | Van Taylor | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042566.pdf) |
 | Claudia Tenney | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042689.pdf) | Owns $1K-$15K of $GLD - SDPR Gold Trust & $1K-$15K of $ VanEck Vectors ETF Trust - VanEck Vector Gold Miners ETF |
 | Jon Tester | D | MT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f890a5f1-bfb7-41c4-89a7-23ad9c1badcb/)
-| Bennie Thompson | D | MS | House | ? | ? |
+| Bennie Thompson | D | MS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042852.pdf) |
 | Glenn Thompson | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042459.pdf) |
-| Mike Thompson | D | CA | House | ? | ? |
+| Mike Thompson | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218197.pdf) |
 | John Thune | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d0245a09-294f-491e-ad0b-081b33688f2a/) |
 | Thomas Tiffany | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041336.pdf) |
 | Thom Tillis | R | NC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/008b142d-54f3-4e9b-8aca-f378eb9b9cf0/) | $1K-15K $SGGDX, $1K-$15K $PHYS |
-| William Timmons | R | SC | House | ? | ? |
-| Dina Titus | D | NV | House | ? | ? |
-| Rashida Tlaib | D | MI | House | ? | ? |
+| William Timmons | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040685.pdf) |
+| Dina Titus | D | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218278.pdf) |
+| Rashida Tlaib | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041151.pdf) |
 | Paul Tonko | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042991.pdf) |
 | Patrick Toomey | R | PA | Senate | YES | [2021](https://efdsearch.senate.gov/search/view/ptr/b1deab19-2db4-481b-97eb-8b616f00d7f9/) | GBTC & ETHE |
-| Norma Torres | D | CA | House | ? | ? |
+| Norma Torres | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041659.pdf) |
 | Richie Torres | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043595.pdf) |
-| Lori Trahan | D | MA | House | ? | ? |
 | Lori Trahan | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041344.pdf) |
 | David Trone | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041946.pdf) |
 | Tommy Tuberville | R | AL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/17abcf53-316c-4a5f-811e-40f13bdd442c/) |
 | Michael Turner | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040183.pdf) |
 | Lauren Underwood | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041518.pdf) |
 | Fred Upton | R | MI | House | ? | ? |
-| David Valadao | R | CA | House | ? | ? |
-| Jefferson Van Drew | R | NJ | House | ? | ? |
-| Beth Van Duyne | R | TX | House | ? | ? |
+| David Valadao | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042949.pdf) | No assets disclosed |
+| Jefferson Van Drew | R | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) |
+| Beth Van Duyne | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041645.pdf) |
 | Chris Van Hollen | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/cd3c4664-9884-4b80-bed1-f14620a0f77c/) |
-| Juan Vargas | D | CA | House | ? | ? |
-| Marc Veasey | D | TX | House | ? | ? |
-| Filemon Vela | D | TX | House | ? | ? |
+| Juan Vargas | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040243.pdf) |
+| Marc Veasey | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041013.pdf) |
+| Filemon Vela | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218259.pdf) |
 | Nydia Velázquez | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041727.pdf) |
-| Ann Wagner | R | MO | House | ? | ? |
-| Tim Walberg | R | MI | House | ? | ? |
-| Jackie Walorski | R | IN | House | ? | ? |
+| Ann Wagner | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040256.pdf) |
+| Tim Walberg | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040623.pdf) |
+| Jackie Walorski | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040629.pdf) |
 | Michael Waltz | R | FL | House | YES | [2021](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019072.pdf) |
 | Mark Warner | D | VA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/4c7a6e56-310b-4cbc-9310-72af1e0ea0d8/) |
 | Raphael Warnock | D | GA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8be79d29-e293-478f-a858-63936281f883/) |
 | Elizabeth Warren | D | MA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8685d414-5ed8-4d2e-b246-19790e981ff6/) |
 | Debbie Wasserman Schultz | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041274.pdf) |
 | Maxine Waters | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042931.pdf) |
-| Bonnie Watson Coleman | D | NJ | House | ? | ? |
+| Bonnie Watson Coleman | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218279.pdf) |
 | Randy Weber | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042047.pdf) |
 | Peter Welch | D | VT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039965.pdf) |
 | Brad Wenstrup | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040308.pdf) |
