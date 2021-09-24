@@ -460,32 +460,32 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jeanne Shaheen | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/84ba6931-cc90-4227-b33c-96fa00a503a3/) |
 | Richard Shelby | R | AL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f77128bc-11ad-424d-99d0-03edc3704901/) |
 | Brad Sherman | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218239.pdf) |
-| Mikie Sherrill | D | NJ | House | ? | ? |
-| Michael Simpson | R | ID | House | ? | ? |
+| Mikie Sherrill | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041549.pdf) | $15K-$50K gold trust |
+| Michael Simpson | R | ID | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042838.pdf) | $100K-$250 precious metals |
 | Kyrsten Sinema | D | AZ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/429aa5eb-0b1f-470b-a5ee-10eaf7f43770/) |
-| Albio Sires | D | NJ | House | ? | ? |
-| Elissa Slotkin | D | MI | House | ? | ? |
-| Adam Smith | D | WA | House | ? | ? |
+| Albio Sires | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218089.pdf) |
+| Elissa Slotkin | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042516.pdf) |
+| Adam Smith | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039967.pdf) |
 | Adrian Smith | R | NE | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042453.pdf) |
-| Christopher Smith | R | NJ | House | ? | ? |
-| Jason Smith | R | MO | House | ? | ? |
+| Christopher Smith | R | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042306.pdf) |
+| Jason Smith | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042411.pdf) |
 | Tina Smith | D | MN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ba4992b2-d537-4c70-a2ae-03b1ae293899/) |
-| Lloyd Smucker | R | PA | House | ? | ? |
+| Lloyd Smucker | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041975.pdf) |
 | Darren Soto | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042230.pdf) |
-| Abigail Spanberger | D | VA | House | ? | ? |
-| Victoria Spartz | R | IN | House | ? | ? |
-| Jackie Speier | D | CA | House | ? | ? |
+| Abigail Spanberger | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040088.pdf) |
+| Victoria Spartz | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042951.pdf) |
+| Jackie Speier | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043128.pdf) | $30K-$100K gold miners |
 | Debbie Stabenow | D | MI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/879afb34-ce9d-412f-9d01-70c15bcac8e7/) |
-| Melanie Stansbury | D | NM | House | ? | ? |
+| Melanie Stansbury | D | NM | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2021/10040188.pdf) |
 | Greg Stanton | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040307.pdf) |
 | Pete Stauber | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043358.pdf) |
-| Michelle Steel | R | CA | House | ? | ? |
+| Michelle Steel | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041510.pdf) |
 | Elise Stefanik | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218268.pdf) |
 | Bryan Steil | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040794.pdf) |
 | Gregory Steube | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041978.pdf) |
-| Haley Stevens | D | MI | House | ? | ? |
+| Haley Stevens | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040950.pdf) |
 | Chris Stewart | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041913.pdf) |
-| Marilyn Strickland | D | WA | House | ? | ? |
+| Marilyn Strickland | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042473.pdf) |
 | Dan Sullivan | R | AK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7567775a-9f88-42a7-b906-68a4449865a5/) |
 | Thomas Suozzi | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042262.pdf) |Owns $50K-$100K of $SQ - Square, Inc. | Owns $1K-$15K of $SQ - Square, Inc. (x2) |
 | Eric Swalwell | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041327.pdf) |
@@ -512,7 +512,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Tommy Tuberville | R | AL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/17abcf53-316c-4a5f-811e-40f13bdd442c/) |
 | Michael Turner | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040183.pdf) |
 | Lauren Underwood | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041518.pdf) |
-| Fred Upton | R | MI | House | ? | ? |
+| Fred Upton | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218277.pdf) |
 | David Valadao | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042949.pdf) | No assets disclosed |
 | Jefferson Van Drew | R | NJ | House | YES | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) | $100K-$250K Grayscale Trust |
 | Beth Van Duyne | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041645.pdf) |
