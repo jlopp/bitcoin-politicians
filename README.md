@@ -308,7 +308,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mike Levin | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040396.pdf) |
 | Ted Lieu | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042330.pdf) |
 | Zoe Lofgren | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040456.pdf) |
-| Billy Long | R | MO | House | https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040351.pdf
+| Billy Long | R | MO | House | https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040351.pdf |
 | Barry Loudermilk | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043320.pdf) |
 | Alan Lowenthal | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040113.pdf) | $15K-$50K gold trust |
 | Frank Lucas | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041075.pdf) |
