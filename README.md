@@ -308,11 +308,11 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mike Levin | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040396.pdf) |
 | Ted Lieu | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042330.pdf) |
 | Zoe Lofgren | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040456.pdf) |
-| Billy Long | R | MO | House | ? | ? |
-| Barry Loudermilk | R | GA | House | ? | ? |
+| Billy Long | R | MO | House | https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040351.pdf
+| Barry Loudermilk | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043320.pdf) |
 | Alan Lowenthal | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040113.pdf) | $15K-$50K gold trust |
 | Frank Lucas | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041075.pdf) |
-| Blaine Luetkemeyer | R | MO | House | ? | ? |
+| Blaine Luetkemeyer | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218118.pdf) |
 | Ben Luján | D | NM | Senate | NO | [2020](https://efdsearch.senate.gov/search/print/paper/71127e2f-b5ea-471a-841e-e5ec1102d452/) |
 | Cynthia Lummis | R | WY | Senate | YES | [2020](https://efdsearch.senate.gov/search/view/annual/5a9f95fe-06e6-4abf-866f-d1d174e510e9/) | $100K - $250K of bitcoin owned |
 | Elanie Luria | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042701.pdf) |
@@ -331,10 +331,10 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Brian Mast | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041619.pdf) |
 | Doris Matsui | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
 | Lucy McBath | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042414.pdf) |
-| Kevin McCarthy | R | CA | House | ? | ? |
+| Kevin McCarthy | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041107.pdf) |
 | Michael McCaul | R | TX | House | YES | [2021](https://disclosures-clerk.house.gov//public_disc/ptr-pdfs/2021/8217869.pdf) | $1K-$15K GBTC in children's trust |
-| Lisa McClain | R | MI | House | ? | ? |
-| Tom McClintock | R | CA | House | ? | ? |
+| Lisa McClain | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043335.pdf) |
+| Tom McClintock | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043558.pdf) |
 | Betty McCollum | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042035.pdf) |
 | Mitch McConnell | R | KY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/2bb9f12b-c87c-44ce-a024-89a9a0e890c9/) |
 | Donald McEachin | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042305.pdf) |
@@ -352,10 +352,10 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Carol Miller | R | WV | House | ? | ? |
 | Mary Miller | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041676.pdf) |
 | Mariannette Miller-Meeks | R | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043392.pdf) |
-| John Moolenaar | R | MI | House | ? | ? |
-| Alexander Mooney | R | WV | House | ? | ? |
-| Barry Moore | R | AL | House | ? | ? |
-| Blake Moore | R | UT | House | ? | ? |
+| John Moolenaar | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042174.pdf) |
+| Alexander Mooney | R | WV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043589.pdf) |
+| Barry Moore | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040681.pdf) | $1-15k "crypto currency" |
+| Blake Moore | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041325.pdf) |
 | Gwen Moore | D | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218087.pdf) |
 | Jerry Moran | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6cc69cc0-afd4-4328-9b15-cd1ad66cede5/) |
 | Joseph Morelle | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042526.pdf) |
@@ -384,7 +384,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Clarence Owens | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041638.pdf) |
 | Tom O'Halleran | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041769.pdf) |
 | Alejandro Padilla | D | CA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7b77c9b2-ce8a-4958-b34f-387efb5940b9/) | $1k-15k Gold Trust |
-| Steven Palazzo | R | MS | House | ? | ? |
+| Steven Palazzo | R | MS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042610.pdf) |
 | Frank Pallone | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040439.pdf) |
 | Gary Palmer | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040165.pdf) |
 | Jimmy Panetta | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042232.pdf) |
@@ -393,12 +393,12 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Rand Paul | R | KY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ffc1c882-f932-4788-951b-d9fff5b658b1/) |
 | Donald Payne | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043114.pdf) |
 | Nancy Pelosi | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039988.pdf) |
-| Greg Pence | R | IN | House | ? | ? |
+| Greg Pence | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041818.pdf) |
 | Ed Perlmutter | D | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042213.pdf) |
 | Scott Perry | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042142.pdf) |
 | Gary Peters | D | MI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ce211035-9d0a-4679-b3d3-a3147b6abfe0/) |
 | Scott Peters | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041424.pdf) |
-| August Pfluger | R | TX | House | ? | ? |
+| August Pfluger | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042774.pdf) |
 | Dean Phillips | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041411.pdf) |
 | Chellie Pingree | D | ME | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041540.pdf) |
 | Stacey Plaskett | D | VI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2019/10038680.pdf) |
