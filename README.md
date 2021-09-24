@@ -332,7 +332,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Doris Matsui | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
 | Lucy McBath | D | GA | House | ? | ? |
 | Kevin McCarthy | R | CA | House | ? | ? |
-| Michael McCaul | R | TX | House | YES | [2021](https://disclosures-clerk.house.gov//public_disc/ptr-pdfs/2021/8217869.pdf) | GBTC in children's trust |
+| Michael McCaul | R | TX | House | YES | [2021](https://disclosures-clerk.house.gov//public_disc/ptr-pdfs/2021/8217869.pdf) | $1K-$15K GBTC in children's trust |
 | Lisa McClain | R | MI | House | ? | ? |
 | Tom McClintock | R | CA | House | ? | ? |
 | Betty McCollum | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042035.pdf) |
@@ -504,7 +504,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Dina Titus | D | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218278.pdf) |
 | Rashida Tlaib | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041151.pdf) |
 | Paul Tonko | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042991.pdf) |
-| Patrick Toomey | R | PA | Senate | YES | [2021](https://efdsearch.senate.gov/search/view/ptr/b1deab19-2db4-481b-97eb-8b616f00d7f9/) | GBTC & ETHE |
+| Patrick Toomey | R | PA | Senate | YES | [2021](https://efdsearch.senate.gov/search/view/ptr/b1deab19-2db4-481b-97eb-8b616f00d7f9/) | $2K-$30K GBTC & ETHE |
 | Norma Torres | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041659.pdf) |
 | Richie Torres | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043595.pdf) |
 | Lori Trahan | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041344.pdf) |
@@ -524,7 +524,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Ann Wagner | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040256.pdf) |
 | Tim Walberg | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040623.pdf) |
 | Jackie Walorski | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040629.pdf) |
-| Michael Waltz | R | FL | House | YES | [2021](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019072.pdf) |
+| Michael Waltz | R | FL | House | YES | [2021](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019072.pdf) | $30K-$100K BTC |
 | Mark Warner | D | VA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/4c7a6e56-310b-4cbc-9310-72af1e0ea0d8/) |
 | Raphael Warnock | D | GA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8be79d29-e293-478f-a858-63936281f883/) |
 | Elizabeth Warren | D | MA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8685d414-5ed8-4d2e-b246-19790e981ff6/) |
