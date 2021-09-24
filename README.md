@@ -514,7 +514,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Lauren Underwood | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041518.pdf) |
 | Fred Upton | R | MI | House | ? | ? |
 | David Valadao | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042949.pdf) | No assets disclosed |
-| Jefferson Van Drew | R | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) |
+| Jefferson Van Drew | R | NJ | House | YES | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) | $100K-$250K Grayscale Trust |
 | Beth Van Duyne | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041645.pdf) |
 | Chris Van Hollen | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/cd3c4664-9884-4b80-bed1-f14620a0f77c/) |
 | Juan Vargas | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040243.pdf) |
