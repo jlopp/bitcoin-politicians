@@ -96,7 +96,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Sean Casten | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041677.pdf) |
 | Kathy Castor | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041644.pdf) |
 | Joaquin Castro | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218257.pdf) |
-| David Cawthorn | R | NC | House | ? | ? |
+| David Cawthorn | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043108.pdf) |
 | Steve Chabot | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041654.pdf) |
 | Liz Cheney | R | WY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043201.pdf) |
 | Judy Chu | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040998.pdf) |
@@ -111,7 +111,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Steve Cohen | D | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040832.pdf) | $50-100k gold bullion |
 | Tom Cole | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040523.pdf) |
 | Susan Collins | R | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1c630118-72c7-4281-8bc7-8ab3648070af/) |
-| James Comer | R | KY | House | ? | ? |
+| James Comer | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041987.pdf) |
 | Gerald Connolly | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041690.pdf) |
 | Christopher Coons | D | DE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/2637ee01-8f91-42f6-8afd-30b150f7da44/) |
 | Jim Cooper | D | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041740.pdf) |
@@ -155,7 +155,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Jeff Duncan | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041941.pdf) |
 | Neal Dunn | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042278.pdf) |
 | Richard Durbin | D | IL | Senate | NO | [2020](https://efdsearch.senate.gov/search/print/paper/cec7aa17-c5f8-4280-be60-610b0517373e/)|
-| Jake Ellzey | R | TX | House | ? | NO DISCLOSURES |
+| Jake Ellzey | R | TX | House | NO | NO DISCLOSURES |
 | Tom Emmer | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218235.pdf) |
 | Joni Ernst | R | IA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b7ced2ee-ebfb-4d42-9ea6-328abecfc784/)|
 | Veronica Escobar | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040129.pdf) |
@@ -332,7 +332,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Doris Matsui | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
 | Lucy McBath | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042414.pdf) |
 | Kevin McCarthy | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041107.pdf) |
-| Michael McCaul | R | TX | House | YES | [2021](https://disclosures-clerk.house.gov//public_disc/ptr-pdfs/2021/8217869.pdf) | $1K-$15K GBTC in children's trust |
+| Michael McCaul | R | TX | House | YES | [2021](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217869.pdf) | $1K-$15K GBTC in children's trust |
 | Lisa McClain | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043335.pdf) |
 | Tom McClintock | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043558.pdf) |
 | Betty McCollum | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042035.pdf) |
@@ -343,13 +343,13 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | David McKinley | D | WV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040330.pdf) |
 | Jerry McNerney | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042806.pdf) |
 | Gregory Meeks | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041539.pdf) |
-| Peter Meijer | R | MI | House | ? | ? |
+| Peter Meijer | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042966.pdf) |
 | Robert Menendez | D | NJ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c29a3943-a0a4-4783-8b40-87853956b455/) |
 | Grace Meng | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040976.pdf) |
 | Jeff Merkley | D | OR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/35a828c4-a167-4862-93e8-179d72e700d4/) |
-| Daniel Meuser | R | PA | House | ? | ? |
+| Daniel Meuser | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040374.pdf) |
 | Kweisi Mfume | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043276.pdf) |
-| Carol Miller | R | WV | House | ? | ? |
+| Carol Miller | R | WV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042734.pdf) |
 | Mary Miller | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041676.pdf) |
 | Mariannette Miller-Meeks | R | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043392.pdf) |
 | John Moolenaar | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042174.pdf) |
@@ -409,25 +409,25 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Ayanna Pressley | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040768.pdf) | 
 | David Price | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041606.pdf) |
 | Mike Quigley | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218146.pdf) |
-| Aumua Amata Radewagen | R | AS | House | ? | ? |
+| Aumua Amata Radewagen | R | AS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040508.pdf) |
 | Jamie Raskin | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041117.pdf) |
 | John Reed | D | RI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/250dae9c-ee66-4527-9ace-16e026b5bc0a/) |
 | Tom Reed | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043016.pdf) |
-| Guy Reschenthaler | R | PA | House | ? | ? |
+| Guy Reschenthaler | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041161.pdf) |
 | Kathleen Rice | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041918.pdf) |
-| Tom Rice | R | SC | House | ? | ? |
+| Tom Rice | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042059.pdf) |
 | James Risch | R | ID | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/9fe6b987-7d40-4fb5-ac66-9820580657c4/) |
-| Cathy Rodgers | R | WA | House | ? | ? |
-| Harold Rogers | R | KY | House | ? | ? |
-| Mike Rogers | R | AL | House | ? | ? |
+| Cathy Rodgers | R | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040084.pdf) |
+| Harold Rogers | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218267.pdf) |
+| Mike Rogers | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218198.pdf) |
 | Mitt Romney | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/580c4c34-031f-4dbc-89e3-52c84effb069/) | $250K-$500K gold bullion |
-| John Rose | R | TN | House | ? | ? |
+| John Rose | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043727.pdf) |
 | Jacky Rosen | R | NV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a0ba8285-475e-4619-8fce-b4606171ab41/) | $50k-$100k $SLV, $50K-$100K $GDX |
-| Matthew Rosendale | R | MT | House | ? | ? |
+| Matthew Rosendale | R | MT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042676.pdf) | Nothing disclosed |
 | Deborah Ross | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042259.pdf) |
 | Mike Rounds | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a2db205f-0f01-41aa-a39c-237125042319/) | $50K-100K Gold Trust |
-| David Rouzer | R | NC | House | ? | ? |
-| Chip Roy | R | TX | House | ? | ? |
+| David Rouzer | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042659.pdf) | $1K-$15K Mastercard, Visa, Gold Trust |
+| Chip Roy | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042728.pdf) | $1K-$15K gold trust |
 | Lucille Roybal-Allard | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042082.pdf) |
 | Marco Rubio | R | FL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/0c19383b-78fd-407b-ba17-112ee578243b/) |
 | Raul Ruiz | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040346.pdf) | $15K-$50 gold trust |
@@ -441,7 +441,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Bernard Sanders | I | VT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c4a5f872-617c-4ea9-82b3-4ac52bde7779/) |
 | John Sarbanes | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041705.pdf) |
 | Benjamin Sasse | R | NE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/96382550-3d02-40cc-9fd8-777bd3136d46/) |
-| Steve Scalise | R | LA | House | ? | ? |
+| Steve Scalise | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041157.pdf) |
 | Mary Scanlon | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040928.pdf) | $15K-$50K gold trust |
 | Janice Schakowsky | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041534.pdf) |
 | Brian Schatz | D | HI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1ff046fb-0d84-47a1-bdd5-b538bc3b4048/) |
@@ -451,11 +451,11 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Kim Schrier | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042519.pdf) |
 | Charles Schumer | D | NY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/3bb014b5-83d4-469a-9d5e-6fdb4bc7259e/) |
 | David Schweikert | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042643.pdf) |
-| Austin Scott | R | GA | House | ? | ? |
+| Austin Scott | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043338.pdf) |
 | Rick Scott | R | FL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6b9fb205-454a-470b-b4cb-351f053b75e8/) | $500K-$1M $GDX, $1M-$2M $GLDM |
 | Robert Scott | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042751.pdf) |
 | Tim Scott | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/383d5d69-3b2a-49ba-a57d-eba2e97726b3/) |
-| Pete Sessions | R | TX | House | ? | ? |
+| Pete Sessions | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043422.pdf) | $15K-$50K Mastercard |
 | Terri Sewell | D | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043271.pdf) |
 | Jeanne Shaheen | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/84ba6931-cc90-4227-b33c-96fa00a503a3/) |
 | Richard Shelby | R | AL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f77128bc-11ad-424d-99d0-03edc3704901/) |
