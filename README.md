@@ -10,6 +10,8 @@ You can find financial disclosures here:
 
 Sort by date and open their most recent year's annual report, to which you should link on this page.
 
+To see how the 2022 Congressional candidates fare in terms of bitcoin ownership, check out [this spreadsheet](https://docs.google.com/spreadsheets/d/1Caij3yIF02FJfAjgA0paPOq0Dd2nXEgP2hI314zE76U/edit#gid=0).
+
 # Bitcoin Holdings of US Congress Members
 
 NOTE: If you open a link to a Senator's disclosure, you need to paste the URL into a browser tab that has already accepted their site's Terms of Service.
