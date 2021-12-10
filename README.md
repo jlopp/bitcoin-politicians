@@ -374,7 +374,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Joe Neguse | D | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042263.pdf) |
 | Troy Nehls | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10035955.pdf) |
 | Dan Newhouse | R | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042034.pdf) |
-| Marie Newman | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042122.pdf) |
+| Marie Newman | D | IL | House | YES | [2021](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019971.pdf) | $15K - $50K GBTC in IRA |
 | Donald Norcross | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042764.pdf) |
 | Ralph Norman | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043088.pdf) |
 | Eleanor Norton | D | DC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040159.pdf) |
