@@ -130,7 +130,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Dan Crenshaw | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043447.pdf) |
 | Charlie Crist | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041920.pdf) |
 | Jason Crow | D | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042217.pdf) |
-| Ted Cruz | R | TX | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1d9aa074-f450-464e-8837-665a34394eb4/) |
+| Ted Cruz | R | TX | Senate | YES | [2022](https://efdsearch.senate.gov/search/view/ptr/fcb0d9dc-aba4-4fa0-a15b-afed9107a34a/) |
 | Henry Cuellar | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040870.pdf) |
 | John Curtis | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040200.pdf) |
 | Steve Daines | R | MT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a69cd494-148f-43c0-b32a-4a365f62f764/) |
