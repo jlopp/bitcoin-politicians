@@ -133,7 +133,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Ted Cruz | R | TX | Senate | YES | [2022](https://efdsearch.senate.gov/search/view/ptr/fcb0d9dc-aba4-4fa0-a15b-afed9107a34a/) |
 | Henry Cuellar | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040870.pdf) |
 | John Curtis | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040200.pdf) |
-| Steve Daines | R | MT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a69cd494-148f-43c0-b32a-4a365f62f764/) |
+| Steve Daines | R | MT | Senate | NO | [2021](https://efdsearch.senate.gov/search/view/annual/c2cbbaf4-ff14-41ed-9541-a1b6b4eee864/) | Owns $2K-$30K of BLOK Amplify Blockchain Leaders ETF and $1K-$15K BITQ Bitwise Crypto Industry Innovators ETF |
 | Sharice Davids | D | KS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041881.pdf) |
 | Warren Davidson | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040160.pdf) |
 | Danny Davis | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043042.pdf) |
@@ -425,7 +425,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mitt Romney | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/580c4c34-031f-4dbc-89e3-52c84effb069/) | $250K-$500K gold bullion |
 | John Rose | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043727.pdf) |
 | Jacky Rosen | R | NV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a0ba8285-475e-4619-8fce-b4606171ab41/) | $50k-$100k $SLV, $50K-$100K $GDX |
-| Matthew Rosendale | R | MT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042676.pdf) | Nothing disclosed |
+| Matthew Rosendale | R | MT | House | NO | [2021](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2021/10048167.pdf) | Nothing disclosed |
 | Deborah Ross | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042259.pdf) |
 | Mike Rounds | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a2db205f-0f01-41aa-a39c-237125042319/) | $50K-100K Gold Trust |
 | David Rouzer | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042659.pdf) | $1K-$15K Mastercard, Visa, Gold Trust |
@@ -495,7 +495,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mark Takano | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042128.pdf) |
 | Van Taylor | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042566.pdf) |
 | Claudia Tenney | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042689.pdf) | $1K-$15K $GLD & $1K-$15K Gold Miners |
-| Jon Tester | D | MT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f890a5f1-bfb7-41c4-89a7-23ad9c1badcb/)
+| Jon Tester | D | MT | Senate | NO | [2021](https://efdsearch.senate.gov/search/view/annual/9cf17a83-283f-4fcc-9e83-868596ec1f97/)
 | Bennie Thompson | D | MS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042852.pdf) |
 | Glenn Thompson | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042459.pdf) |
 | Mike Thompson | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218197.pdf) |
