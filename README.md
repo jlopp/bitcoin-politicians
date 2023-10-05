@@ -1,7 +1,8 @@
 Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the game. Because searching through financial disclosures can be a time intensive process, this project's goal is to crowdsource the work.
 
 ## Contributing
-NOTE: many politicians have yet to be researched; if you have some spare time, I encourage you to look some up and contribute to this project by [editing the README.md file](https://github.com/jlopp/bitcoin-politicians/edit/master/README.md).
+NOTE: this repository will almost always be out of date due to the amount of work required to manually check 500+ disclosures that get published at unpredictable times.
+If you have some spare time, contributions to this project are welcome by [editing the README.md file](https://github.com/jlopp/bitcoin-politicians/edit/master/README.md).
 
 You can find financial disclosures here:
 * [US House](https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure) - click "Search Reports"
@@ -9,8 +10,6 @@ You can find financial disclosures here:
 * [US Executive Branch](https://extapps2.oge.gov/201/Presiden.nsf)
 
 Sort by date and open their most recent year's annual report, to which you should link on this page.
-
-To see how the 2022 Congressional candidates fare in terms of bitcoin ownership, check out [this spreadsheet](https://docs.google.com/spreadsheets/d/1Caij3yIF02FJfAjgA0paPOq0Dd2nXEgP2hI314zE76U/edit#gid=0).
 
 # Bitcoin Holdings of US Congress Members
 
