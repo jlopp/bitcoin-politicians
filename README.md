@@ -34,7 +34,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Baldwin, Tammy | D | WI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/94bbc60f-debe-4696-a27e-4e39f51a6fd9/) |
 | Balint, Becca | D | VT | House | - | - |
 | Jim Banks | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040942.pdf) |
-| Barragán, Nanette Representative | D | CA | House | - | - |
+| Barragán, Nanette | D | CA | House | - | - |
 | Barrasso, John | R | WY | Senate | - | - |
 | Barr, Garland | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042218.pdf) | $1-15k Gold Trust |
 | Bean, Aaron | R | FL | House | - | - |
