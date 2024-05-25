@@ -9,7 +9,7 @@ import json
 import requests
 
 from utils import (
-    HOR_DATA_FP,
+    HOUSE_DATA_FP,
     SENATE_DATA_FP,
     update_holding_json,
     remove_directory,
@@ -28,7 +28,7 @@ from members import Member
 
 def download_zip(year: int):
     url = f"https://disclosures-clerk.house.gov/public_disc/financial-pdfs/{year}FD.zip"
-    unzip_folder = HOR_DATA_FP / f"{year}FD"
+    unzip_folder = HOUSE_DATA_FP / f"{year}FD"
     unzip_folder.mkdir(parents=True, exist_ok=True)
 
     response = requests.get(url)
@@ -42,8 +42,8 @@ def download_zip(year: int):
     print(f"Extracted files to {unzip_folder}")
 
 
-def load_HoR_FD_XML(year: int) -> list[dict]:
-    xml_fp = HOR_DATA_FP / f'{year}FD/{year}FD.xml'
+def load_house_fd_xml(year: int) -> list[dict]:
+    xml_fp = HOUSE_DATA_FP / f'{year}FD/{year}FD.xml'
     assert xml_fp.exists()
 
     with open(xml_fp, 'r') as file:
@@ -62,12 +62,12 @@ def load_HoR_FD_XML(year: int) -> list[dict]:
         raise RuntimeError(f"there are no Annual Reports for House of Representatives for {year=}")
 
     # remove the FD stuff
-    remove_directory(HOR_DATA_FP / f'{year}FD')
-    print(f"Removed files from {HOR_DATA_FP / f'{year}FD'}")
+    remove_directory(HOUSE_DATA_FP / f'{year}FD')
+    print(f"Removed files from {HOUSE_DATA_FP / f'{year}FD'}")
 
     return fds
 
-def save_HoR_FD_PDF(year: int, fds: list[dict]):
+def save_house_fd_pdf(year: int, fds: list[dict]):
     desc = "Scraping financial disclosures for members in House of Representatives"
     missed = []
     hit = []
@@ -87,7 +87,7 @@ def save_HoR_FD_PDF(year: int, fds: list[dict]):
         pdf_link = f'https://disclosures-clerk.house.gov/public_disc/financial-pdfs/{year}/{doc_id}.pdf'
 
         key = f"{last_name}, {first_name}"
-        member_fp = HOR_DATA_FP / key
+        member_fp = HOUSE_DATA_FP / key
 
         # missed
         if not member_fp.exists():
@@ -118,22 +118,19 @@ def save_HoR_FD_PDF(year: int, fds: list[dict]):
 
         hit.append(member_fp.name)
 
-    print(f"hit: {sorted(hit)}")
-    print(f"missed: {sorted(missed)}")
-
-    return unsure
+    return unsure, hit, missed
 
 
-def scrape_house_of_representatives(year: int) -> list:
+def scrape_house(year: int) -> list:
     # download FD description
     download_zip(year=year)
 
     # scrape and load financial disclosures
-    fds = load_HoR_FD_XML(year=year)
+    fds = load_house_fd_xml(year=year)
 
     # save to data/house_of_representatives/{year}
-    unsure = save_HoR_FD_PDF(year=year, fds=fds)
-    return unsure
+    unsure, hit, missed = save_house_fd_pdf(year=year, fds=fds)
+    return unsure, hit, missed
 
 
 # ===========================
@@ -287,10 +284,7 @@ def scrape_and_save_disclosure(client: requests.Session, reports:list[SenateMemb
 
         hit.append(disclosure_fp.name)
 
-    print(f"hit: {sorted(hit)}")
-    print(f"missed: {sorted(missed)}")
-
-    return unsure
+    return unsure, hit, missed
 
 def scrape_senate(year: int):
     def _filter(reports: list[list[str]]) -> list[SenateMember]:
@@ -322,8 +316,8 @@ def scrape_senate(year: int):
 
     all_reports = _filter(all_reports)
 
-    unsure = scrape_and_save_disclosure(client, all_reports)
-    return unsure
+    unsure, hit, missed = scrape_and_save_disclosure(client, all_reports)
+    return unsure, hit, missed
 
 
 if __name__ == "__main__":
@@ -331,11 +325,8 @@ if __name__ == "__main__":
 
     # House of Representatives
     # -> /data/house_of_representatives/reports/{year}
-    unsure = scrape_house_of_representatives(year)
+    scrape_house(year)
 
     # Senate
     # -> /data/senate/reports/{year}
-    unsure.extend(scrape_senate(year))
-
-    for name_1, name_2 in unsure:
-        print(name_1, " <=> ", name_2)
+    scrape_senate(year)

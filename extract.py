@@ -4,7 +4,7 @@ import base64
 import requests
 from pathlib import Path
 
-from utils import SENATE_DATA_FP, HOR_DATA_FP
+from utils import SENATE_DATA_FP, HOUSE_DATA_FP
 
 # OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
 model = genai.GenerativeModel('gemini-pro-vision')
@@ -147,7 +147,7 @@ You are an assistant that extracts information from images and returns results i
 
 if __name__ == "__main__":
     senate_folders = [f for f in SENATE_DATA_FP.iterdir() if f.is_dir()]
-    hor_folders = [f for f in HOR_DATA_FP.iterdir() if f.is_dir()]
+    hor_folders = [f for f in HOUSE_DATA_FP.iterdir() if f.is_dir()]
 
     senate_names = [f.name for f in senate_folders]
     hor_names = [f.name for f in hor_folders]

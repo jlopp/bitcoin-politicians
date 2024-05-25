@@ -36,7 +36,7 @@ def standardize_name(full_name: str):
 
 def get_state_district_to_name_map():
     ret = {}
-    for member in HOR_DATA_FP.iterdir():
+    for member in HOUSE_DATA_FP.iterdir():
         path = member / f"{member.name}.json"
         with open(path, "r") as file:
             data = json.load(file)
@@ -63,7 +63,7 @@ def interchange_name(full_name: str):
 
 def house_last_names() -> dict[str, list[str]]:
     ret = defaultdict(list)
-    for path in HOR_DATA_FP.iterdir():
+    for path in HOUSE_DATA_FP.iterdir():
         last_name = path.name.split(",")[0].strip()
         ret[last_name].append(path.name)
     return ret
@@ -76,7 +76,7 @@ def senate_last_names() -> dict[str, list[str]]:
     return ret
 
 BASE_DATA_FP = Path(__file__).resolve().parent / 'data'
-HOR_DATA_FP = BASE_DATA_FP / 'House of Representatives'
+HOUSE_DATA_FP = BASE_DATA_FP / 'House of Representatives'
 SENATE_DATA_FP = BASE_DATA_FP / 'Senate'
 
 STATE_MAP = {

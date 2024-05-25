@@ -1,6 +1,6 @@
-from utils import HOR_DATA_FP, SENATE_DATA_FP, remove_directory
+from utils import HOUSE_DATA_FP, SENATE_DATA_FP, remove_directory
 from members import fetch_members, setup_members, get_current_congress
-from holdings import scrape_house_of_representatives, scrape_senate
+from holdings import scrape_house, scrape_senate
 from extract import disclosure_openai_VLM
 from render import render_markdown
 
@@ -9,8 +9,8 @@ year = 2022
 
 try:
     # clean up previous attempts
-    if HOR_DATA_FP.exists():
-        remove_directory(HOR_DATA_FP)
+    if HOUSE_DATA_FP.exists():
+        remove_directory(HOUSE_DATA_FP)
     if SENATE_DATA_FP.exists():
         remove_directory(SENATE_DATA_FP)
 
@@ -27,25 +27,29 @@ try:
 
     # House of Representatives
     # -> /data/House of Representatives/{members}
-    unsure = scrape_house_of_representatives(year)
+    unsure, hit, missed = scrape_house(year)
     if unsure:
         for name_1, name_2 in unsure:
             print(name_1, " <=> ", name_2)
-        ans = input("Are any of these the same person? (yes or no) ")
+        # ans = input("Are any of these the same person? (yes or no) ")
         ans = ''
         if ans == "yes":
             raise RuntimeError("please add both names into interchangable_names.json and rerun run.py")
+    print(f"hit: {sorted(hit)}")
+    print(f"missed: {sorted(missed)}")
 
     # Senate
     # -> /data/Senate/{members}
-    unsure = scrape_senate(year)
+    unsure, hit, missed = scrape_senate(year)
     if unsure:
         for name_1, name_2 in unsure:
             print(name_1, " <=> ", name_2)
-        ans = input("Are any of these the same person? (yes or no) ")
+        # ans = input("Are any of these the same person? (yes or no) ")
         ans = ''
         if ans == "yes":
             raise RuntimeError("please add both names into interchangable_names.json and rerun run.py")
+    print(f"hit: {sorted(hit)}")
+    print(f"missed: {sorted(missed)}")
 
     # TODO: extract the data from image and write into json
     ...
@@ -56,8 +60,8 @@ try:
 
 except (KeyboardInterrupt, Exception) as e:
     # remove everything in directory
-    if HOR_DATA_FP.exists():
-        remove_directory(HOR_DATA_FP)
+    if HOUSE_DATA_FP.exists():
+        remove_directory(HOUSE_DATA_FP)
     if SENATE_DATA_FP.exists():
         remove_directory(SENATE_DATA_FP)
     raise e
