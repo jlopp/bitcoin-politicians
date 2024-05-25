@@ -31,8 +31,7 @@ try:
     if unsure:
         for name_1, name_2 in unsure:
             print(name_1, " <=> ", name_2)
-        # ans = input("Are any of these the same person? (yes or no) ")
-        ans = ''
+        ans = input("Are any of these the same person? (yes or no) ")
         if ans == "yes":
             raise RuntimeError("please add both names into interchangable_names.json and rerun run.py")
     print(f"hit: {sorted(hit)}")
@@ -44,8 +43,7 @@ try:
     if unsure:
         for name_1, name_2 in unsure:
             print(name_1, " <=> ", name_2)
-        # ans = input("Are any of these the same person? (yes or no) ")
-        ans = ''
+        ans = input("Are any of these the same person? (yes or no) ")
         if ans == "yes":
             raise RuntimeError("please add both names into interchangable_names.json and rerun run.py")
     print(f"hit: {sorted(hit)}")
