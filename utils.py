@@ -78,6 +78,7 @@ def senate_last_names() -> dict[str, list[str]]:
 BASE_DATA_FP = Path(__file__).resolve().parent / 'data'
 HOUSE_DATA_FP = BASE_DATA_FP / 'House of Representatives'
 SENATE_DATA_FP = BASE_DATA_FP / 'Senate'
+HOR_DATA_FP = 'a'
 
 STATE_MAP = {
     'Alabama': 'AL',
