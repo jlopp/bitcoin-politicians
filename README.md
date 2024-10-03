@@ -112,7 +112,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Clyde, Andrew | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039523.pdf) |
 | Cohen, Steve | D | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040832.pdf) | $50-100k gold bullion |
 | Cole, Tom | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040523.pdf) |
-| Collins, Mike | R | GA | House | - | - |
+| Collins, Mike | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060539.pdf) |
 | Collins, Susan | R | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1c630118-72c7-4281-8bc7-8ab3648070af/) |
 | Comer, James | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041987.pdf) |
 | Connolly, Gerald | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041690.pdf) |
