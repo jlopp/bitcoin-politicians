@@ -3,6 +3,9 @@ import logging
 import subprocess
 import sys 
 from pathlib import Path
+import time
+from typing import Dict, List, Optional, Union
+
 
 
 logging.basicConfig(
@@ -33,59 +36,80 @@ def init_senate_search():
     try:
         # Accept terms
         page.goto('https://efdsearch.senate.gov/search/home/')
-        
-        # Add wait for element to be visible
+        time.sleep(0.5)  
         page.wait_for_selector('input[type="checkbox"]')
-        
         checkbox = page.get_by_label("I understand the prohibitions on obtaining and use of financial disclosure reports.")
-        checkbox.check()
-        
-        print("Accepted Senate disclosure agreement")
+        with page.expect_navigation():
+            checkbox.check()
         logger.info("Accepted Senate disclosure agreement")
         sys.stdout.flush()
+        time.sleep(0.5)  # Wait for navigation to complete
         
-        # Add explicit wait after checking
-        page.wait_for_timeout(1000)  # Wait 1 second
+        # Set filters
+        page.wait_for_selector('text=Search Reports')
+        time.sleep(0.25)  # Brief pause before setting filters
+        page.get_by_label("Senator", exact=True).check()
+        time.sleep(0.15)  
+        page.get_by_label("Annual", exact=True).check()
+        time.sleep(0.15)
+        page.locator('#fromDate').fill('01/01/2024')
+        logger.info("Set search filters")
+        print("Set search filters")
+        sys.stdout.flush()
+        time.sleep(0.25) 
+        
+        # Click search button
+        page.get_by_role('button', name='Search Reports').click()
+        logger.info("Clicked search")
+        print("Clicked search")
+        sys.stdout.flush()
+        time.sleep(0.5) 
+        
+        # Wait for tables
+        page.wait_for_selector('.dataTables_wrapper')  # Adjust the selector based on actual results element
         
         # Keep browser open after success
         input("Press Enter to close browser...")
         
     except Exception as e:
-        logger.error(f"Failed to accept Senate disclosure agreement: {e}")
+        logger.error(f"Failed to perform search: {e}")
         sys.stdout.flush()
         raise  # Re-raise exception to see full error
     finally:
         browser.close()
         p.stop()
-        
-    # # Set filters
-    # page.get_by_label("Senator", exact=True).check()
-    # page.get_by_label("Annual", exact=True).check()
-    # page.locator('#fromDate').fill('01/01/2024')
-    
-    # # Search
-    # page.get_by_role('button', name='Search Reports').click()
-    # logger.info("Search complete")
-    
-    # input("Press Enter to close browser...")
-    
-    # browser.close()
-    # p.stop()    
-    # # Set filters using labels instead of IDs
-    # page.get_by_label("Senator", exact=True).check()
-    # page.get_by_label("Annual", exact=True).check()
-    # page.locator('#fromDate').fill('01/01/2024')
-    # logger.info("Set search filters")
-    
-    # # Search
-    # page.get_by_role('button', name='Search Reports').click()
-    # logger.info("Clicked search")
-    
-    # # Keep browser open
-    # input("Press Enter to close browser...")
-    
-    # browser.close()
-    # p.stop()
+
+    ### get all links
+
+
+def get_senate_links(page) -> List[str]:
+    """Get all PDF links from Senate disclosure search results"""
+    links = []
+    # Get total pages (look for pagination)
+    # For each page:
+        # Get links from current page
+        # Click next page if exists
+    return links
+
+
+def categorize_link(url: str) -> str:
+    """Return 'table' or 'manual' based on PDF structure"""
+    # Logic to determine if PDF has HTML tables or needs manual extraction
+    return None
+
+def extract_crypto_from_manual_upload(url: str) -> Dict:
+    """Extract crypto holdings from PDF with tables"""
+    # Use OpenAI to parse table data
+    return None 
+
+def extract_crypto_html(url: str) -> Dict:
+    """Extract crypto holdings from handwritten/letter PDFs"""
+    # Use OpenAI for more complex extraction
+    return None
+
+
+    ### handle html (download)
+    ### handle pages (download)
 
 def run():
     ensure_playwright()
