@@ -13,6 +13,7 @@ bitcoin_crypto_terms = [
     'coinbase', 
     'microstrategy', 
     'mstr ',
+    'cryptocurrency'
 ]
 
 bitcoin_crypto_terms_false_positives = [

@@ -59,7 +59,9 @@ def identify_bitcoin_crypto_holdings(combined_df):
         triggered_terms=('triggered_terms', lambda x: ', '.join(set(filter(None, x)))),
         matched_asset_names=('matched_asset_names', lambda x: ', '.join(set(filter(None, x))))
     ).reset_index()
-    
+
+    holdings_summary = holdings_summary.sort_values(by=['bitcoin_crypto', 'name'], ascending=[False, True])
+
     return holdings_summary
 
 if __name__ == '__main__':

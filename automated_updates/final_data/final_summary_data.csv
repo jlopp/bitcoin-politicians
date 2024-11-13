@@ -1,4 +1,14 @@
 name,state,chamber,bitcoin_crypto,triggered_terms,matched_asset_names
+Collins,GA,house,True,cryptocurrency,ETH Cryptocurrency [CT]
+Cruz,TX,senate,True,bitcoin,Bitcoin Exchange/Platform: River Financial Inc
+Goldman,NY,house,True,coinbase,"Coinbase Global, Inc. - Class A (COIN) [ST]"
+Graves,LA,house,True,coinbase,"Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]"
+Hinson,IA,house,True,"btc, bitcoin, grayscale, gbtc",Grayscale Bitcoin Trust - GBTC [MF]
+Rogers,KY,house,True,"bitcoin, grayscale",Grayscale Bitcoin Trust
+Thanedar,MI,house,True,"bitcoin, ethereum","Ethereum, Bitcoin"
+Van Drew,NJ,house,True,greyscale,Greyscale Investment Trust
+Vance,OH,senate,True,"btc, coinbase",BTCExchange/Platform: Coinbase
+Waltz,FL,house,True,bitcoin,Bitcoin [OT]
 Adams,NC,house,False,,
 Aderholt,AL,house,False,,
 Aguilar,CA,house,False,,
@@ -93,7 +103,6 @@ Clyde,GA,house,False,,
 Cohen,TN,house,False,,
 Cole,OK,house,False,,
 Coleman,NJ,house,False,,
-Collins,GA,house,False,,
 Collins,ME,senate,False,,
 Comer,KY,house,False,,
 Connolly,VA,house,False,,
@@ -111,7 +120,6 @@ Crapo,ID,senate,False,,
 Crenshaw,TX,house,False,,
 Crockett,TX,house,False,,
 Crow,CO,house,False,,
-Cruz,TX,senate,True,bitcoin,Bitcoin Exchange/Platform: River Financial Inc
 Cuellar,TX,house,False,,
 Curtis,UT,house,False,,
 Cárdenas,CA,house,False,,
@@ -176,7 +184,6 @@ Gillibrand,NY,senate,False,,
 Gimenez,FL,house,False,,
 Gluesenkamp Perez,WA,house,False,,
 Golden,ME,house,False,,
-Goldman,NY,house,True,coinbase,"Coinbase Global, Inc. - Class A (COIN) [ST]"
 Gomez,CA,house,False,,
 Gonzales,TX,house,False,,
 Gonzalez,TX,house,False,,
@@ -187,7 +194,6 @@ Gottheimer,NJ,house,False,,
 Graham,SC,senate,False,,
 Granger,TX,house,False,,
 Grassley,IA,senate,False,,
-Graves,LA,house,True,coinbase,"Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]"
 Graves,MO,house,False,,
 Green,TN,house,False,,
 Green,TX,house,False,,
@@ -210,7 +216,6 @@ Hern,OK,house,False,,
 Hickenlooper,CO,senate,False,,
 Hill,AR,house,False,,
 Himes,CT,house,False,,
-Hinson,IA,house,True,"btc, bitcoin, grayscale, gbtc",Grayscale Bitcoin Trust - GBTC [MF]
 Hirono,HI,senate,False,,
 Hoeven,ND,senate,False,,
 Horsford,NV,house,False,,
@@ -390,7 +395,6 @@ Ricketts,NE,senate,False,,
 Risch,ID,senate,False,,
 Rodgers,WA,house,False,,
 Rogers,AL,house,False,,
-Rogers,KY,house,True,"bitcoin, grayscale",Grayscale Bitcoin Trust
 Romney,UT,senate,False,,
 Rose,TN,house,False,,
 Rosen,NV,senate,False,,
@@ -462,7 +466,6 @@ Sykes,OH,house,False,,
 Takano,CA,house,False,,
 Tenney,NY,house,False,,
 Tester,MT,senate,False,,
-Thanedar,MI,house,True,"bitcoin, ethereum","Ethereum, Bitcoin"
 Thompson,CA,house,False,,
 Thompson,MS,house,False,,
 Thompson,PA,house,False,,
@@ -481,18 +484,15 @@ Trone,MD,house,False,,
 Tuberville,AL,senate,False,,
 Turner,OH,house,False,,
 Underwood,IL,house,False,,
-Van Drew,NJ,house,True,greyscale,Greyscale Investment Trust
 Van Duyne,TX,house,False,,
 Van Hollen,MD,senate,False,,
 Van Orden,WI,house,False,,
-Vance,OH,senate,True,"btc, coinbase",BTCExchange/Platform: Coinbase
 Vargas,CA,house,False,,
 Vasquez,NM,house,False,,
 Veasey,TX,house,False,,
 Velázquez,NY,house,False,,
 Wagner,MO,house,False,,
 Walberg,MI,house,False,,
-Waltz,FL,house,True,bitcoin,Bitcoin [OT]
 Warner,VA,senate,False,,
 Warnock,GA,senate,False,,
 Warren,MA,senate,False,,
