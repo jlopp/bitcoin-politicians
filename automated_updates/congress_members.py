@@ -64,8 +64,12 @@ state_to_abbreviation = {
 }
 
 def get_congress_gov_api_key():
+    import sys
     load_dotenv()
     api_key = os.getenv('CONGRESS_GOV_API_KEY')
+    if api_key is None:
+        print("Error: CONGRESS_GOV_API_KEY not found in environment variables.")
+        sys.exit(1)  # Exits with an error code
     return api_key
 
 def get_congress_members(congress=118, limit=250, ignore_cache=True):
