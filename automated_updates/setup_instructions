@@ -7,3 +7,11 @@ to run the full automation pipeline:
 - download chromedriver from https://googlechromelabs.github.io/chrome-for-testing/, matching your chrome version and OS.
 - put the chromedriver executable path in .env like: CHROME_DRIVER_PATH = ''
 - get secret key from OpenAI, add funds as needed to use API. add key to .env like: OPENAI_API_KEY='sk-kiKX...'
+
+Note:
+if you get error:
+ModuleNotFoundError: No module named 'frontend'
+
+run:
+pip uninstall pymupdf
+pip install pymupdf
