@@ -68,15 +68,18 @@ def get_congress_gov_api_key():
     api_key = os.getenv('CONGRESS_GOV_API_KEY')
     return api_key
 
-def get_congress_members(congress=118, limit=250):
+def get_congress_members(congress=118, limit=250, ignore_cache=True):
     # use the cache if available, use api only when needed
-    cache_file = f'./cache/congress_{congress}_members.pkl'
-    if os.path.exists(cache_file):
-        with open(cache_file, 'rb') as file:
-            members = pickle.load(file)
-            print("congress members loaded from cache.")
-            return members
+    # cache is nice to have for development, not necessary for user
+    if not ignore_cache:
+        cache_file = f'./cache/congress_{congress}_members.pkl'
+        if os.path.exists(cache_file):
+            with open(cache_file, 'rb') as file:
+                members = pickle.load(file)
+                print("congress members loaded from cache.")
+                return members
     
+    print('getting congress members from api.congress.gov...')
     api_key = get_congress_gov_api_key()
     base_url = f"https://api.congress.gov/v3/member/congress/{congress}"
     members = []
@@ -113,9 +116,10 @@ def get_congress_members(congress=118, limit=250):
     members = sorted(members, key=lambda x: x['name'])
     members = parse_members(members)
     
-    with open(cache_file, 'wb') as file:
-        pickle.dump(members, file)
-        print("cached congress members for future use.")
+    if not ignore_cache:
+        with open(cache_file, 'wb') as file:
+            pickle.dump(members, file)
+            print("cached congress members for future use.")
 
     return members
 

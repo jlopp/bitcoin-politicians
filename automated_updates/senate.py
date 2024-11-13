@@ -10,8 +10,10 @@ import time
 import os
 import requests
 from config import chrome_driver_path
+from dotenv import load_dotenv
 
-if chrome_driver_path == '': exit('Missing chrome_driver_path in config.py')
+load_dotenv()
+chrome_driver_path = os.getenv('CHROME_DRIVER_PATH')
 
 def start_chrome_driver(chrome_driver_path, headless=True):
     chrome_options = webdriver.ChromeOptions()
