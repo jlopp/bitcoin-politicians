@@ -25,3 +25,10 @@ def gif_to_jpeg(input_dir, filename, output_dir):
     gif_image.save(jpeg_path, "JPEG")
 
     return jpeg_path
+
+def make_directories():
+    os.makedirs('./cache', exist_ok=True)
+    os.makedirs('./all_processed_data', exist_ok=True)
+    os.makedirs('./intermediate_files/house_clean_intermediate_files', exist_ok=True)
+    os.makedirs('./intermediate_files/house_messy_intermediate_files', exist_ok=True)
+    os.makedirs('./intermediate_files/senate_intermediate_files', exist_ok=True)
