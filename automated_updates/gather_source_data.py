@@ -3,9 +3,13 @@ from house import download_house_source_data_most_recent
 from senate import download_senate_source_data_most_recent, start_chrome_driver
 from organize_source_data import organize_source_data
 import time
-from config import chrome_driver_path
+from dotenv import load_dotenv
+load_dotenv()
+chrome_driver_path = os.getenv('CHROME_DRIVER_PATH')
+
 import os
 os.makedirs('./cache', exist_ok=True)
+os.makedirs('./all_processed_data', exist_ok=True)
 
 start_time = time.time()
 
