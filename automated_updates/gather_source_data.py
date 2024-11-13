@@ -12,6 +12,7 @@ driver = start_chrome_driver(chrome_driver_path, headless=True)
 
 no_disclosures = []
 for i, member in enumerate(members):
+    print(f'\n{i} / {len(members)}')
     name_parts = member[0].split(',')
     last_name = name_parts[0].strip()
     first_name_parts = name_parts[1].strip().split(' ')
@@ -21,7 +22,7 @@ for i, member in enumerate(members):
     state_abbr = member[2]
     house_senate = member[3]
 
-    print(f'\n{first_name}, {last_name} {party} {state_abbr} {house_senate}')
+    print(f'{first_name}, {last_name} {party} {state_abbr} {house_senate}')
     
     if house_senate == 'House':
         success = download_house_source_data_most_recent(last_name=last_name, first_name=first_name, state_abbr=state_abbr)
