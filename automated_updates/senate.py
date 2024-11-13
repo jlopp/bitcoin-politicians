@@ -9,7 +9,6 @@ import csv
 import time
 import os
 import requests
-from config import chrome_driver_path
 from dotenv import load_dotenv
 
 load_dotenv()
