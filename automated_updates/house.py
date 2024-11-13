@@ -45,7 +45,7 @@ def download_house_source_data_specific_year(last_name, state_abbr, filing_year)
                 pdf_response = session.get(pdf_link)
                 pdf_response.raise_for_status()
 
-                filename = f"./source_data/{last_name}_{state_abbr}_{filing_year}_house.pdf"
+                filename = f"./all_source_data/{last_name}_{state_abbr}_{filing_year}_house.pdf"
                 with open(filename, 'wb') as pdf_file:
                     pdf_file.write(pdf_response.content)
                 print(f"\033[32mDownloaded {filename}\033[0m")

@@ -83,7 +83,7 @@ def download_senate_source_data_most_recent(driver, last_name, state_abbr):
             return rows;
         """
 
-        filename = f"source_data/{last_name}_{state_abbr}_{most_recent_date.year}_senate.csv"
+        filename = f"all_source_data/{last_name}_{state_abbr}_{most_recent_date.year}_senate.csv"
         rows = driver.execute_script(script)
 
         with open(filename, "w", newline="") as file:
@@ -96,7 +96,7 @@ def download_senate_source_data_most_recent(driver, last_name, state_abbr):
         # save gif files to folder
         image_elements = driver.find_elements(By.XPATH, "//img[contains(@src, '.gif')]")
 
-        output_dir = f"./source_data/{last_name}_{state_abbr}_{most_recent_date.year}_senate"
+        output_dir = f"./all_source_data/{last_name}_{state_abbr}_{most_recent_date.year}_senate"
         os.makedirs(output_dir, exist_ok=True)
 
         for idx, img_element in enumerate(image_elements):
