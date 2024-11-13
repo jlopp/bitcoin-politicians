@@ -64,3 +64,6 @@ def organize_source_data():
 
         else:
             exit(f'unrecognized: {filename}')
+
+if __name__ == '__main__':
+    organize_source_data()
