@@ -1,0 +1,35 @@
+1,"TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+2,"TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Checking,",Bank Deposit,Joint,"$15,001 - $50,000","None,",None (or less than $201)
+3,"TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Certificate of Deposit,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,","$201 - $1,000"
+4,"TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Certificate of Deposit,",Bank Deposit,Spouse,"$1,001 - $15,000","Interest,","$201 - $1,000"
+5,"TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Certificate of Deposit,",Bank Deposit,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+6,TRUSTMARK FINANCIAL SERVICES,Brokerage/Managed Account,Spouse,,,
+6.1,"CTL - CenturyLink, Inc.",Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7,TRUSTMARK FINANCIAL SERVICES,Brokerage/Managed Account,Child,,,
+7.1,HCTAX - Hartford Global Capital Appreciation A,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7.2,"GOLDMAN SACHS BANK USA (INSURED CASH ACCOUNT)(BROOKHAVEN, MS)Type: Money Market Account,",Bank Deposit,Child,"$1,001 - $15,000","Interest,",None (or less than $201)
+7.3,"JPMORGAN US GOVERNMENT MONEY MARKET FUND(BROOKHAVEN, MS)Type: Money Market Account,",Bank Deposit,Child,"$1,001 - $15,000","Interest,",None (or less than $201)
+8,AMERICAN GENERAL LIFE INSURANCE COMPANY,Retirement PlansIRA,Spouse,,,
+8.1,TRUSTMARK BANK PROPRIETARY FLEXProvider: LPL FINANCIAL CORP,AnnuityFixed,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+9,AMERICAN GENERAL LIFE INSURANCE COMPANY,Retirement PlansIRA,Self,,,
+9.1,TRUSTMARK BANK PROPRIETARY FLEXProvider: LPL FINANCIAL CORP,AnnuityFixed,Self,"$15,001 - $50,000","Interest,",None (or less than $201)
+10,SOUTHERN FARM BUREAU INSURANCE COMPANY,Retirement PlansIRA,Spouse,,,
+10.1,NON-PARTICIPATING FLEXIBLE PREMIUM DEFFERED ANNUITYProvider: SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY,AnnuityFixed,Spouse,"$15,001 - $50,000","Interest,",None (or less than $201)
+11,SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY,Retirement PlansIRA,Self,,,
+11.1,NON-PARTICIPATING FLEXIBLE PREMIUM DEFFERED ANNUITYProvider: SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY,AnnuityFixed,Self,"$15,001 - $50,000","Interest,",None (or less than $201)
+12,TRUSTMARK IRA,Retirement PlansIRA,Spouse,,,
+12.1,"GOLDMAN SACHS BANK USA (INSURED CASH ACCOUNT)(BROOKHAVEN, MS)Type: IRA Cash Accounts,",Bank Deposit,Spouse,"$50,001 - $100,000","Interest,",None (or less than $201)
+13,MISSISSIPPI PUBLIC EMPLOYEES RETIREMENT SYSTEM,Retirement PlansDefined Benefit Pension Plan,Self,"$100,001 - $250,000","None,",None (or less than $201)
+14,"MISSISSIPPI GOVERNMENT EMPLOYEES"" DEFERRED COMPENSATION PLAN AND TRUST",Retirement PlansDeferred Compensation,Self,,,
+14.1,AMERICAN FUNDS NEW PERSPECTIVE R6,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+14.2,T ROWE PRICE INTERNATIONAL GROWTH EQUITY TRUST,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+14.3,RBC SMALL CAP CORE I,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+14.4,THE BOSTON CO MIDCAP OP VALUE POOLED,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+14.5,LOOMIS SAYLES LARGE CAP GROWTH TRUST,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+14.6,VANGUARD WINDSOR ADM,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+14.7,NT TIPS INDEX FUND,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+14.8,VOYA INTERNEDIATE BOND,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+14.9,MDC STABLE VALUE,Mutual FundsStable Value Fund,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+15,CASH VALUE LIFE INSURANCEProvider: PAUL REVERE LIFE INS CO,Life InsuranceWhole,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+16,"FARM LINCOLN COUNTYDescription: BEEF FARM (BROOKHAVEN, MS)",Farm,Joint,"$500,001 - $1,000,000","None,",None (or less than $201)
+17,"BEEF CATTLEDescription: SALES OF RAISED AND CULL COWS (BROOKHAVEN, MS)",Farm,Joint,"$1,001 - $15,000","Other, (SALE OF CULL COWS)","$1,001 - $2,500Other $1,500.00"

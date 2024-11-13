@@ -1,0 +1,26 @@
+1,"Citizens Bank(Providence, RI)Type: Checking,",Bank Deposit,Self,"$100,001 - $250,000","None,",None (or less than $201)
+2,"Shaheen & Gordon, P.A, 401K Profit Sharing Plan",Retirement PlansIRA,Spouse,,,
+2.1,"Raymond James - Money Market(St. Petersburg, FL)Type: Money Market Account,",Bank Deposit,Spouse,"$500,001 - $1,000,000","None,",None (or less than $201)
+3,"Real property at 107 Storrs Street, Concord, NHCompany: 107 Storrs Street, LLC (Concord, NH) Description: Owns commercial rental real property Filer comment:  Mr. Shaheen has a 1/10 interest",Business EntityLimited Liability Company (LLC),Spouse,"$100,001 - $250,000","Rent/Royalties, Interest,","$15,001 - $50,000"
+4,"Promissory NoteCompany: Shaheen & Gordon, P.A. (Dover, NH)",Accounts ReceivableFrom a Business,Spouse,"$15,001 - $50,000","Interest,","$15,001 - $50,000"
+5,"Shaheen Enterprises, LLCCompany: Shaheen Enterprises, LLC (Dover, NH) Description: Holding company of NH",Business EntityLimited Liability Company (LLC),Spouse,,,
+5.1,"Route 125 AssociatesCompany: Route 125 Associates (Dover, NH) Description: Commercial rental real property Filer comment:  Shaheen Enterprises, LLC has a 1/2 interest",Business EntityLimited Liability Company (LLC),Spouse,"$500,001 - $1,000,000","Dividends, Rent/Royalties,","$5,001 - $15,000"
+5.2,"Citizens Bank(Dover, NH)Type: Checking,",Bank Deposit,Spouse,"$500,001 - $1,000,000","None,",None (or less than $201)
+5.3,"903 Central Ave, Dover NHCompany: 903 Central Ave. Associates, LLC (Dover, NH) Description: Owns commercial rental real property Filer comment:  Shaheen Enterprises, LLC has a 1/2 interest",Business EntityLimited Liability Company (LLC),Spouse,"$100,001 - $250,000","Rent/Royalties,","$15,001 - $50,000"
+5.4,"Atlas-Heritage Title CompanyCompany: Atlas-Heritage Title Co., LLC (Dover, NH) Description: Title services Filer comment:  Shaheen Enterprises LLC has had a ½ interest in this asset.",Business EntityLimited Liability Company (LLC),Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+5.5,"76 Perkins RoadDescription: 76 Perkins Road (Madbury, NH)",Real EstateResidential,Spouse,"$100,001 - $250,000","Rent/Royalties,","$5,001 - $15,000"
+5.6,"Vera Roasting CorporationCompany: Vera Roasting Corporation (Dover, NH) Description: Coffee Company",Corporate SecuritiesNon-Public Stock,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+6,Promissory NoteDebtor: Ansel Grandmaison,Accounts ReceivableFrom an Individual,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+7,"Emerald Group LLCCompany: Emerald Group LLC (Madbury, NH) Description: Consulting",Business EntityLimited Liability Company (LLC),Spouse,"$500,001 - $1,000,000","Interest, Other, (Ordinary Income)","$100,001 - $1,000,000Other $361,000.00"
+8,"Shaheen Enterprises of Maine, LLCCompany: Shaheen Enterprises of Maine, LLC (York Beach, ME) Description: Holding company",Business EntityLimited Liability Company (LLC),Spouse,,,
+8.1,"Molly O's Restaurant - 2 Main StreetDescription: Commercial Real Estate (York, ME)",Real EstateCommercial,Spouse,"$500,001 - $1,000,000","Rent/Royalties,","$5,001 - $15,000"
+8.2,"15 Reserve StreetDescription: 15 Reserve Street - Land (York Beach, ME)",Real EstateCommercial,Spouse,"$250,001 - $500,000","None,",None (or less than $201)
+8.3,"4 Main StreetDescription: Commercial Real Estate (York, ME)",Real EstateCommercial,Spouse,"$250,001 - $500,000","None,",None (or less than $201)
+8.4,"4 Railroad Ave.Description: 4 Railroad Ave. (York Beach, ME)",Real EstateCommercial,Spouse,"$250,001 - $500,000","Rent/Royalties,","$5,001 - $15,000"
+8.5,"3 A StreetDescription: Rental unit on A Street (York, ME)",Real EstateResidential,Spouse,"$250,001 - $500,000","Rent/Royalties,","$5,001 - $15,000"
+8.6,"5 A StreetDescription: Rental unit on A Street (York, ME)",Real EstateResidential,Spouse,"$250,001 - $500,000","Rent/Royalties,","$5,001 - $15,000"
+9,Promissory NoteDebtor: Brandy Warren,Accounts ReceivableFrom an Individual,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+10,Promissory NoteDebtor: Jennifer Cinfo,Accounts ReceivableFrom an Individual,Spouse,"$100,001 - $250,000","Interest,","$1,001 - $2,500"
+11,Promissory NoteDebtor: Ron Vars,Accounts ReceivableFrom an Individual,Spouse,"$250,001 - $500,000","None,",None (or less than $201)
+12,Promissory NoteDebtor: Linda Spinelli,Accounts ReceivableFrom an Individual,Spouse,"$50,001 - $100,000","Interest,","$2,501 - $5,000"
+13,Promissory NoteDebtor: Nick Danton,Accounts ReceivableFrom an Individual,Spouse,"$50,001 - $100,000","Interest,","$1,001 - $2,500"

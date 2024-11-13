@@ -1,0 +1,19 @@
+1,"Renasant Bank(Tupelo, MS)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+2,"Renasant Bank(Tupelo, MS)Type: Checking,",Bank Deposit,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+3,"Raymond James Bank Deposit Program(St. Petersburg, FL)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+4,"Raymond James Bank Deposit(St. Petersburg, FL)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+5,"Rental PropertyDescription: Rental Property (Alexandria, VA)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$5,001 - $15,000"
+6,ALTFX - AB Sustainable Global Thematic Fund Class A,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends,",None (or less than $201)
+7,"MRK - Merck & Co., Inc.",Corporate SecuritiesStock,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+8,WMT-Wal-Mart Stores Inc. (NYSE),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+9,RNST-Renasant Corp. (NASDAQ),Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+10,MRK - Merck & Co. Inc. (NYSE),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+11,RNST - Renasant Corp. (NASDAQ),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+12,Putnam Investments IRA,Retirement PlansIRA,Self,,,
+12.1,PGRWX-Putnam Fund for Growth & Income A (NASDAQ),Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+13,American Funds IRA,Retirement PlansIRA,Spouse,,,
+13.1,AIVSX-American Funds Invmt Co of Amer A (NASDAQ),Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+14,Public Employee's Retirement System of Mississippi,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,"None,",None (or less than $201)
+15,Public Employee's Retirement System of Mississippi,Retirement PlansDefined Benefit Pension Plan,Spouse,Unascertainable,"None,",None (or less than $201)
+16,"Unit Investment TrustDescription: Guggenheim Covered Call & Income Portfolio (Chicago, IL)",Other Securities,Spouse,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+17,Estate of Thomas Frederick WickerFiler comment:  In period of administration; details of assets to be disclosed upon distribution.,TrustGeneral Trust,Self,Unascertainable,"None,",None (or less than $201)

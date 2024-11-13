@@ -1,0 +1,52 @@
+1,Truchas Capital 401k Plan,Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+1.1,"Charles Schwab(Minneapolis, MN)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+1.2,SWVXX - Schwab Value Advantage Money Fund,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+1.3,AORT - Artivion Inc,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+1.4,TCMD - Tactile Systems Technology Inc,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+2,Arch C Smith Revocable Trust U/A DTD 11/23/2015,TrustGeneral Trust,Spouse,,,
+2.1,"Charles Schwab(Minneapolis, MN)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$100,001 - $250,000","Interest,","$201 - $1,000"
+2.2,BSX - Boston Scientific Corporation,Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+2.3,EVTCY - Evotec AG,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+2.4,"FNF - Fidelity National Financial, Inc.",Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+2.5,"FIS - Fidelity National Information Services, Inc.",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+2.6,PODD - Insulet Corporation,Corporate SecuritiesStock,Spouse,"$500,001 - $1,000,000","None,",None (or less than $201)
+2.7,JNJ - Johnson & Johnson,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+2.8,MDT - Medtronic plc,Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+2.9,USB - U.S. Bancorp,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+2.10,"CSII - Cardiovascular Systems, Inc.",Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+2.11,"TCMD - Tactile Systems Technology, Inc.",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+2.12,PIPR - Piper Sandler Companies Common Stock,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+2.13,HBAN - Huntington Bancshares Incorporated - Common Stock,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+2.14,"AORT - Artivion, Inc. Common Stock",Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+3,Charles Schwab - Rollover IRA,Retirement PlansIRA,Spouse,,,
+3.1,"DXCM - DexCom, Inc.",Corporate SecuritiesStock,Spouse,"$500,001 - $1,000,000","None,",None (or less than $201)
+3.2,PIPR - Piper Sandler Companies Common Stock,Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+3.3,"TCMD - Tactile Systems Technology, Inc.",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+3.4,USB - U.S. Bancorp,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+3.5,"Schwab Bank(Minneapolis, MN)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+3.6,MSTY.PA - Mainstay Medical International plc,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+3.7,SNAXX - Schwab Value Advantage Money Fund Ultra Shares,Mutual FundsMutual Fund,Spouse,"$500,001 - $1,000,000","Excepted Investment Fund,",None (or less than $201)
+4,Arch C Smith Revocable Trust # 2,TrustGeneral Trust,Spouse,,,
+4.1,"Charles Schwab(Minneapolis, MN)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+4.2,BRK-B - Berkshire Hathaway Inc.,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+4.3,"GIS - General Mills, Inc.",Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+4.4,"MMC - Marsh & McLennan Companies, Inc.",Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+4.5,"NEE - NextEra Energy, Inc.",Corporate SecuritiesStock,Spouse,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+4.6,"PEP - PepsiCo, Inc.",Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+4.7,PIPR - Piper Sandler Companies Common Stock,Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+4.8,USB - U.S. Bancorp,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+4.9,"YUM - YUM! Brands, Inc.",Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+4.10,MMM - 3M Company,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,","$2,501 - $5,000"
+5,Charles Schwab - IRA Rollover,Retirement PlansIRA,Self,,,
+5.1,SWVXX - Schwab Value Advantage Money Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+5.2,SWGXX - Schwab Government Money Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+6,Minnesota Deferred Compensation Plan,Retirement PlansDeferred Compensation,Self,,,
+6.1,"Empower Retirement(Denver, CO)Type: Money Market Account,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7,State of Minnesota - Former Employer Retirement Plan,Retirement PlansDefined Contribution Pension Plan,Self,,,
+7.1,Balanced Fund,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+8,"Stone Arch Capital III, LPDescription: Investment Company (Minneapolis, MN) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not known or ascertainable; and the spouse has no authority to direct the investments.",Investment FundPrivate Equity Fund,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+9,"Accuitive Medical Ventures, LLCCompany: Accuitive Medical Ventures, LLC (Duluth, GA) Description: Investment Company",Business EntityLimited Liability Company (LLC),Spouse,,,
+9.1,"AMV Partners I, LPCompany: AMV Partners I, LP (Duluth, GA) Description: Medical Device Company",Business EntityLimited Partnership (LP),Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+10,"Surgical Information SciencesCompany: Surgical Information Sciences (Alpharetta, CA) Description: Health Management Systems",Corporate SecuritiesNon-Public Stock,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+11,"Owl Navigation, Inc.Company: Owl Navigation, Inc. (Plymouth, MN) Description: Health Management System",Corporate SecuritiesNon-Public Stock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+12,"Northern Lakes Capital IV, LPDescription: Private Equity (Minneapolis, MN) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not known or ascertainable.",Investment FundPrivate Equity Fund,Spouse,"$50,001 - $100,000","None,",None (or less than $201)

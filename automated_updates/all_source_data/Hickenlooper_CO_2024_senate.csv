@@ -1,0 +1,112 @@
+1,John W Hickenlooper Irrevocable Trust,TrustGeneral Trust,Self,,,
+1.1,"UMB Bank, n.a.(Kansas City, MO)Type: Checking,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+1.2,Vanguard Brokerage Account,Brokerage/Managed Account,Self,,,
+1.2.1,VDIGX - Vanguard Dividend Growth Fund Investor Shares,Mutual FundsMutual Fund,Self,"$1,000,001 - $5,000,000","Excepted Investment Fund,","$50,001 - $100,000"
+1.3,Charles Schwab - Bartlett Wealth Management,Brokerage/Managed Account,Self,,,
+1.3.1,PG - The Procter & Gamble Company,Corporate SecuritiesStock,Self,"$1,000,001 - $5,000,000","Dividends,","$50,001 - $100,000"
+1.3.2,USB - U.S. Bancorp,Corporate SecuritiesStock,Self,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+1.3.3,ITW - Illinois Tool Works Inc.,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.4,"WM - Waste Management, Inc.",Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$2,501 - $5,000"
+1.3.5,"LOW - Lowe's Companies, Inc.",Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.6,"TJX - The TJX Companies, Inc.",Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.7,KO - The Coca-Cola Company,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.8,"PEP - PepsiCo, Inc.",Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.9,ABT - Abbott Laboratories,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$2,501 - $5,000"
+1.3.10,ABBV - AbbVie Inc.,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.11,AMGN - Amgen Inc.,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.12,"MRK - Merck & Co., Inc.",Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.13,NVS - Novartis AG,Corporate SecuritiesStock,Self,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+1.3.14,CB - Chubb Limited,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$2,501 - $5,000"
+1.3.15,JPM - JPMorgan Chase & Co.,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.16,AAPL - Apple Inc.,Corporate SecuritiesStock,Self,"$500,001 - $1,000,000","Dividends,","$2,501 - $5,000"
+1.3.17,"ADP - Automatic Data Processing, Inc.",Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.18,INTC - Intel Corporation,Corporate SecuritiesStock,Self,"None (or less than $1,001)","Dividends, Capital Gains,","$15,001 - $50,000"
+1.3.19,VZ - Verizon Communications Inc.,Corporate SecuritiesStock,Self,"None (or less than $1,001)","Dividends,","$5,001 - $15,000"
+1.3.20,DUK - Duke Energy Corporation,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.21,MCD - McDonald's Corporation,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+1.3.22,MSFT - Microsoft Corporation,Corporate SecuritiesStock,Self,"$500,001 - $1,000,000","Dividends,","$5,001 - $15,000"
+1.3.23,RTX - Raytheon Technologies Corporation,Corporate SecuritiesStock,Self,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+1.3.24,AMT - American Tower Corporation (REIT),Corporate SecuritiesStock,Self,"None (or less than $1,001)","None,",None (or less than $201)
+1.3.25,XLE - SPDR Select Sector Fund - Energy Select Sector,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+1.3.26,SDZNY - Sandoz Group AG,Corporate SecuritiesStock,Self,"$1,001 - $15,000","None,",None (or less than $201)
+1.4,"CoopersmithCompany: Coopersmith (Fort Collins, CO) Description: Brew Pub Filer comment:  Transferred interest in 2023",Corporate SecuritiesNon-Public Stock,Self,"None (or less than $1,001)","None,",None (or less than $201)
+2,"Skylark Lounge Holdings LLCDescription: Neighborhood bar and music lounge (Denver, Colorado)",Real EstateCommercial,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+3,Promissory noteDebtor: Williams,Accounts ReceivableFrom an Individual,Self,"$250,001 - $500,000","Interest,","$2,501 - $5,000"
+4,Fidelity Traditional IRA,Retirement PlansIRA,Self,,,
+4.1,QQQM - Invesco NASDAQ 100 ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,000,001 - $5,000,000","None,",None (or less than $201)
+5,Fidelity Brokerage,Brokerage/Managed Account,Child,,,
+5.1,AAPL - Apple Inc. - Common Stock,Corporate SecuritiesStock,Child,"$1,001 - $15,000","None,",None (or less than $201)
+5.2,SBUX - Starbucks Corporation - Common Stock,Corporate SecuritiesStock,Child,"$1,001 - $15,000","None,",None (or less than $201)
+6,"First Bank of Denver(Denver, CO)Type: Checking, Savings,",Bank Deposit,Self,"$50,001 - $100,000","None,",None (or less than $201)
+7,Colorado 529 PlanInstitution: CollegeInvest,Education Savings Plans529 College Savings Plan,Self,,,
+7.1,Stable Value Fund,Mutual FundsStable Value Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+8,Colorado PERA DC Plan,Retirement PlansDefined Contribution Pension Plan,Self,,,
+8.1,PERAdvantage Income Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+8.2,PERAdvantage US Large Cap Stock,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+8.3,PERAdvantage International Stock Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+8.4,PERAdvantage US Small & Mid Cap,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+9,Denver Employees Retirement Plan,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,"Excepted Investment Fund,",None (or less than $201)
+10,"Bank of America(San Francisco, California)Type: Checking,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+11,"Bank of America(San Francisco, California)Type: Savings,",Bank Deposit,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+12,"Bank of America(San Francisco, California)Type: Savings,",Bank Deposit,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+13,"Bank of America(San Francisco, California)Type: Savings,",Bank Deposit,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+14,"Liberty Media Corporation 2006 Deferred Compensation PlanCompany: Matrix Trust Company (New York, NY) Description: Cash",Deferred CompensationDeferred Compensation - Cash,Spouse,"Over $1,000,000 and held independently by spouse or dependent child","None,",None (or less than $201)
+15,Liberty Media 401(K),Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+15.1,DODGX - Dodge & Cox Stock Fund,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+15.2,MWTSX - Metropolitan West Total Return Bond Fund Plan Clas,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+15.3,PHIYX - PIMCO High Yield Fund Institutional Class,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+15.4,VAIPX - Vanguard Inflation-Protected Securities Fund Admir,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+15.5,FIAM Blend TD 2045 Q,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","None,",None (or less than $201)
+16,Fidelity SEP IRA,Retirement PlansIRA,Spouse,,,
+16.1,"SPAXX - Fidelity Government Money Market(Albuquerque, NM)Type: Money Market Account,",Bank Deposit,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+16.2,"AMZN - Amazon.com, Inc.",Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+16.3,BABA - Alibaba Group Holding Limited,Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+16.4,CMCSA - Comcast Corporation,Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+16.5,DIS - The Walt Disney Company,Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+16.6,"TTD - The Trade Desk, Inc.",Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+16.7,CCCS - CCC Intelligent Solutions Holdings Inc. Common Sto,Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+16.8,FIEUX - Fidelity Europe Fund,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+16.9,"PTON - Peloton Interactive, Inc. - Common Stock",Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+16.10,VFIAX - Vanguard 500 Index Fd Admiral Shs,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+16.11,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+16.12,JEPI - JPMorgan Equity Premium Income ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+16.13,VYM - Vanguard High Dividend Yield ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+16.14,"BMW BK North America(Salt Lake City, UT)Type: Certificate of Deposit,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+17,"CMG - Chipotle Mexican Grill, Inc.",Corporate SecuritiesStock,Spouse,"Over $1,000,000 and held independently by spouse or dependent child","None,",None (or less than $201)
+18,"QRTEA - Qurate Retail, Inc.",Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+19,"EXPE - Expedia Group, Inc.",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+20,Fidelity Brokerage Account,Brokerage/Managed Account,Spouse,,,
+20.1,FZROX - Fidelity ZERO Total Market Index Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+20.2,SNAP - Snap Inc.,Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+20.3,"BBY - Best Buy Co., Inc.",Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","Dividends, Capital Gains,","$201 - $1,000"
+20.4,"SPAXX - Fidelity Government Money Market(Boston, MA)Type: Money Market Account,",Bank Deposit,Spouse,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+20.5,"CARG - CarGurus, Inc. - Class A Common Stock",Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+20.6,NOK - Nokia Corporation Sponsored American Depositary Sh,Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+20.7,"PINS - Pinterest, Inc. Class A Common Stock",Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+20.8,Fidelity - Restricted Stock Awards,Deferred CompensationDeferred Compensation - Other,Spouse,,,
+20.8.1,SIRI - Sirius XM Holdings Inc. - Common Stock,Corporate SecuritiesStock,Spouse,"$250,001 - $500,000","None,",None (or less than $201)
+20.9,SIRI - Sirius XM Holdings Inc. - Common Stock,Corporate SecuritiesStock,Spouse,"$250,001 - $500,000","Dividends, Capital Gains,","$15,001 - $50,000"
+20.10,FBND - Fidelity Total Bond ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+21,BATRK - The Liberty Braves Group,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Capital Gains,","$201 - $1,000"
+22,LSXMA - The Liberty SiriusXM Group,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+23,LBRDA - Liberty Broadband Corporation,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+24,LBRDK - Liberty Broadband Corporation,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+25,"LTRPA - Liberty TripAdvisor Holdings, Inc.",Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+26,FWONA - Formula One Group,Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+27,FWONK - Formula One Group,Corporate SecuritiesStock,Spouse,"$250,001 - $500,000","Capital Gains,","$100,001 - $1,000,000"
+28,BATRA - The Liberty Braves Group,Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+29,LSXMK - The Liberty SiriusXM GroupStrike price: $30.51 | NeitherExpires: 05/12/2023,Corporate SecuritiesStock Option,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+30,UBS Brokerage Account,Brokerage/Managed Account,Spouse,,,
+30.1,Qurate Retail Inc.Rate/Coupon: 8.0%  Matures: 03/15/2031Filer comment:  Preferred security,Corporate SecuritiesCorporate Bond,Spouse,"$1,001 - $15,000","Interest,","$201 - $1,000"
+30.2,"UBS Insured Sweep Program(New York, NY)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+31,LGF-B - Lions Gate Entertainment Corp.,Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+32,LSXMK - Liberty Media Corporation - Series C Liberty Siriu,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+33,FWONK - Liberty Media Corporation - Series C Liberty FormuStrike price: $43.01 | NeitherExpires: 03/15/2027 Filer comment:  Exercised stock option on 3/8/23,Corporate SecuritiesStock Option,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+34,CollegeInvest 529Institution: CollegeInvest 529,Education Savings Plans529 College Savings Plan,Spouse,,,
+34.1,Aggressive Age−Based Option: 12.5% Stock/87.5% Bond Portfolio,Mutual FundsMutual Fund,Spouse,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+34.2,Aggressive Age-Based Option: Aggressive Growth Portfolio,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+35,LLYVK - Liberty Media Corp Series C,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+36,FWONK - Liberty Media Formula One Sr CStrike price: $42.10 | NeitherExpires: 12/10/2027,Corporate SecuritiesStock Option,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+37,LLYVK - Liberty Media Corp Series CStrike price: $33.97 | NeitherExpires: 12/11/2030,Corporate SecuritiesStock Option,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+38,BATRK - Liberty Media Corporation - Series C Liberty BraveStrike price: $26.36 | NeitherExpires: 12/10/2027,Corporate SecuritiesStock Option,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+39,BATRK - Liberty Media Corporation - Series C Liberty BraveStrike price: $37.45 | NeitherExpires: 12/11/2030,Corporate SecuritiesStock Option,Spouse,"$1,001 - $15,000","None,",None (or less than $201)

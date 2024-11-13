@@ -1,0 +1,72 @@
+1,"Alaska Permanent Fund DividendDescription: N/A (N/A, N/A)",Other Securities,Spouse,"$1,001 - $15,000","None,","$1,001 - $2,500"
+2,"Alaska Permanent Fund DividendDescription: N/A (N/A, N/A)",Other Securities,Self,"$1,001 - $15,000","None,","$1,001 - $2,500"
+3,"Northrim Bank(Anchorage, AK)Type: Checking,",Bank Deposit,Self,"None (or less than $1,001)","Interest,",None (or less than $201)
+4,"Wells Fargo(Anchorage, AK)Type: Savings,",Bank Deposit,Self,"$50,001 - $100,000","Interest,",None (or less than $201)
+5,EUGBX-Morgan Stanley European Equity B,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Dividends,",None (or less than $201)
+6,FSCDX - Fidelity Advisor Small Cap A,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Capital Gains,","$201 - $1,000"
+7,"Morgan Stanley(Anchorage, AK)Type: Money Market Account,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+8,AMOAX - MS Focus Growth,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends, Capital Gains,","$2,501 - $5,000"
+9,"First Bank(Ketchikan, AK)Type: IRA Cash Accounts,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+10,"First Bank(Ketchikan, AK)Type: Certificate of Deposit,",Bank Deposit,Self,"$15,001 - $50,000","Interest,","$201 - $1,000"
+11,"Rental income from basement apartmentDescription: Basement apartment in DC residence (Washington, DC)",Real EstateResidential,Joint,"$500,001 - $1,000,000","Rent/Royalties,","$5,001 - $15,000"
+12,"National Capital Bank(Washington, DC)Type: Checking,",Bank Deposit,Self,"$50,001 - $100,000","Interest,",None (or less than $201)
+13,"First BankCompany: First Bank (Ketchikan, AK) Description: Bank",Corporate SecuritiesNon-Public Stock,Self,"$15,001 - $50,000","Dividends,","$5,001 - $15,000"
+14,State of Alaska Public Employee Retirement System (PERS),Retirement PlansDefined Benefit Pension Plan,Self,"$50,001 - $100,000","None,",None (or less than $201)
+15,CCOR - Core Alternative ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+16,SWVXX Schwab Value Advantage Money INV,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+17,NFRA - FlexShares STOXX Global Broad Infrastructure Index,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+18,XMHQ - Invesco S&P Midcap Quality ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+19,QAI - IQ Hedge MultiIQ Hedge Multi-Strategy Tracker ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+20,IEMG - iShares Core MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+21,IEFA - iShares Core MSCI EAFE ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+22,IJR - iShares Core S&P Small-Cap,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+23,IJH - iShares Core S&P Mid-Cap,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+24,CMDY - iShares Bloomberg Roll Select Commodity Strategy E,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+25,BBRE - JPMorgan BetaBuilders MSCI U.S. REIT ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+26,INDS - Pacer Industrial Real Estate ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+27,CALF - Pacer US Small Cap Cash Cows 100 ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+28,SHM - SPDR Nuveen Bloomberg Barclays Short Term Municipa,Mutual FundsExchange Traded Fund/Note,Self,"None (or less than $1,001)","Dividends,",None (or less than $201)
+29,SPY - S&P 500 SPDR,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+30,VTIP - Short-Term Infl Protected Vanguard,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+31,BND - Vanguard Total Bond Market ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+32,BNDX - Vanguard Total International Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+33,VWEAX - Vanguard High-Yield Corporate Fund Admiral Share,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+34,VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+35,BIMBX - Blackrock Systematic Multi-Strategy Fund Institu,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+36,WFC - Wells Fargo & Company,Corporate SecuritiesStock,Self,"$250,001 - $500,000","Dividends,","$5,001 - $15,000"
+37,swvxx,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+38,CCOR - Core Alternative ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+39,NFRA - FlexShares STOXX Global Broad Infrastructure Index,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+40,XMHQ - Invesco S&P Midcap Quality ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+41,QAI - IQ Hedge Multi-Strategy Tracker ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+42,IEMG - iShares Core MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+43,IEFA - iShares Core MSCI EAFE ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+44,IJR - S&P Smallcap Ishares Core ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)","Dividends,",None (or less than $201)
+45,IJH - iShares Core S&P Mid-Cap,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+46,CMDY - iShares Bloomberg Roll Select Commodity Strategy E,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+47,BBRE - JPMorgan BetaBuilders MSCI U.S. REIT ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+48,INDS - Pacer Industrial Real Estate ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)","Dividends,",None (or less than $201)
+49,CALF - Pacer US Small Cap Cash Cows 100 ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)","Dividends,",None (or less than $201)
+50,SPY - SPDR??S&P 500? ETF Trust,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,",None (or less than $201)
+51,VWEAX - Vanguard High-Yield Corporate Fund Admiral Share,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+52,VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,",None (or less than $201)
+53,BIMBX - Blackrock Systematic Multi-Strategy Fund Institu,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+54,SWVXX,Mutual FundsExchange Traded Fund/Note,Spouse,"None (or less than $1,001)","Dividends,",None (or less than $201)
+55,SCHH - Schwab U.S. REIT ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"None (or less than $1,001)","Dividends,",None (or less than $201)
+56,CCOR - Core Alternative ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"None (or less than $1,001)","Dividends,",None (or less than $201)
+57,NFRA - Flexshares Global Broad Infr Fund,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+58,QAI - IQ Hedge Multi-Strategy Tracker ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"None (or less than $1,001)","Dividends,",None (or less than $201)
+59,CMDY - iShares Bloomberg Roll Select Commodity Strategy E,Mutual FundsExchange Traded Fund/Note,Spouse,"None (or less than $1,001)","Dividends,",None (or less than $201)
+60,SCHE - Schwab Emrg Mkts Equity ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"None (or less than $1,001)","Dividends,",None (or less than $201)
+61,SCHF - Schwab International Equity ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+62,SCHZ - Schwab US Aggregate Bond ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+63,SPHY - SPDR Portfolio High Yield Bond ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+64,SPMD - SPDR Portfolio S&P 400 Mid Cap ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+65,SPLG - SPDR Large Cap Portfolio ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+66,SPSM - SPDR Portfolio S&P 600 Small Cap ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+67,VTIP - Vanguard Short-Term Inflation-Protected Securities,Mutual FundsExchange Traded Fund/Note,Spouse,"None (or less than $1,001)","Dividends,",None (or less than $201)
+68,BNDX - Vanguard Total International Bond ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+69,BIMBX - Blackrock Systematic Multi-Strategy Fund Institu,Mutual FundsExchange Traded Fund/Note,Spouse,"None (or less than $1,001)","Dividends,",None (or less than $201)
+70,"Charles Schwab(Anchorage, AK)Type: Checking,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+71,"Charles Schwab(Anchorage, AK)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+72,"Charles Schwab(Anchorage, AK)Type: Checking,",Bank Deposit,Spouse,"None (or less than $1,001)","Interest,",None (or less than $201)
