@@ -12,6 +12,12 @@ ENV/
 env/
 .venv/
 
+
+# Data files
+*.pdf
+.pdf 
+
+
 # VS Code settings
 .vscode/
 

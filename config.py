@@ -5,6 +5,7 @@ load_dotenv()
 
 CRYPTO_ASSETS = {
     'assets': [
+        {'type': 'unknown', 'name': 'cryptocurrency', 'ticker': 'unk'}
         {'type': 'token', 'name': 'Bitcoin', 'ticker': 'BTC'},
         {'type': 'token', 'name': 'Ethereum', 'ticker': 'ETH'},
         {'type': 'token', 'name': 'Solana', 'ticker': 'SOL'},
