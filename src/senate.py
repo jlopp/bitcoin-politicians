@@ -21,56 +21,6 @@ logger = logging.getLogger(__name__)
 
 
 def ensure_playwright():
-    """Install playwright chromium if not already installed"""
-    browser_path = Path.home() / '.cache' / 'ms-playwright' / 'chromium-' 
-    
-    if not any(browser_path.parent.glob('chromium-*')):  # Check for any chromium version
-        logger.info("Installing Playwright Chromium browser if not installed...")
-        subprocess.run([sys.executable, '-m', 'playwright', 'install', 'chromium'], check=True)
-        logger.info("Playwright Chromium installed successfully")
-
-from playwright.sync_api import sync_playwright
-import logging 
-import subprocess
-import sys 
-from pathlib import Path
-import pandas as pd
-
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(sys.stdout)
-    ]
-)
-logger = logging.getLogger(__name__)
-
-def ensure_playwright():
-    """Install Playwright Chromium browser if not installed"""
-    browser_path = Path.home() / '.cache' / 'ms-playwright' / 'chromium-' 
-    if not any(browser_path.parent.glob('chromium-*')):  # Check for any chromium version
-        logger.info("Installing Playwright Chromium browser if not installed...")
-        subprocess.run([sys.executable, '-m', 'playwright', 'install', 'chromium'], check=True)
-        logger.info("Playwright Chromium installed successfully")
-
-from playwright.sync_api import sync_playwright
-import logging 
-import subprocess
-import sys 
-from pathlib import Path
-import pandas as pd
-import time
-
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(sys.stdout)
-    ]
-)
-logger = logging.getLogger(__name__)
-
-def ensure_playwright():
     """Install Playwright Chromium browser if not installed"""
     browser_path = Path.home() / '.cache' / 'ms-playwright' / 'chromium-' 
     if not any(browser_path.parent.glob('chromium-*')):  # Check for any chromium version

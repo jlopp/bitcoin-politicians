@@ -63,5 +63,10 @@ def quick_vision_test(file_path: str, file_type: str):
             ],
         )
     
-    return response.choices[0].message.content
+    print(response.choices[0].message.content)
 
+# Example usage
+if __name__ == "__main__":
+    quick_vision_test("test.html", "html")     # Local HTML file
+    # quick_vision_test("disclosure.pdf", "pdf")  # For PDF
+    # quick_vision_test("disclosure.jpg", "image")  # For image
