@@ -1,3 +1,5 @@
+chrome_driver_path = ''
+
 bitcoin_crypto_terms = [
     'btc', 
     'bitcoin', 

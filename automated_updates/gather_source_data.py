@@ -3,11 +3,12 @@ from house import download_house_source_data_most_recent
 from senate import download_senate_source_data_most_recent, start_chrome_driver
 from organize_source_data import organize_source_data
 import time
+from config import chrome_driver_path
 
 start_time = time.time()
 
 members = get_congress_members()
-driver = start_chrome_driver('/Users/lee/Downloads/chromedriver', headless=True)
+driver = start_chrome_driver(chrome_driver_path, headless=True)
 
 no_disclosures = []
 for i, member in enumerate(members):
