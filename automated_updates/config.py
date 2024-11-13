@@ -1,6 +1,3 @@
-# download chromedriver from https://googlechromelabs.github.io/chrome-for-testing/, path to executable here
-chrome_driver_path = ''
-
 # search terms to identify holdings
 bitcoin_crypto_terms = [
     'btc', 
