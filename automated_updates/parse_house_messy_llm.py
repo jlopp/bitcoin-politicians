@@ -44,5 +44,5 @@ def assets_from_house_messy_to_csv_entire_folder(folder_path):
 	return True
 
 if __name__ == '__main__':
-	folder_path = "./intermediate_files/house_messy_intermediate_files/McCaul_TX_2023_house"
+	folder_path = "./intermediate_files/house_messy_intermediate_files/Rogers_KY_2023_house"
 	assets_from_house_messy_to_csv_entire_folder(folder_path)

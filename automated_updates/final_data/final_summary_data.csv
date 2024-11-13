@@ -4,8 +4,7 @@ Cruz,TX,senate,True,bitcoin,Bitcoin Exchange/Platform: River Financial Inc
 Goldman,NY,house,True,coinbase,"Coinbase Global, Inc. - Class A (COIN) [ST]"
 Graves,LA,house,True,coinbase,"Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]"
 Hinson,IA,house,True,"btc, bitcoin, grayscale, gbtc",Grayscale Bitcoin Trust - GBTC [MF]
-Rogers,KY,house,True,"bitcoin, grayscale",Grayscale Bitcoin Trust
-Thanedar,MI,house,True,"bitcoin, ethereum","Ethereum, Bitcoin"
+Thanedar,MI,house,True,"ethereum, bitcoin","Ethereum, Bitcoin"
 Van Drew,NJ,house,True,greyscale,Greyscale Investment Trust
 Vance,OH,senate,True,"btc, coinbase",BTCExchange/Platform: Coinbase
 Waltz,FL,house,True,bitcoin,Bitcoin [OT]
@@ -395,6 +394,7 @@ Ricketts,NE,senate,False,,
 Risch,ID,senate,False,,
 Rodgers,WA,house,False,,
 Rogers,AL,house,False,,
+Rogers,KY,house,False,,
 Romney,UT,senate,False,,
 Rose,TN,house,False,,
 Rosen,NV,senate,False,,
