@@ -17,7 +17,7 @@ for root, dirs, files in os.walk(senate_dir): total_folders += len(dirs)
 
 existing_outputs = [output.replace('.csv','') for output in os.listdir('./all_processed_data/')]
 
-# TODO: this should be parallelized, limiting factor will be OpenAI usage tier
+# TODO: this should be parallelized, bottleneck will be OpenAI usage tier
 # Process folders in house_clean_pdf_dir
 for root, dirs, files in os.walk(house_clean_pdf_dir):
     for folder in dirs:
