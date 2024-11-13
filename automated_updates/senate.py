@@ -9,8 +9,9 @@ import csv
 import time
 import os
 import requests
+from config import chrome_driver_path
 
-chrome_driver_path = '/Users/lee/Downloads/chromedriver'
+if chrome_driver_path == '': exit('Missing chrome_driver_path in config.py')
 
 def start_chrome_driver(chrome_driver_path, headless=True):
     chrome_options = webdriver.ChromeOptions()
@@ -114,5 +115,5 @@ def download_senate_source_data_most_recent(driver, last_name, state_abbr):
         exit('unrecognized url')
 
 if __name__ == '__main__':
-    driver = start_chrome_driver('/Users/lee/Downloads/chromedriver', headless=False)
+    driver = start_chrome_driver(chrome_driver_path=chrome_driver_path, headless=False)
     success = download_senate_source_data_most_recent(driver=driver, last_name='Ricketts', state_abbr='NE')
