@@ -1,0 +1,6 @@
+name,state,chamber,bitcoin_crypto,triggered_terms,matched_asset_names
+Thanedar,MI,house,True,"bitcoin, ethereum","Ethereum, Bitcoin"
+Van Drew,NJ,house,True,greyscale,Greyscale Investment Trust
+Vance,OH,senate,True,"btc, coinbase",BTCExchange/Platform: Coinbase
+Amo,RI,house,False,,
+Markey,MA,senate,False,,
