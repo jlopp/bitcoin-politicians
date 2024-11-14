@@ -2,6 +2,10 @@
 .env
 __pycache__
 all_processed_data
+all_processed_data_test
+all_source_data_test
 bitcoin-politicians-env
 intermediate_files
+intermediate_files_test
+missing_disclosures.txt
 cache

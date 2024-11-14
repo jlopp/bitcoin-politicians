@@ -1,9 +1,10 @@
 name,state,chamber,bitcoin_crypto,triggered_terms,matched_asset_names
-Collins,GA,house,True,cryptocurrency,ETH Cryptocurrency [CT]
+Boebert,CO,house,True,crypto,Crypto Money Movement COIN [OT]
+Collins,GA,house,True,"cryptocurrency, crypto",ETH Cryptocurrency [CT]
 Cruz,TX,senate,True,bitcoin,Bitcoin Exchange/Platform: River Financial Inc
 Goldman,NY,house,True,coinbase,"Coinbase Global, Inc. - Class A (COIN) [ST]"
 Graves,LA,house,True,coinbase,"Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]"
-Hinson,IA,house,True,"btc, bitcoin, grayscale, gbtc, bitcoin, bito ","Grayscale Bitcoin Trust - GBTC [MF], ProShares Bitcoin Strategy ETF - BITO [MF]"
+Hinson,IA,house,True,"btc, bitcoin, grayscale, gbtc, bitcoin, bito ","ProShares Bitcoin Strategy ETF - BITO [MF], Grayscale Bitcoin Trust - GBTC [MF]"
 Jackson,NC,house,True,"solana, cardano","Solana [OT], Cardano [OT]"
 Thanedar,MI,house,True,"bitcoin, ethereum","Ethereum, Bitcoin"
 Van Drew,NJ,house,True,greyscale,Greyscale Investment Trust
@@ -46,7 +47,6 @@ Blackburn,TN,senate,False,,
 Blumenauer,OR,house,False,,
 Blumenthal,CT,senate,False,,
 Blunt Rochester,DE,house,False,,
-Boebert,CO,house,False,,
 Bonamici,OR,house,False,,
 Booker,NJ,senate,False,,
 Boozman,AR,senate,False,,

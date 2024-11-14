@@ -3,6 +3,7 @@ bitcoin_crypto_terms = [
     # general terms
     'cryptocurrency',
     'blockchain',
+    'crypto',
     # bitcoin
     'btc', 
     'bitcoin', 
