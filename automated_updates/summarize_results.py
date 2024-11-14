@@ -20,6 +20,9 @@ def combine_processed_data():
             file_path = os.path.join(processed_data_dir, filename)
             df = pd.read_csv(file_path)
             
+            # Remove rows with blank or null asset_name
+            df = df[df['asset_name'].notna() & (df['asset_name'] != '')]
+            
             df['name'] = name
             df['state'] = state
             df['year'] = year
@@ -61,7 +64,7 @@ def identify_bitcoin_crypto_holdings(combined_df):
     ).reset_index()
 
     holdings_summary = holdings_summary.sort_values(by=['bitcoin_crypto', 'name'], ascending=[False, True])
-
+    
     return holdings_summary
 
 if __name__ == '__main__':
