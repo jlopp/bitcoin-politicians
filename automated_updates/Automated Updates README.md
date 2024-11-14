@@ -1,7 +1,7 @@
 ## Approach Overview
-The approach relies on feeding images and prompts into the multi-modal OpenAI API (gpt-4o-mini) for automated parsing. This end-to-end approach *by-far* outperforms OCR libraries and other fragmented LLM-based workflows. It is also way easier to implement and continue to develop, and will continue getting better and cheaper as these LLM's improve.
+The approach relies on feeding images and prompts into the multi-modal OpenAI API (gpt-4o-mini or gpt-4o) for automated parsing. This end-to-end approach *by-far* outperforms standard OCR libraries and other fragmented, rules-reliant workflows. It is also way easier to implement and continue to develop, and will continue getting better and cheaper as these models improve.
 
-It is set up so that most users will not have to run the automation pipeline. `all_source_data` and `final_data` folders are small enough to commit to GitHub, so ideally one person will run this code periodically, and everyone else can just easily access these artifacts for their own use (unless you are contributing to development of the automation)
+It is set up so that most users will not have to run the automation pipeline. The `all_source_data` and `final_datasets` folders are small enough to commit to GitHub, so ideally one person will run the pipeline periodically, and everyone else can just easily access these artifacts for their own use (unless you are contributing to development of the automation)
 
 ## Setup
 
