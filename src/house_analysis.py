@@ -3,7 +3,9 @@ import sys
 import time
 import json
 import base64
+import cv2
 import logging
+import pytesseract
 import tempfile
 import requests
 import pandas as pd
@@ -12,8 +14,27 @@ from pdf2image import convert_from_path
 import openai
 from math import ceil
 import PyPDF2
-
+from PIL import Image
 from config import CRYPTO_ASSETS
+import numpy as np  # Necessary for image processing
+
+# Try to find tesseract in common installation paths
+tesseract_paths = [
+    "/usr/local/bin/tesseract",
+    "/usr/bin/tesseract",
+    "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",  # Windows path
+    "/opt/homebrew/bin/tesseract"  # Mac Homebrew path
+]
+
+tesseract_found = False
+for path in tesseract_paths:
+    if os.path.exists(path):
+        pytesseract.pytesseract.tesseract_cmd = path
+        tesseract_found = True
+        break
+
+if not tesseract_found:
+    raise RuntimeError("Tesseract is not installed or not found in common paths. Please install Tesseract and ensure it's in your PATH.")
 
 # Configure OpenAI API Key
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -37,6 +58,41 @@ file_handler.setFormatter(formatter)
 # Add handlers to the logger
 logger.addHandler(console_handler)
 logger.addHandler(file_handler)
+
+
+def enhance_image_for_ocr(image):
+    """
+    Enhance image to improve OCR accuracy.
+    """
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    gray = cv2.bilateralFilter(gray, 9, 75, 75)
+    thresh = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
+                                   cv2.THRESH_BINARY, 11, 2)
+    return thresh
+
+
+def pdf_to_text_or_ocr(file_path: str) -> str:
+    """
+    Extracts text from a PDF using PyPDF2. If no text is extracted, falls back to OCR on images.
+    """
+    pdf_text = ""
+    with open(file_path, 'rb') as file:
+        pdf_reader = PyPDF2.PdfReader(file)
+        for page_num, page in enumerate(pdf_reader.pages, start=1):
+            page_text = page.extract_text()
+            if page_text:
+                pdf_text += page_text
+            else:
+                # Fallback to OCR if no text was found
+                logger.warning(f"No text extracted from page {page_num}. Falling back to OCR.")
+                images = convert_from_path(file_path, first_page=page_num, last_page=page_num)
+                for image in images:
+                    open_cv_image = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
+                    # Apply OCR preprocessing
+                    enhanced_image = enhance_image_for_ocr(open_cv_image)
+                    ocr_text = pytesseract.image_to_string(enhanced_image)
+                    pdf_text += ocr_text + "\n"
+    return pdf_text
 
 def analyze_text_chunk(text_chunk, prompt):
     """
@@ -65,10 +121,8 @@ def analyze_text_chunk(text_chunk, prompt):
         # Log the entire response for debugging
         logger.debug(f"OpenAI API response: {response}")
 
-        analysis_result = response.choices[0].message.content.strip()
-        
-        # Remove any markdown code block indicators
-        analysis_result = analysis_result.replace('```json', '').replace('```', '').strip()
+        # Strip markdown formatting
+        analysis_result = response.choices[0].message.content.strip().replace('```json', '').replace('```', '').strip()
         
         # Validate that the response is likely JSON
         if not (analysis_result.startswith("{") and analysis_result.endswith("}")):
@@ -116,32 +170,29 @@ def quick_vision_test(file_path: str, file_type: str = 'pdf') -> dict:
         dict: Analysis results containing 'found', 'assets', and 'quotes'.
     """
     # Build prompt
-    prompt = f"""
-    This is a financial disclosure document. Identify any terms that match or are similar to the following list. Matches may include misspellings, near-spellings, or variations due to difficult-to-read or ambiguous handwritten text. The search should be case-insensitive and tolerant of typographical errors.
-    For example, "Bob's Bank" might appear as "BankBOB", "Bobs Bank", or "Bobz Bank". "Bitcoin" might be written as "BitCOIN", "Bitcon", or "Bittcoin".
-    Look for: {', '.join(f"{a['name']} ({a['ticker']})" for a in CRYPTO_ASSETS['assets'])}
-
-    Please provide your response in the following JSON format only, without any additional text:
-
-    {{
-        "found": true,
-        "assets": [list of assets found],
-        "quotes": [relevant text excerpts where the assets were found]
-    }}
-    """
+    prompt = (
+        "This is a financial disclosure document. Identify ANY mentions of cryptocurrency assets or holdings using these matching rules:\n\n"
+        "1. Search for cryptocurrency assets, including, but not limited to, the following assets:\n"
+        "Bitcoin (BTC), Ethereum (ETH), Solana (SOL), BNB (BNB), Litecoin,  Dogecoin (DOGE), XRP (XRP), Cardano (ADA), Pepe, Polkadot, Aptos, Uniswap, Stellar, Render, Bittensor, Tron (TRX), Shiba Inu (SHIB), Avalanche (AVAX), Toncoin (TON), Chainlink (LINK), iShares Bitcoin Trust ETF (IBIT), Grayscale Bitcoin Trust (GBTC), Grayscale Ethereum Trust (ETHE), ProShares Bitcoin Strategy ETF (BITO), ProShares Short Bitcoin Strategy ETF (BITI), Fidelity Wise Origin Bitcoin Fund (FBTC), ARK 21Shares Bitcoin ETF (ARKB), VanEck Digital Transformation ETF (DAPP), Invesco Alerian Galaxy Crypto Economy ETF (SATO), Fidelity Ethereum Fund ETF (FETH), ProShares Ether ETF (EETH), Velodrome (Velo)\n\n"
+        "2. MATCH ALL VARIATIONS:\n"
+        "- Split words (e.g., \"Doge Coin\", \"Bit Coin\")\n"
+        "- Combined words (e.g., \"BitCoin\", \"DogeCoin\")\n" 
+        "- Ticker only (\"BTC\", \"DOGE\", \"ETH\")\n"
+        "- Prefixed/suffixed with \"coin\", \"token\", or \"crypto\"\n\n"
+        "3. ALWAYS CHECK NEAR:\n"
+        "- [ct], (ct), [crypto] notations\n"        
+        "Return JSON format only:\n"
+        "{\n"
+        "    \"found\": True if assets located, else False"
+        "    \"assets\": [\"asset1\", \"asset2\", \"...\"],\n"
+        "    \"quotes\": [\"quote1\", \"quote2\", \"...\"]\n"
+        "}\n\n"
+    )
 
     try:
         if file_type == 'pdf':
-            # Extract text from PDF
-            pdf_text = ""
-            with open(file_path, 'rb') as file:
-                pdf_reader = PyPDF2.PdfReader(file)
-                for page_num, page in enumerate(pdf_reader.pages, start=1):
-                    page_text = page.extract_text()
-                    if page_text:
-                        pdf_text += page_text
-                    else:
-                        logger.warning(f"No text extracted from page {page_num} of {file_path}.")
+            # Extract text from PDF or fallback to OCR
+            pdf_text = pdf_to_text_or_ocr(file_path)
 
             # Process text in chunks of 50,000 characters
             chunk_size = 50000
@@ -167,14 +218,11 @@ def quick_vision_test(file_path: str, file_type: str = 'pdf') -> dict:
             logger.error(f"Unsupported file type: {file_type}")
             return {"found": False, "assets": [], "quotes": []}
 
-    except json.JSONDecodeError as e:
-        logger.error(f"JSON decode error for {file_path}: {e}")
-        return {"found": False, "assets": [], "quotes": []}
     except Exception as e:
         logger.error(f"Error in quick_vision_test for {file_path}: {e}")
         return {"found": False, "assets": [], "quotes": []}
 
-def download_report(report_url: str, download_dir: str = 'reports') -> Path:
+def download_report(report_url: str, download_dir: str = 'house_reports') -> Path:
     """
     Download the report PDF from the given URL.
 
@@ -256,7 +304,7 @@ def run_analysis():
     Main function to read the CSV, analyze reports, and save the augmented CSV.
     """
     input_csv = 'house_disclosures.csv'
-    output_csv = 'house_disclosures_with_analysis.csv'
+    output_csv = 'house_disclosures_with_analysis_enhanced.csv'
 
     try:
         logger.info(f"Reading input CSV: {input_csv}")

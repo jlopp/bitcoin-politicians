@@ -1,0 +1,6 @@
+2024-11-13 21:32:47,121 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 21:32:47,454 - INFO - Playwright Chromium installed successfully
+2024-11-13 21:33:13,980 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<Locator.check() done, defined at /Users/jordanolmstead/dev/bounties/bitcoin-politicians/env/lib/python3.10/site-packages/playwright/_impl/_locator.py:132> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /Users/jordanolmstead/dev/bounties/bitcoin-politicians/env/lib/python3.10/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /Users/jordanolmstead/dev/bounties/bitcoin-politicians/env/lib/python3.10/site-packages/playwright/_impl/_connection.py:195]>
+2024-11-13 21:33:13,981 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<Browser.close() running at /Users/jordanolmstead/dev/bounties/bitcoin-politicians/env/lib/python3.10/site-packages/playwright/_impl/_browser.py:183> cb=[SyncBase._sync.<locals>.<lambda>() at /Users/jordanolmstead/dev/bounties/bitcoin-politicians/env/lib/python3.10/site-packages/playwright/_impl/_sync_base.py:111]>

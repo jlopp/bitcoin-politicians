@@ -16,7 +16,8 @@ env/
 # Data files
 *.pdf
 .pdf 
-
+senate_reports/
+house_reports/
 
 # VS Code settings
 .vscode/

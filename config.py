@@ -5,7 +5,6 @@ load_dotenv()
 
 CRYPTO_ASSETS = {
     'assets': [
-        {'type': 'unknown', 'name': 'cryptocurrency', 'ticker': 'unk'}
         {'type': 'token', 'name': 'Bitcoin', 'ticker': 'BTC'},
         {'type': 'token', 'name': 'Ethereum', 'ticker': 'ETH'},
         {'type': 'token', 'name': 'Solana', 'ticker': 'SOL'},
@@ -29,5 +28,6 @@ CRYPTO_ASSETS = {
         {'type': 'etf', 'name': 'Invesco Alerian Galaxy Crypto Economy ETF', 'ticker': 'SATO'},
         {'type': 'etf', 'name': 'Fidelity Ethereum Fund ETF', 'ticker': 'FETH'},
         {'type': 'etf', 'name': 'ProShares Ether ETF', 'ticker': 'EETH'},
+        {'type': 'token', 'name': 'Velodrome', 'ticker': 'Velo'}
     ]
 }
