@@ -34,10 +34,11 @@ To set up the full automation pipeline, follow these steps:
 
 **Note on pymupdf**  
    If you encounter the error: `ModuleNotFoundError: No module named 'frontend'`, fix it by reinstalling the pymupdf package:
-     ```
-     pip uninstall pymupdf
-     pip install pymupdf
-     ```
+   ```
+   pip uninstall pymupdf
+   pip install pymupdf
+   ```
+
    This seems to be an issue with the package.
 
 #### Example .env File
