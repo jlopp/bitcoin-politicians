@@ -11,37 +11,37 @@ To set up the full automation pipeline, follow these steps:
    - Use Python version 3.11.6 or similar.
    - Run: `python -m venv your-env-name`
    - Activate the environment, then install dependencies:  
-     ```bash
+     ```
      pip install -r requirements.txt
      ```
 
 2. **Set Environment Variables**  
    - Create a `.env` file in `automated_updates/.env`
    - **Congress API Key**: Get an API key from Congress.gov and add it to `.env` as follows:  
-     ```plaintext
+     ```
      CONGRESS_GOV_API_KEY='your_api_key'
      ```
    - **ChromeDriver**:  
      - Download ChromeDriver matching your Chrome version and OS from [Chrome for Testing](https://googlechromelabs.github.io/chrome-for-testing/).
      - Add the path to `.env` like this:  
-       ```plaintext
+       ```
        CHROME_DRIVER_PATH='/path/to/chromedriver'
        ```
    - **OpenAI API Key**: Get an api key from OpenAI, ensuring sufficient funds to use the API, and add it to `.env` as:  
-     ```plaintext
+     ```
      OPENAI_API_KEY='your_openai_api_key'
      ```
 
 **Note on pymupdf**  
    If you encounter the error: `ModuleNotFoundError: No module named 'frontend'`, fix it by reinstalling the pymupdf package:
-     ```bash
+     ```
      pip uninstall pymupdf
      pip install pymupdf
      ```
    This seems to be an issue with the package.
 
 #### Example .env File
-```plaintext
+```
 CONGRESS_GOV_API_KEY='rv92...'
 CHROME_DRIVER_PATH='/path/to/chromedriver'
 OPENAI_API_KEY='sk-kiKX...'
