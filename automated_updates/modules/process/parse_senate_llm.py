@@ -1,4 +1,6 @@
-from openai_wrapper import encode_image, send_to_api
+from modules.process.openai_wrapper import encode_image, send_to_api
+from config import processed_data_dir
+
 import csv
 import os
 import glob
@@ -6,7 +8,7 @@ import re
 
 def assets_from_senate_image_to_csv(input_image_path):
 	base64_image = encode_image(input_image_path)
-	response = send_to_api("does this part of the form list asset disclosures? the income sources and transaction pages should be N. answer Y or N only.", base64_image)
+	response = send_to_api("does this part of the form list asset disclosures? answer Y or N only.", base64_image)
 
 	if response.lower() == 'n':
 		print('skipped')
@@ -21,7 +23,7 @@ def assets_from_senate_image_to_csv(input_image_path):
 
 def assets_from_senate_to_csv_entire_folder(folder_path):
 	folder_name = folder_path.split('/')[-1]
-	combined_csv_path = f'./all_processed_data/{folder_name}.csv'
+	combined_csv_path = processed_data_dir + f'{folder_name}.csv'
 	os.makedirs(os.path.dirname(combined_csv_path), exist_ok=True)
 
 	all_assets = []

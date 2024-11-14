@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import unicodedata
+from config import source_data_dir
 
 def remove_accents(text):
     return ''.join(
@@ -45,7 +46,7 @@ def download_house_source_data_specific_year(last_name, state_abbr, filing_year)
                 pdf_response = session.get(pdf_link)
                 pdf_response.raise_for_status()
 
-                filename = f"./all_source_data/{last_name}_{state_abbr}_{filing_year}_house.pdf"
+                filename = source_data_dir + f"{last_name}_{state_abbr}_{filing_year}_house.pdf"
                 with open(filename, 'wb') as pdf_file:
                     pdf_file.write(pdf_response.content)
                 print(f"\033[32mDownloaded {filename}\033[0m")

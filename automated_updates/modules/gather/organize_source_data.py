@@ -1,20 +1,23 @@
 import os
 import pandas as pd
-from house_clean_financial_disclosures_report import detect_house_clean_financial_disclosures_report
-from file_utils import split_pdf_to_jpeg, gif_to_jpeg
+from modules.process.file_utils import split_pdf_to_jpeg, gif_to_jpeg
 from tqdm import tqdm
+import fitz  # PyMuPDF
+from config import source_data_dir, house_messy_pdf_dir, house_clean_pdf_dir, senate_dir, processed_data_dir
 
-source_data_dir = './all_source_data/'
-house_messy_pdf_dir = './intermediate_files/house_messy_intermediate_files/'
-house_clean_pdf_dir = './intermediate_files/house_clean_intermediate_files/'
-senate_dir = './intermediate_files/senate_intermediate_files/'
-processed_data_dir = './all_processed_data/'
-
+def detect_house_clean_financial_disclosures_report(filepath):
+    with fitz.open(filepath) as pdf:
+        first_page_text = pdf[0].get_text()
+        detection_text = first_page_text.lower().replace(" ", "")
+        criteria1 = "Legislative Resource Center".lower().replace(" ", "") in detection_text
+        criteria2 = "Clerk of the House of Representatives".lower().replace(" ", "") in detection_text
+        
+    return criteria1 and criteria2
 
 def organize_source_data():
     # after source data is gathered into all_source_data,
     # sort it into separate folder w.r.t next data processing step
-
+    
     for filename in tqdm(os.listdir(source_data_dir)):
         if filename in ['.DS_Store']: continue
 

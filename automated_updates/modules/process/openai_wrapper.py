@@ -1,8 +1,8 @@
 import base64
-#import backoff # use backoff if you have low usage limits
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
+# import backoff # can use backoff if you have low usage limits
 
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")

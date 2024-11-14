@@ -27,8 +27,12 @@ def gif_to_jpeg(input_dir, filename, output_dir):
     return jpeg_path
 
 def make_directories():
+    from config import source_data_dir, house_messy_pdf_dir, house_clean_pdf_dir, senate_dir, processed_data_dir
+
     os.makedirs('./cache', exist_ok=True)
-    os.makedirs('./all_processed_data', exist_ok=True)
-    os.makedirs('./intermediate_files/house_clean_intermediate_files', exist_ok=True)
-    os.makedirs('./intermediate_files/house_messy_intermediate_files', exist_ok=True)
-    os.makedirs('./intermediate_files/senate_intermediate_files', exist_ok=True)
+    os.makedirs('./final_data', exist_ok=True)
+    os.makedirs(source_data_dir, exist_ok=True)
+    os.makedirs(house_messy_pdf_dir, exist_ok=True)
+    os.makedirs(house_clean_pdf_dir, exist_ok=True)
+    os.makedirs(senate_dir, exist_ok=True)
+    os.makedirs(processed_data_dir, exist_ok=True)

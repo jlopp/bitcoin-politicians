@@ -72,9 +72,9 @@ def get_congress_gov_api_key():
         sys.exit(1)  # Exits with an error code
     return api_key
 
-def get_congress_members(congress=118, limit=250, ignore_cache=True):
-    # use the cache if available, use api only when needed
-    # cache is nice to have for development, not necessary for user
+# take and modified from user dreslan at https://github.com/jlopp/bitcoin-politicians/issues/36
+def get_congress_members(congress=118, limit=250, ignore_cache=True, test_set=False):
+    # hitting the api takes a few seconds. nice to have this cached for faster development, not necessary for user
     if not ignore_cache:
         cache_file = f'./cache/congress_{congress}_members.pkl'
         if os.path.exists(cache_file):
@@ -124,6 +124,19 @@ def get_congress_members(congress=118, limit=250, ignore_cache=True):
         with open(cache_file, 'wb') as file:
             pickle.dump(members, file)
             print("cached congress members for future use.")
+
+    if test_set:
+        # Use a test set that will hit all code paths:
+        test_set_names = [
+            'Amo, Gabe', 'Thanedar, Shri', # house clean
+            'Van Drew, Jefferson', # house messy
+            'Vance, J. D.', # senate easy extract
+            'Markey, Edward J.', # senate gifs
+        ]
+        members = [member for member in members if member[0] in test_set_names]
+    
+        print('using test set:')
+        for member in members: print(member)
 
     return members
 

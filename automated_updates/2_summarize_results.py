@@ -1,12 +1,15 @@
+# Part 3 of the pipeline: 
+# Identifies bitcoin/crypto assets and combines files in all_processed_data into final dataframes
+
 import os
 import pandas as pd
+from config import processed_data_dir
+from config import bitcoin_crypto_terms, bitcoin_crypto_terms_false_positives
 
 def combine_processed_data():
-    folder_path = 'all_processed_data'
-
     dataframes = []
 
-    for filename in os.listdir(folder_path):
+    for filename in os.listdir(processed_data_dir):
         if filename.endswith('.csv'):
             parts = filename.split('_')
             name = parts[0]
@@ -14,7 +17,7 @@ def combine_processed_data():
             year = parts[2]
             house_senate = parts[3].replace('.csv', '')
 
-            file_path = os.path.join(folder_path, filename)
+            file_path = os.path.join(processed_data_dir, filename)
             df = pd.read_csv(file_path)
             
             df['name'] = name
@@ -30,14 +33,11 @@ def combine_processed_data():
     summarised_df = identify_bitcoin_crypto_holdings(combined_df)
     summarised_df.to_csv('./final_data/final_summary_data.csv', index=False)
     
-    print(f"Files combined successfully into 'final_data/final_asset_data.csv'")
-    print(f"Files summarised into 'final_data/final_summary_data.csv'")
-
+    print(f"\033[32m\nSaved Asset Data: 'final_data/final_asset_data.csv'\033[0m")
+    print(f"\033[32mSaved Bitcoin/Crypto Summary: 'final_data/final_summary_data.csv'\033[0m\n")
     return combined_df
 
 def identify_bitcoin_crypto_holdings(combined_df):
-    from config import bitcoin_crypto_terms, bitcoin_crypto_terms_false_positives
-
     # create columns to capture matched terms and asset names, handling non-string cases
     combined_df['triggered_terms'] = combined_df['asset_name'].apply(
         lambda x: ', '.join([term for term in bitcoin_crypto_terms if isinstance(x, str) and term.lower() in x.lower()])

@@ -1,4 +1,6 @@
-from openai_wrapper import encode_image, send_to_api
+from modules.process.openai_wrapper import encode_image, send_to_api
+from config import processed_data_dir
+
 import csv
 import os
 import glob
@@ -22,7 +24,7 @@ def assets_from_house_clean_image_to_csv(input_image_path):
 
 def assets_from_house_clean_to_csv_entire_folder(folder_path):
 	folder_name = folder_path.split('/')[-1]
-	combined_csv_path = f'./all_processed_data/{folder_name}.csv'
+	combined_csv_path = processed_data_dir + f'{folder_name}.csv'
 	os.makedirs(os.path.dirname(combined_csv_path), exist_ok=True)
 
 	all_assets = []
