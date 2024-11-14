@@ -62,7 +62,7 @@ def run():
     if members:
         logger.info(f"First five members:\n {members[0:5]}")
         logger.info("Saving members file to json")
-        filename = f"data/congress_members_{datetime.now().strftime('%Y-%m-%d')}.json"
+        filename = f"congress_members.json"
         save_members_to_json(members, filename)
         logger.info(f"Members file saved to JSON: {filename}")
     else:

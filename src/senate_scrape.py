@@ -119,179 +119,43 @@ def init_senate_search():
                 time.sleep(2)  # Wait for new page to load
             
             # Combine all dataframes
-            final_df = pd.concat(all_data, ignore_index=True)
+            final_df = pd.concat(all_data, ignore_index=False)
             print(f"Total rows collected: {len(final_df)}")
             print(final_df.head())
-            timestamp = time.strftime("%Y-%m-%d")
-            final_df.to_csv(f"senate_disclosures_unenriched_{timestamp}.csv")
-            logging.info(f"Data saved to senate_disclosures_unenriched_{timestamp}.csv")
+            final_df.to_csv(f"senate_disclosures.csv")
+            logging.info(f"Data saved to senate_disclosures.csv")
     
-                # # Extract links from HTML using BeautifulSoup
-                # soup = BeautifulSoup(table_html, 'html.parser')
-                # table = soup.find('table', {'id': 'filedReports'})
-                # links = []
-                # for row in table.find_all('tr')[1:]:  # Skip header row
-                #     link_cell = row.find('a')
-                #     if link_cell and 'href' in link_cell.attrs:
-                #         links.append('https://efdsearch.senate.gov' + link_cell['href'])
-                #     else:
-                #         links.append('')
-                
-                # # Add links column to dataframe        
-                # df['Link'] = links
-                # print(df.head())
-                # data = df.values.tolist()
-                # report_link = ''
-                # filename = ''
-
-                #     for index, cell in enumerate(cells):
-                #         # If this is the Report Type column, extract the link
-                #         if index == 3:  # Assuming Report Type is the 4th column (0-indexed)
-                #             link_element = cell.query_selector('a')
-            #                 if link_element:
-            #                     report_href = link_element.get_attribute('href')
-            #                     report_link = base_url + report_href
-            #                     cell_text = link_element.inner_text().strip()
-            #                 else:
-            #                     cell_text = cell.inner_text().strip()
-            #             else:
-            #                 cell_text = cell.inner_text().strip()
-            #                 # Remove '(Senator)' from names if present
-            #                 if index in [0, 1]:  # First Name and Last Name columns
-            #                     cell_text = cell_text.replace('(Senator)', '').strip()
-            #             data.append(cell_text)
-
-            #         # Combine First Name and Last Name into one column
-            #         full_name = f"{data[1]}, {data[0]}"  # "LAST NAME, First Name"
-            #         # Remove the original First Name and Last Name columns
-            #         data = data[2:]  # Remove first two elements
-            #         # Insert the full_name at the beginning
-            #         data.insert(0, full_name)
-            #         # Append the full report link
-            #         data.append(report_link)
-            #         # Add 'Annoying' and 'Standard' columns based on URL
-            #         annoying = 'TRUE' if 'paper' in report_link.lower() else 'FALSE'
-            #         standard = 'TRUE' if 'annual' in report_link.lower() else 'FALSE'
-            #         data.append(annoying)
-            #         data.append(standard)
-
-            #         # Handle report download
-            #         if report_link:
-            #             # Click on the report link
-            #             row.click()
-            #             page.wait_for_load_state('networkidle')
-            #             time.sleep(2)  # Wait for any dynamic content to load
-
-            #             # Check for 'Printer-Friendly' button
-            #             printer_friendly_buttons = page.query_selector_all('a.btn.btn-primary.btn-sm.ml-1:has-text("Printer-Friendly")')
-            #             if printer_friendly_buttons:
-            #                 logger.info("Printer-Friendly button found. Clicking to download printer-friendly version.")
-            #                 printer_friendly_button = printer_friendly_buttons[0]
-            #                 printer_friendly_button.click()
-            #                 time.sleep(5)  # Wait for the new tab to open and load
-
-            #                 # Get all pages (tabs) in the browser
-            #                 pages = context.pages
-            #                 if len(pages) > 1:
-            #                     # The new tab is the last in the list
-            #                     printer_friendly_page = pages[-1]
-            #                     printer_friendly_page.wait_for_load_state('networkidle')
-
-            #                     # Generate a unique filename based on report details
-            #                     safe_name = full_name.replace(',', '').replace(' ', '_')
-            #                     pf_filename = f"{safe_name}_printer_friendly"
-
-            #                     # Download the Printer-Friendly page as PDF
-            #                     pdf_path = download_page_as_pdf(printer_friendly_page, pf_filename)
-            #                     filename = pdf_path if pdf_path else ''
-
-            #                     # Close the Printer-Friendly tab
-            #                     printer_friendly_page.close()
-            #                 else:
-            #                     logger.error("Printer-Friendly tab did not open as expected.")
-            #             else:
-            #                 logger.info("No Printer-Friendly button found. Downloading regular report.")
-            #                 # Generate a unique filename based on report details
-            #                 safe_name = full_name.replace(',', '').replace(' ', '_')
-            #                 regular_filename = f"{safe_name}_report"
-
-            #                 # Download the current report page as PDF
-            #                 pdf_path = download_page_as_pdf(page, regular_filename)
-            #                 filename = pdf_path if pdf_path else ''
-
-            #             # Navigate back to the search results
-            #             page.go_back()
-            #             page.wait_for_load_state('networkidle')
-            #             time.sleep(2)  # Allow time for the page to load
-            #         else:
-            #             logger.warning("No report link found for this row.")
-
-            #         # Append the filename to the data
-            #         data.append(filename if filename else '')
-
-            #         all_data.append(data)
-            #         logger.info(f"Processed report for {full_name}")
-            #         sys.stdout.flush()
-
-            #     print(f"Scraped page {current_page}")
-            #     logger.info(f"Scraped page {current_page}")
-            #     sys.stdout.flush()
-
-            #     # Check if there is a next page
-            #     next_button = page.query_selector('a.paginate_button.next')
-            #     if next_button and 'disabled' not in next_button.get_attribute('class'):
-            #         next_button.click()
-            #         page.wait_for_load_state('networkidle')
-            #         current_page += 1
-            #         time.sleep(2)  # Additional wait to ensure page has loaded
-            #     else:
-            #         break
-
-            # # Define columns including the new 'Filename' column
-            # columns = ['Name', 'Office (Filer Type)', 'Report Type', 'Date Received/Filed', 'Report Link', 'Annoying', 'Standard', 'Filename']
-            # df = pd.DataFrame(all_data, columns=columns)
-
-            # # Save to CSV
-            # df.to_csv('senate_disclosure_reports.csv', index=False)
-            # logger.info("Data saved to senate_disclosure_reports.csv")
-            # print("Data saved to senate_disclosure_reports.csv")
-            # sys.stdout.flush()
-
-            # # Close the browser
-            # browser.close()
-
-            # return df
 
         except Exception as e:
             logger.error(f"An error occurred: {e}")
             browser.close()
             raise
 
-# def download_page_as_pdf(page: Page, filename: str, download_dir: str = 'senate_reports') -> Optional[str]:
-#     """
-#     Download the current page as a PDF.
+def download_page_as_pdf(page: Page, filename: str, download_dir: str = 'senate_reports') -> Optional[str]:
+    """
+    Download the current page as a PDF.
 
-#     Args:
-#         page (Page): Playwright page object.
-#         filename (str): Desired filename for the PDF.
-#         download_dir (str): Directory to save the downloaded PDFs.
+    Args:
+        page (Page): Playwright page object.
+        filename (str): Desired filename for the PDF.
+        download_dir (str): Directory to save the downloaded PDFs.
 
-#     Returns:
-#         str: Path to the downloaded PDF, or None if failed.
-#     """
-#     try:
-#         os.makedirs(download_dir, exist_ok=True)
-#         file_path = Path(download_dir) / f"{filename}.pdf"
-#         # Ensure filename is unique
-#         if file_path.exists():
-#             timestamp = int(time.time())
-#             file_path = Path(download_dir) / f"{filename}_{timestamp}.pdf"
-#         page.pdf(path=str(file_path))
-#         logger.info(f"Downloaded PDF: {file_path}")
-#         return str(file_path)
-#     except Exception as e:
-#         logger.error(f"Error downloading PDF for {filename}: {e}")
-#         return None
+    Returns:
+        str: Path to the downloaded PDF, or None if failed.
+    """
+    try:
+        os.makedirs(download_dir, exist_ok=True)
+        file_path = Path(download_dir) / f"{filename}.pdf"
+        # Ensure filename is unique
+        if file_path.exists():
+            timestamp = int(time.time())
+            file_path = Path(download_dir) / f"{filename}_{timestamp}.pdf"
+        page.pdf(path=str(file_path))
+        logger.info(f"Downloaded PDF: {file_path}")
+        return str(file_path)
+    except Exception as e:
+        logger.error(f"Error downloading PDF for {filename}: {e}")
+        return None
 
 
 

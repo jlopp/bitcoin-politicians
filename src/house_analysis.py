@@ -158,7 +158,7 @@ def merge_analysis_results(results):
     }
     return merged
 
-def quick_vision_test(file_path: str, file_type: str = 'pdf') -> dict:
+def analyze_content(file_path: str, file_type: str = 'pdf') -> dict:
     """
     Analyze disclosure file based on specified type using OpenAI's GPT-4o model.
 
@@ -219,7 +219,7 @@ def quick_vision_test(file_path: str, file_type: str = 'pdf') -> dict:
             return {"found": False, "assets": [], "quotes": []}
 
     except Exception as e:
-        logger.error(f"Error in quick_vision_test for {file_path}: {e}")
+        logger.error(f"Error in analyze_content for {file_path}: {e}")
         return {"found": False, "assets": [], "quotes": []}
 
 def download_report(report_url: str, download_dir: str = 'house_reports') -> Path:
@@ -279,7 +279,7 @@ def analyze_reports(df: pd.DataFrame) -> pd.DataFrame:
                 file_type = 'pdf'
 
                 # Analyze the report
-                analysis_data = quick_vision_test(str(file_path), file_type)
+                analysis_data = analyze_content(str(file_path), file_type)
 
                 # Update the DataFrame with analysis results
                 df.at[idx, 'Found'] = analysis_data.get('found', False)
@@ -304,7 +304,7 @@ def run_analysis():
     Main function to read the CSV, analyze reports, and save the augmented CSV.
     """
     input_csv = 'house_disclosures.csv'
-    output_csv = 'house_disclosures_with_analysis_enhanced.csv'
+    output_csv = 'house_disclosures_analyzed.csv'
 
     try:
         logger.info(f"Reading input CSV: {input_csv}")
