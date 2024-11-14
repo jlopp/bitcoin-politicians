@@ -9812,3 +9812,201 @@ waiting for locator("input[type=\"checkbox\"]")
 2024-11-13 22:26:16,605 - INFO - Processed report: https://efdsearch.senate.gov/search/view/paper/ecdbf62a-3af7-4f6b-8221-a5156c05558f/
 2024-11-13 22:26:17,724 - INFO - Downloaded report: senate_reports/senate_reports_1731547577
 2024-11-13 22:26:17,724 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/a9edda97-d22c-45c2-bff6-81e92b757285/
+2024-11-13 22:26:18,915 - INFO - Downloaded report: senate_reports/senate_reports_1731547578
+2024-11-13 22:26:18,915 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/632f557a-c28b-43a9-8de5-1be4faf38032/
+2024-11-13 22:26:20,037 - INFO - Downloaded report: senate_reports/senate_reports_1731547580
+2024-11-13 22:26:20,037 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/b40609b3-2856-4dfd-8474-c1ef29624c19/
+2024-11-13 22:26:21,156 - INFO - Downloaded report: senate_reports/senate_reports_1731547581
+2024-11-13 22:26:21,156 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/8b8b4899-b615-438e-b683-89d579f69ac1/
+2024-11-13 22:26:21,156 - INFO - Scraped page 3
+2024-11-13 22:26:25,181 - INFO - Downloaded report: senate_reports/senate_reports_1731547585
+2024-11-13 22:26:25,183 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/314cb4e0-b326-43be-adf7-e783beb591a0/
+2024-11-13 22:26:26,310 - INFO - Downloaded report: senate_reports/senate_reports_1731547586
+2024-11-13 22:26:26,310 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/3eb2708b-9cd5-4409-b642-e894c97f29d2/
+2024-11-13 22:26:27,406 - INFO - Downloaded report: senate_reports/senate_reports_1731547587
+2024-11-13 22:26:27,406 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/d77dec56-b482-4683-9cff-d8ea240b8c3c/
+2024-11-13 22:26:28,524 - INFO - Downloaded report: senate_reports/senate_reports_1731547588
+2024-11-13 22:26:28,525 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/b4b6e7f5-acbb-4a6c-8094-1e554d2149b0/
+2024-11-13 22:26:29,709 - INFO - Downloaded report: senate_reports/senate_reports_1731547589
+2024-11-13 22:26:29,710 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/5f41230d-a763-4b5c-ba50-7756a8226e04/
+2024-11-13 22:26:30,806 - INFO - Downloaded report: senate_reports/senate_reports_1731547590
+2024-11-13 22:26:30,806 - INFO - Processed report: https://efdsearch.senate.gov/search/view/paper/c3823f10-1394-40db-976b-444358e16432/
+2024-11-13 22:26:31,978 - INFO - Downloaded report: senate_reports/senate_reports_1731547591
+2024-11-13 22:26:31,978 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/0338e0f7-7a96-4b8b-b768-1c99ceb415a9/
+2024-11-13 22:26:33,104 - INFO - Downloaded report: senate_reports/senate_reports_1731547593
+2024-11-13 22:26:33,104 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/0262a4ac-8042-4c39-b798-b85edc8ceba3/
+2024-11-13 22:26:34,226 - INFO - Downloaded report: senate_reports/senate_reports_1731547594
+2024-11-13 22:26:34,227 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/d63964c8-1c58-4b57-ad35-07e1a6104dc4/
+2024-11-13 22:26:35,333 - INFO - Downloaded report: senate_reports/senate_reports_1731547595
+2024-11-13 22:26:35,334 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/75543d83-83fc-474b-b46e-b91d74b436c6/
+2024-11-13 22:26:36,466 - INFO - Downloaded report: senate_reports/senate_reports_1731547596
+2024-11-13 22:26:36,467 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/9fd98fbe-9613-4aa9-896a-b8ba0e250c50/
+2024-11-13 22:26:37,572 - INFO - Downloaded report: senate_reports/senate_reports_1731547597
+2024-11-13 22:26:37,573 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/a14df483-dd72-4266-98a2-09b9c7f8d1dc/
+2024-11-13 22:26:38,690 - INFO - Downloaded report: senate_reports/senate_reports_1731547598
+2024-11-13 22:26:38,691 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/ca0fa419-d659-4a70-88f1-04687560399a/
+2024-11-13 22:26:39,822 - INFO - Downloaded report: senate_reports/senate_reports_1731547599
+2024-11-13 22:26:39,823 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/26b5e9a7-ce61-4034-9963-3e452816c87e/
+2024-11-13 22:26:40,924 - INFO - Downloaded report: senate_reports/senate_reports_1731547600
+2024-11-13 22:26:40,924 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/9adef51e-91a1-467f-a89a-f9279fe51b5d/
+2024-11-13 22:26:42,023 - INFO - Downloaded report: senate_reports/senate_reports_1731547602
+2024-11-13 22:26:42,023 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/d376b366-77d2-46d9-9393-82dc40d91e73/
+2024-11-13 22:26:43,157 - INFO - Downloaded report: senate_reports/senate_reports_1731547603
+2024-11-13 22:26:43,158 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/d8307d1c-f850-4e59-bed6-58141608e9c9/
+2024-11-13 22:26:44,307 - INFO - Downloaded report: senate_reports/senate_reports_1731547604
+2024-11-13 22:26:44,308 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/2eb83de2-c457-4a61-a902-7810952db2d1/
+2024-11-13 22:26:45,519 - INFO - Downloaded report: senate_reports/senate_reports_1731547605
+2024-11-13 22:26:45,519 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/6231982e-5f6c-4e56-bffb-b40ccd38397b/
+2024-11-13 22:26:46,714 - INFO - Downloaded report: senate_reports/senate_reports_1731547606
+2024-11-13 22:26:46,714 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/fe4735ee-8675-4ef8-9408-6c87340f1d81/
+2024-11-13 22:26:47,857 - INFO - Downloaded report: senate_reports/senate_reports_1731547607
+2024-11-13 22:26:47,858 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/f773ab4e-abed-426c-9c17-95a91cc78412/
+2024-11-13 22:26:48,950 - INFO - Downloaded report: senate_reports/senate_reports_1731547608
+2024-11-13 22:26:48,950 - INFO - Processed report: https://efdsearch.senate.gov/search/view/paper/20bdeae0-6664-468d-8a68-f7d6604ed7dd/
+2024-11-13 22:26:50,146 - INFO - Downloaded report: senate_reports/senate_reports_1731547610
+2024-11-13 22:26:50,146 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/157efca4-3dd9-4fa1-9f76-28801e38d12d/
+2024-11-13 22:26:51,283 - INFO - Downloaded report: senate_reports/senate_reports_1731547611
+2024-11-13 22:26:51,284 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/4e3d5ac3-c9c5-471f-b048-48ce77b46373/
+2024-11-13 22:26:52,398 - INFO - Downloaded report: senate_reports/senate_reports_1731547612
+2024-11-13 22:26:52,399 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/037bf296-b21a-4eec-acc6-fd73cf7d9edd/
+2024-11-13 22:26:52,399 - INFO - Scraped page 4
+2024-11-13 22:26:56,432 - INFO - Downloaded report: senate_reports/senate_reports_1731547616
+2024-11-13 22:26:56,433 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/45f8d47c-fa4b-4a5d-b810-33bf8e7e521b/
+2024-11-13 22:26:57,542 - INFO - Downloaded report: senate_reports/senate_reports_1731547617
+2024-11-13 22:26:57,542 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/c69e42e6-1c9c-44d9-b097-60be798b8661/
+2024-11-13 22:26:58,694 - INFO - Downloaded report: senate_reports/senate_reports_1731547618
+2024-11-13 22:26:58,694 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/c0bab3b6-4e45-4318-8f17-f06d7efbec4b/
+2024-11-13 22:26:59,807 - INFO - Downloaded report: senate_reports/senate_reports_1731547619
+2024-11-13 22:26:59,808 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/3d2cb46f-6a6c-4f70-85c9-c75c560b8154/
+2024-11-13 22:27:00,928 - INFO - Downloaded report: senate_reports/senate_reports_1731547620
+2024-11-13 22:27:00,929 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/00f71836-15dd-46c9-b884-254e5479891e/
+2024-11-13 22:27:02,072 - INFO - Downloaded report: senate_reports/senate_reports_1731547622
+2024-11-13 22:27:02,074 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/b86d9173-de3a-4f1c-bf2c-29b7f956ba4f/
+2024-11-13 22:27:03,216 - INFO - Downloaded report: senate_reports/senate_reports_1731547623
+2024-11-13 22:27:03,217 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/df3f0db2-76df-4b34-88d7-213ec6288ce8/
+2024-11-13 22:27:04,329 - INFO - Downloaded report: senate_reports/senate_reports_1731547624
+2024-11-13 22:27:04,329 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/bdc5113d-5891-462e-9501-ad2e5a697d51/
+2024-11-13 22:27:05,446 - INFO - Downloaded report: senate_reports/senate_reports_1731547625
+2024-11-13 22:27:05,447 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/f1c73d96-7e08-4a24-bd97-ec0b085782b8/
+2024-11-13 22:27:06,621 - INFO - Downloaded report: senate_reports/senate_reports_1731547626
+2024-11-13 22:27:06,623 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/9e7b377c-4514-4ab5-90db-9e76d43c4b30/
+2024-11-13 22:27:07,719 - INFO - Downloaded report: senate_reports/senate_reports_1731547627
+2024-11-13 22:27:07,720 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/952e43aa-f40c-4311-b8f1-b08d3e8ff097/
+2024-11-13 22:27:09,007 - INFO - Downloaded report: senate_reports/senate_reports_1731547629
+2024-11-13 22:27:09,008 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/eb37d9be-fe95-4680-a93d-8e22b7f887cc/
+2024-11-13 22:27:10,124 - INFO - Downloaded report: senate_reports/senate_reports_1731547630
+2024-11-13 22:27:10,125 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/34de9852-21e9-45db-9975-8e7b4b4194af/
+2024-11-13 22:27:11,306 - INFO - Downloaded report: senate_reports/senate_reports_1731547631
+2024-11-13 22:27:11,307 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/2a07642e-57d6-482c-abf1-71b5416afa66/
+2024-11-13 22:27:12,449 - INFO - Downloaded report: senate_reports/senate_reports_1731547632
+2024-11-13 22:27:12,450 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/d312120e-0f6d-4d85-89f6-7aa083037537/
+2024-11-13 22:27:13,556 - INFO - Downloaded report: senate_reports/senate_reports_1731547633
+2024-11-13 22:27:13,557 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/d8a0617f-2a28-465f-933c-21f67dbdce0d/
+2024-11-13 22:27:14,693 - INFO - Downloaded report: senate_reports/senate_reports_1731547634
+2024-11-13 22:27:14,693 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/0ffe1984-35f3-4389-a4c0-90025790ce96/
+2024-11-13 22:27:15,784 - INFO - Downloaded report: senate_reports/senate_reports_1731547635
+2024-11-13 22:27:15,785 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/5f91f59d-3962-48bd-a19f-fa97f502642f/
+2024-11-13 22:27:16,890 - INFO - Downloaded report: senate_reports/senate_reports_1731547636
+2024-11-13 22:27:16,891 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/9fd713f6-2903-424f-9069-385bcfd463b4/
+2024-11-13 22:27:18,006 - INFO - Downloaded report: senate_reports/senate_reports_1731547638
+2024-11-13 22:27:18,007 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/
+2024-11-13 22:27:19,150 - INFO - Downloaded report: senate_reports/senate_reports_1731547639
+2024-11-13 22:27:19,151 - INFO - Processed report: https://efdsearch.senate.gov/search/view/paper/478aa90c-8f73-4e84-8010-bcd4bdb8d992/
+2024-11-13 22:27:20,290 - INFO - Downloaded report: senate_reports/senate_reports_1731547640
+2024-11-13 22:27:20,291 - INFO - Processed report: https://efdsearch.senate.gov/search/view/paper/249d9537-fc4e-4331-8bb2-a1949ea71805/
+2024-11-13 22:27:21,611 - INFO - Downloaded report: senate_reports/senate_reports_1731547641
+2024-11-13 22:27:21,612 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/3e6d6b43-dd61-4594-813e-1c35ce99c58b/
+2024-11-13 22:27:22,776 - INFO - Downloaded report: senate_reports/senate_reports_1731547642
+2024-11-13 22:27:22,777 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/39bb13a4-a81f-44af-8869-8f6476e88fde/
+2024-11-13 22:27:23,879 - INFO - Downloaded report: senate_reports/senate_reports_1731547643
+2024-11-13 22:27:23,881 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/4cca582f-16be-46f4-8378-744ad9b46c67/
+2024-11-13 22:27:23,881 - INFO - Scraped page 5
+2024-11-13 22:27:27,842 - INFO - Downloaded report: senate_reports/senate_reports_1731547647
+2024-11-13 22:27:27,843 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/bcaf0292-332d-4c94-8303-1935043c16cf/
+2024-11-13 22:27:28,974 - INFO - Downloaded report: senate_reports/senate_reports_1731547648
+2024-11-13 22:27:28,975 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/7ed9a0a2-7cd3-4c92-bb28-b371d8459e8a/
+2024-11-13 22:27:30,092 - INFO - Downloaded report: senate_reports/senate_reports_1731547650
+2024-11-13 22:27:30,092 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/1eb0d806-fa8f-44bd-a693-910e67cad938/
+2024-11-13 22:27:31,302 - INFO - Downloaded report: senate_reports/senate_reports_1731547651
+2024-11-13 22:27:31,302 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/2f301679-7bb3-43a7-8adc-86dd7b13ddd9/
+2024-11-13 22:27:32,421 - INFO - Downloaded report: senate_reports/senate_reports_1731547652
+2024-11-13 22:27:32,421 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/fa1783ce-c2c6-414a-91c2-5f660caeb8a0/
+2024-11-13 22:27:33,541 - INFO - Downloaded report: senate_reports/senate_reports_1731547653
+2024-11-13 22:27:33,541 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/ed172e8b-cb21-4759-8a1c-7b7125fc3454/
+2024-11-13 22:27:34,652 - INFO - Downloaded report: senate_reports/senate_reports_1731547654
+2024-11-13 22:27:34,653 - INFO - Processed report: https://efdsearch.senate.gov/search/view/annual/f40dcd83-4a4a-47b5-bb52-2ef517870c7f/
+2024-11-13 22:27:34,653 - INFO - Scraped page 6
+2024-11-13 22:27:34,672 - INFO - Data saved to senate_disclosure_reports.csv
+2024-11-13 22:46:15,633 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 22:46:16,011 - INFO - Playwright Chromium installed successfully
+2024-11-13 22:46:26,912 - INFO - Accepted Senate disclosure agreement
+2024-11-13 22:46:27,367 - INFO - Set search filters
+2024-11-13 22:46:27,736 - INFO - Clicked search
+2024-11-13 22:46:58,603 - ERROR - An error occurred: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for navigation until 'networkidle'
+============================================================
+2024-11-13 22:50:34,000 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 22:50:34,406 - INFO - Playwright Chromium installed successfully
+2024-11-13 22:50:45,707 - INFO - Accepted Senate disclosure agreement
+2024-11-13 22:50:48,320 - INFO - Set search filters
+2024-11-13 22:50:48,641 - INFO - Clicked search
+2024-11-13 22:51:21,610 - ERROR - An error occurred: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until 'load'
+============================================================
+2024-11-13 22:52:46,878 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 22:52:47,263 - INFO - Playwright Chromium installed successfully
+2024-11-13 22:52:55,770 - INFO - Accepted Senate disclosure agreement
+2024-11-13 22:52:56,252 - INFO - Set search filters
+2024-11-13 22:52:56,622 - INFO - Clicked search
+2024-11-13 22:52:59,748 - INFO - No Printer-Friendly button found. Downloading regular report.
+2024-11-13 22:52:59,992 - INFO - Downloaded PDF: senate_reports/Baldwin_Tammy_report.pdf
+2024-11-13 22:53:02,532 - INFO - Processed report for Baldwin, Tammy
+2024-11-13 22:53:02,553 - ERROR - An error occurred: ElementHandle.query_selector_all: Protocol error (DOM.describeNode): Cannot find context with specified id
+2024-11-13 22:55:16,184 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 22:55:16,577 - INFO - Playwright Chromium installed successfully
+2024-11-13 22:55:25,406 - INFO - Accepted Senate disclosure agreement
+2024-11-13 22:55:25,504 - INFO - Set search filters
+2024-11-13 22:55:25,822 - INFO - Clicked search
+2024-11-13 22:56:44,741 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 22:56:45,123 - INFO - Playwright Chromium installed successfully
+2024-11-13 22:56:54,390 - INFO - Accepted Senate disclosure agreement
+2024-11-13 22:56:54,490 - INFO - Set search filters
+2024-11-13 22:56:54,871 - INFO - Clicked search
+2024-11-13 22:59:44,305 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 22:59:44,690 - INFO - Playwright Chromium installed successfully
+2024-11-13 23:00:05,642 - ERROR - An error occurred: Locator.check: Target page, context or browser has been closed
+Call log:
+waiting for locator("#agree_statement")
+  -   locator resolved to <input value="1" type="checkbox" id="agree_statement" name="prohibition_agreement"/>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   performing click action
+  -   click action done
+  -   waiting for scheduled navigations to finish
+  -   navigations have finished
+
+2024-11-13 23:00:44,820 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 23:00:45,211 - INFO - Playwright Chromium installed successfully
+2024-11-13 23:00:48,581 - INFO - Accepted Senate disclosure agreement
+2024-11-13 23:00:58,684 - INFO - Set search filters
+2024-11-13 23:00:59,189 - INFO - Clicked search
+2024-11-13 23:03:15,066 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 23:03:15,456 - INFO - Playwright Chromium installed successfully
+2024-11-13 23:03:18,989 - INFO - Accepted Senate disclosure agreement
+2024-11-13 23:03:29,075 - INFO - Set search filters
+2024-11-13 23:03:29,403 - INFO - Clicked search
+2024-11-13 23:04:57,903 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 23:04:58,288 - INFO - Playwright Chromium installed successfully
+2024-11-13 23:05:01,867 - INFO - Accepted Senate disclosure agreement
+2024-11-13 23:05:11,967 - INFO - Set search filters
+2024-11-13 23:05:12,298 - INFO - Clicked search
+2024-11-13 23:07:49,516 - INFO - Installing Playwright Chromium browser if not installed...
+2024-11-13 23:07:49,892 - INFO - Playwright Chromium installed successfully
+2024-11-13 23:07:53,356 - INFO - Accepted Senate disclosure agreement
+2024-11-13 23:08:03,463 - INFO - Set search filters
+2024-11-13 23:08:03,795 - INFO - Clicked search

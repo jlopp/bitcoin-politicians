@@ -141,7 +141,7 @@ def get_all_house_disclosures():
                 logger.info(f"\nTotal records collected: {len(combined_df)}")
 
                 # Save the combined DataFrame to a CSV file
-                combined_df.to_csv('house_disclosures.csv', index=False)
+                combined_df.to_csv('house_disclosures_unenriched.csv', index=False)
                 logger.info("Data has been saved to 'house_disclosures.csv'.")
                 return combined_df
             else:

@@ -1,0 +1,27 @@
+2024-11-13 22:33:06,760 - INFO - Reading input CSV: senate_disclosure_reports.csv
+2024-11-13 22:33:06,765 - INFO - Successfully read 132 records.
+2024-11-13 22:33:06,765 - INFO - Starting analysis of reports...
+2024-11-13 22:33:06,766 - INFO - Processing report 1/132: senate_reports/senate_reports_1731547489
+2024-11-13 22:33:06,768 - ERROR - Error processing PDF senate_reports/senate_reports_1731547489: EOF marker not found
+2024-11-13 22:33:08,274 - INFO - Processing report 2/132: senate_reports/senate_reports_1731547490
+2024-11-13 22:33:08,277 - ERROR - Error processing PDF senate_reports/senate_reports_1731547490: EOF marker not found
+2024-11-13 22:33:09,785 - INFO - Processing report 3/132: senate_reports/senate_reports_1731547491
+2024-11-13 22:33:09,790 - ERROR - Error processing PDF senate_reports/senate_reports_1731547491: EOF marker not found
+2024-11-13 22:33:11,296 - INFO - Processing report 4/132: senate_reports/senate_reports_1731547492
+2024-11-13 22:33:11,298 - ERROR - Error processing PDF senate_reports/senate_reports_1731547492: EOF marker not found
+2024-11-13 22:40:29,502 - INFO - Reading input CSV: senate_disclosure_reports.csv
+2024-11-13 22:40:29,507 - INFO - Successfully read 132 records.
+2024-11-13 22:40:29,507 - INFO - Starting analysis of reports...
+2024-11-13 22:40:29,508 - INFO - Processing report 1/132: senate_reports/senate_reports_1731547489
+2024-11-13 22:40:29,511 - ERROR - Error processing PDF senate_reports/senate_reports_1731547489: EOF marker not found
+2024-11-13 22:40:31,018 - INFO - Processing report 2/132: senate_reports/senate_reports_1731547490
+2024-11-13 22:40:31,025 - ERROR - Error processing PDF senate_reports/senate_reports_1731547490: EOF marker not found
+2024-11-13 22:40:32,532 - INFO - Processing report 3/132: senate_reports/senate_reports_1731547491
+2024-11-13 22:40:32,540 - ERROR - Error processing PDF senate_reports/senate_reports_1731547491: EOF marker not found
+2024-11-13 22:43:07,983 - INFO - Reading input CSV: senate_disclosure_reports.csv
+2024-11-13 22:43:07,988 - INFO - Successfully read 132 records.
+2024-11-13 22:43:07,988 - INFO - Starting analysis of reports...
+2024-11-13 22:43:07,989 - INFO - Processing report 1/132: senate_reports/senate_reports_1731547489
+2024-11-13 22:43:07,992 - ERROR - Error processing PDF senate_reports/senate_reports_1731547489: EOF marker not found
+2024-11-13 22:43:09,498 - INFO - Processing report 2/132: senate_reports/senate_reports_1731547490
+2024-11-13 22:43:09,505 - ERROR - Error processing PDF senate_reports/senate_reports_1731547490: EOF marker not found
