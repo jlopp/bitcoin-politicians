@@ -27,7 +27,7 @@ To set up the full automation pipeline, follow these steps:
        ```plaintext
        CHROME_DRIVER_PATH='/path/to/chromedriver'
        ```
-   - **OpenAI API Key**: Get a secret key from OpenAI, ensuring sufficient funds to use the API, and add it to `.env` as:  
+   - **OpenAI API Key**: Get an api key from OpenAI, ensuring sufficient funds to use the API, and add it to `.env` as:  
      ```plaintext
      OPENAI_API_KEY='your_openai_api_key'
      ```
