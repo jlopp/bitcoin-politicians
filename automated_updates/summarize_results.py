@@ -28,13 +28,13 @@ def combine_processed_data():
             dataframes.append(df)
 
     combined_df = pd.concat(dataframes, ignore_index=True)
-    combined_df.to_csv('./final_data/final_asset_data.csv', index=False)
+    combined_df.to_csv('./final_datasets/final_asset_data.csv', index=False)
 
     summarised_df = identify_bitcoin_crypto_holdings(combined_df)
-    summarised_df.to_csv('./final_data/final_summary_data.csv', index=False)
-    
-    print(f"\033[32m\nSaved Asset Data: 'final_data/final_asset_data.csv'\033[0m")
-    print(f"\033[32mSaved Bitcoin/Crypto Summary: 'final_data/final_summary_data.csv'\033[0m\n")
+    summarised_df.to_csv('./final_datasets/final_summary_data.csv', index=False)
+
+    print(f"\033[32m\nSaved Asset Data: 'final_datasets/final_asset_data.csv'\033[0m")
+    print(f"\033[32mSaved Bitcoin/Crypto Summary: 'final_datasets/final_summary_data.csv'\033[0m\n")
     return combined_df
 
 def identify_bitcoin_crypto_holdings(combined_df):
