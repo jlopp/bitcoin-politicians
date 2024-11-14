@@ -15,10 +15,8 @@ To set up the full automation pipeline, follow these steps:
      pip install -r requirements.txt
      ```
 
-2. **Set Up Environment Variables**  
-   - Create a `.env` file in `automated_updates/.env` (in your working directory).
-
-3. **API Keys and Drivers**  
+2. **Set Environment Variables**  
+   - Create a `.env` file in `automated_updates/.env`
    - **Congress API Key**: Get an API key from Congress.gov and add it to `.env` as follows:  
      ```plaintext
      CONGRESS_GOV_API_KEY='your_api_key'
@@ -34,7 +32,7 @@ To set up the full automation pipeline, follow these steps:
      OPENAI_API_KEY='your_openai_api_key'
      ```
 
-4. **Note on pymupdf**  
+**Note on pymupdf**  
    If you encounter the error: `ModuleNotFoundError: No module named 'frontend'`, fix it by reinstalling the pymupdf package:
      ```bash
      pip uninstall pymupdf
@@ -53,20 +51,20 @@ OPENAI_API_KEY='sk-kiKX...'
 
 To quickly set up and ensure all code paths are functioning, a pre-defined test dataset is available. This dataset includes pre-selected congress members to hit all relevant code paths.
 
-1. **Modify Folder Paths in `config.py`**: Update the paths in `config.py` to reflect the test dataset directories (or delete any existing data in these locations). Example modifications:
+1. **Modify Folder Paths in `config.py`**: Update `config.py` with new test dataset directories to ignore the existing files. Example modifications:
    ```
    source_data_dir = './all_source_data_test/'  
    intermediate_files_dir = './intermediate_files_test/'  
    processed_data_dir = './all_processed_data_test/'  
    ```
+   Alternatively, just delete the existing source files.
+   
 2. **Run the Gather Script with the Test Flag**: Execute the `gather_source_data.py` script with the `--test-set` flag to load and process the test dataset:
 
    ```python gather_source_data.py --test-set```
 
-This setup provides a controlled environment for initial testing, ensuring your pipeline runs smoothly before proceeding with long-running scripts.
 
-
-## Run in Three Steps
+## Run the Pipeline in Three Parts
 
 **gather_source_data.py**  
 * Retrieves congress member data from the Congress API: https://api.congress.gov/v3/member/congress  
