@@ -1,7 +1,7 @@
 Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the game. Because searching through financial disclosures can be a time intensive process, this project's goal is to crowdsource the work.
 
 ## Automated updating
-Workflow to automatically pull all relevant source data and extract asset names from it is available in the `automated_updates` folder. `all_source_data` and `final_data` should be up to date with the latest disclosures within a few weeks/months. These folders are most likely sufficient to analyze the asset disclosures on your own. See `automated_updates/setup_instructions` for details to run the data pull yourself.
+Workflow to automatically pull all relevant source data and extract asset names from it is available in the `automated_updates` folder. see [Automated Updates README.md](https://github.com/chance-on-brink/bitcoin-politicians/blob/automated-updates/automated_updates/Automated%20Updates%20README.md)
 
 ## Contributing
 NOTE: this repository will almost always be out of date due to the amount of work required to manually check 500+ disclosures that get published at unpredictable times.
