@@ -3,6 +3,7 @@ from tabulate import tabulate
 import pickle
 import os
 from dotenv import load_dotenv
+from datetime import date
 
 state_to_abbreviation = {
     'Alabama': 'AL',
@@ -72,8 +73,25 @@ def get_congress_gov_api_key():
         sys.exit(1)  # Exits with an error code
     return api_key
 
+def get_current_congress_number():
+    base_congress = 118
+    base_year = 2023
+    today = date.today()
+    
+    # Calculate the offset based on the current year
+    # Every Congress lasts 2 years starting from base_year
+    congress = base_congress + (today.year - base_year) // 2
+    
+    # If today's date is before January 3 of the current odd year, subtract 1
+    if today < date(base_year + (today.year - base_year) // 2 * 2, 1, 3):
+        congress -= 1
+    
+    return congress
+
 # take and modified from user dreslan at https://github.com/jlopp/bitcoin-politicians/issues/36
-def get_congress_members(congress=118, limit=250, ignore_cache=True, test_set=False):
+def get_congress_members(limit=250, ignore_cache=True, test_set=False):
+    congress = get_current_congress_number() # get congress number to match biennial Jan 3 cycle
+    
     # hitting the api takes a few seconds. nice to have this cached for faster development, not necessary for user
     if not ignore_cache:
         cache_file = f'./cache/congress_{congress}_members.pkl'
