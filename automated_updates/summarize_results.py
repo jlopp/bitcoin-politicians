@@ -3,7 +3,7 @@
 
 import os
 import pandas as pd
-from config import processed_data_dir
+from config import processed_data_dir, source_data_dir
 from config import bitcoin_crypto_terms, bitcoin_crypto_terms_false_positives
 
 def combine_processed_data():
@@ -34,6 +34,7 @@ def combine_processed_data():
     combined_df.to_csv('./final_datasets/final_asset_data.csv', index=False)
 
     summarised_df = identify_bitcoin_crypto_holdings(combined_df)
+    summarised_df = include_source_data_links_summary_data(summarised_df)
     summarised_df.to_csv('./final_datasets/final_summary_data.csv', index=False)
 
     print(f"\033[32m\nSaved Asset Data: 'final_datasets/final_asset_data.csv'\033[0m")
@@ -66,6 +67,23 @@ def identify_bitcoin_crypto_holdings(combined_df):
     holdings_summary = holdings_summary.sort_values(by=['bitcoin_crypto', 'name'], ascending=[False, True])
     
     return holdings_summary
+
+def include_source_data_links_summary_data(data):
+    csv_file_path = os.path.join(source_data_dir, "source_data_links.csv")
+    if not os.path.isfile(csv_file_path):
+        print(f"No file found at {csv_file_path}")
+        return data
+
+    source_data_links = pd.read_csv(csv_file_path)
+
+    merged_data = pd.merge(
+        data,
+        source_data_links,
+        how="left",
+        on=["name", "state"]
+    )
+
+    return merged_data
 
 if __name__ == '__main__':
     combined_df = combine_processed_data()

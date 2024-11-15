@@ -8,7 +8,7 @@ from modules.gather.congress_members import get_congress_members
 from modules.gather.house_scrape import download_house_source_data_most_recent
 from modules.gather.senate_scrape import download_senate_source_data_most_recent, start_chrome_driver
 from modules.gather.organize_source_data import organize_source_data
-from modules.process.file_utils import make_directories
+from modules.process.file_utils import make_directories, deduplicate_link_source_file
 
 import time
 from dotenv import load_dotenv
@@ -19,8 +19,8 @@ make_directories()
 load_dotenv()
 chrome_driver_path = os.getenv('CHROME_DRIVER_PATH')
 
-parser = argparse.ArgumentParser(description='Gather source data from Congress members.')
-parser.add_argument('--test-set', action='store_true', help='Use small dataset with 20 congress members for testing. Make sure to delete existing all_source_data or change config.')
+parser = argparse.ArgumentParser()
+parser.add_argument('--test-set', action='store_true', help='Use small dataset with 5 congress members for testing.')
 args = parser.parse_args()
 
 members = get_congress_members(test_set=args.test_set)
@@ -54,7 +54,9 @@ for i, member in enumerate(members):
             no_disclosures.append(member)
 
     else:
-        exit(f'house_senate not recognized: {house_senate}')
+        exit(f"house_senate not recognized: {house_senate}. Expected one of: 'House', 'Senate'")
+
+deduplicate_link_source_file()
 
 end_time = time.time()
 

@@ -1,11 +1,12 @@
+from modules.process.file_utils import add_link_to_source_file
+from config import source_data_dir
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
-from config import source_data_dir
-
 from datetime import datetime
 import csv
 import time
@@ -69,7 +70,7 @@ def download_senate_source_data_most_recent(driver, last_name, state_abbr):
     annual_report_link = driver.find_element(By.XPATH, "//a[contains(text(), 'Annual Report') and not(contains(text(), 'Amendment'))]")
     report_url = annual_report_link.get_attribute("href")
     driver.get(report_url)
-    #print(report_url)
+    add_link_to_source_file(last_name, state_abbr, most_recent_date.year, report_url)
 
     if 'view/annual' in report_url:
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "#grid_items tbody tr")))
