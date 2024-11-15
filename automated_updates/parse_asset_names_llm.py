@@ -31,7 +31,7 @@ for root, dirs, files in os.walk(house_clean_pdf_dir):
         assets_from_house_clean_to_csv_entire_folder(folder_path)
 
 # # Process folders in house_messy_pdf_dir
-for root, dirs, files in os.walk(house_messy_pdf_dir, topdown=False):
+for root, dirs, files in os.walk(house_messy_pdf_dir):
     for folder in dirs:
         processed_folders += 1
         print(f"Progress: {processed_folders} / {total_folders}")

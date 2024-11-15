@@ -8,7 +8,8 @@ import re
 
 def assets_from_house_messy_image_to_csv(input_image_path):
 	base64_image = encode_image(input_image_path)
-	response = send_to_api("is this the schedule A part of the form that lists assets? answer Y or N only.", base64_image)
+	response = send_to_api(message="is this the schedule A part of the form that lists assets? answer Y or N only.", 
+						   base64_image=base64_image)
 
 	if response.lower() == 'n':
 		# not schedule A, skip the page
@@ -16,7 +17,9 @@ def assets_from_house_messy_image_to_csv(input_image_path):
 		return []
 
 	# use '|' separator to avoid characters in asset names
-	response = send_to_api("get the asset names in the image, return them in a | separated list only, no other commentary.", base64_image)
+	response = send_to_api(message="get the asset names in the image, return them in a | separated list only, no other commentary.", 
+						   base64_image=base64_image, 
+						   model="gpt-4o")
 	asset_list = [response.strip() for response in response.split("|")]
 	
 	return asset_list
