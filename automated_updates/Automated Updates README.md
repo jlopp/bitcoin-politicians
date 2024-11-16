@@ -87,12 +87,21 @@ To quickly set up and ensure all code paths are functioning, a pre-defined test 
 ## Ideas for Improvement
 It currently works sufficiently well to detect the bitcoin/crypto terms. The following ideas could improve the asset list beyond just bitcoin/crypto related assets.
 
+Members with the same last name from same state overwrite each other. need to make distict.
+CA:
+- Mike Garcia (R - House)
+- Robert Garcia (D - House)
+
+GA:
+- Austin Scott (R - House)
+- David Scott (D - House)
+
 * Better method for image rotation. Assumptions can be made for most files, but sometimes an image will be rotated incorrectly, which hurts the LLM performance.
 * Use gpt-4o instead of gpt-4o-mini (current choice to save $).
     * I have experimented with this on select files and it does seem to be markedly better.
-    * Using gpt-4o-mini for clean house files (92%), gpt-4o for messy house files (~7%) and senate gif files (~1%) might be best bang for buck.
+    * Using gpt-4o-mini for clean house files (92%), gpt-4o for messy house files (~7%) and senate gif files (~1%) might be best bang for buck. DONE
 * Refine prompts.
 * Crop images intelligently to focus on relevant sections.
 * Currently asking the LLM when to skip a file. This may be counter-productive. Consider just one-shot prompt each image.
 * Directly ask the LLM, does this image mention bitcoin or cryptocurrency? not sure if this will work, might encourage hallucination. worth testing.
-* links to all sources are available in the data scraping process, need to write them to file for easy inclusion in the main readMe
+* links to all sources are available in the data scraping process, need to write them to file for easy inclusion in the main readMe DONE
