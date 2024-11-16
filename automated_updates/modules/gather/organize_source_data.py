@@ -23,9 +23,8 @@ def organize_source_data():
 
         filepath = os.path.join(source_data_dir, filename)
 
-        # For csv files, copy to processed_data_dir
+        # For csv files, copy asset_names to processed_data_dir
         if filename.endswith('.csv'):
-            output_filepath = os.path.join(processed_data_dir, filename)
             data = pd.read_csv(filepath, usecols=[1], header=None)
             data.columns = ['asset_name']
             data.to_csv(os.path.join(processed_data_dir, filename), index=False)
