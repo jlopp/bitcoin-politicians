@@ -200,6 +200,6 @@ def output_member_data_as_markdown(data):
 
 # Example usage
 if __name__ == '__main__':
-    congress_members = get_congress_members(congress=118)
-    print(len(congress_members))
+    congress_members = get_congress_members()
+    print(congress_members)
     #print(output_member_data_as_markdown(congress_members))
