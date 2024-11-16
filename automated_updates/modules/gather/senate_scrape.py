@@ -27,11 +27,12 @@ def start_chrome_driver(chrome_driver_path, headless=True):
 
     return driver
 
-def download_senate_source_data_most_recent(driver, last_name, first_name, state_abbr):
+def download_senate_source_data_most_recent(last_name, first_name, state_abbr, headless):
+    driver = start_chrome_driver(chrome_driver_path, headless=headless)
     # beware, this gets ugly
     driver.set_window_size(1920, 1080)
     driver.get("https://efdsearch.senate.gov/search/")
-    wait = WebDriverWait(driver, 600)
+    wait = WebDriverWait(driver, 60)
     agreement_checkboxes = driver.find_elements(By.ID, "agree_statement")
     if agreement_checkboxes: agreement_checkboxes[0].click()
     last_name_field = wait.until(EC.visibility_of_element_located((By.ID, "lastName")))
@@ -94,6 +95,7 @@ def download_senate_source_data_most_recent(driver, last_name, first_name, state
             writer = csv.writer(file)
             writer.writerows(rows)
         print(f"\033[32mDownloaded {filename}\033[0m")
+        driver.quit()
         return True
 
     elif 'paper' in report_url:
@@ -113,10 +115,11 @@ def download_senate_source_data_most_recent(driver, last_name, first_name, state
                     gif_file.write(response.content)
 
         print(f"\033[32mDownloaded files to {output_dir}\033[0m")
+        driver.quit()
         return True
     
     else:
-        exit('unrecognized url')
+        raise RuntimeError("Unrecognized URL encountered during execution.")
 
 if __name__ == '__main__':
     driver = start_chrome_driver(chrome_driver_path=chrome_driver_path, headless=False)

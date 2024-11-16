@@ -24,8 +24,19 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--test-set', action='store_true', help='Use small dataset with 5 congress members for testing.')
 args = parser.parse_args()
 
+def retry_with_delay(func, *args, retries=3, delay=60, **kwargs):
+    for attempt in range(retries):
+        try:
+            success = func(*args, **kwargs)
+            if success:
+                return True
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed with error: {e}. Retrying in {delay} seconds...")
+        time.sleep(delay)
+    print("All retry attempts failed.")
+    return False
+
 members = get_congress_members(test_set=args.test_set)
-driver = start_chrome_driver(chrome_driver_path, headless=True)
 
 start_time = time.time()
 no_disclosures = []
@@ -43,17 +54,19 @@ for i, member in enumerate(members):
     print(f'{first_name}, {last_name} {party} {state_abbr} {house_senate}')
     
     if house_senate == 'House':
-        success = download_house_source_data_most_recent(last_name, first_name, state_abbr)
+        # site will occasionally deny access. if this happens, wait and try again
+        success = retry_with_delay(download_house_source_data_most_recent, last_name, first_name, state_abbr)
         if not success:
             print(f'\033[91m{first_name} {last_name} no disclosures found.\033[0m')
             no_disclosures.append(member)
 
     elif house_senate == 'Senate':
-        success = download_senate_source_data_most_recent(driver, last_name, first_name, state_abbr)
+        headless=True # whether to run the chromedriver headless
+        # site will occasionally deny access. if this happens, wait and try again
+        success = retry_with_delay(download_senate_source_data_most_recent, last_name, first_name, state_abbr, headless)
         if not success:
             print(f'\033[91m{first_name} {last_name} no disclosures found.\033[0m')
             no_disclosures.append(member)
-
     else:
         exit(f"house_senate not recognized: {house_senate}. Expected one of: 'House', 'Senate'")
 
