@@ -8,7 +8,8 @@ from modules.gather.congress_members import get_congress_members
 from modules.gather.house_scrape import download_house_source_data_most_recent
 from modules.gather.senate_scrape import download_senate_source_data_most_recent, start_chrome_driver
 from modules.gather.organize_source_data import organize_source_data
-from modules.process.file_utils import make_directories, deduplicate_link_source_file
+from modules.process.file_utils import make_directories
+from modules.gather.source_file_links import deduplicate_link_source_file, get_new_disclosures
 
 import time
 from dotenv import load_dotenv
@@ -42,13 +43,13 @@ for i, member in enumerate(members):
     print(f'{first_name}, {last_name} {party} {state_abbr} {house_senate}')
     
     if house_senate == 'House':
-        success = download_house_source_data_most_recent(last_name=last_name, first_name=first_name, state_abbr=state_abbr)
+        success = download_house_source_data_most_recent(last_name, first_name, state_abbr)
         if not success:
             print(f'\033[91m{first_name} {last_name} no disclosures found.\033[0m')
             no_disclosures.append(member)
 
     elif house_senate == 'Senate':
-        success = download_senate_source_data_most_recent(driver, last_name, state_abbr)
+        success = download_senate_source_data_most_recent(driver, last_name, first_name, state_abbr)
         if not success:
             print(f'\033[91m{first_name} {last_name} no disclosures found.\033[0m')
             no_disclosures.append(member)
@@ -56,19 +57,13 @@ for i, member in enumerate(members):
     else:
         exit(f"house_senate not recognized: {house_senate}. Expected one of: 'House', 'Senate'")
 
-deduplicate_link_source_file()
-
-end_time = time.time()
-
 print('\n')
 print(f'\033[38;5;208mcongress members missing disclosures: {len(no_disclosures)}\033[0m')
 print(no_disclosures)
-with open('missing_disclosures.txt', 'w') as f:
-    for member in no_disclosures:
-        f.write(f"{member}\n")
 
-print(f"\nData pull completed in {end_time - start_time:.2f} seconds.")
+print(f"\nData pull completed in {time.time() - start_time:.2f} seconds.")
 
+deduplicate_link_source_file()
+get_new_disclosures()
 print('organizing source data...')
 organize_source_data()
-print('\n')

@@ -12,10 +12,11 @@ def combine_processed_data():
     for filename in os.listdir(processed_data_dir):
         if filename.endswith('.csv'):
             parts = filename.split('_')
-            name = parts[0]
-            state = parts[1]
-            year = parts[2]
-            house_senate = parts[3].replace('.csv', '')
+            last_name = parts[0]
+            first_name = parts[1]
+            state = parts[2]
+            year = parts[3]
+            house_senate = parts[4].replace('.csv', '')
 
             file_path = os.path.join(processed_data_dir, filename)
             df = pd.read_csv(file_path)
@@ -23,7 +24,8 @@ def combine_processed_data():
             # Remove rows with blank or null asset_name
             df = df[df['asset_name'].notna() & (df['asset_name'] != '')]
             
-            df['name'] = name
+            df['last_name'] = last_name
+            df['first_name'] = first_name
             df['state'] = state
             df['year'] = year
             df['chamber'] = house_senate
@@ -58,13 +60,13 @@ def identify_bitcoin_crypto_holdings(combined_df):
         ['bitcoin_crypto', 'triggered_terms', 'matched_asset_names']
     ] = [False, '', '']
 
-    holdings_summary = combined_df.groupby(['name', 'state', 'chamber']).agg(
+    holdings_summary = combined_df.groupby(['last_name', 'first_name', 'state', 'chamber']).agg(
         bitcoin_crypto=('bitcoin_crypto', 'max'),
         triggered_terms=('triggered_terms', lambda x: ', '.join(set(filter(None, x)))),
         matched_asset_names=('matched_asset_names', lambda x: ', '.join(set(filter(None, x))))
     ).reset_index()
 
-    holdings_summary = holdings_summary.sort_values(by=['bitcoin_crypto', 'name'], ascending=[False, True])
+    holdings_summary = holdings_summary.sort_values(by=['bitcoin_crypto', 'last_name', 'first_name'], ascending=[False, True, True])
     
     return holdings_summary
 
@@ -75,12 +77,11 @@ def include_source_data_links_summary_data(data):
         return data
 
     source_data_links = pd.read_csv(csv_file_path)
-
     merged_data = pd.merge(
         data,
         source_data_links,
         how="left",
-        on=["name", "state"]
+        on=["last_name", "first_name", "state"]
     )
 
     return merged_data

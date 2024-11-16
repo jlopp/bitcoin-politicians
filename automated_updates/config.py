@@ -29,7 +29,7 @@ bitcoin_crypto_terms = [
     'terawulf',
     # shitcoins
     'ethereum',
-    'eth '
+    'eth ',
     'litecoin', 
     'ltc ',
     'ripple',

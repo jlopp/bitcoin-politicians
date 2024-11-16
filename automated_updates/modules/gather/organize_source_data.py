@@ -17,9 +17,8 @@ def detect_house_clean_financial_disclosures_report(filepath):
 def organize_source_data():
     # after source data is gathered into all_source_data,
     # sort it into separate folder w.r.t next data processing step
-    
-    for filename in tqdm(os.listdir(source_data_dir)):
-        if filename in ['.DS_Store']: continue
+    filenames = [filename for filename in os.listdir(source_data_dir) if filename not in ['.DS_Store', 'source_data_links.csv']]
+    for filename in tqdm(filenames):
 
         filepath = os.path.join(source_data_dir, filename)
 
@@ -45,7 +44,7 @@ def organize_source_data():
             # there are two pdf forms from the house of representatives. a clean one and a messy one
             # split them into different folders to be processed separately
             is_house_clean = detect_house_clean_financial_disclosures_report(filepath)
-            is_house_messy = not is_house_clean # TODO: this works for now. would be more robust if we could detect both independently
+            is_house_messy = not is_house_clean
 
             if is_house_clean:
                 # Financial Disclosure Report with clean electronic text, ex. Adams_NC_2023_house.pdf
@@ -66,6 +65,7 @@ def organize_source_data():
 
         else:
             exit(f'unrecognized: {filename}')
-
+    print('\n')
+    
 if __name__ == '__main__':
     organize_source_data()

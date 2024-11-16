@@ -1,4 +1,4 @@
-from modules.process.file_utils import add_link_to_source_file
+from modules.gather.source_file_links import add_link_to_source_file
 from config import source_data_dir
 
 from selenium import webdriver
@@ -27,7 +27,7 @@ def start_chrome_driver(chrome_driver_path, headless=True):
 
     return driver
 
-def download_senate_source_data_most_recent(driver, last_name, state_abbr):
+def download_senate_source_data_most_recent(driver, last_name, first_name, state_abbr):
     # beware, this gets ugly
     driver.set_window_size(1920, 1080)
     driver.get("https://efdsearch.senate.gov/search/")
@@ -70,7 +70,7 @@ def download_senate_source_data_most_recent(driver, last_name, state_abbr):
     annual_report_link = driver.find_element(By.XPATH, "//a[contains(text(), 'Annual Report') and not(contains(text(), 'Amendment'))]")
     report_url = annual_report_link.get_attribute("href")
     driver.get(report_url)
-    add_link_to_source_file(last_name, state_abbr, most_recent_date.year, report_url)
+    add_link_to_source_file(last_name, first_name, state_abbr, most_recent_date.year, report_url)
 
     if 'view/annual' in report_url:
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "#grid_items tbody tr")))
@@ -87,7 +87,7 @@ def download_senate_source_data_most_recent(driver, last_name, state_abbr):
             return rows;
         """
 
-        filename = source_data_dir + f"{last_name}_{state_abbr}_{most_recent_date.year}_senate.csv"
+        filename = source_data_dir + f"{last_name}_{first_name}_{state_abbr}_{most_recent_date.year}_senate.csv"
         rows = driver.execute_script(script)
 
         with open(filename, "w", newline="") as file:
@@ -100,7 +100,7 @@ def download_senate_source_data_most_recent(driver, last_name, state_abbr):
         # save gif files to folder
         image_elements = driver.find_elements(By.XPATH, "//img[contains(@src, '.gif')]")
 
-        output_dir = source_data_dir + f"{last_name}_{state_abbr}_{most_recent_date.year}_senate"
+        output_dir = source_data_dir + f"{last_name}_{first_name}_{state_abbr}_{most_recent_date.year}_senate"
         os.makedirs(output_dir, exist_ok=True)
 
         for idx, img_element in enumerate(image_elements):

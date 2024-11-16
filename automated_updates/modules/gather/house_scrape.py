@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import unicodedata
 
-from modules.process.file_utils import add_link_to_source_file
+from modules.gather.source_file_links import add_link_to_source_file
 from config import source_data_dir
 
 def remove_accents(text):
@@ -12,7 +12,7 @@ def remove_accents(text):
         if unicodedata.category(c) != 'Mn'
     )
 
-def download_house_source_data_specific_year(last_name, state_abbr, filing_year):
+def download_house_source_data_specific_year(last_name, first_name, state_abbr, filing_year):
     search_url = "https://disclosures-clerk.house.gov/FinancialDisclosure/ViewMemberSearchResult"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36',
@@ -48,11 +48,11 @@ def download_house_source_data_specific_year(last_name, state_abbr, filing_year)
                 pdf_response = session.get(pdf_link)
                 pdf_response.raise_for_status()
 
-                filename = source_data_dir + f"{last_name}_{state_abbr}_{filing_year}_house.pdf"
+                filename = source_data_dir + f"{last_name}_{first_name}_{state_abbr}_{filing_year}_house.pdf"
                 with open(filename, 'wb') as pdf_file:
                     pdf_file.write(pdf_response.content)
                 print(f"\033[32mDownloaded {filename}\033[0m")
-                add_link_to_source_file(last_name, state_abbr, filing_year, pdf_link)
+                add_link_to_source_file(last_name, first_name, state_abbr, filing_year, pdf_link)
                 return True
             else:
                 return False
@@ -62,7 +62,7 @@ def download_house_source_data_specific_year(last_name, state_abbr, filing_year)
 def download_house_source_data_most_recent(last_name, first_name, state_abbr):
     current_year = datetime.now().year
     for year in range(current_year, current_year - 5, -1):
-        success = download_house_source_data_specific_year(last_name=last_name, state_abbr=state_abbr, filing_year=year)
+        success = download_house_source_data_specific_year(last_name=last_name, first_name=first_name, state_abbr=state_abbr, filing_year=year)
         if success:
             return True
     
