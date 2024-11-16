@@ -88,13 +88,11 @@ To quickly set up and ensure all code paths are functioning, a pre-defined test 
 It currently works sufficiently well to detect the bitcoin/crypto terms. The following ideas could improve the asset list beyond just bitcoin/crypto related assets.
 
 Members with the same last name from same state overwrite each other. need to make distict.
-CA:
-- Mike Garcia (R - House)
-- Robert Garcia (D - House)
+- Mike Garcia (R - House) CA
+- Robert Garcia (D - House) CA
 
-GA:
-- Austin Scott (R - House)
-- David Scott (D - House)
+- Austin Scott (R - House) GA
+- David Scott (D - House) GA
 
 * Better method for image rotation. Assumptions can be made for most files, but sometimes an image will be rotated incorrectly, which hurts the LLM performance.
 * Use gpt-4o instead of gpt-4o-mini (current choice to save $).
