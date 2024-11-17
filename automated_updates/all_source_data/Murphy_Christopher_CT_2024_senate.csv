@@ -1,0 +1,18 @@
+1,"USAA(Washington, DC)Type: Checking,",Bank Deposit,Joint,"$15,001 - $50,000","None,",None (or less than $201)
+2,"USAA(Washington, DC)Type: Savings,",Bank Deposit,Joint,"$250,001 - $500,000","None,",None (or less than $201)
+3,Charles Schwab,Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+3.1,Vanguard Target Retirement 2030 Trust II,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+4,CHET 529 PlanInstitution: CHET,Education Savings Plans529 College Savings Plan,Child,,,
+4.1,CT Portfolio 2027 (Fidelity Blend),Mutual FundsMutual Fund,Child,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+4.2,CT US Sustainability Index,Mutual FundsMutual Fund,Child,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+5,CHET 529 PlanInstitution: CHET,Education Savings Plans529 College Savings Plan,Child,,,
+5.1,CT Portfolio 2030 (Fidelity Blend),Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+5.2,Principal Plus Interest,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+5.3,CT Stable Value Portfolio,Mutual FundsStable Value Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+6,Retirement Plan IRA,Retirement PlansIRA,Spouse,,,
+6.1,SWSXX - Schwab Cash Reserves,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+7,Fidelity 401(K),Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+7.1,VMFXX - Vanguard Money Market Reserves,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+7.2,FKTHX - Fidelity Freedom K 2035,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+8,"Connecticut Legal Services, Inc.",Retirement PlansDefined Benefit Pension Plan,Spouse,Unascertainable,"None,",None (or less than $201)
+9,"Residential PropertyDescription: Residential Real Estate (Hartford, CT)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$15,001 - $50,000"

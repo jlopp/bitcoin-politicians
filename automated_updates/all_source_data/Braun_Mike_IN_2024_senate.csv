@@ -1,0 +1,68 @@
+1,"Old National Bank(Jasper, IN)Type: Checking,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+2,"Old National Bank(Jasper, IN)Type: Savings,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+3,"German American Bank(Jasper, IN)Type: Checking,",Bank Deposit,Self,"$100,001 - $250,000","None,","$201 - $1,000"
+4,"German American Bank (Finishing Touches)(Jasper, IN)Type: Checking,",Bank Deposit,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+5,Edward D Jones,Retirement PlansIRA,Spouse,,,
+5.1,ACGIX - Invesco Growth and Income A,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+5.2,ACSTX - Invesco Comstock A,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+6,Edward D Jones,Retirement PlansIRA,Self,,,
+6.1,CWGIX - American Funds Capital World Growth and Income Fun,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+6.2,AEPGX - American Funds Europacific Growth A,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+6.3,AGTHX - American Funds Growth Fund of Amer A,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","None,",None (or less than $201)
+6.4,Investment Company of America Fd A,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","None,",None (or less than $201)
+7,Voya Financial (Meyer Distributing Inc. 401-k plan),Retirement PlansDefined Contribution Pension Plan,Self,,,
+7.1,Voya Fixed Account (4450),Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+7.2,VBIAX - Vanguard Balanced Index Fd Admiral Shs,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","None,",None (or less than $201)
+7.3,VEIRX - Vanguard Equity Income Fund Admiral Shares,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+7.4,CSXAX - Calvert U.S. Large-Cap Core Responsible Index Fun,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+7.5,MGRPX - Msif Growth Portfolio Class Is,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+7.6,FRVFX - Franklin Small Cap Value Fund Class C,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+7.7,FSSNX - Fidelity Small Cap Index Fund,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+7.8,PSKCX - Virtus Kar Mid-Cap Growth Fund C,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+7.9,VWIGX - Vanguard International Growth Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+8,Pacific Life Variable AnnuityProvider: ROYAL ALLIANCE ASSOCIATES INC (ALICIA RASCHE),AnnuityVariable Annuity,Self,,,
+8.1,State Street Global Advisors Corporate Bond,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+8.2,State Stree Global Advisors Aggregate Bond Indx,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Interest,","$201 - $1,000"
+8.3,State Street Global Advosors High Yld Bond Mkt,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Interest,","$201 - $1,000"
+8.4,BlackRock Large Cap Growth Index,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Capital Gains,","$1,001 - $2,500"
+8.5,BlackRock Large Cap Value Indx,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends, Capital Gains,","$1,001 - $2,500"
+8.6,BlackRock Mid-Cap Indx,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends, Capital Gains,","$201 - $1,000"
+8.7,BlackRock Small Cap Grwth Indx,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends, Capital Gains,","$201 - $1,000"
+8.8,BlackRock Small Cap Value Indx,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends, Capital Gains,","$201 - $1,000"
+8.9,FIAM LLC PD Emerging Mkts Indx,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends, Capital Gains,","$201 - $1,000"
+8.10,FIAM LLC PD International Large Cap Indx,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends, Capital Gains,","$1,001 - $2,500"
+9,Edward D Jones,Brokerage/Managed Account,Joint,,,
+9.1,Zionsville IN Cmnty Schs Bldg Corp Ser Z G.O. bondRate/Coupon: 7.71  Matures: 07/15/2028,Government SecuritiesMunicipal Security,Joint,"$100,001 - $250,000","Interest,",None (or less than $201)
+9.2,JPM - JPMorgan Chase & Co.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+9.3,ACTHX - Invesco High Yield Municipal A,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Interest,","$5,001 - $15,000"
+9.4,JRSMM - Edward Jones Money Market Fund - Retirement Shar,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Interest,","$2,501 - $5,000"
+10,Edward D Jones,Brokerage/Managed Account,Joint,,,
+10.1,Indianapolis IN Loc Pub ImptRate/Coupon: 3.25  Matures: 01/01/2025,Government SecuritiesMunicipal Security,Joint,"$50,001 - $100,000","Interest,","$1,001 - $2,500"
+10.2,Zionsville IN Cmnty Schs Bldg CorpRate/Coupon: 0.0  Matures: 07/15/2028,Government SecuritiesMunicipal Security,Joint,"$15,001 - $50,000","None,",None (or less than $201)
+10.3,AGTHX - American Funds Growth Fund of Amer A,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Capital Gains, Excepted Investment Fund,","$2,501 - $5,000"
+10.4,"Edward Jones(416 Jackson St, Indiana)Type: Brokerage Sweep Account,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+11,LNC - Lincoln National CorporationProvider: Rowekamp Insurance Agency,Life InsuranceUniversal,Spouse,"$1,001 - $15,000","Interest,","$1,001 - $2,500"
+12,"GABC - German American Bancorp, Inc.",Corporate SecuritiesStock,Spouse,"$500,001 - $1,000,000","Dividends,","$15,001 - $50,000"
+13,"Ziegler FarmDescription: Farm & Timberland (Jasper, IN)",Real EstateUnimproved Land,Joint,"$1,000,001 - $5,000,000","Rent/Royalties,","$15,001 - $50,000"
+14,"Ziegler Farm HouseDescription: Rental House (Jasper, IN)",Real EstateCommercial,Joint,"$100,001 - $250,000","Rent/Royalties,",None (or less than $201)
+15,"Rural PropertiesDescription: Farm Ground (Jasper, IN)",Real EstateUnimproved Land,Self,"$1,000,001 - $5,000,000","Rent/Royalties,","$15,001 - $50,000"
+16,"B&RDescription: Timber Ground (French Lick, IN)",Real EstateUnimproved Land,Self,"$250,001 - $500,000","Rent/Royalties,","$2,501 - $5,000"
+17,"Maple Land, LLC (50% ownership)Company: Maple Land, LLC (Owensville, IN) Description: Farming",Business EntityLimited Liability Company (LLC),Self,,,
+17.1,"Maple Land, LLCDescription: 700 Acres (Cooper) (North of Griffin IN) (Griffin, IN)",Real EstateUnimproved Land,Self,"$500,001 - $1,000,000","Rent/Royalties,","$15,001 - $50,000"
+17.2,"Maple Land, LLCDescription: 92 Acres (Hickory Ridge) Gibson County (Owensville, IN)",Real EstateUnimproved Land,Self,"$100,001 - $250,000","Rent/Royalties,","$5,001 - $15,000"
+17.3,"Maple Land, LLCDescription: 45 Acres Land (Dunn) (Griffin, IN)",Real EstateUnimproved Land,Self,"$15,001 - $50,000","Rent/Royalties,","$2,501 - $5,000"
+17.4,"Maple Land, LLCDescription: 743 Acres (""Diamond"" between E-ville & Mt Vernon) (Evansville, IN)",Real EstateUnimproved Land,Self,"$500,001 - $1,000,000","Rent/Royalties, Other, (Ordinary business income from K-1)","$5,001 - $15,000Other $8,296.00"
+17.5,"Maple Land, LLCDescription: 67 Acres (Bosman) N of Griffin In. (Griffin, IN)",Real EstateUnimproved Land,Self,"$50,001 - $100,000","Rent/Royalties,","$5,001 - $15,000"
+18,"Meyer Distributing, IncCompany: Meyer Distributing, Inc (Jasper, IN) Description: Auto & Truck Accessory Distribution",Corporate SecuritiesNon-Public Stock,Self,"$1,000,001 - $5,000,000","Dividends,",None (or less than $201)
+19,"Meyer Logistics, IncCompany: Meyer Logistics, Inc (Jasper, IN) Description: Logistics",Corporate SecuritiesNon-Public Stock,Self,"$500,001 - $1,000,000","Dividends,",None (or less than $201)
+20,"Timber Ground (Jasper, IN)Description: Timber Ground (Jasper, Indiana)",Real EstateUnimproved Land,Self,"$1,000,001 - $5,000,000","Rent/Royalties,","$15,001 - $50,000"
+21,"Retail Store Land & Building - Finishing TouchesDescription: Retail Store Building (Jasper, IN)",Real EstateCommercial,Joint,"$250,001 - $500,000","Rent/Royalties,",None (or less than $201)
+22,Retail Inventory & Equipment (Finishing Touches)Description: Inventory held for retail sale/Equipment used in business,Personal PropertyOther,Spouse,"$250,001 - $500,000","None,",None (or less than $201)
+23,"Freedom Bank (Jasper Indiana)Company: Freedom Bank (Jasper, IN) Description: Commercial Banking",Corporate SecuritiesNon-Public Stock,Joint,"$100,001 - $250,000","Other, (S Corporation Distributions)","Other $20,416.00"
+24,Springs Valley Bank & Trust,Corporate SecuritiesStock,Joint,"$500,001 - $1,000,000","Dividends,","$5,001 - $15,000"
+25,Indiana Legislators' Defined Contribution Fund,Retirement PlansDefined Contribution Pension Plan,Self,,,
+25.1,INPRS 2020 Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+26,"State of Indiana Public Employee Deferred Compensation PlanCompany: Empower Retirement (Denver, CO) Description: Cash",Deferred CompensationDeferred Compensation - Cash,Self,"$1,001 - $15,000","None,",None (or less than $201)
+27,"German American Bank(Jasper, Indiana)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+28,"CIBC Bank USA(Chicago, IL)Type: Certificate of Deposit,",Bank Deposit,Joint,"$100,001 - $250,000","Interest,","$2,501 - $5,000"
+29,"BMO Harris Bank US(Chicago, IL)Type: Certificate of Deposit,",Bank Deposit,Joint,"$50,001 - $100,000","Interest,","$1,001 - $2,500"

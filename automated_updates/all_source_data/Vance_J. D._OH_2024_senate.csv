@@ -1,0 +1,38 @@
+1,"JD Vance Enterprises LLCCompany: JD Vance Enterprises LLC (Cincinnati, OH) Description: Holding company for passive investments and royalty interests",Business EntityLimited Liability Company (LLC),Self,,,
+1.1,"The Huntington National Bank(Columbus, OH)Type: Checking,",Bank Deposit,Self,"$250,001 - $500,000","Interest,",None (or less than $201)
+1.2,"Narya Capital Fund I, L.P.Company: Narya Capital Fund I, L.P. (Cincinnati, Ohio) Description: Venture capital fund Filer comment:  Limited partner interest in venture capital fund",Business EntityLimited Partnership (LP),Self,"$500,001 - $1,000,000","Excepted Investment Fund,",
+1.3,"Rise of the Rest Seed Fund, LPDescription: Venture capital fund (Washington, DC) Filer comment:  Limited partner interest in venture capital fund",Investment FundPrivate Equity Fund,Self,"$100,001 - $250,000","None,",None (or less than $201)
+1.4,"Narya Capital GP I, LLCDescription: General partner of Narya Capital Fund I, L.P. (Cincinnati, Ohio) Filer comment:  Filer owns carried interest in the general partner of Narya Capital Fund I, L.P.",Investment FundPrivate Equity Fund,Self,"None (or less than $1,001)","Excepted Investment Fund,","$5,001 - $15,000"
+1.5,"Rise of the Rest Seed Fund AIV GP, LLCCompany: Rise of the Rest Seed Fund AIV GP, LLC (Washington, DC) Description: General partner of Rise of the Rest Seed Fund, LP Filer comment:  Filer is entitled to carried interest from the general partner of Rise of the Rest Seed Fund, LP.",Business EntityLimited Liability Company (LLC),Self,"$15,001 - $50,000","Interest, Capital Gains,","$201 - $1,000"
+2,"Narya Capital Management, LLCCompany: Narya Capital Management, LLC (Cincinnati, Ohio) Description: Venture capital fund management services Filer comment:  No longer held",Business EntityLimited Liability Company (LLC),Self,"None (or less than $1,001)","Excepted Investment Fund,","$100,001 - $1,000,000"
+4,"USAA Federal Savings Bank (Acct x69)(San Antonio, Texas)Type: Checking,",Bank Deposit,Joint,"$100,001 - $250,000","Interest,",None (or less than $201)
+5,"Marcus Goldman Sachs(Draper, Utah)Type: Certificate of Deposit, Savings,",Bank Deposit,Self,"$100,001 - $250,000","Interest,","$5,001 - $15,000"
+6,"Navy Federal Credit Union(Vienna, Virginia)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+7,"Residential Real EstateDescription: Single Family Townhome (Washington, DC)",Real EstateResidential,Joint,"$500,001 - $1,000,000","Rent/Royalties,","$15,001 - $50,000"
+8,Charles SchwabFiler comment:  Brokerage Account,Brokerage/Managed Account,Joint,,,
+8.1,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsExchange Traded Fund/Note,Joint,"$1,000,001 - $5,000,000","Excepted Investment Fund,","$5,001 - $15,000"
+8.2,TLT - iShares 20+ Year Treasury Bond ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$2,501 - $5,000"
+8.3,DIA - SPDR Dow Jones Industrial Average ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$500,001 - $1,000,000","Excepted Investment Fund,","$15,001 - $50,000"
+8.4,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Joint,"$500,001 - $1,000,000","Excepted Investment Fund,","$5,001 - $15,000"
+8.5,GLD - SPDR Gold Trust,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+8.6,"Charles Schwab(Westlake, TX)Type: Checking, Money Market Account,",Bank Deposit,Joint,"$50,001 - $100,000","Interest,","$201 - $1,000"
+9,BTCExchange/Platform: Coinbase,Cryptocurrency,Self,"$100,001 - $250,000","None,",None (or less than $201)
+10,Charles Schwab SEP IRA,Retirement PlansIRA,Self,,,
+10.1,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+11,Fidelity Traditional IRA,Retirement PlansIRA,Spouse,,,
+11.1,"Fidelity Investments(Boston, MA)Type: Money Market Account,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+12,Fidelity Roth IRA,Retirement PlansIRA,Spouse,,,
+12.1,"Fidelity Investments(Boston, MA)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+12.2,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+13,Ohio's 529 College Advantage - Child 1Institution: Ohio's 529 College Advantage,Education Savings Plans529 College Savings Plan,Spouse,,,
+13.1,Vanguard Ohio Target Enrollment 2034/2035 Portfolio,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+14,Ohio's 529 College Advantage - Child 2Institution: Ohio's 529 College Advantage,Education Savings Plans529 College Savings Plan,Spouse,,,
+14.1,2040 Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+15,Ohio's 529 College Advantage - Child 3Institution: Ohio's 529 College Advantage,Education Savings Plans529 College Savings Plan,Spouse,,,
+15.1,"Fifth Third Bank(Cincinnati, OH)Type: Savings,",Bank Deposit,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+16,Spouse 401k,Retirement PlansIRA,Spouse,,,
+16.1,Vanguard Target Retirement 2050 Fund,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+17,"USAA(Houston, TX)Type: Checking,",Bank Deposit,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+18,"Narya Capital Fund II, L.P.Description: Venture Capital Fund (Cincinnati, OH)",Investment FundPrivate Equity Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+19,Schwab IRA,Retirement PlansIRA,Self,,,
+19.1,"Charles Schwab(Westlake, TX)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)

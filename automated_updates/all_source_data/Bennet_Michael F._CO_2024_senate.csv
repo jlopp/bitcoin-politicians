@@ -1,0 +1,45 @@
+1,PERA - Public Employees' Retirement Association of Colorado,Retirement PlansDefined Benefit Pension Plan,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+2,"Truist - f/k/a Suntrust(Richmond, VA)Type: Certificate of Deposit,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+3,CollegeInvest FundInstitution: CollegeInvest,Education Savings Plans529 College Savings Plan,Child,,,
+3.1,Moderate Age-Based Option: Income Portfolio,Mutual FundsMutual Fund,Child,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+3.2,Conservative Age-Based Option: Interest Accumulation Portfolio,Mutual FundsMutual Fund,Child,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+4,CollegeInvest FundInstitution: CollegeInvest,Education Savings Plans529 College Savings Plan,Child,,,
+4.1,Moderate Age-Based option: Income Portfolio,Mutual FundsMutual Fund,Child,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+4.2,Conservative Age-Based option: Interest Accumulation Portfolio,Mutual FundsMutual Fund,Child,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+5,"Daggett Farms Limited PartnershipDescription: 1500 acre family farm (Marianna, AR) Filer comment:  9.42% limited partnership",Farm,Spouse,"$15,001 - $50,000","Rent/Royalties, Interest,","$15,001 - $50,000"
+6,"LMD Farms Limited PartnershipDescription: 1500 acre family farm (Marianna, AR) Filer comment:  8.97% limited partnership",Farm,Spouse,"$15,001 - $50,000","Rent/Royalties, Interest,","$15,001 - $50,000"
+7,The Michael F. Bennet Trust,TrustGeneral Trust,Self,,,
+7.1,"Charles Schwab Bank(Denver, CO)Type: Money Market Account,",Bank Deposit,Self,"$100,001 - $250,000","Interest,","$2,501 - $5,000"
+7.2,SPY - SPDR S&P 500 ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,000,001 - $5,000,000","Excepted Investment Fund,","$15,001 - $50,000"
+7.3,EAERX - Eaton Vance Stock A,Mutual FundsMutual Fund,Self,"$1,000,001 - $5,000,000","Excepted Investment Fund,","$100,001 - $1,000,000"
+7.4,"Canyon Balanced Fund LPDescription: Hedge fund (Los Angeles, CA)",Investment FundHedge Fund,Self,"$1,000,001 - $5,000,000","Excepted Investment Fund,","$100,001 - $1,000,000"
+7.5,"Belmar HH Owner LLCDescription: Hotel (Lakewood, CO)",Real EstateCommercial,Self,"$15,001 - $50,000","Other, (Ordinary Business Income)","Other $29,231.00"
+7.6,"CP Block A Member, LLCDescription: Mixed use development (Denver, CO)",Real EstateCommercial,Self,"$15,001 - $50,000","Rent/Royalties, Capital Gains,","$100,001 - $1,000,000"
+7.7,"Harbor Spring Capital Partners, LPDescription: Hedge Fund (New York, NY)",Investment FundHedge Fund,Self,"None (or less than $1,001)","Excepted Investment Fund,","$15,001 - $50,000"
+7.8,"LUMN - Lumen Technologies, Inc.",Corporate SecuritiesStock,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.9,"Continuum Real Estate Investors 2016, LLCCompany: Continuum Real Estate Investors 2016, LLC (Denver, CO) Description: Commercial Real Estate",Business EntityLimited Liability Company (LLC),Self,,,
+7.9.1,"Continuum Market Station, LLCDescription: Continuum Market Station, LLC (Denver, CO)",Real EstateCommercial,Self,"$100,001 - $250,000","None,",None (or less than $201)
+7.9.2,"Continuum 640 Santa Fe, LLCDescription: Continuum 640 Santa Fe, LLC (Los Angeles, CA)",Real EstateCommercial,Self,"$100,001 - $250,000","None,",None (or less than $201)
+7.9.3,"CP 90Co Member, LLCDescription: CP 90Co Member, LLC (Denver, CO)",Real EstateCommercial,Self,"$100,001 - $250,000","None,",None (or less than $201)
+7.10,"Madeira Capital Investments LimitedCompany: Madeira Capital Investments Limited (Ebene, Muritius (India)) Description: Private Equity - Retail",Business EntityLimited Partnership (LP),Self,,,
+7.10.1,"MoreDescription: Grocery Chain (Ebene, Muritius (India))",Other Securities,Self,"$250,001 - $500,000","None,",None (or less than $201)
+7.11,"CP Kent Place Member, LLCDescription: CP Kent Place Member, LLC (Denver, CO)",Real EstateCommercial,Self,"$100,001 - $250,000","Rent/Royalties,","$5,001 - $15,000"
+7.12,"Oakcliff Capital Partners, LPDescription: Hedge Fund (New York, NY) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not ascertainable; & the filer has no authority to direct the investments.",Investment FundHedge Fund,Self,"$500,001 - $1,000,000","Dividends, Interest, Capital Gains,","$50,001 - $100,000"
+7.13,SNAXX - Schwab Value Advantage Money Market,Mutual FundsMutual Fund,Self,"$1,000,001 - $5,000,000","Dividends,","$5,001 - $15,000"
+8,CollegeInvest FundInstitution: CollegeInvest,Education Savings Plans529 College Savings Plan,Child,,,
+8.1,Moderate Age-Based option: Income portfolio,Mutual FundsMutual Fund,Child,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+8.2,Conservative Age-Based option: Interest Accumulation Portfolio,Mutual FundsMutual Fund,Child,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+9,TIAA-CREF Retirement Portfolio,Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+9.1,VTTWX - Vanguard Instl Trgt Retire 2030 Instl,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+10,WilmerHale Retirement Account,Retirement PlansDefined Contribution Pension Plan,Self,,,
+10.1,Blackrock Equity Index Non-Lendable Fund Class M,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+10.2,VTMSX - Vanguard Tax-Managed Small Cap Adm,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+10.3,OAKIX - Oakmark International Fund Investor Class,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+10.4,VTRIX - Vanguard International Value Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+11,Charles Schwab - Rollover IRA,Retirement PlansIRA,Self,,,
+11.1,MDLOX - BlackRock Global Allocation Inv A,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+12,Empower Retirement: Anschutz Employees' Thrift Savings Plan,Retirement PlansDefined Contribution Pension Plan,Self,,,
+12.1,RPTIX - T. Rowe Price Mid-Cap Growth Fund I Class,Mutual FundsMutual Fund,Self,"$500,001 - $1,000,000","Excepted Investment Fund,",None (or less than $201)
+12.2,BTMKX - iShares MSCI EAFE International Index Fund Class K,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+13,Newport Group Retirement Annuity Plan,Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+13.1,VTHRX - Vanguard Target Retirement 2030 Inv,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)

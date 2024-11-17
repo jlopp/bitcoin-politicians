@@ -1,0 +1,14 @@
+1,"Associated Bank N.A.(Green Bay, WI)Type: Checking,",Bank Deposit,Joint,"$100,001 - $250,000","Interest,","$201 - $1,000"
+2,"HSA Bank(Sheboygan, WI)Type: Money Market Account,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+3,"Robert W. Baird & Co(Wausau, WI)Type: Money Market Account,",Bank Deposit,Self,"$500,001 - $1,000,000","Dividends, Interest,","$5,001 - $15,000"
+4,"Associated Bank N.A.(Green Bay, WI)Type: IRA Cash Accounts, Filer comment:  This is the Goldman Sachs Government Money Market cash account.",Bank Deposit,Self,"$500,001 - $1,000,000","Interest,","$15,001 - $50,000"
+5,"Asociated Bank N.A.(Green Bay, WI)Type: IRA Cash Accounts, Filer comment:  This is the Goldman Sachs Government Money Market cash account.",Bank Deposit,Spouse,"$50,001 - $100,000","Interest,","$2,501 - $5,000"
+6,"DP Lenticular, Ltd (9.9% Ownership Interest)",Corporate SecuritiesStock,Self,"$100,001 - $250,000","Dividends,","$100,001 - $1,000,000"
+7,"Ronald H. and Jane K. Johnson, LLC (100% Ownership Interest)Company: Ronald H. and Jane K. Johnson, LLC (Oshkosh, WI) Description: Commercial rental real estate",Business EntityLimited Liability Company (LLC),Joint,,,
+7.1,"Ronald H. and Jane K. Johnson, LLCDescription: Single Industrial  Building / Commercial Rental Real Estate (Oshkosh, WI)",Real EstateCommercial,Joint,"$5,000,001 - $25,000,000","Rent/Royalties, Interest,","$100,001 - $1,000,000"
+8,"ReceivableCompany: Ron Johnson for Senate, Inc. (Washington, DC)",Accounts ReceivableFrom a Business,Self,"$5,000,001 - $25,000,000","None,",None (or less than $201)
+9,"Stifel Nicolaus Cust For Jane Johnson Benficiary - Alice Curler Decd IRA(St. Louis, MO)Type: IRA Cash Accounts,",Bank Deposit,Spouse,"$100,001 - $250,000","Interest,","$201 - $1,000"
+10,Charles Schwab & Co Inc.,Brokerage/Managed Account,Joint,,,
+10.1,VTI - Total Stock Market ETF Vanguard,Mutual FundsExchange Traded Fund/Note,Joint,"$1,000,001 - $5,000,000","Dividends,","$15,001 - $50,000"
+10.2,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Joint,"$1,000,001 - $5,000,000","Dividends, Capital Gains,","$1,000,001 - $5,000,000"
+10.3,"Charles Schwab & Co Inc.(San Francisco, CA)Type: Money Market Account,",Bank Deposit,Joint,"$5,000,001 - $25,000,000","Dividends, Interest,","$100,001 - $1,000,000"
