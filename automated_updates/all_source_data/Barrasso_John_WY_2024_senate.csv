@@ -1,0 +1,11 @@
+1,"First Interstate Bank(Casper, WY)Type: Checking,",Bank Deposit,Self,"$250,001 - $500,000","Interest,","$201 - $1,000"
+2,"Jonah Bank(Casper, WY)Type: Checking,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+3,"Wells Fargo Bank(Casper, WY)Type: Checking,",Bank Deposit,Self,"$15,001 - $50,000","Interest,",None (or less than $201)
+4,"Hilltop National Bank(Casper, WY)Type: Checking,",Bank Deposit,Spouse,"$100,001 - $250,000","Interest,","$201 - $1,000"
+5,RBC Deposits Insured Money Market Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+6,VTSAX - Vanguard Total Stock Market Index Fund Admiral Sha,Mutual FundsMutual Fund,Self,"$1,000,001 - $5,000,000","Dividends,","$15,001 - $50,000"
+7,VMRXX-Vanguard Cash Reserves Federal Money Market Fund Admiral Shares,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Interest,","$1,001 - $2,500"
+8,BRK-B-Berkshire Hathaway Inc. (NYSE),Corporate SecuritiesStock,Self,"$500,001 - $1,000,000","None,",None (or less than $201)
+9,VMSXX - Vanguard Tax-Exempt Money Marke (NASDAQ),Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Interest,","$201 - $1,000"
+10,VBTLX - Vanguard Total Bond Market Index Adm,Mutual FundsMutual Fund,Self,"$1,000,001 - $5,000,000","Dividends,","$15,001 - $50,000"
+11,VWENX - Vanguard Wellington Fund Admiral Shares,Mutual FundsMutual Fund,Self,"$1,000,001 - $5,000,000","Dividends,","$15,001 - $50,000"

@@ -1,0 +1,54 @@
+1,"Hawaii State FCU(HONOLULU, HAWAII)Type: Checking, Savings,",Bank Deposit,Joint,"$100,001 - $250,000","Interest,",None (or less than $201)
+2,"Territorial Savings(HONOLULU, HAWAII)Type: Checking, Savings,",Bank Deposit,Joint,"$100,001 - $250,000","Interest,",None (or less than $201)
+3,"Royal Business Bank(HONOLULU, HAWAII)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+4,"Wells Fargo Liquid Asset Fund(HONOLULU, HAWAII)Type: Money Market Account,",Bank Deposit,Spouse,"$100,001 - $250,000","Interest,","$201 - $1,000"
+5,"Congressional FCU(Washington, DC)Type: Checking, Savings,",Bank Deposit,Joint,"$100,001 - $250,000","None, Interest,",None (or less than $201)
+6,"U.S. Senate FCU(Washington, DC)Type: Savings,",Bank Deposit,Self,"$50,001 - $100,000","Interest,",None (or less than $201)
+7,MFC-Manulife Financial Corporation (NYSE),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+8,SLF-Sun Life Financial Inc. (NYSE),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+9,AMCPX-American Funds AMCAP A (NASDAQ),Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,","$201 - $1,000"
+10,ABNDX-American Funds Bond Fund of Amer A (NASDAQ),Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,","$201 - $1,000"
+11,CAIBX-American Funds Capital Inc Bldr A (NASDAQ),Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,","$5,001 - $15,000"
+12,CWGIX-American Funds Capital World G/I A (NASDAQ),Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,","$5,001 - $15,000"
+13,AMECX-American Funds Inc Fund of Amer A (NASDAQ),Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,","$2,501 - $5,000"
+14,AIVSX-American Funds Invmt Co of Amer A (NASDAQ),Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,","$2,501 - $5,000"
+15,NEWFX-American Funds New World A (NASDAQ),Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+16,PGGAX-Principal Large Cap Growth I A,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+17,CSIEX - Calvert Equity Fund Class A,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$2,501 - $5,000"
+18,CSXRX - Calvert U.S. Large Cap Core Responsible Index Fu,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+19,CTCAX - Columbia Global Technology Growth Fund Class A,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000","Excepted Investment Fund,","$5,001 - $15,000"
+20,SLMCX - Columbia Seligman Technology & Information Fund,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+21,EMPLOYEES' RETIREMENT SYSTEM OF THE STATE OF HAWAII,Retirement PlansDefined Benefit Pension Plan,Self,"$500,001 - $1,000,000","None,",None (or less than $201)
+22,"RESIDENTIAL RENTALDescription: RESIDENTIAL RENTAL (HONOLULU, HAWAII)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$15,001 - $50,000"
+23,Spouse IRA,Retirement PlansIRA,Spouse,,,
+23.1,FTIXX - Goldman Sachs Trust - Goldman Sachs Financial Squa,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23.2,BAGIX - Baird Aggregate Bond Fund Institutional Class,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+23.3,EIBIX - Eaton Vance Income Fd of Boston Insti Shs,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+23.4,WMFFX - Washington Mutual Investors Fund Cl F-2 Shs,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,","$2,501 - $5,000"
+23.5,MEDIX - MFS Emerging Markets Debt Fund Class I,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+23.6,PTTRX - Pimco Funds Total Return Fund Institutional Shar,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+23.7,TRBCX - T. Rowe Price Blue Chip Growth Fund Inc.,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+23.8,TMCPX - Touchstone Midcap Fund Class Y,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23.9,BUBIX - Baird Ultra Short Bond Fund Inst Cl,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23.10,PGOVX - Pimco Funds Long-Term US Government Fund Institu,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23.11,JMUEX - Jpmorgan  U.S. Equity Fund Class L,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23.12,WOBDX - Jpmorgan Core Bond Fund I Class,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23.13,APDKX - Artisan International Value Fund Advisor Shares,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23.14,JCRIX - Alps/Corecommodity Management Completed Commodit,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23.15,TROSX - T. Rowe Price Overseas Stock Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+24,IRA PLAN,Retirement PlansIRA,Self,,,
+24.1,AMBFX - American Balanced Fund Class F-2 Shs,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+25,"Law Office of Leighton K Oshima, ALCDescription: Law Firm (Honolulu, HI)",Other Securities,Spouse,,,
+25.1,"First Hawaiian Bank(HONOLULU, HAWAII)Type: Checking, Savings,",Bank Deposit,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+26,MFC - Manulife Fin,Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+27,"American Savings Bank(Honolulu, HI)Type: Checking, Savings,",Bank Deposit,Spouse,"$15,001 - $50,000","Interest,",None (or less than $201)
+28,American Funds IRA,Retirement PlansIRA,Spouse,,,
+28.1,AFAXX - AF U.S. Government Money Market-A,Mutual FundsMutual Fund,Spouse,"$1,000,001 - $5,000,000","Excepted Investment Fund,",None (or less than $201)
+29,AMCFX - Amcap Fund Class F-2 Shares,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$2,501 - $5,000"
+30,ABNFX - The Bond Fd of America Class F-2 Shares,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+31,CAIFX - Capital Income Builder Cl F-2 Shs,Mutual FundsMutual Fund,Joint,"$500,001 - $1,000,000","Excepted Investment Fund,","$5,001 - $15,000"
+32,WGIFX - Capital World Growth and Income Fund Class F-2 S,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000","Excepted Investment Fund,","$5,001 - $15,000"
+33,AMEFX - The Income Fund of America Class F-2 Shares,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$2,501 - $5,000"
+34,ICAFX - The Investment Company of America Class F-2 Shs,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000","Excepted Investment Fund,","$5,001 - $15,000"
+35,NFFFX - New World Fund Inc. Class F-2 Shs,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+36,PGWFX - American Funds Global Growth Portfolio Class F-2,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$2,501 - $5,000"

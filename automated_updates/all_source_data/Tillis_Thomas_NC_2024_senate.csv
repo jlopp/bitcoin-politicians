@@ -1,0 +1,54 @@
+1,"Washington ResidenceDescription: Condo (Washington, DC)",Real EstateResidential,Joint,"$500,001 - $1,000,000","None,",None (or less than $201)
+2,"Nashville ResidenceDescription: Condo (Nashville, TN)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$2,501 - $5,000"
+3,"Huntersville ResidenceDescription: Primary Residence - House (Huntersville, NC)",Real EstateResidential,Joint,"$1,000,001 - $5,000,000","None,",None (or less than $201)
+4,IBM - International Business Machines Corporation Common,Corporate SecuritiesStock,Self,"$100,001 - $250,000","None,",None (or less than $201)
+5,"Wells Fargo - Banking/Checking(Cornelius, NC)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,","$201 - $1,000"
+6,NC General Assembly - 401k Plan,Retirement PlansDefined Contribution Pension Plan,Self,,,
+6.1,North Carolina Stable Value Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+6.2,North Carolina Treasury Inflation Protected Securities,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+6.3,North Carolina Fixed Income Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+6.4,North Carolina Fixed Income Index Fund,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+6.5,North Carolina Large Cap Index Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+6.6,North Carolina Small/Mid Cap Core Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+6.7,North Carolina International Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+6.8,North Carolina Inflation Responsive Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7,IBM 401(k) Retirement Plan,Retirement PlansDefined Contribution Pension Plan,Joint,,,
+7.1,BlackRock U.S. Real Estate Inv Code: ODFJ,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","None, Excepted Investment Fund,",None (or less than $201)
+7.2,Vanguard Small Cap Value IDX Inv Code OJFO,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","None, Excepted Investment Fund,",None (or less than $201)
+7.3,State Street Global Advisers International Stocks Market Index - Inv Code OJFF,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","None, Excepted Investment Fund,",None (or less than $201)
+7.4,Vanguard Total Stock Market Index (Domestic) Inv Code: OJFE,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","None, Excepted Investment Fund,",None (or less than $201)
+7.5,IBM Target Risk Income Plus (Blended) - Inv Code: OJGE,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","None, Excepted Investment Fund,",None (or less than $201)
+8,Morgan Stanley Brokerage Account X066,Brokerage/Managed Account,Joint,,,
+8.1,"Morgan Stanley cash account(Cornelius, NC)Type: Checking, Money Market Account,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+8.2,IXN - iShares Global Tech ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+8.3,IWD - iShares Russell 1000 Value ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+8.4,IWM - iShares Russell 2000 ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+8.5,DODFX - Dodge & Cox International Stock Fund,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+8.6,HNACX - Harbor Capital Appreciation Fund - Retirement Cl,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000","None,",None (or less than $201)
+8.7,PMAQX - Principal Funds Inc. - Midcap Fund Class R6,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends,",None (or less than $201)
+8.8,PONPX - Pimco Income Fund Class I-2,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains,","$5,001 - $15,000"
+9,Morgan Stanley IRA Account x065,Brokerage/Managed Account,Joint,,,
+9.1,"Morgan Stanley(Cornelius, NC)Type: Money Market Account,",Bank Deposit,Joint,"$15,001 - $50,000","None,",None (or less than $201)
+9.2,TLT - iShares 20+ Year Treasury Bond ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+9.3,IEMG - iShares Core MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+9.4,IWF - iShares Russell 1000 Growth ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+9.5,ABNFX - The Bond Fd of America Class F-2 Shares,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains,","$2,501 - $5,000"
+9.6,MAHQX - Blackrock Total Return Fund Class I,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains,","$2,501 - $5,000"
+9.7,CIVIX - Causeway International Value Fund - Institutiona,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Interest, Capital Gains,","$1,001 - $2,500"
+9.8,SBPYX - Clearbridge Small Cap Growth Fd Cl I,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Dividends, Capital Gains,","$201 - $1,000"
+9.9,EGFIX - Edgewood Growth Fund Insti,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains,",None (or less than $201)
+9.10,GSIMX - Goldman Sachs Gqg Partners International Opportu,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains,","$1,001 - $2,500"
+9.11,GQGIX - Gqg Partners Emerging Markets Equity Fund Instit,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains,","$2,501 - $5,000"
+9.12,HDGIX - The Hartford Dividend & Growth Fund Class I,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains,","$1,001 - $2,500"
+9.13,MWTIX - Metropolitan West Total Return Bond Fd Cl I,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains,","$2,501 - $5,000"
+9.14,NMVLX - Nuance Mid Cap Value Fund  Institutional Cl,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends, Capital Gains,","$201 - $1,000"
+9.15,OANMX - Oakmark Fund Institutional Class,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends, Capital Gains,","$201 - $1,000"
+9.16,PFTPX - Pimco Low Duration Income Fund Class I-2,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains,","$5,001 - $15,000"
+9.17,WMCVX - Wasatch Small Cap Value Fund,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Dividends, Capital Gains,",None (or less than $201)
+9.18,WACPX - Western Asset Core Plus Bond Fund Class I,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains,","$2,501 - $5,000"
+9.19,IWD - Russell 1000 Value Ishares ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+9.20,IEFA - iShares Core MSCI EAFE ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+9.21,IVV - iShares Core S&P 500,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+9.22,IWP - iShares Russell Midcap Growth ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+10,IBM Defined Benefit Plan,Retirement PlansDefined Benefit Pension Plan,Joint,"$50,001 - $100,000","None,",None (or less than $201)
+11,NC State Employees Pension Plan,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000","None,",None (or less than $201)

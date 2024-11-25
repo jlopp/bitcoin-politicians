@@ -1,0 +1,367 @@
+1,"Hancock Whitney Bank(Santa Rosa Beach, FL)Type: Checking,",Bank Deposit,Joint,"$50,001 - $100,000","Interest,",None (or less than $201)
+2,"Rental Property 1Description: Condominium (Panama City Beach, FL) Filer comment:  Asset sold 7/5/2023",Real EstateResidential,Joint,"None (or less than $1,001)","Capital Gains,","$100,001 - $1,000,000"
+3,Prudential Variable AnnuityProvider: Prudential,AnnuityVariable Annuity,Self,,,
+3.1,AST Preservation Asset Allocation Portfolio,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+3.2,AST J.P. Morgan Global Thematic,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+3.3,AST Prudential Growth Allocation,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+3.4,AST T. Rowe Price Asset Allocation,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+3.5,AST Balanced Asset Allocation,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+3.6,AST Investment Grade Bond,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+4,Lincoln IRA,Retirement PlansIRA,Self,,,
+4.1,"Fidelity (FDRXX)(Boston, MA)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$250,001 - $500,000","None,",None (or less than $201)
+4.2,GOOGL - Alphabet Inc.,Corporate SecuritiesStock,Self,"$100,001 - $250,000","None,",None (or less than $201)
+4.3,AAPL - Apple Inc.,Corporate SecuritiesStock,Self,"$250,001 - $500,000","None,",None (or less than $201)
+4.4,C - Citigroup Inc.,Corporate SecuritiesStock,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.5,NUE - Nucor Corporation,Corporate SecuritiesStock,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.6,PFE - Pfizer Inc.,Corporate SecuritiesStock,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.7,PM - Philip Morris International Inc.,Corporate SecuritiesStock,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.8,"UAA - Under Armour, Inc.",Corporate SecuritiesStock,Self,"$1,001 - $15,000","None,",None (or less than $201)
+4.9,VZ - Verizon Communications Inc.,Corporate SecuritiesStock,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.10,WMT - Walmart Inc.,Corporate SecuritiesStock,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.11,FSPSX - Fidelity International Index Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.12,FSMDX - Fidelity Mid Cap Index Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.13,SGIIX - First Eagle Global Fund Class I,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.14,EIBLX - Eaton Vance Floating - Rate Fund Institutional Cla,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.15,PIPNX - PIMCO Income Fund Class I-3,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+4.16,TDIV - First Trust NASDAQ Technology Dividend Index Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.17,IVV - iShares Core S&P 500 ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.18,XLP - Consumer Staples Select Sector SPDR Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.19,XLU - Utilities Select Sector SPDR Fund,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.20,XLV - Health Care Select Sector SPDR Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.21,XAR - SPDR S&P Aerospace & Defense ETF,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.22,VIG - Vanguard Dividend Appreciation Index Fund ETF Shar,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.23,QQQ - Invesco QQQ Trust,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.24,PFF - iShares Preferred and Income Securities ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.25,DTD - WisdomTree U.S. Total Dividend Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.26,BMY - Bristol-Myers Squibb Company Common Stock,Corporate SecuritiesStock,Self,"$1,001 - $15,000","None,",None (or less than $201)
+4.27,IDV - iShares International Select Dividend ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.28,"PayPal Holdings, Inc.",Corporate SecuritiesStock,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.29,WAB - WABTEC COM,Corporate SecuritiesStock,Self,"$1,001 - $15,000","None,",None (or less than $201)
+4.30,ABNFX - The Bond Fund of America Class F2,Corporate SecuritiesStock,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.31,RSP - Invesco S&P 500 Equal Weight ETF,Corporate SecuritiesStock,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.32,DHS - Wisdomtree U.S. High Dividend Fund,Corporate SecuritiesStock,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.33,US Treas Bills Zero CPNRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"None (or less than $1,001)","None,",None (or less than $201)
+4.34,FSMSX - FS Multi-Strategy Alternatives Fund Class I,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.35,PQIIX - Pimco Dividend and Income Fund Class Instl,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+4.36,Federal Home LN MTG Corp MTN 5.2000%Rate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"$50,001 - $100,000","None,",None (or less than $201)
+5,Lincoln Joint Brokerage Account,Brokerage/Managed Account,Joint,,,
+5.1,"Fidelity (SPAXX)(Boston, MA)Type: Brokerage Sweep Account,",Bank Deposit,Joint,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+5.2,ABBV - AbbVie Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains,","$201 - $1,000"
+5.3,ACN - Accenture plc,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains,","$201 - $1,000"
+5.4,ADBE - Adobe Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,",None (or less than $201)
+5.5,GOOGL - Alphabet Inc.,Corporate SecuritiesStock,Joint,"$50,001 - $100,000","None,",None (or less than $201)
+5.6,"AWK - American Water Works Company, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.7,AMGN - Amgen Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.8,AAPL - Apple Inc.,Corporate SecuritiesStock,Joint,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+5.9,ADM - Archer-Daniels-Midland Company,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.10,CVS - CVS Health Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.11,"STZ - Constellation Brands, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.12,DEO - Diageo plc,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.13,DUK - Duke Energy Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+5.14,"GS - The Goldman Sachs Group, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.15,HON - Honeywell International Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.16,JNJ - Johnson & Johnson,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.17,JPM - JPMorgan Chase & Co.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.18,KMB - Kimberly-Clark Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.19,LLY - Eli Lilly and Company,Corporate SecuritiesStock,Joint,"$50,001 - $100,000","Dividends, Capital Gains,","$5,001 - $15,000"
+5.20,LMT - Lockheed Martin Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.21,MA - Mastercard Incorporated,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends,",None (or less than $201)
+5.22,MCD - McDonald's Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.23,MDT - Medtronic plc,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.24,MSFT - Microsoft Corporation,Corporate SecuritiesStock,Joint,"$100,001 - $250,000","Dividends,","$1,001 - $2,500"
+5.25,NSRGY - Nestlé S.A.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.26,"NEE - NextEra Energy, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.27,ORCL - Oracle Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.28,"PEP - PepsiCo, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.29,PFE - Pfizer Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.30,PM - Philip Morris International Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+5.31,PG - The Procter & Gamble Company,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.32,"PRU - Prudential Financial, Inc.",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$15,001 - $50,000"
+5.33,QCOM - QUALCOMM Incorporated,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.34,SLF - Sun Life Financial Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+5.35,TXN - Texas Instruments Incorporated,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+5.36,TSCO - Tractor Supply Company,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.37,"TRV - The Travelers Companies, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.38,"TSN - Tyson Foods, Inc.",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+5.39,UNP - Union Pacific Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.40,"UPS - United Parcel Service, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.41,WMT - Walmart Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.42,BIRMINGHAM ALA GO WTS SER (09088RJ31)Rate/Coupon: 5%  Matures: 12/01/2043,Government SecuritiesMunicipal Security,Joint,"$50,001 - $100,000","Interest,","$1,001 - $2,500"
+5.43,CARR - Carrier Global Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+5.44,BMY - Bristol-Myers Squibb Company,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+5.45,"CTVA - Corteva, Inc.",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+5.46,OTIS - Otis Worldwide Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+5.47,DGX - Quest Diagnostics Incorporated,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.48,OC  - Owens Corning Common Stock New,Corporate SecuritiesStock,Joint,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+5.49,iShares National Muni Bond ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)","Dividends,","$201 - $1,000"
+5.50,CSX - CSX Corp,Corporate SecuritiesStock,Joint,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+6,"Southern States Bank(Auburn, AL)Type: Checking,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+7,"Fifth Third Bank(Cincinnati, OH)Type: Checking, Savings,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+8,Alabama Pension,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,"Other, (Pension Payment)","Other $47,071.32"
+9,University of Miami Pension,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,"None,",None (or less than $201)
+10,Disney SIP,Retirement PlansIRA,Self,,,
+10.1,BTC LifePath Ret F,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+11,LPL Financial Joint Brokerage Account,Brokerage/Managed Account,Joint,,,
+11.1,ADBE - Adobe Inc.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+11.2,GOOG - Alphabet Inc.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+11.3,AAPL - Apple Inc.,Corporate SecuritiesStock,Joint,"$250,001 - $500,000","Dividends,","$1,001 - $2,500"
+11.4,"ANET - Arista Networks, Inc.",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.5,ASML - ASML Holding N.V.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.6,"ADP - Automatic Data Processing, Inc.",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$1,001 - $2,500"
+11.7,KO - The Coca-Cola Company,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.8,CSX - CSX Corporation,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.9,EW - Edwards Lifesciences Corporation,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","None, Capital Gains,","$5,001 - $15,000"
+11.10,LLY - Eli Lilly and Company,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,",None (or less than $201)
+11.11,META META Platforms Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+11.12,FDS - FactSet Research Systems Inc.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.13,"FLT - FLEETCOR Technologies, Inc.",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","None, Capital Gains,","$2,501 - $5,000"
+11.14,GRMN - Garmin Ltd.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.15,GNTX - Gentex Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+11.16,GGG - Graco Inc.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.17,IEX - IDEX Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.18,ITW - Illinois Tool Works Inc.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends, Capital Gains,","$5,001 - $15,000"
+11.19,INTC - Intel Corporation,Corporate SecuritiesStock,Joint,"$500,001 - $1,000,000","Dividends,","$5,001 - $15,000"
+11.20,"JKHY - Jack Henry & Associates, Inc.",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$2,501 - $5,000"
+11.21,JNJ - Johnson & Johnson,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$2,501 - $5,000"
+11.22,KLAC - KLA Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.23,LRCX - Lam Research Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.24,MA - Mastercard Incorporated,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.25,MTD - Mettler-Toledo International Inc.,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","None, Capital Gains,","$5,001 - $15,000"
+11.26,MSFT - Microsoft Corporation,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$100,001 - $1,000,000"
+11.27,MNST - Monster Beverage Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.28,MCO - Moody's Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends, Capital Gains,","$5,001 - $15,000"
+11.29,NVDA - NVIDIA Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.30,"PAYX - Paychex, Inc.",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+11.31,"PEP - PepsiCo, Inc.",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.32,TXN - Texas Instruments Incorporated,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$100,001 - $1,000,000"
+11.33,UI - Ubiquiti Inc.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.34,"VRSK - Verisk Analytics, Inc.",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.35,V - Visa Inc.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.36,"AMAT - Applied Materials, Inc.",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.37,GOLD - Barrick Gold Corporation,Corporate SecuritiesStock,Joint,"$100,001 - $250,000","Dividends,","$1,001 - $2,500"
+11.38,"CPRT - Copart, Inc.",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+11.39,INFY - Infosys Limited,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.40,NVO - Novo Nordisk A/S,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.41,SCCO - Southern Copper Corporation,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.42,UNP - Union Pacific Corporation,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.43,"Goldman Sachs Bank USA(New York, New York)Type: Brokerage Sweep Account,",Bank Deposit,Joint,"$250,001 - $500,000","Interest,",None (or less than $201)
+11.44,ALLE - Allegion plc Ordinary Shares,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$2,501 - $5,000"
+11.45,"ADI - Analog Devices, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends, Capital Gains,",None (or less than $201)
+11.46,CTAS - Cintas Corporation - Common Stock,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.47,CLF - Cleveland-Cliffs Inc. Common Stock,Corporate SecuritiesStock,Joint,"$1,000,001 - $5,000,000","Dividends, Capital Gains,",None (or less than $201)
+11.48,HSY - The Hershey Company Common Stock,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.49,"IDXX - IDEXX Laboratories, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.50,KEYS - Keysight Technologies Inc. Common Stock,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+11.51,"MPWR - Monolithic Power Systems, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends, Capital Gains,","$2,501 - $5,000"
+11.52,OXY - Occidental Petroleum Corporation Common Stock,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,",None (or less than $201)
+11.53,"ODFL - Old Dominion Freight Line, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.54,"PYPL - PayPal Holdings, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$100,001 - $250,000","Dividends, Capital Gains,",None (or less than $201)
+11.55,PG - Procter & Gamble Company (The) Common Stock,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.56,QCOM - QUALCOMM Incorporated - Common Stock,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$100,001 - $1,000,000"
+11.57,"REGN - Regeneron Pharmaceuticals, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.58,"ROK - Rockwell Automation, Inc. Common Stock",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.59,"SWKS - Skyworks Solutions, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$2,501 - $5,000"
+11.60,"SSBK - Southern States Bancshares, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+11.61,"TER - Teradyne, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.62,X - United States Steel Corporation Common Stock,Corporate SecuritiesStock,Joint,"$500,001 - $1,000,000","Dividends, Rent/Royalties,","$100,001 - $1,000,000"
+11.63,WAT - Waters Corporation Common Stock,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+11.64,CLF - Cleveland-Cliffs Inc. Common StockStrike price: $27.00 | CallExpires: 01/20/23,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.65,CLF - Cleveland-Cliffs Inc. Common StockStrike price: $22.00 | PutExpires: 01/20/23,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","None, Capital Gains,",None (or less than $201)
+11.66,"Goldman Sachs(New York, NY)Type: Money Market Account,",Bank Deposit,Joint,"$100,001 - $250,000","Dividends,",None (or less than $201)
+11.67,ABBV - AbbVie Inc. Common Stock,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends, Capital Gains,","$5,001 - $15,000"
+11.68,AME - Ametek Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.69,AMGN - Amgen Inc,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+11.70,AMT - American Tower Corp,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.71,ATVI - Activision Blizzard,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$100,001 - $1,000,000"
+11.72,BMO - Bank of Montreal,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.73,CROX - Crocs Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.74,"CDNS - Cadence Design Systems, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.75,"CFG - Citizens Financial Group, Inc. Common Stock",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+11.76,"CSCO - Cisco Systems, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.77,DOW - Dow Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+11.78,"DQ - DAQO New Energy Corp. American Depositary Shares,",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.79,ELS - Equity Lifestyle Properties,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.80,ETSY - Etsy Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.81,EXR - Extra Space Storage Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+11.82,"FGBI - First Guaranty Bancshares, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.83,FITB - Fifth Third Bancorp,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+11.84,GFI - Gold Fields Ltd ADR,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.85,GIS - General Mills,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.86,"GLPI - Gaming and Leisure Properties, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+11.87,GOOG - Alphabet Inc. - Class C Capital Stock,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.88,HUMA - Humacyte Inc,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,",None (or less than $201)
+11.89,IBM - International Business Machines Corporat,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+11.90,KEY - Keycorp,Corporate SecuritiesStock,Joint,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+11.91,MKSI - Mks Instruments Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$2,501 - $5,000"
+11.92,MMC - Marsh & Mclennan Companies,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends, Capital Gains,","$5,001 - $15,000"
+11.93,MMM - 3M Company,Corporate SecuritiesStock,Joint,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+11.94,MRK - Merck & Co,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.95,NDAQ - Nasdaq Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.96,NU - Nu Holdings Ltd Cl A,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$100,001 - $1,000,000"
+11.97,PFE - Pfizer Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+11.98,PAYC - Paycom Software Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.99,PHM - Pultegroup,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends, Capital Gains,","$2,501 - $5,000"
+11.100,RACE - Ferrari N.V.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.101,RELX - Relx Plc ADR,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.102,RF - Regions Financial Corp,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.103,RH - Rh Common Stock,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.104,SCI - Service Corp International,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.105,"LMST - Limestone Bancorp, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.106,TMO - Thermo Fisher Scientific Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.107,TREX - Trex Company,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.108,VCTR - Victory Capital Holdings Inc Cl A,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.109,VRTX - Vertex Pharmaceutic,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.110,VZ - Verizon Communications Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+11.111,WBA - Walgreens Boots Alliance,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+11.112,XOM - Exxon Mobil Corp,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+11.113,QCOM - QUALCOMM Incorporated - Common StockStrike price: $140.00 | PutExpires: 09/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","None,",None (or less than $201)
+11.114,INTC - Intel Corporation - Common StockStrike price: $30.00 | PutExpires: 09/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.115,MSFT - Microsoft Corporation - Common StockStrike price: $225.00 | PutExpires: 09/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.116,MSFT - Microsoft Corporation - Common StockStrike price: $265.00 | CallExpires: 04/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","None, Capital Gains,","$2,501 - $5,000"
+11.117,X - United States Steel Corporation Common StockStrike price: $30.00 | CallExpires: 01/20/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.118,X - United States Steel Corporation Common StockStrike price: $25.00 | CallExpires: 04/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+11.119,X - United States Steel Corporation Common StockStrike price: $23.00 | PutExpires: 01/20/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.120,CVX - Chevron Corporation Common Stock,Corporate SecuritiesStock,Joint,"$100,001 - $250,000","Dividends,",None (or less than $201)
+11.121,"AMD - Advanced Micro Devices, Inc. - Common Stock",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","None,",None (or less than $201)
+11.122,ARKK - Ark Innovation ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$250,001 - $500,000","None,",None (or less than $201)
+11.123,ARKW - Ark Next Generation Internet ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)","None, Capital Gains,","$50,001 - $100,000"
+11.124,IYE - iShares U.S. Energy ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)","Capital Gains,","$50,001 - $100,000"
+11.125,CLX - Clorox Company (The) Common StockStrike price: $140.00 | PutExpires: 05/19/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+11.126,CVX - Chevron Corporation Common StockStrike price: $155.00 | PutExpires: 06/16/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.127,F - Ford Motor CompanyStrike price: $17.00 | PutExpires: 06/16/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","None, Capital Gains,",None (or less than $201)
+11.128,Kimberly Clark CorpStrike price: $135.00 | PutExpires: 04/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","None, Capital Gains,","$1,001 - $2,500"
+11.129,PG - Procter & Gamble CompanyStrike price: $145.00 | PutExpires: 06/16/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","None, Capital Gains,","$2,501 - $5,000"
+11.130,PG - Procter & Gamble CompanyStrike price: $150.00 | PutExpires: 07/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","None, Capital Gains,","$2,501 - $5,000"
+11.131,TSM - Taiwan Semiconductor Manufacturing Company Ltd.Strike price: $75.00 | PutExpires: 09/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.132,X - United States Steel Corporation Common StockStrike price: $25.00 | CallExpires: 03/17/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.133,XBI SPDR Series Trust S&P Biotech ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","None,",None (or less than $201)
+11.134,NLR Vaneck Uranium + Nuclear Energy ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","None, Dividends,","$2,501 - $5,000"
+11.135,WMS Advanced Drain System Inc DEL,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.136,APH AMPHENOL CORP CLASS A NEW,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.137,AON AON PLC CL A,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.138,ADSK Autodesk Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.139,BMY BRISTOL MYERS SQUIBB COMPANY,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.140,AVGO BROADCOM INC,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.141,FTNT FORTINET INC,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.142,PAM PAMPA ENERGIA S A SPON ADR LEVEL 1,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.143,PARA Paramount Global CL B,Corporate SecuritiesStock,Joint,"$50,001 - $100,000","Dividends,",None (or less than $201)
+11.144,MCHP Microchip Technology Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.145,NDSN Nordson Corp,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.146,NXPI NXP Semiconductors N V,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.147,RMD RESMED INC,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.148,QSR Restaurant Brands INTL Inc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.149,SSD Simpson Manufacturing Co,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+11.150,WU Western Union Co,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+11.151,XP XP Inc CL A,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+11.152,A - Agilent Technologies,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.153,Cleveland Cliffs IncStrike price: $18.00 | CallExpires: 04/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+11.154,Cleveland Cliffs IncStrike price: $20.00 | CallExpires: 07/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.155,Cleveland Cliffs IncStrike price: $20.00 | CallExpires: 06/16/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.156,Cleveland Cliffs IncStrike price: $23.00 | CallExpires: 07/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.157,Cleveland Cliffs IncStrike price: $17.00 | CallExpires: 09/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+11.158,Cleveland Cliffs IncStrike price: $18.00 | CallExpires: 10/20/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.159,Cleveland Cliffs IncStrike price: $21.00 | CallExpires: 10/20/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.160,GOLD - Barrick Gold CorpStrike price: $22.00 | CallExpires: 12/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.161,Louisiana Pacific Strike price: $70.00 | CallExpires: 05/17/2024,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$1,001 - $2,500"
+11.162,OXY - Occidental Petroleum CorpStrike price: $65.00 | CallExpires: 11/17/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$1,001 - $2,500"
+11.163,QCOM - Qualcomm IncStrike price: $125.00 | CallExpires: 03/15/2024,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$1,001 - $2,500"
+11.164,QCOM - Qualcomm IncStrike price: $125.00 | CallExpires: 10/20/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.165,TXN - Texas InstrumentsStrike price: $180.00 | CallExpires: 04/19/2024,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+11.166,AAPL - Apple IncStrike price: $125.00 | PutExpires: 09/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.167,XBI - SPDR Series Trust  SPDR S&P Biotech ETFStrike price: $95.00 | CallExpires: 01/19/24,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.168,MDLZ - Mondelez Intl IncStrike price: $70.00 | PutExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.169,MRO - Marathon Oil CorpStrike price: $25.00 | PutExpires: 09/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.170,MSFT - Microsoft CorpStrike price: $250.00 | PutExpires: 11/17/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.171,MRO - Marathon Oil CorpStrike price: $23.00 | PutExpires: 04/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.172,NVDA - Nvidia CorpStrike price: $150.00 | PutExpires: 03/17/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.173,OXY - Occidental Petroleum CorpStrike price: $60.00 | PutExpires: 05/19/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.174,OXY - Occidental Petroleum CorpStrike price: $57.50 | PutExpires: 11/17/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.175,"QQQ - Invesco QQQ Trust, Series 1Strike price: $275.00 | PutExpires: 03/15/2024",Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.176,TSLA - Tesla IncStrike price: $190.00 | PutExpires: 12/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$50,001 - $100,000"
+11.177,TXN - Texas InstrumentsStrike price: $170.00 | PutExpires: 07/21/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.178,V - Visa IncStrike price: $210.00 | PutExpires: 09/15/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.179,US Steel CorpStrike price: $20.00 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.180,US Steel CorpStrike price: $20.00 | PutExpires: 10/20/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.181,XOM - Exxon Mobil CorpStrike price: $100.00 | PutExpires: 06/16/2023,Corporate SecuritiesStock Option,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.182,CRUS - Cirrus Logic Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.183,CLX - Clorox Company,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$100,001 - $1,000,000"
+11.184,CBSH - Commerce Bancshares,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.185,DIOD - Diodes Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.186,F - Ford Motor Company,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$100,001 - $1,000,000"
+11.187,GSK - Gsk Plc ADR,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.188,Kimberly Clark Corp,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$100,001 - $1,000,000"
+11.189,KR - Kroger Company,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$50,001 - $100,000"
+11.190,ISHS US ENGY SCTR,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)","Capital Gains,","$50,001 - $100,000"
+11.191,HPQ - HP Inc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$50,001 - $100,000"
+11.192,LPX - Louisiana-Pacific Corp,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$100,001 - $1,000,000"
+11.193,NSC - Norfolk Southern Corp,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.194,RRC - Range Resources Corp,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.195,RF - Regions Financial Corp,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.196,SKY - Skyline Champion Corporation Common Stock,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+11.197,UAA - Under Armour,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+11.198,GOLD - Barrick Gold CorpStrike price: $20.00 | CallExpires: 01/17/2025,Corporate SecuritiesStock Option,Joint,"$15,001 - $50,000","Capital Gains,",None (or less than $201)
+11.199,CVX - Chevron CorpStrike price: $160.00 | CallExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.200,AAPL - Apple IncStrike price: $165.00 | PutExpires: 03/15/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.201,ABBV - Abbvie IncStrike price: $130.00 | PutExpires: 09/20/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.202,AMAT - Applied MaterialsStrike price: $135.00 | PutExpires: 09/20/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.203,AMAT - Applied MaterialsStrike price: $140.00 | PutExpires: 04/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.204,BMY - Bristol-Myers Squibb CompanyStrike price: $50.00 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.205,CCL - Carnival CorpStrike price: $15.00 | PutExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.206,CCL - Carnival CorpStrike price: $17.50 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.207,CLF - Cleveland-Cliffs IncStrike price: $16.00 | PutExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.208,CLF - Cleveland-Cliffs IncStrike price: $20.00 | CallExpires: 07/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.209,CLF - Cleveland-Cliffs IncStrike price: $19.00 | CallExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.210,CLF - Cleveland-Cliffs IncStrike price: $18.00 | CallExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$15,001 - $50,000","Capital Gains,",None (or less than $201)
+11.211,CLF - Cleveland-Cliffs IncStrike price: $20.00 | CallExpires: 01/17/2025,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.212,CLF - Cleveland-Cliffs IncStrike price: $17.00 | CallExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.213,CLF - Cleveland-Cliffs IncStrike price: $15.00 | PutExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.214,CLF - Cleveland-Cliffs IncStrike price: $17.00 | CallExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$15,001 - $50,000","Capital Gains,",None (or less than $201)
+11.215,CLF - Cleveland-Cliffs IncStrike price: $20.00 | CallExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.216,CVX - Chevron CorpStrike price: $145.00 | PutExpires: 09/20/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.217,FITBO - Fifth Third BancorpStrike price: $30.00 | CallExpires: 05/17/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.218,INTC - Intel CorpStrike price: $45.00 | CallExpires: 04/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.219,OXY - Occidental Petroleum CorpStrike price: $65.00 | CallExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.220,OXY - Occidental Petroleum CorpStrike price: $60.00 | PutExpires: 05/17/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.221,OXY - Occidental Petroleum CorpStrike price: $60.00 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.222,PARA - Paramount Global Cl BStrike price: $17.50 | CallExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.223,"PYPL - PayPal Holdings, Inc. - Common StockStrike price: $77.50 | CallExpires: 06/21/2024",Corporate SecuritiesStock Option,Joint,"$15,001 - $50,000","Capital Gains,",None (or less than $201)
+11.224,"PYPL - PayPal Holdings, Inc. - Common StockStrike price: $55.00 | PutExpires: 06/21/2024",Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.225,"PYPL - PayPal Holdings, Inc. - Common StockStrike price: $75.00 | PutExpires: 06/21/2024",Corporate SecuritiesStock Option,Joint,"$15,001 - $50,000","Capital Gains,",None (or less than $201)
+11.226,GOLD - Barrick Gold CorpStrike price: $17.00 | PutExpires: 01/17/2025,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.227,COF - Capital One Financial CorpStrike price: $110.00 | PutExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.228,CLX - Clorox CompanyStrike price: $135.00 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$50,001 - $100,000","Capital Gains,",None (or less than $201)
+11.229,DVA - DaVita Inc. Common StockStrike price: $100.00 | PutExpires: 07/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.230,DVA - DaVita Inc. Common StockStrike price: $92.50 | PutExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.231,KMB - Kimberly-Clark Corporation Common StockStrike price: $115.00 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.232,LPX - Louisiana-Pacific Corporation Common StockStrike price: $52.50 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.233,MCHP - Microchip TechnologyStrike price: $80.00 | PutExpires: 10/18/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.234,MSFT - Microsoft CorpStrike price: $305.00 | PutExpires: 09/20/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.235,PG - Procter & Gamble CompanyStrike price: $145.00 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.236,PG - Procter & Gamble CompanyStrike price: $150.00 | PutExpires: 01/19/2024,Corporate SecuritiesStock Option,Joint,"$1,001 - $15,000","Capital Gains,",None (or less than $201)
+11.237,QCOM - QUALCOMM Incorporated - Common StockStrike price: $110.00 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$15,001 - $50,000","Capital Gains,",None (or less than $201)
+11.238,X - United States Steel CorpStrike price: $23.00 | PutExpires: 06/21/2024,Corporate SecuritiesStock Option,Joint,"$15,001 - $50,000","Capital Gains,",None (or less than $201)
+12,McVean Trading Brokerage Account,Brokerage/Managed Account,Self,,,
+12.1,"McVean Trading & Investments, LLC(Memphis, TN)Type: Brokerage Sweep Account,",Bank Deposit,Self,"None (or less than $1,001)","None,",None (or less than $201)
+12.2,Jul 23 CBT Corn,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+12.3,JAN 23 FDR CATTLE,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$201 - $1,000"
+12.4,AUG 23 CME CATTLE,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+12.5,Jun 23 CBOT SD Corn,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$201 - $1,000"
+12.6,MAR 23 CBT CORN,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$201 - $1,000"
+12.7,MAY 23 CBT CORN,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$1,001 - $2,500"
+12.8,APR 23 CME CATTLE,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$201 - $1,000"
+12.9,JUN 23 CME CATTLE,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+12.10,SEP 23 BEAN MEAL,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+12.11,SEP 23 SOYBEAN OIL,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+12.12,AUG 23 SOYBEAN OIL,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+12.13,OCT 23 CME CATTLE,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$2,501 - $5,000"
+12.14,DEC 23 CBT CORN,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$201 - $1,000"
+12.15,NOV 23 CBT SOYBEANS,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+12.16,SEP 23 CBT SOYBEANS,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$15,001 - $50,000"
+12.17,SEP 23 CBOT SD BEANS,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+12.18,SEP 23 SOYBEAN MEAL,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+12.19,DEC 23 SOYBEAN MEAL,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$5,001 - $15,000"
+12.20,OCT 23 CBT CORN,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$1,001 - $2,500"
+12.21,FEB 24 CME CATTLE,Commodities/Futures Contract,Self,"None (or less than $1,001)","Capital Gains,","$201 - $1,000"
+13,"Tiger Farms, LLCCompany: Tiger Farms, LLC (Auburn, Alabama) Description: Real property holding company",Business EntityLimited Liability Company (LLC),Joint,,,
+13.1,"Unimproved landDescription: Unimproved land (Dadeville, Alabama)",Real EstateUnimproved Land,Joint,"None (or less than $1,001)","Capital Gains,","$100,001 - $1,000,000"
+14,"Rental Property 2Description: House (Santa Rosa Beach, FL)",Real EstateResidential,Joint,"$500,001 - $1,000,000","Rent/Royalties,","$15,001 - $50,000"
