@@ -1,11 +1,11 @@
-Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the game. Because searching through financial disclosures can be a time intensive process, this project's goal is to crowdsource the work.
+Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the crypto industry.
 
 ## Automated updating
-Workflow to automatically pull all relevant source data and extract asset names from it is available in the `automated_updates` folder. see [Automated Updates README.md](https://github.com/chance-on-brink/bitcoin-politicians/blob/automated-updates/automated_updates/Automated%20Updates%20README.md)
+Workflow to automatically pull all relevant source data and extract asset names from it is available in the `automated_updates` folder. See [Automated Updates README.md](https://github.com/jlopp/bitcoin-politicians/blob/master/automated_updates/Automated%20Updates%20README.md)
 
 ## Contributing
-NOTE: this repository will almost always be out of date due to the amount of work required to manually check 500+ disclosures that get published at unpredictable times.
-If you have some spare time, contributions to this project are welcome by [editing the README.md file](https://github.com/jlopp/bitcoin-politicians/edit/master/README.md).
+NOTE: this repository will almost always be out of date because financial disclosures get posted on an unpredictable and sporadic basis.
+If you're aware of a discrepancy, contributions to this project are welcome by [editing the README.md file](https://github.com/jlopp/bitcoin-politicians/edit/master/README.md).
 
 You can find financial disclosures here:
 * [US House](https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure) - click "Search Reports"
@@ -18,7 +18,7 @@ Sort by date and open their most recent year's annual report, to which you shoul
 
 NOTE: If you open a link to a Senator's disclosure, you need to paste the URL into a browser tab that has already accepted their site's Terms of Service.
 
-| Name | Party | State  | House | Bitcoin Owner | Disclosure | Notes |
+| Name | Party | State  | House | Owner | Disclosure | Notes |
 |------|:-----:|:------:|-------|:-------------:|:----------:|-------|
 | Adams, Alma | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043648.pdf) |
 | Aderholt, Robert | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042695.pdf) |
