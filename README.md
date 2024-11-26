@@ -520,7 +520,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Turner, Michael | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040183.pdf) |
 | Underwood, Lauren | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041518.pdf) |
 | Valadao, David | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042949.pdf) | No assets disclosed |
-| Vance, J.D. | R | OH | Senate | YES | [2023] (https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | $100K-$250K BTC |
+| Vance, J.D. | R | OH | Senate | YES | [2023](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | $100K-$250K BTC |
 | Van Drew, Jefferson | R | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) | $100K-$250K Grayscale Trust |
 | Van Duyne, Beth | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041645.pdf) |
 | Van Hollen, Chris | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/cd3c4664-9884-4b80-bed1-f14620a0f77c/) |
