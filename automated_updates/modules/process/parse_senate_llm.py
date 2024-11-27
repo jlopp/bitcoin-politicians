@@ -8,20 +8,25 @@ import re
 
 def assets_from_senate_image_to_csv(input_image_path):
 	base64_image = encode_image(input_image_path)
-	if False:
-		# this idea was to skip pages that don't list assets. it is a waste of tokens and doesn't seem to hurt accuracy to just shove all pages
-		response = send_to_api(message="does this part of the form list asset disclosures? answer Y or N only.", 
-							base64_image=base64_image)
 
-		if response.lower() == 'n':
-			print('skipped')
-			# not schedule A, skip the page
-			return []
+	refusal = True
+	refusal_count = 0
+	while refusal:
+		# use '|' separator to avoid characters in asset names
+		response = send_to_api(message="This is a public disclosure form for a US congressman from senate.gov. Get the asset names in the public disclosure form. return them in a | separated list only. no other commentary.", 
+							base64_image=base64_image,
+							model='gpt-4o')
+		
+		# the model will occasionally refuse. if so, retry
+		refusal = (('sorry' in response.lower() or "can't" in response.lower() or "cannot" in response.lower()) and ('|' not in response))
+		refusal_count += 1
+		if refusal and refusal_count <= 3: print('model refused. retrying...')
+		if refusal_count > 3:
+			print('model refused 3 times. moving on.')
+			# refusals also happen when there are no asset names in the image
+			response = ''
+			break
 
-	# use '|' separator to avoid characters in asset names
-	response = send_to_api(message="get the asset names in the public disclosure form. return them in a | separated list only. no other commentary.", 
-						   base64_image=base64_image,
-						   model='gpt-4o')
 	asset_list = [response.strip() for response in response.split("|")]
 	
 	return asset_list
