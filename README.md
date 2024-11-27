@@ -319,7 +319,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Lucas, Frank | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041075.pdf) |
 | Luetkemeyer, Blaine | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218118.pdf) |
 | Luján, Ben | D | NM | Senate | NO | [2020](https://efdsearch.senate.gov/search/print/paper/71127e2f-b5ea-471a-841e-e5ec1102d452/) |
-| Lummis, Cynthia | R | WY | Senate | YES | [2020](https://efdsearch.senate.gov/search/view/annual/5a9f95fe-06e6-4abf-866f-d1d174e510e9/) | $100K - $250K of bitcoin owned |
+| Lummis, Cynthia | R | WY | Senate | YES | [2020](https://efdsearch.senate.gov/search/view/annual/5a9f95fe-06e6-4abf-866f-d1d174e510e9/) | $100K - $250K BTC, moved to blind trust in 2021 |
 | Luttrell, Morgan | R | TX | House | - | - |
 | Lynch, Stephen | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041076.pdf) |
 | Mace, Nancy | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043329.pdf) |
@@ -335,7 +335,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Matsui, Doris | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
 | McBath, Lucy | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042414.pdf) |
 | McCarthy, Kevin | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041107.pdf) |
-| McCaul, Michael | R | TX | House | YES | [2021](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217869.pdf) | $1K-$15K GBTC in children's trust |
+| McCaul, Michael | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220569.pdf) |
 | McClain, Lisa | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043335.pdf) |
 | McClellan, Jennifer | D | VA | House | - | - |
 | McClintock, Tom | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043558.pdf) |
@@ -361,7 +361,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Molinaro, Marcus | R | NY | House | - | - |
 | Moolenaar, John | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042174.pdf) |
 | Mooney, Alexander | R | WV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043589.pdf) |
-| Moore, Barry | R | AL | House | YES | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040681.pdf) | $1-15k "crypto currency" |
+| Moore, Barry | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057716.pdf) |
 | Moore, Blake | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041325.pdf) |
 | Moore, Gwen | D | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218087.pdf) |
 | Moran, Jerry | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6cc69cc0-afd4-4328-9b15-cd1ad66cede5/) |
@@ -521,7 +521,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Underwood, Lauren | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041518.pdf) |
 | Valadao, David | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042949.pdf) | No assets disclosed |
 | Vance, J.D. | R | OH | Senate | YES | [2023](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | $100K-$250K BTC |
-| Van Drew, Jefferson | R | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) | $100K-$250K Grayscale Trust |
+| Van Drew, Jefferson | R | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) | $100K-$250K GBTC |
 | Van Duyne, Beth | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041645.pdf) |
 | Van Hollen, Chris | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/cd3c4664-9884-4b80-bed1-f14620a0f77c/) |
 | Van Orden, Derrick | R | WI | House | - | - |
