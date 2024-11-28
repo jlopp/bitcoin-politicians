@@ -1,535 +1,534 @@
-last_name,first_name,state,chamber,bitcoin_crypto,triggered_terms,matched_asset_names,filing_year,link
-Boebert,Lauren,CO,house,True,crypto,Crypto Money Movement COIN,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061648.pdf
-Collins,Mike,GA,house,True,"cryptocurrency, crypto",ETH Cryptocurrency [CT],2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060539.pdf
-Cruz,Ted,TX,senate,True,bitcoin,Bitcoin Exchange/Platform: River Financial Inc,2024,https://efdsearch.senate.gov/search/view/annual/9675a1d6-d0cc-48bb-b0ee-fb1b99c3de0d/
-Goldman,Daniel S.,NY,house,True,coinbase,"Coinbase Global, Inc. - Class A Common Stock (COIN), Coinbase Global, Inc. - Class A (COIN)",2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf
-Graves,Garret,LA,house,True,coinbase,"Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]",2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059697.pdf
-Hinson,Ashley,IA,house,True,"btc, bitcoin, grayscale, gbtc, bitcoin, bito ","ProShares Bitcoin Strategy ETF - BITO [MF], Grayscale Bitcoin Trust - GBTC [MF], ProShares Bitcoin Strategy ETF - BITO [EF]",2021,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2021/10047798.pdf
-Jackson,Jeff,NC,house,True,"solana, cryptocurrency, crypto, cardano","Solana [OT], Cardano, Cardano [OT], Cryptocurrency, Cryptocurrency ⇒ Ankr [OT]",2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf
-Thanedar,Shri,MI,house,True,"ethereum, litecoin, bitcoin","Litecoin, Bitcoin, Ethereum",2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057305.pdf
-Van Drew,Jefferson,NJ,house,True,greyscale,Greyscale Investment Trust,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220495.pdf
-Vance,J. D.,OH,senate,True,"btc, coinbase",BTCExchange/Platform: Coinbase,2024,https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/
-Waltz,Michael,FL,house,True,bitcoin,Bitcoin [OT],2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057260.pdf
-Adams,Alma S.,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059952.pdf
-Aderholt,Robert B.,AL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060381.pdf
-Aguilar,Pete,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060414.pdf
-Alford,Mark,MO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060029.pdf
-Allen,Rick W.,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060415.pdf
-Allred,Colin Z.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059582.pdf
-Amo,Gabe,RI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062638.pdf
-Amodei,Mark E.,NV,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060908.pdf
-Armstrong,Kelly,ND,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057429.pdf
-Arrington,Jodey C.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060179.pdf
-Auchincloss,Jake,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059259.pdf
-Babin,Brian,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061079.pdf
-Bacon,Don,NE,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059759.pdf
-Baird,James R.,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061119.pdf
-Balderson,Troy,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057373.pdf
-Baldwin,Tammy,WI,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/1965e9b4-7e0c-4c2e-ad42-d0c49bbe1f7d/
-Balint,Becca,VT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059414.pdf
-Banks,Jim,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062654.pdf
-Barr,Andy,KY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062231.pdf
-Barragan,Nanette Diaz,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057251.pdf
-Barrasso,John,WY,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/139241f0-2606-43e7-a61d-c4b597660cf9/
-Bean,Aaron,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060583.pdf
-Beatty,Joyce,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060258.pdf
-Bennet,Michael F.,CO,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/786a8aff-781a-458e-a9be-ccfd5ea46bfc/
-Bentz,Cliff,OR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058877.pdf
-Bera,Ami,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062178.pdf
-Bergman,Jack,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061530.pdf
-Beyer,Donald S.,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058899.pdf
-Bice,Stephanie I.,OK,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059895.pdf
-Biggs,Andy,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058937.pdf
-Bilirakis,Gus M.,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220418.pdf
-Bishop,Dan,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062570.pdf
-Bishop,Sanford D.,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060373.pdf
-Blackburn,Marsha,TN,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/ad42cbc0-ed6f-4bc8-a9ff-32e6063f1306/
-Blumenauer,Earl,OR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059735.pdf
-Blumenthal,Richard,CT,senate,False,,,2024,https://efdsearch.senate.gov/search/view/paper/86ac224d-3986-4406-9d5e-9c53db007ef4/
-Blunt Rochester,Lisa,DE,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060198.pdf
-Bonamici,Suzanne,OR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059396.pdf
-Booker,Cory A.,NJ,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/2d6f8208-ad5a-49f9-931e-dc87bfcccb9b/
-Boozman,John,AR,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/a66f9abf-311f-4494-871f-4631eb7ebc57/
-Bost,Mike,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057580.pdf
-Bowman,Jamaal,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060343.pdf
-Boyle,Brendan F.,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057086.pdf
-Braun,Mike,IN,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/31b2b826-95a2-4da8-b850-4a472b284a73/
-Brecheen,Josh,OK,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060308.pdf
-Britt,Katie Boyd,AL,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/ae8aa928-7d29-4e74-aac7-c8c9211713c7/
-Brown,Sherrod,OH,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/0091a0e6-17d3-4a52-963a-fc1db3c5d80f/
-Brown,Shontel M.,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060560.pdf
-Brownley,Julia,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059679.pdf
-Buchanan,Vern,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059297.pdf
-Bucshon,Larry,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059502.pdf
-Budd,Ted,NC,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/ac4f24bc-25fa-4821-80ca-0aa41539710d/
-Budzinski,Nikki,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059128.pdf
-Burchett,Tim,TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057335.pdf
-Burgess,Michael C.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060806.pdf
-Burlison,Eric,MO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062690.pdf
-Bush,Cori,MO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061337.pdf
-Butler,Laphonza R.,CA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/ede91fb4-df19-4993-bf20-c86b03143458/
-Calvert,Ken,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060206.pdf
-Cammack,Kat,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060622.pdf
-Cantwell,Maria,WA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/4c6dee46-2f1c-41ba-bd01-1c8dce1349bf/
-Capito,Shelley Moore,WV,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/1fc99b72-3465-4ff7-808c-80b7283cd6d2/
-Caraveo,Yadira,CO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057540.pdf
-Carbajal,Salud O.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060345.pdf
-Cardin,Benjamin L.,MD,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/3e3a7b84-38b9-49ab-80a8-89622e29b6f8/
-Carey,Mike,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060281.pdf
-Carl,Jerry L.,AL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060508.pdf
-Carper,Thomas R.,DE,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/04db916f-2633-4633-ac3d-3fbda2e9c134/
-Carson,André,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060751.pdf
-Carter,"Earl L. ""Buddy""",GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059359.pdf
-Carter,Erica,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057735.pdf
-Carter,John R.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057735.pdf
-Carter,Troy A.,LA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220481.pdf
-Cartwright,Matt,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059028.pdf
-Casar,Greg,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059479.pdf
-Case,Ed,HI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060408.pdf
-Casey,Robert P.,PA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/f80907e1-7f43-4db1-8dda-28d885483742/
-Cassidy,Bill,LA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/878c4bde-388b-453b-8a38-b753aa618074/
-Casten,Sean,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057544.pdf
-Castor,Kathy,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059113.pdf
-Castro,Joaquin,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220605.pdf
-Chavez-DeRemer,Lori,OR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060899.pdf
-Cherfilus-McCormick,Sheila,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059703.pdf
-Chu,Judy,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059071.pdf
-Ciscomani,Juan,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059453.pdf
-Clark,Katherine M.,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059034.pdf
-Clarke,Yvette D.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062455.pdf
-Cleaver,Emanuel,MO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059684.pdf
-Cline,Ben,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059793.pdf
-Cloud,Michael,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059227.pdf
-Clyburn,James E.,SC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060249.pdf
-Clyde,Andrew S.,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061852.pdf
-Cohen,Steve,TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060314.pdf
-Cole,Tom,OK,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061100.pdf
-Coleman,Bonnie,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220482.pdf
-Collins,Susan M.,ME,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/f2f01d23-0af5-4958-984c-e97e7b2f8544/
-Comer,James,KY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060545.pdf
-Connolly,Gerald E.,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057570.pdf
-Coons,Christopher A.,DE,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/dd3245e1-b4c3-4196-882a-4012cf2bd524/
-Cornyn,John,TX,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/7f1d97b6-ee67-4358-8116-9d20d440f90b/
-Correa,J. Luis,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059001.pdf
-Cortez Masto,Catherine,NV,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/a8706c27-3a15-492e-8d3b-86a35d631ce0/
-Costa,Jim,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060909.pdf
-Cotton,Tom,AR,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/1ecc063e-2ddb-467a-a938-c6f677662b95/
-Courtney,Joe,CT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057521.pdf
-Craig,Angie,MN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220496.pdf
-Cramer,Kevin,ND,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/9025ef30-3182-4f55-98fd-cdf184ddd34b/
-Crane,Elijah,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060393.pdf
-Crapo,Mike,ID,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/0e3b35aa-e3be-4524-a1d0-00f8f10c2fe2/
-Crawford,"Eric A. ""Rick""",AR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057567.pdf
-Crenshaw,Dan,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062732.pdf
-Crockett,Jasmine,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061435.pdf
-Crow,Jason,CO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059547.pdf
-Cuellar,Henry,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060039.pdf
-Curtis,John R.,UT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057450.pdf
-Cárdenas,Tony,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059460.pdf
-D'Esposito,Anthony,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061470.pdf
-Daines,Steve,MT,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/a9295e86-a2ec-426f-a3e7-ef5329e2a227/
-Davids,Sharice,KS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060299.pdf
-Davidson,Warren,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061293.pdf
-Davis,Danny K.,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062685.pdf
-Davis,Donald G.,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060732.pdf
-De La Cruz,Monica,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059362.pdf
-DeGette,Diana,CO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059101.pdf
-DeLauro,Rosa L.,CT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060512.pdf
-DeSaulnier,Mark,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059653.pdf
-Dean,Madeleine,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059700.pdf
-DelBene,Suzan K.,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059847.pdf
-Deluzio,Christopher R.,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057068.pdf
-DesJarlais,Scott,TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060164.pdf
-Diaz-Balart,Mario,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059030.pdf
-Dingell,Debbie,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057106.pdf
-Doggett,Lloyd,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057370.pdf
-Donalds,Byron,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062779.pdf
-Duarte,John S.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220483.pdf
-Duckworth,Tammy,VA,senate,False,,,2023,https://efdsearch.senate.gov/search/view/annual/014b5055-8073-451f-8dcb-d7eec191e51a/
-Duckworth,Tammy,VA,senate,False,,,2023,https://efdsearch.senate.gov/search/view/annual/014b5055-8073-451f-8dcb-d7eec191e51a/
-Duncan,Jeff,SC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060221.pdf
-Dunn,Neal P.,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059499.pdf
-Durbin,Richard J.,IL,senate,False,,,2024,https://efdsearch.senate.gov/search/view/paper/7d9d262c-64d6-4a65-adb5-59127dae1bb0/
-Edwards,Chuck,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059419.pdf
-Ellzey,Jake,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057509.pdf
-Emmer,Tom,MN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220484.pdf
-Ernst,Joni,IA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/db76aaa0-c2ec-49a1-8a5f-87c2ec97d22e/
-Escobar,Veronica,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059323.pdf
-Eshoo,Anna G.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220419.pdf
-Espaillat,Adriano,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060169.pdf
-Estes,Ron,KS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060012.pdf
-Evans,Dwight,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060496.pdf
-Ezell,Mike,MS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057629.pdf
-Fallon,Pat,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060003.pdf
-Feenstra,Randy,IA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061096.pdf
-Ferguson,A. Drew,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060230.pdf
-Fetterman,John,PA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/9f9a065f-a7f8-4647-8e97-2c7b33519cd8/
-Finstad,Brad,MN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060529.pdf
-Fischbach,Michelle,MN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061489.pdf
-Fischer,Deb,NE,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/7a3e75e9-fdb2-48aa-8583-7558d53f2cf3/
-Fitzgerald,Scott,WI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059577.pdf
-Fitzpatrick,Brian K.,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059165.pdf
-Fleischmann,"Charles J. ""Chuck""",TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220420.pdf
-Fletcher,Lizzie,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058974.pdf
-Flood,Mike,NE,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059391.pdf
-Foster,Bill,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057232.pdf
-Foushee,Valerie P.,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057344.pdf
-Foxx,Virginia,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059335.pdf
-Frankel,Lois,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057235.pdf
-Franklin,C. Scott,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057719.pdf
-Frost,Maxwell,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061610.pdf
-Fry,Russell,SC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058966.pdf
-Fulcher,Russ,ID,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060187.pdf
-Gallego,Ruben,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058791.pdf
-Garamendi,John,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059805.pdf
-Garbarino,Andrew R.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059492.pdf
-Garcia,"Jesús G. ""Chuy""",IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057643.pdf
-Garcia,Mike,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060154.pdf
-Garcia,Robert,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060154.pdf
-Garcia,Sylvia R.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059533.pdf
-Gillibrand,Kirsten E.,NY,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/7ae7aae6-03bb-4d7f-a956-8adcba494f99/
-Gimenez,Carlos A.,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060592.pdf
-Gluesenkamp Perez,Marie,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058984.pdf
-Golden,Jared F.,ME,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057089.pdf
-Gomez,Jimmy,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059944.pdf
-Gonzales,Tony,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062766.pdf
-Gonzalez,Vicente,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220595.pdf
-Gonzalez-Colon,Jenniffer,PR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059869.pdf
-Good,Bob,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060656.pdf
-Gooden,Lance,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061400.pdf
-Gosar,Paul A.,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220466.pdf
-Gottheimer,Josh,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf
-Graham,Lindsey,SC,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/82a8cef2-fa7e-4ce7-92d2-798715c28d5f/
-Granger,Kay,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057021.pdf
-Grassley,Chuck,IA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/2f0bcbce-b93f-44f0-b1cf-4380419ce0af/
-Graves,Sam,MO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061251.pdf
-Green,Al,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060574.pdf
-Green,Mark E.,TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061193.pdf
-Greene,Marjorie Taylor,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057355.pdf
-Griffith,H. Morgan,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059696.pdf
-Grijalva,Raúl M.,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059510.pdf
-Grothman,Glenn,WI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060079.pdf
-Guest,Michael,MS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220573.pdf
-Guthrie,Brett,KY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220485.pdf
-Hageman,Harriet M.,WY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059540.pdf
-Hagerty,Bill,TN,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/03b313b5-2492-4264-8fa0-2f14bbafde77/
-Harder,Josh,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058971.pdf
-Harris,Andy,MD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062677.pdf
-Harshbarger,Diana,TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220574.pdf
-Hassan,Margaret Wood,NH,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/32481311-3b9a-4ad3-be14-520c173cf5e3/
-Hawley,Josh,MO,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/b5927b5e-a907-4e99-9ad4-957f0e2bceb3/
-Hayes,Jahana,CT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059686.pdf
-Heinrich,Martin,NM,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/ea129bbd-77b9-47a0-aeb9-f5faa5158934/
-Hern,Kevin,OK,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060913.pdf
-Hickenlooper,John W.,CO,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/5f667aa1-b9ab-4fe2-bced-c43f4f103c48/
-Higgins,Clay,LA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057485.pdf
-Hill,J. French,AR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059437.pdf
-Himes,James A.,CT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061258.pdf
-Hirono,Mazie K.,HI,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/16dad072-2ce0-4bc8-ad36-c51aca7ec2fb/
-Hoeven,John,ND,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/c1569647-99b6-40c2-be51-97c8d800d9e6/
-Horsford,Steven,NV,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061279.pdf
-Houchin,Erin,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058925.pdf
-Houlahan,Chrissy,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060595.pdf
-Hoyer,Steny H.,MD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060360.pdf
-Hoyle,Val T.,OR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058978.pdf
-Hudson,Richard,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060006.pdf
-Huffman,Jared,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060152.pdf
-Huizenga,Bill,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060544.pdf
-Hunt,Wesley,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059868.pdf
-Hyde-Smith,Cindy,MS,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/d20d2883-5d04-4355-901c-cce12f0c9a55/
-Issa,Darrell,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060532.pdf
-Ivey,Glenn,MD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059399.pdf
-Jackson,Jonathan L.,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059883.pdf
-Jackson,Ronny,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062668.pdf
-Jacobs,Sara,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059210.pdf
-James,John,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057721.pdf
-Jayapal,Pramila,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059916.pdf
-Jeffries,Hakeem S.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059158.pdf
-Johnson,Dusty,SD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059658.pdf
-Johnson,"Henry C. ""Hank""",GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060742.pdf
-Johnson,Mike,LA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059254.pdf
-Johnson,Ron,WI,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/d9214500-b134-4e99-8584-0e49cfb247e9/
-Jordan,Jim,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058918.pdf
-Joyce,David P.,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061272.pdf
-Joyce,John,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059130.pdf
-Kaine,Tim,VA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/96e64ed2-07fd-461c-a52d-b251b0ebe271/
-Kamlager-Dove,Sydney,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060088.pdf
-Kaptur,Marcy,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060371.pdf
-Kean,Thomas H.,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060678.pdf
-Keating,William R.,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059951.pdf
-Kelly,Mark,AZ,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/deaf96b2-f782-4cc2-89fc-f0f619e9aed4/
-Kelly,Mike,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059739.pdf
-Kelly,Robin L.,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059979.pdf
-Kelly,Trent,MS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059344.pdf
-Kennedy,John,LA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/074d6eed-7fc7-41ec-900d-ee22977637f1/
-Kennedy,Timothy M.,NY,house,False,,,2024,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10062077.pdf
-Khanna,Ro,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220593.pdf
-Kiggans,Jennifer A.,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059067.pdf
-Kildee,Daniel T.,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059494.pdf
-Kiley,Kevin,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059609.pdf
-Kilmer,Derek,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059275.pdf
-Kim,Andy,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059532.pdf
-Kim,Young,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057252.pdf
-King,Angus S.,ME,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/a15394cf-6a90-4ca9-8769-74fbde06bb6c/
-Klobuchar,Amy,MN,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/4556b4d9-a44d-4b8f-8ef7-f099b99cd4a2/
-Krishnamoorthi,Raja,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057306.pdf
-Kuster,Ann M.,NH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220486.pdf
-Kustoff,David,TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059305.pdf
-LaHood,Darin,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059266.pdf
-LaLota,Nick,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060364.pdf
-LaMalfa,Doug,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060038.pdf
-LaTurner,Jake,KS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060099.pdf
-Lamborn,Doug,CO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220575.pdf
-Landsman,Greg,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060077.pdf
-Langworthy,Nicholas A.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061049.pdf
-Lankford,James,OK,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/b43f1c48-5289-4bc7-a3bb-12b46a6650a6/
-Larsen,Rick,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057340.pdf
-Larson,John B.,CT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059233.pdf
-Latta,Robert E.,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058884.pdf
-Lawler,Michael,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059706.pdf
-Lee,Barbara,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061113.pdf
-Lee,Laurel M.,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062650.pdf
-Lee,Mike,UT,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/bb92d489-a444-452f-8fc3-783f92d061cd/
-Lee,Summer L.,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062786.pdf
-Lee,Susie,NV,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057548.pdf
-Leger Fernandez,Teresa,NM,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059199.pdf
-Lesko,Debbie,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059171.pdf
-Letlow,Julia,LA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060677.pdf
-Levin,Mike,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057312.pdf
-Lieu,Ted,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060998.pdf
-Lofgren,Zoe,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057543.pdf
-Loudermilk,Barry,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061418.pdf
-Lucas,Frank D.,OK,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057070.pdf
-Luetkemeyer,Blaine,MO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220467.pdf
-Lujan,Ben Ray,NM,senate,False,,,2024,https://efdsearch.senate.gov/search/view/paper/b958913d-0f7b-43ac-9335-c927181ca50e/
-Lummis,Cynthia M.,WY,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/8dc381a6-f1a4-45d5-b2df-254b7c3fe23f/
-Luttrell,Morgan,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059415.pdf
-Lynch,Stephen F.,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057612.pdf
-Mace,Nancy,SC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062802.pdf
-Magaziner,Seth,RI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058871.pdf
-Malliotakis,Nicole,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060618.pdf
-Maloy,Celeste,UT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061120.pdf
-Manchin,Joe,WV,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/0e5ba574-5ea4-475b-9967-86d065d0db7c/
-Mann,Tracey,KS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059938.pdf
-Manning,Kathy E.,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057256.pdf
-Markey,Edward J.,MA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/paper/ecdbf62a-3af7-4f6b-8221-a5156c05558f/
-Marshall,Roger,KS,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/a9edda97-d22c-45c2-bff6-81e92b757285/
-Massie,Thomas,KY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059521.pdf
-Mast,Brian J.,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061066.pdf
-Matsui,Doris O.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220487.pdf
-McBath,Lucy,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060971.pdf
-McCaul,Michael T.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220569.pdf
-McClain,Lisa C.,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059852.pdf
-McClellan,Jennifer L.,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059623.pdf
-McClintock,Tom,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058822.pdf
-McCollum,Betty,MN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059086.pdf
-McConnell,Mitch,KY,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/632f557a-c28b-43a9-8de5-1be4faf38032/
-McCormick,Richard,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060276.pdf
-McGarvey,Morgan,KY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059688.pdf
-McGovern,James P.,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060397.pdf
-McHenry,Patrick T.,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060043.pdf
-Meeks,Gregory W.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060027.pdf
-Menendez,Robert,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060861.pdf
-Meng,Grace,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059369.pdf
-Merkley,Jeff,OR,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/b40609b3-2856-4dfd-8474-c1ef29624c19/
-Meuser,Daniel,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060930.pdf
-Mfume,Kweisi,MD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061339.pdf
-Miller,Carol D.,WV,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061752.pdf
-Miller,Mary E.,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060215.pdf
-Miller,Max L.,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059565.pdf
-Miller-Meeks,Mariannette,IA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061002.pdf
-Mills,Cory,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060178.pdf
-Molinaro,Marcus J.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061183.pdf
-Moolenaar,John R.,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060292.pdf
-Mooney,Alexander X.,WV,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062529.pdf
-Moore,Barry,AL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057716.pdf
-Moore,Blake D.,UT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057449.pdf
-Moore,Gwen,WI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220488.pdf
-Moran,Jerry,KS,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/8b8b4899-b615-438e-b683-89d579f69ac1/
-Moran,Nathaniel,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060240.pdf
-Morelle,Joseph D.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060705.pdf
-Moskowitz,Jared,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062670.pdf
-Moulton,Seth,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057110.pdf
-Moylan,James C.,GU,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059913.pdf
-Mrvan,Frank J.,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060749.pdf
-Mullin,Kevin,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061164.pdf
-Mullin,Markwayne,OK,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/314cb4e0-b326-43be-adf7-e783beb591a0/
-Murkowski,Lisa,AK,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/b4b6e7f5-acbb-4a6c-8094-1e554d2149b0/
-Murphy,Christopher,CT,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/5f41230d-a763-4b5c-ba50-7756a8226e04/
-Murphy,Gregory F.,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059751.pdf
-Murray,Patty,WA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/0338e0f7-7a96-4b8b-b768-1c99ceb415a9/
-Nadler,Jerrold,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220489.pdf
-Napolitano,Grace F.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059421.pdf
-Neal,Richard E.,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060911.pdf
-Neguse,Joe,CO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060382.pdf
-Nehls,Troy E.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062762.pdf
-Newhouse,Dan,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059166.pdf
-Nickel,Wiley,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060464.pdf
-Norcross,Donald,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059635.pdf
-Norman,Ralph,SC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059370.pdf
-Norton,Eleanor Holmes,DC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057623.pdf
-Nunn,Zachary,IA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058821.pdf
-Obernolte,Jay,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057742.pdf
-Ocasio-Cortez,Alexandria,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060351.pdf
-Ogles,Andrew,TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060354.pdf
-Omar,Ilhan,MN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060937.pdf
-Ossoff,Jon,GA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/a14df483-dd72-4266-98a2-09b9c7f8d1dc/
-Owens,Burgess,UT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062290.pdf
-Padilla,Alex,CA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/ca0fa419-d659-4a70-88f1-04687560399a/
-Pallone,Frank,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058824.pdf
-Palmer,Gary J.,AL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058923.pdf
-Panetta,Jimmy,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059232.pdf
-Pappas,Chris,NH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058983.pdf
-Paul,Rand,KY,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/26b5e9a7-ce61-4034-9963-3e452816c87e/
-Paulina Luna,Anna,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059246.pdf
-Pelosi,Nancy,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059734.pdf
-Peltola,Mary Sattler,AK,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060548.pdf
-Pence,Greg,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059309.pdf
-Perry,Scott,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059863.pdf
-Peters,Gary C.,MI,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/9adef51e-91a1-467f-a89a-f9279fe51b5d/
-Peters,Scott H.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061056.pdf
-Pettersen,Brittany,CO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059117.pdf
-Pfluger,August,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059397.pdf
-Phillips,Dean,MN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057744.pdf
-Pingree,Chellie,ME,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060194.pdf
-Plaskett,Stacey E.,VI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061296.pdf
-Pocan,Mark,WI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061559.pdf
-Porter,Katie,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060103.pdf
-Posey,Bill,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220468.pdf
-Pressley,Ayanna,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061223.pdf
-Quigley,Mike,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220469.pdf
-Radewagen,Aumua Amata Coleman,AS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059318.pdf
-Ramirez,Delia C.,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059937.pdf
-Raskin,Jamie,MD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059548.pdf
-Reed,Jack,RI,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/d376b366-77d2-46d9-9393-82dc40d91e73/
-Reschenthaler,Guy,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060469.pdf
-Ricketts,Pete,NE,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/2eb83de2-c457-4a61-a902-7810952db2d1/
-Risch,James E.,ID,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/6231982e-5f6c-4e56-bffb-b40ccd38397b/
-Rodgers,Cathy,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057665.pdf
-Rogers,Harold,KY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220606.pdf
-Rogers,Mike D.,AL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220490.pdf
-Romney,Mitt,UT,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/fe4735ee-8675-4ef8-9408-6c87340f1d81/
-Rose,John W.,TN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061010.pdf
-Rosen,Jacky,NV,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/f773ab4e-abed-426c-9c17-95a91cc78412/
-Rosendale,Matthew M.,MT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059430.pdf
-Ross,Deborah K.,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059715.pdf
-Rounds,Mike,SD,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/157efca4-3dd9-4fa1-9f76-28801e38d12d/
-Rouzer,David,NC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060621.pdf
-Roy,Chip,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060253.pdf
-Rubio,Marco,FL,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/45f8d47c-fa4b-4a5d-b810-33bf8e7e521b/
-Ruiz,Raul,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058890.pdf
-Ruppersberger,C. A. Dutch,MD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058985.pdf
-Rutherford,John H.,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059848.pdf
-Ryan,Patrick,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059418.pdf
-Sablan,Gregorio Kilili Camacho,MP,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057550.pdf
-Salazar,Maria Elvira,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057762.pdf
-Salinas,Andrea,OR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057554.pdf
-Sanchez,Linda T.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061605.pdf
-Sanders,Bernard,VT,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/c69e42e6-1c9c-44d9-b097-60be798b8661/
-Sarbanes,John P.,MD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060024.pdf
-Scalise,Steve,LA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057111.pdf
-Scanlon,Mary Gay,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060201.pdf
-Schakowsky,Janice D.,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059251.pdf
-Schatz,Brian,HI,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/c0bab3b6-4e45-4318-8f17-f06d7efbec4b/
-Schiff,Adam B.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057292.pdf
-Schmitt,Eric,MO,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/b86d9173-de3a-4f1c-bf2c-29b7f956ba4f/
-Schneider,Bradley Scott,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059475.pdf
-Scholten,Hillary J.,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060915.pdf
-Schrier,Kim,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057734.pdf
-Schumer,Charles E.,NY,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/bdc5113d-5891-462e-9501-ad2e5a697d51/
-Schweikert,David,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060213.pdf
-Scott,Austin,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062669.pdf
-Scott,David,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062669.pdf
-Scott,Rick,FL,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/f1c73d96-7e08-4a24-bd97-ec0b085782b8/
-Scott,"Robert C. ""Bobby""",VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061165.pdf
-Scott,Tim,SC,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/9e7b377c-4514-4ab5-90db-9e76d43c4b30/
-Self,Keith,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220491.pdf
-Sessions,Pete,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062485.pdf
-Sewell,Terri A.,AL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062696.pdf
-Shaheen,Jeanne,NH,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/952e43aa-f40c-4311-b8f1-b08d3e8ff097/
-Sherman,Brad,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220492.pdf
-Sherrill,Mikie,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060419.pdf
-Simpson,Michael K.,ID,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059701.pdf
-Sinema,Kyrsten,AZ,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/eb37d9be-fe95-4680-a93d-8e22b7f887cc/
-Slotkin,Elissa,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060506.pdf
-Smith,Adam,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059530.pdf
-Smith,Adrian,NE,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059993.pdf
-Smith,Christopher H.,NJ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061508.pdf
-Smith,Jason,MO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060205.pdf
-Smith,Tina,MN,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/34de9852-21e9-45db-9975-8e7b4b4194af/
-Smucker,Lloyd,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059918.pdf
-Sorensen,Eric,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059289.pdf
-Soto,Darren,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059606.pdf
-Spanberger,Abigail Davis,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058906.pdf
-Spartz,Victoria,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061003.pdf
-Stabenow,Debbie,MI,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/2a07642e-57d6-482c-abf1-71b5416afa66/
-Stansbury,Melanie A.,NM,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061095.pdf
-Stanton,Greg,AZ,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060122.pdf
-Stauber,Pete,MN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059931.pdf
-Steel,Michelle,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060211.pdf
-Stefanik,Elise M.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220576.pdf
-Steil,Bryan,WI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059613.pdf
-Steube,W. Gregory,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057284.pdf
-Stevens,Haley M.,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060894.pdf
-Strickland,Marilyn,WA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061264.pdf
-Strong,Dale W.,AL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057458.pdf
-Sullivan,Dan,AK,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/d312120e-0f6d-4d85-89f6-7aa083037537/
-Suozzi,Thomas R.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060566.pdf
-Swalwell,Eric,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061638.pdf
-Sykes,Emilia Strong,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059346.pdf
-Takano,Mark,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061334.pdf
-Tenney,Claudia,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060313.pdf
-Tester,Jon,MT,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/d8a0617f-2a28-465f-933c-21f67dbdce0d/
-Thompson,Bennie G.,MS,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060790.pdf
-Thompson,Glenn,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059584.pdf
-Thompson,Mike,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220493.pdf
-Thune,John,SD,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/0ffe1984-35f3-4389-a4c0-90025790ce96/
-Tiffany,Thomas P.,WI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059274.pdf
-Tillis,Thomas,NC,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/5f91f59d-3962-48bd-a19f-fa97f502642f/
-Timmons,William R.,SC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060199.pdf
-Titus,Dina,NV,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220494.pdf
-Tlaib,Rashida,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057613.pdf
-Tokuda,Jill N.,HI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059942.pdf
-Tonko,Paul,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060062.pdf
-Torres,Norma J.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060139.pdf
-Torres,Ritchie,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060420.pdf
-Trahan,Lori,MA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060049.pdf
-Trone,David J.,MD,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059089.pdf
-Tuberville,Tommy,AL,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/9fd713f6-2903-424f-9069-385bcfd463b4/
-Turner,Michael R.,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057584.pdf
-Underwood,Lauren,IL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058869.pdf
-Valadao,David G.,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062640.pdf
-Van Duyne,Beth,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062418.pdf
-Van Hollen,Chris,MD,senate,False,,,2024,https://efdsearch.senate.gov/search/view/paper/249d9537-fc4e-4331-8bb2-a1949ea71805/
-Van Orden,Derrick,WI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060782.pdf
-Vargas,Juan,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060557.pdf
-Vasquez,Gabe,NM,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061303.pdf
-Veasey,Marc A.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059416.pdf
-Velázquez,Nydia M.,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060080.pdf
-Wagner,Ann,MO,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059149.pdf
-Walberg,Tim,MI,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059633.pdf
-Warner,Mark R.,VA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/3e6d6b43-dd61-4594-813e-1c35ce99c58b/
-Warnock,Raphael G.,GA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/4cca582f-16be-46f4-8378-744ad9b46c67/
-Warren,Elizabeth,MA,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/bcaf0292-332d-4c94-8303-1935043c16cf/
-Wasserman Schultz,Debbie,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057649.pdf
-Waters,Maxine,CA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062261.pdf
-Weber,Randy K. Sr.,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062345.pdf
-Webster,Daniel,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057044.pdf
-Welch,Peter,VT,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/7ed9a0a2-7cd3-4c92-bb28-b371d8459e8a/
-Wenstrup,Brad R.,OH,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059617.pdf
-Westerman,Bruce,AR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060295.pdf
-Wexton,Jennifer,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061314.pdf
-Whitehouse,Sheldon,RI,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/1eb0d806-fa8f-44bd-a693-910e67cad938/
-Wicker,Roger F.,MS,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/2f301679-7bb3-43a7-8adc-86dd7b13ddd9/
-Wild,Susan,PA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060924.pdf
-Williams,Brandon,NY,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061243.pdf
-Williams,Nikema,GA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061324.pdf
-Williams,Roger,TX,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059583.pdf
-Wilson,Frederica S.,FL,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060465.pdf
-Wilson,Joe,SC,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060013.pdf
-Wittman,Robert J.,VA,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059371.pdf
-Womack,Steve,AR,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059669.pdf
-Wyden,Ron,OR,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/ed172e8b-cb21-4759-8a1c-7b7125fc3454/
-Yakym,Rudy,IN,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060220.pdf
-Young,Todd,IN,senate,False,,,2024,https://efdsearch.senate.gov/search/view/annual/f40dcd83-4a4a-47b5-bb52-2ef517870c7f/
-Zinke,Ryan K.,MT,house,False,,,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059772.pdf
+last_name,first_name,party,state,chamber,owner,filing_year,link,triggered_terms,matched_asset_names
+Arenholz,Ashley,R,IA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057096.pdf,"btc, bitcoin, grayscale, gbtc, bitcoin, bito","GRAYSCALE BITCOIN TR BTC [GBTC], PROSHARES BITCOIN STRATEGY [BITO]"
+Boebert,Lauren,R,CO,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061648.pdf,crypto,Crypto Money Movement COIN
+Britt,Katie Boyd,R,AL,senate,True,2024,https://efdsearch.senate.gov/search/view/annual/ae8aa928-7d29-4e74-aac7-c8c9211713c7/,"block, Inc","SQ - Block, Inc. Class A Common Stock,"
+Collins,Mike,R,GA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060539.pdf,"cryptocurrency, crypto",ETH Cryptocurrency [CT]
+Cruz,Ted,R,TX,senate,True,2024,https://efdsearch.senate.gov/search/view/annual/9675a1d6-d0cc-48bb-b0ee-fb1b99c3de0d/,bitcoin,Bitcoin Exchange/Platform: River Financial Inc
+Fallon,Pat,R,TX,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060003.pdf,"block, Inc","Block, Inc. Class A Common Stock, (SQ)"
+Goldman,Daniel S.,D,NY,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf,"block, Inc, coinbase","Block, Inc. Class A Common Stock, (SQ), Coinbase Global, Inc. - Class A Common Stock (COIN), Coinbase Global, Inc. - Class A (COIN)"
+Gottheimer,Josh,D,NJ,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf,"block, Inc","Block, Inc. Class A Common Stock, (SQ), Block, Inc. Class A Common Stock, (SQ) [ST]"
+Graves,Garret,R,LA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059697.pdf,coinbase,"Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]"
+Greene,Marjorie Taylor,R,GA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057355.pdf,"block, Inc","Block, Inc. Class A Common Stock, (SQ) [ST]"
+Jackson,Jeff,D,NC,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf,"cryptocurrency, crypto, cardano, solana","Cryptocurrency, Solana, Cardano"
+Khanna,Ro,D,CA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220593.pdf,"block, Inc, block inc","BLOCK, INC. CMN CLASS A, BLOCK INC CL A"
+Palmer,Gary J.,R,AL,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058923.pdf,canaan,Canaan LLC
+Pelosi,Nancy,D,CA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059734.pdf,"block, Inc","Block, Inc. Class A Common Stock"
+Thanedar,Shri,D,MI,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057305.pdf,"litecoin, ethereum, bitcoin","Ethereum, Litecoin, Bitcoin"
+Van Drew,Jefferson,R,NJ,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220495.pdf,greyscale,Greyscale Investment Trust
+Vance,J. D.,R,OH,senate,True,2024,https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/,"btc, coinbase",BTCExchange/Platform: Coinbase
+Waltz,Michael,R,FL,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057260.pdf,bitcoin,Bitcoin [OT]
+Adams,Alma S.,D,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059952.pdf,,
+Aderholt,Robert B.,R,AL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060381.pdf,,
+Aguilar,Pete,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060414.pdf,,
+Alford,Mark,R,MO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060029.pdf,,
+Allen,Rick W.,R,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060415.pdf,,
+Allred,Colin Z.,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059582.pdf,,
+Amo,Gabe,D,RI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062638.pdf,,
+Amodei,Mark E.,R,NV,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060908.pdf,,
+Armstrong,Kelly,R,ND,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057429.pdf,,
+Arrington,Jodey C.,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060179.pdf,,
+Auchincloss,Jake,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059259.pdf,,
+Babin,Brian,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061079.pdf,,
+Bacon,Don,R,NE,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059759.pdf,,
+Baird,James R.,R,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061119.pdf,,
+Balderson,Troy,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057373.pdf,,
+Baldwin,Tammy,D,WI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/1965e9b4-7e0c-4c2e-ad42-d0c49bbe1f7d/,,
+Balint,Becca,D,VT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059414.pdf,,
+Banks,Jim,R,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062654.pdf,,
+Barr,Andy,R,KY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062231.pdf,,
+Barragan,Nanette Diaz,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057251.pdf,,
+Barrasso,John,R,WY,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/139241f0-2606-43e7-a61d-c4b597660cf9/,,
+Bean,Aaron,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060583.pdf,,
+Beatty,Joyce,D,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060258.pdf,,
+Bennet,Michael F.,D,CO,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/786a8aff-781a-458e-a9be-ccfd5ea46bfc/,,
+Bentz,Cliff,R,OR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058877.pdf,,
+Bera,Ami,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062178.pdf,,
+Bergman,Jack,R,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061530.pdf,,
+Beyer,Donald S.,D,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058899.pdf,,
+Bice,Stephanie I.,R,OK,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059895.pdf,,
+Biggs,Andy,R,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058937.pdf,,
+Bilirakis,Gus M.,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220418.pdf,,
+Bishop,Dan,R,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062570.pdf,,
+Bishop,Sanford D.,D,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060373.pdf,,
+Blackburn,Marsha,R,TN,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/ad42cbc0-ed6f-4bc8-a9ff-32e6063f1306/,,
+Blumenauer,Earl,D,OR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059735.pdf,,
+Blumenthal,Richard,D,CT,senate,False,2024,https://efdsearch.senate.gov/search/view/paper/86ac224d-3986-4406-9d5e-9c53db007ef4/,,
+Blunt Rochester,Lisa,D,DE,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060198.pdf,,
+Bonamici,Suzanne,D,OR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059396.pdf,,
+Booker,Cory A.,D,NJ,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/2d6f8208-ad5a-49f9-931e-dc87bfcccb9b/,,
+Boozman,John,R,AR,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/a66f9abf-311f-4494-871f-4631eb7ebc57/,,
+Bost,Mike,R,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057580.pdf,,
+Bowman,Jamaal,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060343.pdf,,
+Boyle,Brendan F.,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057086.pdf,,
+Braun,Mike,R,IN,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/31b2b826-95a2-4da8-b850-4a472b284a73/,,
+Brecheen,Josh,R,OK,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060308.pdf,,
+Brown,Sherrod,D,OH,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/0091a0e6-17d3-4a52-963a-fc1db3c5d80f/,,
+Brown,Shontel M.,D,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060560.pdf,,
+Brownley,Julia,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059679.pdf,,
+Buchanan,Vern,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059297.pdf,,
+Bucshon,Larry,R,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059502.pdf,,
+Budd,Ted,R,NC,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/ac4f24bc-25fa-4821-80ca-0aa41539710d/,,
+Budzinski,Nikki,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059128.pdf,,
+Burchett,Tim,R,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057335.pdf,,
+Burgess,Michael C.,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060806.pdf,,
+Burlison,Eric,R,MO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062690.pdf,,
+Bush,Cori,D,MO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061337.pdf,,
+Butler,Laphonza R.,D,CA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/ede91fb4-df19-4993-bf20-c86b03143458/,,
+Calvert,Ken,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060206.pdf,,
+Cammack,Kat,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060622.pdf,,
+Cantwell,Maria,D,WA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/4c6dee46-2f1c-41ba-bd01-1c8dce1349bf/,,
+Capito,Shelley Moore,R,WV,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/1fc99b72-3465-4ff7-808c-80b7283cd6d2/,,
+Caraveo,Yadira,D,CO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057540.pdf,,
+Carbajal,Salud O.,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060345.pdf,,
+Cardin,Benjamin L.,D,MD,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/3e3a7b84-38b9-49ab-80a8-89622e29b6f8/,,
+Carey,Mike,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060281.pdf,,
+Carl,Jerry L.,R,AL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060508.pdf,,
+Carper,Thomas R.,D,DE,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/04db916f-2633-4633-ac3d-3fbda2e9c134/,,
+Carson,André,D,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060751.pdf,,
+Carter,"Earl L. ""Buddy""",R,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059359.pdf,,
+Carter,Erica,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057735.pdf,,
+Carter,John R.,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057735.pdf,,
+Carter,Troy A.,D,LA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220481.pdf,,
+Cartwright,Matt,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059028.pdf,,
+Casar,Greg,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059479.pdf,,
+Case,Ed,D,HI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060408.pdf,,
+Casey,Robert P.,D,PA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/f80907e1-7f43-4db1-8dda-28d885483742/,,
+Cassidy,Bill,R,LA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/878c4bde-388b-453b-8a38-b753aa618074/,,
+Casten,Sean,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057544.pdf,,
+Castor,Kathy,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059113.pdf,,
+Castro,Joaquin,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220605.pdf,,
+Chavez-DeRemer,Lori,R,OR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060899.pdf,,
+Cherfilus-McCormick,Sheila,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059703.pdf,,
+Chu,Judy,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059071.pdf,,
+Ciscomani,Juan,R,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059453.pdf,,
+Clark,Katherine M.,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059034.pdf,,
+Clarke,Yvette D.,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062455.pdf,,
+Cleaver,Emanuel,D,MO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059684.pdf,,
+Cline,Ben,R,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059793.pdf,,
+Cloud,Michael,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059227.pdf,,
+Clyburn,James E.,D,SC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060249.pdf,,
+Clyde,Andrew S.,R,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061852.pdf,,
+Cohen,Steve,D,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060314.pdf,,
+Cole,Tom,R,OK,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061100.pdf,,
+Coleman,Bonnie,D,NJ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220482.pdf,,
+Collins,Susan M.,R,ME,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/f2f01d23-0af5-4958-984c-e97e7b2f8544/,,
+Comer,James,R,KY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060545.pdf,,
+Connolly,Gerald E.,D,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057570.pdf,,
+Coons,Christopher A.,D,DE,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/dd3245e1-b4c3-4196-882a-4012cf2bd524/,,
+Cornyn,John,R,TX,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/7f1d97b6-ee67-4358-8116-9d20d440f90b/,,
+Correa,J. Luis,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059001.pdf,,
+Cortez Masto,Catherine,D,NV,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/a8706c27-3a15-492e-8d3b-86a35d631ce0/,,
+Costa,Jim,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060909.pdf,,
+Cotton,Tom,R,AR,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/1ecc063e-2ddb-467a-a938-c6f677662b95/,,
+Courtney,Joe,D,CT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057521.pdf,,
+Craig,Angie,D,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220496.pdf,,
+Cramer,Kevin,R,ND,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/9025ef30-3182-4f55-98fd-cdf184ddd34b/,,
+Crane,Elijah,R,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060393.pdf,,
+Crapo,Mike,R,ID,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/0e3b35aa-e3be-4524-a1d0-00f8f10c2fe2/,,
+Crawford,"Eric A. ""Rick""",R,AR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057567.pdf,,
+Crenshaw,Dan,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062732.pdf,,
+Crockett,Jasmine,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061435.pdf,,
+Crow,Jason,D,CO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059547.pdf,,
+Cuellar,Henry,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060039.pdf,,
+Curtis,John R.,R,UT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057450.pdf,,
+Cárdenas,Tony,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059460.pdf,,
+D'Esposito,Anthony,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061470.pdf,,
+Daines,Steve,R,MT,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/a9295e86-a2ec-426f-a3e7-ef5329e2a227/,,
+Davids,Sharice,D,KS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060299.pdf,,
+Davidson,Warren,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061293.pdf,,
+Davis,Danny K.,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062685.pdf,,
+Davis,Donald G.,D,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060732.pdf,,
+De La Cruz,Monica,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059362.pdf,,
+DeGette,Diana,D,CO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059101.pdf,,
+DeLauro,Rosa L.,D,CT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060512.pdf,,
+DeSaulnier,Mark,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059653.pdf,,
+Dean,Madeleine,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059700.pdf,,
+DelBene,Suzan K.,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059847.pdf,,
+Deluzio,Christopher R.,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057068.pdf,,
+DesJarlais,Scott,R,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060164.pdf,,
+Diaz-Balart,Mario,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059030.pdf,,
+Dingell,Debbie,D,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057106.pdf,,
+Doggett,Lloyd,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057370.pdf,,
+Donalds,Byron,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062779.pdf,,
+Duarte,John S.,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220483.pdf,,
+Duckworth,Tammy,D,VA,senate,False,2023,https://efdsearch.senate.gov/search/view/annual/014b5055-8073-451f-8dcb-d7eec191e51a/,,
+Duncan,Jeff,R,SC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060221.pdf,,
+Dunn,Neal P.,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059499.pdf,,
+Durbin,Richard J.,D,IL,senate,False,2024,https://efdsearch.senate.gov/search/view/paper/7d9d262c-64d6-4a65-adb5-59127dae1bb0/,,
+Edwards,Chuck,R,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059419.pdf,,
+Ellzey,Jake,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057509.pdf,,
+Emmer,Tom,R,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220484.pdf,,
+Ernst,Joni,R,IA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/db76aaa0-c2ec-49a1-8a5f-87c2ec97d22e/,,
+Escobar,Veronica,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059323.pdf,,
+Eshoo,Anna G.,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220419.pdf,,
+Espaillat,Adriano,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060169.pdf,,
+Estes,Ron,R,KS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060012.pdf,,
+Evans,Dwight,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060496.pdf,,
+Ezell,Mike,R,MS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057629.pdf,,
+Feenstra,Randy,R,IA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061096.pdf,,
+Ferguson,A. Drew,R,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060230.pdf,,
+Fetterman,John,D,PA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/9f9a065f-a7f8-4647-8e97-2c7b33519cd8/,,
+Finstad,Brad,R,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060529.pdf,,
+Fischbach,Michelle,R,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061489.pdf,,
+Fischer,Deb,R,NE,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/7a3e75e9-fdb2-48aa-8583-7558d53f2cf3/,,
+Fitzgerald,Scott,R,WI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059577.pdf,,
+Fitzpatrick,Brian K.,R,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059165.pdf,,
+Fleischmann,"Charles J. ""Chuck""",R,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220420.pdf,,
+Fletcher,Lizzie,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058974.pdf,,
+Flood,Mike,R,NE,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059391.pdf,,
+Foster,Bill,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057232.pdf,,
+Foushee,Valerie P.,D,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057344.pdf,,
+Foxx,Virginia,R,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059335.pdf,,
+Frankel,Lois,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057235.pdf,,
+Franklin,C. Scott,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057719.pdf,,
+Frost,Maxwell,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061610.pdf,,
+Fry,Russell,R,SC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058966.pdf,,
+Fulcher,Russ,R,ID,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060187.pdf,,
+Gallego,Ruben,D,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058791.pdf,,
+Garamendi,John,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059805.pdf,,
+Garbarino,Andrew R.,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059492.pdf,,
+Garcia,"Jesús G. ""Chuy""",D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057643.pdf,,
+Garcia,Mike,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060154.pdf,,
+Garcia,Robert,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060154.pdf,,
+Garcia,Sylvia R.,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059533.pdf,,
+Gillibrand,Kirsten E.,D,NY,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/7ae7aae6-03bb-4d7f-a956-8adcba494f99/,,
+Gimenez,Carlos A.,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060592.pdf,,
+Gluesenkamp Perez,Marie,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058984.pdf,,
+Golden,Jared F.,D,ME,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057089.pdf,,
+Gomez,Jimmy,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059944.pdf,,
+Gonzales,Tony,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062766.pdf,,
+Gonzalez,Vicente,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220595.pdf,,
+Gonzalez-Colon,Jenniffer,R,PR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059869.pdf,,
+Good,Bob,R,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060656.pdf,,
+Gooden,Lance,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061400.pdf,,
+Gosar,Paul A.,R,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220466.pdf,,
+Graham,Lindsey,R,SC,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/82a8cef2-fa7e-4ce7-92d2-798715c28d5f/,,
+Granger,Kay,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057021.pdf,,
+Grassley,Chuck,R,IA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/2f0bcbce-b93f-44f0-b1cf-4380419ce0af/,,
+Graves,Sam,R,MO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061251.pdf,,
+Green,Al,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060574.pdf,,
+Green,Mark E.,R,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061193.pdf,,
+Griffith,H. Morgan,R,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059696.pdf,,
+Grijalva,Raúl M.,D,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059510.pdf,,
+Grothman,Glenn,R,WI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060079.pdf,,
+Guest,Michael,R,MS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220573.pdf,,
+Guthrie,Brett,R,KY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220485.pdf,,
+Hageman,Harriet M.,R,WY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059540.pdf,,
+Hagerty,Bill,R,TN,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/03b313b5-2492-4264-8fa0-2f14bbafde77/,,
+Harder,Josh,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058971.pdf,,
+Harris,Andy,R,MD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062677.pdf,,
+Harshbarger,Diana,R,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220574.pdf,,
+Hassan,Margaret Wood,D,NH,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/32481311-3b9a-4ad3-be14-520c173cf5e3/,,
+Hawley,Josh,R,MO,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/b5927b5e-a907-4e99-9ad4-957f0e2bceb3/,,
+Hayes,Jahana,D,CT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059686.pdf,,
+Heinrich,Martin,D,NM,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/ea129bbd-77b9-47a0-aeb9-f5faa5158934/,,
+Hern,Kevin,R,OK,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060913.pdf,,
+Hickenlooper,John W.,D,CO,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/5f667aa1-b9ab-4fe2-bced-c43f4f103c48/,,
+Higgins,Clay,R,LA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057485.pdf,,
+Hill,J. French,R,AR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059437.pdf,,
+Himes,James A.,D,CT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061258.pdf,,
+Hirono,Mazie K.,D,HI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/16dad072-2ce0-4bc8-ad36-c51aca7ec2fb/,,
+Hoeven,John,R,ND,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/c1569647-99b6-40c2-be51-97c8d800d9e6/,,
+Horsford,Steven,D,NV,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061279.pdf,,
+Houchin,Erin,R,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058925.pdf,,
+Houlahan,Chrissy,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060595.pdf,,
+Hoyer,Steny H.,D,MD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060360.pdf,,
+Hoyle,Val T.,D,OR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058978.pdf,,
+Hudson,Richard,R,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060006.pdf,,
+Huffman,Jared,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060152.pdf,,
+Huizenga,Bill,R,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060544.pdf,,
+Hunt,Wesley,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059868.pdf,,
+Hyde-Smith,Cindy,R,MS,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/d20d2883-5d04-4355-901c-cce12f0c9a55/,,
+Issa,Darrell,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060532.pdf,,
+Ivey,Glenn,D,MD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059399.pdf,,
+Jackson,Jonathan L.,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059883.pdf,,
+Jackson,Ronny,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062668.pdf,,
+Jacobs,Sara,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059210.pdf,,
+James,John,R,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057721.pdf,,
+Jayapal,Pramila,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059916.pdf,,
+Jeffries,Hakeem S.,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059158.pdf,,
+Johnson,Dusty,R,SD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059658.pdf,,
+Johnson,"Henry C. ""Hank""",D,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060742.pdf,,
+Johnson,Mike,R,LA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059254.pdf,,
+Johnson,Ron,R,WI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/d9214500-b134-4e99-8584-0e49cfb247e9/,,
+Jordan,Jim,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058918.pdf,,
+Joyce,David P.,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061272.pdf,,
+Joyce,John,R,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059130.pdf,,
+Kaine,Tim,D,VA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/96e64ed2-07fd-461c-a52d-b251b0ebe271/,,
+Kamlager-Dove,Sydney,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060088.pdf,,
+Kaptur,Marcy,D,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060371.pdf,,
+Kean,Thomas H.,R,NJ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060678.pdf,,
+Keating,William R.,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059951.pdf,,
+Kelly,Mark,D,AZ,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/deaf96b2-f782-4cc2-89fc-f0f619e9aed4/,,
+Kelly,Mike,R,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059739.pdf,,
+Kelly,Robin L.,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059979.pdf,,
+Kelly,Trent,R,MS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059344.pdf,,
+Kennedy,John,R,LA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/074d6eed-7fc7-41ec-900d-ee22977637f1/,,
+Kennedy,Timothy M.,D,NY,house,False,2024,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10062077.pdf,,
+Kiggans,Jennifer A.,R,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059067.pdf,,
+Kildee,Daniel T.,D,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059494.pdf,,
+Kiley,Kevin,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059609.pdf,,
+Kilmer,Derek,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059275.pdf,,
+Kim,Andy,D,NJ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059532.pdf,,
+Kim,Young,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057252.pdf,,
+King,Angus S.,I,ME,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/a15394cf-6a90-4ca9-8769-74fbde06bb6c/,,
+Klobuchar,Amy,D,MN,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/4556b4d9-a44d-4b8f-8ef7-f099b99cd4a2/,,
+Krishnamoorthi,Raja,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057306.pdf,,
+Kuster,Ann M.,D,NH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220486.pdf,,
+Kustoff,David,R,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059305.pdf,,
+LaHood,Darin,R,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059266.pdf,,
+LaLota,Nick,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060364.pdf,,
+LaMalfa,Doug,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060038.pdf,,
+LaTurner,Jake,R,KS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060099.pdf,,
+Lamborn,Doug,R,CO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220575.pdf,,
+Landsman,Greg,D,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060077.pdf,,
+Langworthy,Nicholas A.,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061049.pdf,,
+Lankford,James,R,OK,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/b43f1c48-5289-4bc7-a3bb-12b46a6650a6/,,
+Larsen,Rick,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057340.pdf,,
+Larson,John B.,D,CT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059233.pdf,,
+Latta,Robert E.,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058884.pdf,,
+Lawler,Michael,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059706.pdf,,
+Lee,Barbara,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061113.pdf,,
+Lee,Laurel M.,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062650.pdf,,
+Lee,Mike,R,UT,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/bb92d489-a444-452f-8fc3-783f92d061cd/,,
+Lee,Summer L.,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062786.pdf,,
+Lee,Susie,D,NV,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057548.pdf,,
+Leger Fernandez,Teresa,D,NM,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059199.pdf,,
+Lesko,Debbie,R,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059171.pdf,,
+Letlow,Julia,R,LA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060677.pdf,,
+Levin,Mike,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057312.pdf,,
+Lieu,Ted,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060998.pdf,,
+Lofgren,Zoe,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057543.pdf,,
+Loudermilk,Barry,R,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061418.pdf,,
+Lucas,Frank D.,R,OK,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057070.pdf,,
+Luetkemeyer,Blaine,R,MO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220467.pdf,,
+Lujan,Ben Ray,D,NM,senate,False,2024,https://efdsearch.senate.gov/search/view/paper/b958913d-0f7b-43ac-9335-c927181ca50e/,,
+Lummis,Cynthia M.,R,WY,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/8dc381a6-f1a4-45d5-b2df-254b7c3fe23f/,,
+Luttrell,Morgan,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059415.pdf,,
+Lynch,Stephen F.,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057612.pdf,,
+Mace,Nancy,R,SC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062802.pdf,,
+Magaziner,Seth,D,RI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058871.pdf,,
+Malliotakis,Nicole,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060618.pdf,,
+Maloy,Celeste,R,UT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061120.pdf,,
+Manchin,Joe,I,WV,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/0e5ba574-5ea4-475b-9967-86d065d0db7c/,,
+Mann,Tracey,R,KS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059938.pdf,,
+Manning,Kathy E.,D,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057256.pdf,,
+Markey,Edward J.,D,MA,senate,False,2024,https://efdsearch.senate.gov/search/view/paper/ecdbf62a-3af7-4f6b-8221-a5156c05558f/,,
+Marshall,Roger,R,KS,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/a9edda97-d22c-45c2-bff6-81e92b757285/,,
+Massie,Thomas,R,KY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059521.pdf,,
+Mast,Brian J.,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061066.pdf,,
+Matsui,Doris O.,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220487.pdf,,
+McBath,Lucy,D,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060971.pdf,,
+McCaul,Michael T.,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220569.pdf,,
+McClain,Lisa C.,R,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059852.pdf,,
+McClellan,Jennifer L.,D,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059623.pdf,,
+McClintock,Tom,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058822.pdf,,
+McCollum,Betty,D,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059086.pdf,,
+McConnell,Mitch,R,KY,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/632f557a-c28b-43a9-8de5-1be4faf38032/,,
+McCormick,Richard,R,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060276.pdf,,
+McGarvey,Morgan,D,KY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059688.pdf,,
+McGovern,James P.,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060397.pdf,,
+McHenry,Patrick T.,R,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060043.pdf,,
+Meeks,Gregory W.,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060027.pdf,,
+Menendez,Robert,D,NJ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060861.pdf,,
+Meng,Grace,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059369.pdf,,
+Merkley,Jeff,D,OR,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/b40609b3-2856-4dfd-8474-c1ef29624c19/,,
+Meuser,Daniel,R,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060930.pdf,,
+Mfume,Kweisi,D,MD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061339.pdf,,
+Miller,Carol D.,R,WV,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061752.pdf,,
+Miller,Mary E.,R,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060215.pdf,,
+Miller,Max L.,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059565.pdf,,
+Miller-Meeks,Mariannette,R,IA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061002.pdf,,
+Mills,Cory,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060178.pdf,,
+Molinaro,Marcus J.,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061183.pdf,,
+Moolenaar,John R.,R,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060292.pdf,,
+Mooney,Alexander X.,R,WV,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062529.pdf,,
+Moore,Barry,R,AL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057716.pdf,,
+Moore,Blake D.,R,UT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057449.pdf,,
+Moore,Gwen,D,WI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220488.pdf,,
+Moran,Jerry,R,KS,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/8b8b4899-b615-438e-b683-89d579f69ac1/,,
+Moran,Nathaniel,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060240.pdf,,
+Morelle,Joseph D.,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060705.pdf,,
+Moskowitz,Jared,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062670.pdf,,
+Moulton,Seth,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057110.pdf,,
+Moylan,James C.,R,GU,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059913.pdf,,
+Mrvan,Frank J.,D,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060749.pdf,,
+Mullin,Kevin,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061164.pdf,,
+Mullin,Markwayne,R,OK,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/314cb4e0-b326-43be-adf7-e783beb591a0/,,
+Murkowski,Lisa,R,AK,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/b4b6e7f5-acbb-4a6c-8094-1e554d2149b0/,,
+Murphy,Christopher,D,CT,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/5f41230d-a763-4b5c-ba50-7756a8226e04/,,
+Murphy,Gregory F.,R,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059751.pdf,,
+Murray,Patty,D,WA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/0338e0f7-7a96-4b8b-b768-1c99ceb415a9/,,
+Nadler,Jerrold,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220489.pdf,,
+Napolitano,Grace F.,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059421.pdf,,
+Neal,Richard E.,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060911.pdf,,
+Neguse,Joe,D,CO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060382.pdf,,
+Nehls,Troy E.,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062762.pdf,,
+Newhouse,Dan,R,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059166.pdf,,
+Nickel,Wiley,D,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060464.pdf,,
+Norcross,Donald,D,NJ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059635.pdf,,
+Norman,Ralph,R,SC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059370.pdf,,
+Norton,Eleanor Holmes,D,DC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057623.pdf,,
+Nunn,Zachary,R,IA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058821.pdf,,
+Obernolte,Jay,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057742.pdf,,
+Ocasio-Cortez,Alexandria,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060351.pdf,,
+Ogles,Andrew,R,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060354.pdf,,
+Omar,Ilhan,D,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060937.pdf,,
+Ossoff,Jon,D,GA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/a14df483-dd72-4266-98a2-09b9c7f8d1dc/,,
+Owens,Burgess,R,UT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062290.pdf,,
+Padilla,Alex,D,CA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/ca0fa419-d659-4a70-88f1-04687560399a/,,
+Pallone,Frank,D,NJ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058824.pdf,,
+Panetta,Jimmy,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059232.pdf,,
+Pappas,Chris,D,NH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058983.pdf,,
+Paul,Rand,R,KY,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/26b5e9a7-ce61-4034-9963-3e452816c87e/,,
+Paulina Luna,Anna,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059246.pdf,,
+Peltola,Mary Sattler,D,AK,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060548.pdf,,
+Pence,Greg,R,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059309.pdf,,
+Perry,Scott,R,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059863.pdf,,
+Peters,Gary C.,D,MI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/9adef51e-91a1-467f-a89a-f9279fe51b5d/,,
+Peters,Scott H.,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061056.pdf,,
+Pettersen,Brittany,D,CO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059117.pdf,,
+Pfluger,August,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059397.pdf,,
+Phillips,Dean,D,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057744.pdf,,
+Pingree,Chellie,D,ME,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060194.pdf,,
+Plaskett,Stacey E.,D,VI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061296.pdf,,
+Pocan,Mark,D,WI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061559.pdf,,
+Porter,Katie,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060103.pdf,,
+Posey,Bill,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220468.pdf,,
+Pressley,Ayanna,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061223.pdf,,
+Quigley,Mike,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220469.pdf,,
+Radewagen,Aumua Amata Coleman,R,AS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059318.pdf,,
+Ramirez,Delia C.,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059937.pdf,,
+Raskin,Jamie,D,MD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059548.pdf,,
+Reed,Jack,D,RI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/d376b366-77d2-46d9-9393-82dc40d91e73/,,
+Reschenthaler,Guy,R,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060469.pdf,,
+Ricketts,Pete,R,NE,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/2eb83de2-c457-4a61-a902-7810952db2d1/,,
+Risch,James E.,R,ID,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/6231982e-5f6c-4e56-bffb-b40ccd38397b/,,
+Rodgers,Cathy,R,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057665.pdf,,
+Rogers,Harold,R,KY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220606.pdf,,
+Rogers,Mike D.,R,AL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220490.pdf,,
+Romney,Mitt,R,UT,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/fe4735ee-8675-4ef8-9408-6c87340f1d81/,,
+Rose,John W.,R,TN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061010.pdf,,
+Rosen,Jacky,D,NV,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/f773ab4e-abed-426c-9c17-95a91cc78412/,,
+Rosendale,Matthew M.,R,MT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059430.pdf,,
+Ross,Deborah K.,D,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059715.pdf,,
+Rounds,Mike,R,SD,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/157efca4-3dd9-4fa1-9f76-28801e38d12d/,,
+Rouzer,David,R,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060621.pdf,,
+Roy,Chip,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060253.pdf,,
+Rubio,Marco,R,FL,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/45f8d47c-fa4b-4a5d-b810-33bf8e7e521b/,,
+Ruiz,Raul,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058890.pdf,,
+Ruppersberger,C. A. Dutch,D,MD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058985.pdf,,
+Rutherford,John H.,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059848.pdf,,
+Ryan,Patrick,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059418.pdf,,
+Sablan,Gregorio Kilili Camacho,D,MP,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057550.pdf,,
+Salazar,Maria Elvira,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057762.pdf,,
+Salinas,Andrea,D,OR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057554.pdf,,
+Sanchez,Linda T.,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061605.pdf,,
+Sanders,Bernard,I,VT,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/c69e42e6-1c9c-44d9-b097-60be798b8661/,,
+Sarbanes,John P.,D,MD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060024.pdf,,
+Scalise,Steve,R,LA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057111.pdf,,
+Scanlon,Mary Gay,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060201.pdf,,
+Schakowsky,Janice D.,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059251.pdf,,
+Schatz,Brian,D,HI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/c0bab3b6-4e45-4318-8f17-f06d7efbec4b/,,
+Schiff,Adam B.,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057292.pdf,,
+Schmitt,Eric,R,MO,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/b86d9173-de3a-4f1c-bf2c-29b7f956ba4f/,,
+Schneider,Bradley Scott,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059475.pdf,,
+Scholten,Hillary J.,D,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060915.pdf,,
+Schrier,Kim,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057734.pdf,,
+Schumer,Charles E.,D,NY,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/bdc5113d-5891-462e-9501-ad2e5a697d51/,,
+Schweikert,David,R,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060213.pdf,,
+Scott,Austin,R,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062669.pdf,,
+Scott,David,D,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062669.pdf,,
+Scott,Rick,R,FL,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/f1c73d96-7e08-4a24-bd97-ec0b085782b8/,,
+Scott,"Robert C. ""Bobby""",D,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061165.pdf,,
+Scott,Tim,R,SC,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/9e7b377c-4514-4ab5-90db-9e76d43c4b30/,,
+Self,Keith,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220491.pdf,,
+Sessions,Pete,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062485.pdf,,
+Sewell,Terri A.,D,AL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062696.pdf,,
+Shaheen,Jeanne,D,NH,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/952e43aa-f40c-4311-b8f1-b08d3e8ff097/,,
+Sherman,Brad,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220492.pdf,,
+Sherrill,Mikie,D,NJ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060419.pdf,,
+Simpson,Michael K.,R,ID,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059701.pdf,,
+Sinema,Kyrsten,I,AZ,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/eb37d9be-fe95-4680-a93d-8e22b7f887cc/,,
+Slotkin,Elissa,D,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060506.pdf,,
+Smith,Adam,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059530.pdf,,
+Smith,Adrian,R,NE,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059993.pdf,,
+Smith,Christopher H.,R,NJ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061508.pdf,,
+Smith,Jason,R,MO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060205.pdf,,
+Smith,Tina,D,MN,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/34de9852-21e9-45db-9975-8e7b4b4194af/,,
+Smucker,Lloyd,R,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059918.pdf,,
+Sorensen,Eric,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059289.pdf,,
+Soto,Darren,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059606.pdf,,
+Spanberger,Abigail Davis,D,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058906.pdf,,
+Spartz,Victoria,R,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061003.pdf,,
+Stabenow,Debbie,D,MI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/2a07642e-57d6-482c-abf1-71b5416afa66/,,
+Stansbury,Melanie A.,D,NM,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061095.pdf,,
+Stanton,Greg,D,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060122.pdf,,
+Stauber,Pete,R,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059931.pdf,,
+Steel,Michelle,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060211.pdf,,
+Stefanik,Elise M.,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220576.pdf,,
+Steil,Bryan,R,WI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059613.pdf,,
+Steube,W. Gregory,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057284.pdf,,
+Stevens,Haley M.,D,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060894.pdf,,
+Strickland,Marilyn,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061264.pdf,,
+Strong,Dale W.,R,AL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057458.pdf,,
+Sullivan,Dan,R,AK,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/d312120e-0f6d-4d85-89f6-7aa083037537/,,
+Suozzi,Thomas R.,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060566.pdf,,
+Swalwell,Eric,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061638.pdf,,
+Sykes,Emilia Strong,D,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059346.pdf,,
+Takano,Mark,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061334.pdf,,
+Tenney,Claudia,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060313.pdf,,
+Tester,Jon,D,MT,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/d8a0617f-2a28-465f-933c-21f67dbdce0d/,,
+Thompson,Bennie G.,D,MS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060790.pdf,,
+Thompson,Glenn,R,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059584.pdf,,
+Thompson,Mike,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220493.pdf,,
+Thune,John,R,SD,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/0ffe1984-35f3-4389-a4c0-90025790ce96/,,
+Tiffany,Thomas P.,R,WI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059274.pdf,,
+Tillis,Thomas,R,NC,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/5f91f59d-3962-48bd-a19f-fa97f502642f/,,
+Timmons,William R.,R,SC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060199.pdf,,
+Titus,Dina,D,NV,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220494.pdf,,
+Tlaib,Rashida,D,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057613.pdf,,
+Tokuda,Jill N.,D,HI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059942.pdf,,
+Tonko,Paul,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060062.pdf,,
+Torres,Norma J.,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060139.pdf,,
+Torres,Ritchie,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060420.pdf,,
+Trahan,Lori,D,MA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060049.pdf,,
+Trone,David J.,D,MD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059089.pdf,,
+Tuberville,Tommy,R,AL,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/9fd713f6-2903-424f-9069-385bcfd463b4/,,
+Turner,Michael R.,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057584.pdf,,
+Underwood,Lauren,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058869.pdf,,
+Valadao,David G.,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062640.pdf,,
+Van Duyne,Beth,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062418.pdf,,
+Van Hollen,Chris,D,MD,senate,False,2024,https://efdsearch.senate.gov/search/view/paper/249d9537-fc4e-4331-8bb2-a1949ea71805/,,
+Van Orden,Derrick,R,WI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060782.pdf,,
+Vargas,Juan,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060557.pdf,,
+Vasquez,Gabe,D,NM,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061303.pdf,,
+Veasey,Marc A.,D,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059416.pdf,,
+Velázquez,Nydia M.,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060080.pdf,,
+Wagner,Ann,R,MO,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059149.pdf,,
+Walberg,Tim,R,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059633.pdf,,
+Warner,Mark R.,D,VA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/3e6d6b43-dd61-4594-813e-1c35ce99c58b/,,
+Warnock,Raphael G.,D,GA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/4cca582f-16be-46f4-8378-744ad9b46c67/,,
+Warren,Elizabeth,D,MA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/bcaf0292-332d-4c94-8303-1935043c16cf/,,
+Wasserman Schultz,Debbie,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057649.pdf,,
+Waters,Maxine,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062261.pdf,,
+Weber,Randy K. Sr.,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062345.pdf,,
+Webster,Daniel,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057044.pdf,,
+Welch,Peter,D,VT,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/7ed9a0a2-7cd3-4c92-bb28-b371d8459e8a/,,
+Wenstrup,Brad R.,R,OH,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059617.pdf,,
+Westerman,Bruce,R,AR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060295.pdf,,
+Wexton,Jennifer,D,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061314.pdf,,
+Whitehouse,Sheldon,D,RI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/1eb0d806-fa8f-44bd-a693-910e67cad938/,,
+Wicker,Roger F.,R,MS,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/2f301679-7bb3-43a7-8adc-86dd7b13ddd9/,,
+Wild,Susan,D,PA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060924.pdf,,
+Williams,Brandon,R,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061243.pdf,,
+Williams,Nikema,D,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061324.pdf,,
+Williams,Roger,R,TX,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059583.pdf,,
+Wilson,Frederica S.,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060465.pdf,,
+Wilson,Joe,R,SC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060013.pdf,,
+Wittman,Robert J.,R,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059371.pdf,,
+Womack,Steve,R,AR,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059669.pdf,,
+Wyden,Ron,D,OR,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/ed172e8b-cb21-4759-8a1c-7b7125fc3454/,,
+Yakym,Rudy,R,IN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060220.pdf,,
+Young,Todd,R,IN,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/f40dcd83-4a4a-47b5-bb52-2ef517870c7f/,,
+Zinke,Ryan K.,R,MT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059772.pdf,,
