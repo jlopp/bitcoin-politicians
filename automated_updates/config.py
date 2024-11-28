@@ -85,7 +85,9 @@ bitcoin_crypto_terms_false_positives = [
     'Marriott',
     'Pershing',
     'Quonset',
-    'Squibb'
+    'Squibb',
+    'CALIF PRSMULTCCN EGID COR',
+    'XRPO Inc PC 360'
 ]
 
 source_data_dir = './all_source_data/'
