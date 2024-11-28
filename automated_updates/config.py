@@ -13,7 +13,7 @@ bitcoin_crypto_terms = [
     '\(arka\)',
     'arkb',
     'bitb',
-    'bitc',
+    '\(bitc\)',
     'bito',
     'biti',
     'bitu',
@@ -29,7 +29,7 @@ bitcoin_crypto_terms = [
     'gbtc',
     'hodl',
     'ibit',
-    'sbit',
+    '\(sbit\)',
     # ethereum etfs
     'aeth',
     'arky',
