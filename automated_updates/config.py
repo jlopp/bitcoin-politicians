@@ -10,7 +10,7 @@ bitcoin_crypto_terms = [
     'btc',
     'bitcoin',
     # bitcoin etfs
-    # 'arka', # too many false positives
+    '\(arka\)',
     'arkb',
     'bitb',
     'bitc',
@@ -21,7 +21,7 @@ bitcoin_crypto_terms = [
     'brrr',
     'btco',
     'btcw', 
-    #'defi', # too many false positives
+    '\(defi\)',
     'ezbc',
     'fbtc',
     'grayscale',
@@ -36,25 +36,25 @@ bitcoin_crypto_terms = [
     'arkz',
     'ceth',
     'eeth',
-    # 'etha', # too many false positives
+    '\(etha\)',
     'ethd',
-    # 'ethe', # too many false positives
+    '\(ethe\)',
     'etht',
     'ethu',
     'ethv',
     'feth',
-    # 'seth', # too many false positives
+    '\(seth\)',
     # mixed crypto etfs
-    # 'bete', # too many false positives
-    # 'beth', # too many false positives
+    '\(bete\)',
+    '\(beth\)',
     'bitq',
     'bits',
     'bitw',
     'blkc',  
-    # 'btf', # too many false positives
+    '\(btf\)',
     'btop',
     'dapp',
-    # 'sato', # too many false positives
+    '\(sato\)',
     'spbc',
     'stce',
     # miners
@@ -99,9 +99,9 @@ bitcoin_crypto_terms = [
     '\(sq\)',
     # shitcoins
     'avalanche',
-    # 'avax', # too many false positives
+    '\(avax\)',
     'binance',
-    # 'bch', # too many false positives
+    '\(bch\)',
     'cardano',
     'chainlink',
     'dogecoin',
