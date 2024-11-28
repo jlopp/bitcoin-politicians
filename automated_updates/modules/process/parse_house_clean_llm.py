@@ -9,23 +9,12 @@ import re
 def assets_from_house_clean_image_to_csv(input_image_path):
 	base64_image = encode_image(input_image_path)
 
-	refusal = True
-	refusal_count = 0
-	while refusal:
-		# use '|' separator to avoid characters in asset names
-		response = send_to_api("This is a public disclosure form for a US congressman from house.gov. Get the asset names in the 'Asset' column of the Assets table. Return only a | separated list. no other commentary.", 
-						 		base64_image)
+	# use '|' separator to avoid characters in asset names
+	response = send_to_api("This is a public disclosure form for a US congressman from house.gov. Get the asset names in the 'Asset' column of the Assets table. Return only a | separated list. no other commentary.", 
+							base64_image)
 
-		# the model will occasionally refuse. if so, retry
-		refusal = (('sorry' in response.lower() or "can't" in response.lower() or "cannot" in response.lower()) and ('|' not in response))
-		refusal_count += 1
-		if refusal and refusal_count <= 3: print('model refused. retrying...')
-		if refusal_count > 3: 
-			print('model refused 3 times. moving on.')
-			# refusals also happen when there are no asset names in the image
-			response = ''
-			break
-
+	if len(response.split('|')) <= 1: response = ''
+	
 	asset_list = [response.strip() for response in response.split("|")]
 
 	return asset_list
