@@ -56,6 +56,7 @@ def get_new_disclosures():
         columns={'filing_year_source': 'filing_year'}
     )
 
+    print('new disclosures:')
     if len(new_disclosures): print(new_disclosures) 
     else: print('None')
     print('\n')
