@@ -10,7 +10,7 @@ bitcoin_crypto_terms = [
     'btc',
     'bitcoin',
     # bitcoin etfs
-    'arka',
+    # 'arka', # too many false positives
     'arkb',
     'bitb',
     'bitc',
@@ -20,8 +20,8 @@ bitcoin_crypto_terms = [
     'bitx',
     'brrr',
     'btco',
-    'btcw',
-    'defi',
+    'btcw', 
+    #'defi', # too many false positives
     'ezbc',
     'fbtc',
     'grayscale',
@@ -36,25 +36,25 @@ bitcoin_crypto_terms = [
     'arkz',
     'ceth',
     'eeth',
-    'etha',
+    # 'etha', # too many false positives
     'ethd',
-    'ethe',
+    # 'ethe', # too many false positives
     'etht',
     'ethu',
     'ethv',
     'feth',
-    'seth',
+    # 'seth', # too many false positives
     # mixed crypto etfs
     'bete',
-    'beth',
+    # 'beth', # too many false positives
     'bitq',
     'bits',
     'bitw',
     'blkc',  
-    'btf',
+    # 'btf', # too many false positives
     'btop',
     'dapp',
-    'sato',
+    # 'sato', # too many false positives
     'spbc',
     'stce',
     # miners
@@ -99,9 +99,9 @@ bitcoin_crypto_terms = [
     '\(sq\)',
     # shitcoins
     'avalanche',
-    'avax',
+    # 'avax', # too many false positives
     'binance',
-    'bch',
+    # 'bch', # too many false positives
     'cardano',
     'chainlink',
     'dogecoin',
@@ -135,7 +135,8 @@ bitcoin_crypto_terms_false_positives = [
     'Quonset',
     'Squibb',
     'CALIF PRSMULTCCN EGID COR',
-    'XRPO Inc PC 360'
+    'XRPO Inc PC 360',
+    'Canaan LLC',
 ]
 
 source_data_dir = './all_source_data/'

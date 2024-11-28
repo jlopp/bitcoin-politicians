@@ -184,7 +184,7 @@
 | Gimenez, Carlos A. | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060592.pdf) | - |
 | Gluesenkamp Perez, Marie | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058984.pdf) | - |
 | Golden, Jared F. | D | ME | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057089.pdf) | - |
-| Goldman, Daniel S. | D | NY | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf) | Block, Inc. Class A Common Stock, (SQ), Coinbase Global, Inc. - Class A Common Stock (COIN), Coinbase Global, Inc. - Class A (COIN) |
+| Goldman, Daniel S. | D | NY | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf) | Tandem Diabetes Care, Inc. (TNDM), Coinbase Global, Inc. - Class A Common Stock (COIN), Block, Inc. Class A Common Stock, (SQ), Coinbase Global, Inc. - Class A (COIN) |
 | Gomez, Jimmy | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059944.pdf) | - |
 | Gonzales, Tony | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062766.pdf) | - |
 | Gonzalez, Vicente | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220595.pdf) | - |
@@ -192,7 +192,7 @@
 | Good, Bob | R | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060656.pdf) | - |
 | Gooden, Lance | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061400.pdf) | - |
 | Gosar, Paul A. | R | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220466.pdf) | - |
-| Gottheimer, Josh | D | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf) | Block, Inc. Class A Common Stock, (SQ), Block, Inc. Class A Common Stock, (SQ) [ST] |
+| Gottheimer, Josh | D | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf) | Block, Inc. Class A Common Stock, (SQ) [ST], Block, Inc. Class A Common Stock, (SQ) |
 | Graham, Lindsey | R | SC | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/82a8cef2-fa7e-4ce7-92d2-798715c28d5f/) | - |
 | Granger, Kay | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057021.pdf) | - |
 | Grassley, Chuck | R | IA | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/2f0bcbce-b93f-44f0-b1cf-4380419ce0af/) | - |
@@ -234,7 +234,7 @@
 | Hyde-Smith, Cindy | R | MS | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/d20d2883-5d04-4355-901c-cce12f0c9a55/) | - |
 | Issa, Darrell | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060532.pdf) | - |
 | Ivey, Glenn | D | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059399.pdf) | - |
-| Jackson, Jeff | D | NC | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf) | Cryptocurrency, Solana, Cardano |
+| Jackson, Jeff | D | NC | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf) | Solana, Cryptocurrency, Cardano |
 | Jackson, Jonathan L. | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059883.pdf) | - |
 | Jackson, Ronny | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062668.pdf) | - |
 | Jacobs, Sara | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059210.pdf) | - |
@@ -373,7 +373,7 @@
 | Owens, Burgess | R | UT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062290.pdf) | - |
 | Padilla, Alex | D | CA | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/ca0fa419-d659-4a70-88f1-04687560399a/) | - |
 | Pallone, Frank | D | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058824.pdf) | - |
-| Palmer, Gary J. | R | AL | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058923.pdf) | Canaan LLC |
+| Palmer, Gary J. | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058923.pdf) | - |
 | Panetta, Jimmy | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059232.pdf) | - |
 | Pappas, Chris | D | NH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058983.pdf) | - |
 | Paul, Rand | R | KY | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/26b5e9a7-ce61-4034-9963-3e452816c87e/) | - |
@@ -476,7 +476,7 @@
 | Takano, Mark | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061334.pdf) | - |
 | Tenney, Claudia | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060313.pdf) | - |
 | Tester, Jon | D | MT | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/d8a0617f-2a28-465f-933c-21f67dbdce0d/) | - |
-| Thanedar, Shri | D | MI | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057305.pdf) | Ethereum, Litecoin, Bitcoin |
+| Thanedar, Shri | D | MI | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057305.pdf) | Ethereum, Bitcoin, Litecoin |
 | Thompson, Bennie G. | D | MS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060790.pdf) | - |
 | Thompson, Glenn | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059584.pdf) | - |
 | Thompson, Mike | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220493.pdf) | - |
