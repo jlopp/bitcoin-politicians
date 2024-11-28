@@ -10,11 +10,14 @@ def assets_from_house_messy_image_to_csv(input_image_path):
 	base64_image = encode_image(input_image_path)
 
 	# use '|' separator to avoid characters in asset names
-	response = send_to_api(message="This is a public disclosure form for a US congressman from house.gov. Get the asset names form. Return them in a | separated list only, no other commentary.", 
+	response = send_to_api(message="This is a public disclosure form for a US congressman from house.gov. Get the asset names form. Return them in a | separated list only. If there are no assets listed, state: 'None'. No other commentary.", 
 						base64_image=base64_image, 
 						model="gpt-4o")
-		
-	if len(response.split('|')) <= 1: response = ''
+	
+	# print(response);print('\n')
+	if re.sub(r'[^a-zA-Z]', '', response.strip().lower() ) == 'none':
+		# print('No assets on this page.')
+		response = ''
 
 	asset_list = [response.strip() for response in response.split("|")]
 	
