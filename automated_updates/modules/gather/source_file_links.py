@@ -1,14 +1,14 @@
 import csv
-from config import source_data_dir
+from config import source_data_dir, processed_data_dir
 import pandas as pd
 import os
 import re
 from collections import defaultdict
 
-def add_link_to_source_file(last_name, first_name, state_abbr, filing_year, link):
+def add_link_to_source_file(last_name, first_name, state_abbr, filing_year, link, party):
 
     csv_file_path = os.path.join(source_data_dir, "source_data_links.csv")
-    csv_columns = ["last_name", "first_name", "state", "filing_year", "link"]
+    csv_columns = ["last_name", "first_name", "party", "state", "filing_year", "link"]
 
     file_exists = os.path.isfile(csv_file_path)
     with open(csv_file_path, mode="a", newline="") as csv_file:
@@ -20,6 +20,7 @@ def add_link_to_source_file(last_name, first_name, state_abbr, filing_year, link
         writer.writerow({
             "last_name": last_name,
             "first_name": first_name,
+            "party": party,
             "state": state_abbr,
             "filing_year": filing_year,
             "link": link
@@ -36,33 +37,31 @@ def deduplicate_link_source_file():
     df.to_csv(csv_file_path, index=False)
 
 def get_new_disclosures():
-    source_file_path = os.path.join(source_data_dir, "source_data_links.csv")
-    df = pd.read_csv(source_file_path)
-    df_sorted = df.sort_values(by=['last_name', 'first_name', 'state', 'filing_year'], ascending=[True, True, True, False])
-    current_disclosures = df_sorted.drop_duplicates(subset=['last_name', 'first_name', 'state'], keep='first')
-    old_disclosures = df_sorted[~df_sorted['link'].isin(list(current_disclosures['link']))]
+    source_data_links = pd.read_csv(os.path.join(source_data_dir, "source_data_links.csv"))
+    final_summary_data = pd.read_csv('./final_datasets/final_summary_data.csv')
 
-    common_identifiers = current_disclosures.merge(
-        old_disclosures,
+    merged_data = source_data_links.merge(
+        final_summary_data,
         on=['last_name', 'first_name', 'state'],
-        how='inner'
-    )[['last_name', 'first_name', 'state']]
-
-    new_disclosures = current_disclosures.merge(
-        common_identifiers,
-        on=['last_name', 'first_name', 'state'],
-        how='inner'
+        suffixes=('_source', '_final'),
+        how='left'
     )
 
-    new_disclosures.to_csv('./new_disclosures.csv', index=False)
-    current_disclosures.to_csv(source_file_path, index=False)
+    new_disclosures = merged_data[
+        (merged_data['filing_year_final'].isna()) |  # Not in final_summary_data
+        (merged_data['filing_year_source'] > merged_data['filing_year_final'])  # More recent year
+    ]
 
-    print("\nNew disclosures since last run:")
+    new_disclosures = new_disclosures[['last_name', 'first_name', 'state', 'filing_year_source']].rename(
+        columns={'filing_year_source': 'filing_year'}
+    )
+
     if len(new_disclosures): print(new_disclosures) 
     else: print('None')
     print('\n')
 
-    return new_disclosures
+    new_disclosures.to_csv('./new_disclosures.csv', index=False)
+
 
 def get_outdated_source_files(files):
     file_pattern = re.compile(r'(.+?)_(.+?)_(.+?)_(\d{4})_.+')
@@ -84,3 +83,6 @@ def get_outdated_source_files(files):
         outdated_files.extend(entry[4] for entry in entries[1:])
     
     return outdated_files
+
+if __name__ == '__main__':
+    print(get_new_disclosures())

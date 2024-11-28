@@ -150,11 +150,18 @@ def get_congress_members(limit=250, ignore_cache=True, test_set=False):
             'Van Drew, Jefferson', # house messy
             'Vance, J. D.', # senate easy extract
             'Markey, Edward J.', # senate gifs
+            'Hinson, Ashley'
         ]
         members = [member for member in members if member[0] in test_set_names]
     
         print('using test set:')
         for member in members: print(member)
+
+    # manual exceptions for name mismatches that are impossible to accomodate programmatically
+    # example: congress.gov api gives "Hinson, Ashley" (Iowa) who files under Arenholz as of 2022
+    for i in range(len(members)):
+        if members[i][0] == 'Hinson, Ashley' and members[i][2] == 'IA':
+            members[i][0] = 'Arenholz, Ashley'
 
     return members
 

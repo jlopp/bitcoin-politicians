@@ -12,7 +12,7 @@ def remove_accents(text):
         if unicodedata.category(c) != 'Mn'
     )
 
-def download_house_source_data_specific_year(last_name, first_name, state_abbr, filing_year):
+def download_house_source_data_specific_year(last_name, first_name, state_abbr, filing_year, party):
     search_url = "https://disclosures-clerk.house.gov/FinancialDisclosure/ViewMemberSearchResult"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36',
@@ -52,17 +52,17 @@ def download_house_source_data_specific_year(last_name, first_name, state_abbr, 
                 with open(filename, 'wb') as pdf_file:
                     pdf_file.write(pdf_response.content)
                 print(f"\033[32mDownloaded {filename}\033[0m")
-                add_link_to_source_file(last_name, first_name, state_abbr, filing_year, pdf_link)
+                add_link_to_source_file(last_name, first_name, state_abbr, filing_year, pdf_link, party)
                 return True
             else:
                 return False
         else:
             return False
 
-def download_house_source_data_most_recent(last_name, first_name, state_abbr):
+def download_house_source_data_most_recent(last_name, first_name, state_abbr, party):
     current_year = datetime.now().year
     for year in range(current_year, current_year - 5, -1):
-        success = download_house_source_data_specific_year(last_name=last_name, first_name=first_name, state_abbr=state_abbr, filing_year=year)
+        success = download_house_source_data_specific_year(last_name=last_name, first_name=first_name, state_abbr=state_abbr, filing_year=year, party=party)
         if success:
             return True
     
@@ -70,25 +70,22 @@ def download_house_source_data_most_recent(last_name, first_name, state_abbr):
     # normalize accented characters
     if last_name != remove_accents(last_name):
         last_name = remove_accents(last_name)
-        return download_house_source_data_most_recent(last_name, first_name, state_abbr)
+        return download_house_source_data_most_recent(last_name, first_name, state_abbr, party)
     
     # use second part of multipart last name
     if '-' in last_name:
         last_name = last_name.replace('-', ' ')
-        return download_house_source_data_most_recent(last_name, first_name, state_abbr)
+        return download_house_source_data_most_recent(last_name, first_name, state_abbr, party)
     
     # use second part of multipart last name
     if ' ' in last_name:
         last_name = last_name.split(' ')[1]
-        return download_house_source_data_most_recent(last_name, first_name, state_abbr)
+        return download_house_source_data_most_recent(last_name, first_name, state_abbr, party)
     
     # add second part of multipart first name to last name
     if ' ' in first_name:
         last_name = first_name.split(' ')[-1] + ' ' + last_name
         first_name = first_name.split(' ')[0]
-        return download_house_source_data_most_recent(last_name, first_name, state_abbr)
+        return download_house_source_data_most_recent(last_name, first_name, state_abbr, party)
 
     return False
-
-if __name__ == '__main__':
-    download_house_source_data_specific_year(last_name='Bilirakis', state_abbr='FL', filing_year=2023)

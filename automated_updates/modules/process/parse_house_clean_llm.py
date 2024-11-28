@@ -8,17 +8,16 @@ import re
 
 def assets_from_house_clean_image_to_csv(input_image_path):
 	base64_image = encode_image(input_image_path)
-	if False:
-		# this idea was to skip pages that don't list assets. it is a waste of tokens and doesn't seem to hurt accuracy to just shove all pages
-		response = send_to_api("is there an assets table in the image with a column called 'Asset'? answer Y or N only.", base64_image)
-
-		if response.lower() == 'n':
-			# not present, skip the page
-			print('skipped')
-			return []
 
 	# use '|' separator to avoid characters in asset names
-	response = send_to_api("get the asset names in the 'Asset' column of the Assets table in the public disclosure form. return only a | separated list. no other commentary.", base64_image)
+	response = send_to_api("This is a public disclosure form for a US congressman from house.gov. Get the asset names in the 'Asset' column of the Assets table. Return only a | separated list. If there are no assets listed, state: 'None'. No other commentary.", 
+							base64_image)
+	
+	# print(response);print('\n')
+	if re.sub(r'[^a-zA-Z]', '', response.strip().lower() ) == 'none':
+		# print('No assets on this page.')
+		response = ''
+	
 	asset_list = [response.strip() for response in response.split("|")]
 
 	return asset_list

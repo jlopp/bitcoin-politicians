@@ -55,7 +55,7 @@ for i, member in enumerate(members):
     
     if house_senate == 'House':
         # site will occasionally deny access. if this happens, wait and try again
-        success = retry_with_delay(download_house_source_data_most_recent, last_name, first_name, state_abbr)
+        success = retry_with_delay(download_house_source_data_most_recent, last_name, first_name, state_abbr, party)
         if not success:
             print(f'\033[91m{first_name} {last_name} no disclosures found.\033[0m')
             no_disclosures.append(member)
@@ -63,7 +63,7 @@ for i, member in enumerate(members):
     elif house_senate == 'Senate':
         headless=True # whether to run the chromedriver headless
         # site will occasionally deny access. if this happens, wait and try again
-        success = retry_with_delay(download_senate_source_data_most_recent, last_name, first_name, state_abbr, headless)
+        success = retry_with_delay(download_senate_source_data_most_recent, last_name, first_name, state_abbr, party, headless)
         if not success:
             print(f'\033[91m{first_name} {last_name} no disclosures found.\033[0m')
             no_disclosures.append(member)
