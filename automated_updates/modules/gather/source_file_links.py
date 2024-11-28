@@ -5,10 +5,10 @@ import os
 import re
 from collections import defaultdict
 
-def add_link_to_source_file(last_name, first_name, state_abbr, filing_year, link):
+def add_link_to_source_file(last_name, first_name, state_abbr, filing_year, link, party):
 
     csv_file_path = os.path.join(source_data_dir, "source_data_links.csv")
-    csv_columns = ["last_name", "first_name", "state", "filing_year", "link"]
+    csv_columns = ["last_name", "first_name", "party", "state", "filing_year", "link"]
 
     file_exists = os.path.isfile(csv_file_path)
     with open(csv_file_path, mode="a", newline="") as csv_file:
@@ -20,6 +20,7 @@ def add_link_to_source_file(last_name, first_name, state_abbr, filing_year, link
         writer.writerow({
             "last_name": last_name,
             "first_name": first_name,
+            "party": party,
             "state": state_abbr,
             "filing_year": filing_year,
             "link": link

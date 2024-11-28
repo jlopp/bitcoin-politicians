@@ -27,7 +27,7 @@ def start_chrome_driver(chrome_driver_path, headless=True):
 
     return driver
 
-def download_senate_source_data_most_recent(last_name, first_name, state_abbr, headless):
+def download_senate_source_data_most_recent(last_name, first_name, state_abbr, party, headless):
     driver = start_chrome_driver(chrome_driver_path, headless=headless)
     # beware, this gets ugly
     driver.set_window_size(1920, 1080)
@@ -71,7 +71,7 @@ def download_senate_source_data_most_recent(last_name, first_name, state_abbr, h
     annual_report_link = driver.find_element(By.XPATH, "//a[contains(text(), 'Annual Report') and not(contains(text(), 'Amendment'))]")
     report_url = annual_report_link.get_attribute("href")
     driver.get(report_url)
-    add_link_to_source_file(last_name, first_name, state_abbr, most_recent_date.year, report_url)
+    add_link_to_source_file(last_name, first_name, state_abbr, most_recent_date.year, report_url, party)
 
     if 'view/annual' in report_url:
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "#grid_items tbody tr")))
@@ -120,7 +120,3 @@ def download_senate_source_data_most_recent(last_name, first_name, state_abbr, h
     
     else:
         raise RuntimeError("Unrecognized URL encountered during execution.")
-
-if __name__ == '__main__':
-    driver = start_chrome_driver(chrome_driver_path=chrome_driver_path, headless=False)
-    success = download_senate_source_data_most_recent(driver=driver, last_name='Ricketts', state_abbr='NE')
