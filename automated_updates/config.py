@@ -45,7 +45,7 @@ bitcoin_crypto_terms = [
     'feth',
     # 'seth', # too many false positives
     # mixed crypto etfs
-    'bete',
+    # 'bete', # too many false positives
     # 'beth', # too many false positives
     'bitq',
     'bits',
