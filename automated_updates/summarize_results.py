@@ -24,11 +24,17 @@ def combine_processed_data():
             # Remove rows with blank or null asset_name
             df = df[df['asset_name'].notna() & (df['asset_name'] != '')]
             
-            df['last_name'] = last_name
-            df['first_name'] = first_name
-            df['state'] = state
-            df['year'] = year
-            df['chamber'] = house_senate
+            # Check if dataframe is empty, and if so, add a row with asset_name as None
+            if df.empty:
+                df = pd.DataFrame({'asset_name': [None], 'last_name': [last_name], 
+                                'first_name': [first_name], 'state': [state], 
+                                'year': [year], 'chamber': [house_senate]})
+            else:
+                df['last_name'] = last_name
+                df['first_name'] = first_name
+                df['state'] = state
+                df['year'] = year
+                df['chamber'] = house_senate
 
             dataframes.append(df)
 
