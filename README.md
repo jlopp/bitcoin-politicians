@@ -64,9 +64,9 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Bost, Mike | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042894.pdf) |
 | Bowman, Jamaal | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042559.pdf) |
 | Boyle, Brendan | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043424.pdf) |
-| Mike Braun | R | IN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/61b143ed-2c78-46a4-854e-f81a39e46c91/) |
+| Braun, Mike | R | IN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/61b143ed-2c78-46a4-854e-f81a39e46c91/) |
 | Brecheen, Josh | R | OK | House | - | - |
-| Britt, Katie | R | AL | Senate | - | - |
+| Britt, Katie Boyd | R | AL | Senate | YES | [2023](https://efdsearch.senate.gov/search/view/annual/ae8aa928-7d29-4e74-aac7-c8c9211713c7/) | Block, Inc.
 | Brownley, Julia | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040992.pdf) |
 | Brown, Sherrod | D | OH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c6720404-335d-44a6-891e-907418229c82/) |
 | Brown, Shontel | D | OH | House | NO | - |
@@ -171,7 +171,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Estes, Ron | R | KS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042224.pdf) |
 | Evans, Dwight | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041532.pdf) | ARKX + gold trust + Paypal + Tesla + Western Union |
 | Ezell, Mike | R | MS | House | - | - |
-| Fallon, Patrick | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041193.pdf) |
+| Fallon, Patrick | R | TX | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060003.pdf) | $15K - $50K Block, Inc. |
 | Feenstra, Randy | R | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042773.pdf) |
 | Ferguson, Drew | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042138.pdf) |
 | Fetterman, John | D | PA | Senate | - | - |
@@ -204,14 +204,14 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Gimenez, Carlos | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042665.pdf) |
 | Gluesenkamp Perez | D | WA | House | - | - |
 | Golden, Jared | D | ME | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040169.pdf) |
-| Goldman, Dan | D | NY | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf) | COIN |
+| Goldman, Dan | D | NY | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf) | Block, Inc & Coinbase |
 | Gomez, Jimmy | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042896.pdf) |
 | Gonzales, Ernest | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041552.pdf) |
 | Gonzalez, Vicente | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218224.pdf) |
 | Gooden, Lance | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043120.pdf) |
 | Good, Robert | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041770.pdf) |
 | Gosar, Paul | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218236.pdf) |
-| Gottheimer, Josh | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041376.pdf) |
+| Gottheimer, Josh | D | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf) | Block, Inc |
 | Graham, Lindsey | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f0d05aaf-ea30-4e0e-b35b-368e14bb1935/) |
 | Granger, Kay | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039886.pdf) |
 | Grassley, Charles | R | IA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6dc791b1-c2ad-4c7a-82db-fe961d842977/) |
@@ -219,7 +219,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Graves, Sam | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041852.pdf) |
 | Green, Al | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041368.pdf) |
 | Green, Mark | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040812.pdf) | $50-100k gold, $15k-$50k silver |
-| Greene, Marjorie | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042733.pdf) |
+| Greene, Marjorie | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057355.pdf) | Son owns < $1K Block, Inc |
 | Griffith, Morgan | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041879.pdf) |
 | Grijalva, Raúl | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041464.pdf) | $2k-$30k gold trust |
 | Grothman, Glenn | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041686.pdf) |
@@ -255,7 +255,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Issa, Darrell | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040348.pdf) |
 | Ivey, Glenn | D | MD | House | - | - |
 | Jackson Lee, Sheila | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218265.pdf) |
-| Jackson, Jeffrey | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf) | Sold all Ankr, Cardano, Solana, Tether |
+| Jackson, Jeffrey | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf) | Sold all Ankr, Cardano, Solana, Tether in 2022 |
 | Jackson, Jonathan | D | IL | House | - | - |
 | Jackson, Ronny | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042367.pdf) |
 | Jacobs, Sara | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10035488.pdf) | $15-50k Gold Trust |
@@ -280,7 +280,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Kelly, Robin | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041893.pdf) |
 | Kelly, Trent | R | MS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041044.pdf) |
 | Kennedy, John | R | LA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/97aaf2cb-d457-426c-b5f4-c9a720283635/) |
-| Khanna, Ro | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218200.pdf) |
+| Khanna, Ro | D | CA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220593.pdf) | Block, Inc |
 | Kiggans, Jennifer | R | VA | House | - | - |
 | Kildee, Daniel | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040520.pdf) |
 | Kiley, Kevin | R | CA | House | - | - |
@@ -402,7 +402,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Pascrell, Bill | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040848.pdf) |
 | Paulina Luna, Anna | R | FL | House | - | - |
 | Paul, Rand | R | KY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ffc1c882-f932-4788-951b-d9fff5b658b1/) |
-| Pelosi, Nancy | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039988.pdf) |
+| Pelosi, Nancy | D | CA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059734.pdf) | $250K - $500K Block, Inc |
 | Peltola, Mary | D | AK | House | - | - |
 | Pence, Greg | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041818.pdf) |
 | Perry, Scott | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042142.pdf) |
@@ -518,8 +518,8 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Trone, David | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041946.pdf) |
 | Tuberville, Tommy | R | AL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/17abcf53-316c-4a5f-811e-40f13bdd442c/) |
 | Turner, Michael | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040183.pdf) |
-| Underwood, Lauren | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041518.pdf) |
-| Valadao, David | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042949.pdf) | No assets disclosed |
+| Underwood, Lauren | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058869.pdf) |
+| Valadao, David | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062640.pdf) | No assets disclosed |
 | Vance, J.D. | R | OH | Senate | YES | [2023](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | $100K-$250K BTC |
 | Van Drew, Jefferson | R | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) | $100K-$250K GBTC |
 | Van Duyne, Beth | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041645.pdf) |
