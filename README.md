@@ -97,7 +97,6 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Cartwright, Matthew | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040351.pdf) |
 | Casar, Gregorio | D | TX | House | - | - |
 | Case, Ed | D | HI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041773.pdf) |
-| Casey, Robert | D | PA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/bd15f5c2-35ed-4c96-9634-e1a0df41237b/) |
 | Cassidy, Bill | R | LA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/50e02aba-3d11-42d9-b0fd-153fd1b21a8c/) |
 | Casten, Sean | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041677.pdf) |
 | Castor, Kathy | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041644.pdf) |
@@ -341,6 +340,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | McClintock, Tom | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043558.pdf) |
 | McCollum, Betty | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042035.pdf) |
 | McConnell, Mitch | R | KY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/2bb9f12b-c87c-44ce-a024-89a9a0e890c9/) |
+| McCormick, David | R | PA | Senate | YES | (2025)[https://efdsearch.senate.gov/search/view/ptr/87e8ffc9-b032-4706-a4d1-8769a6eca634/] | $50K - $100K BITB |
 | McCormick, Rich | R | GA | House | - | - |
 | McGarvey, Morgan | D | KY | House | - | - |
 | McGovern, James | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042557.pdf) |
