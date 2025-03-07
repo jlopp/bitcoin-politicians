@@ -1,10 +1,15 @@
-Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the crypto industry.
+Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the crypto industry.  
 
-## Automated updating
+## Automated updates
 Workflow to automatically pull all relevant source data and extract asset names from it is available in the `automated_updates` folder. See [Automated Updates README.md](https://github.com/jlopp/bitcoin-politicians/blob/master/automated_updates/Automated%20Updates%20README.md)
 
 ## Contributing
-NOTE: this repository will almost always be out of date because financial disclosures get posted on an unpredictable and sporadic basis.
+Almost all Annual Finanical Disclosure Reports are filed in the weeks prior to:
+- May 15: The finanical disclosures deadline
+- August 13: The finanical disclosures deadline plus the allowed deadline extension period (90 days)
+
+Periodic Transaction Reports are also filed throughout the year, but the automated updates process (mentioned above) does not yet analyze them. As a result, the repo will be up to date within 1 year at most.  
+
 If you're aware of a discrepancy, contributions to this project are welcome by [editing the README.md file](https://github.com/jlopp/bitcoin-politicians/edit/master/README.md).
 
 You can find financial disclosures here:
@@ -115,7 +120,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Clyde, Andrew | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039523.pdf) |
 | Cohen, Steve | D | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040832.pdf) | $50-100k gold bullion |
 | Cole, Tom | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040523.pdf) |
-| Collins, Mike | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060539.pdf) | ETH |
+| Collins, Mike | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060539.pdf) | ETH, Ski Mask Dog, Velodrome, Aerodrome, The Graph |
 | Collins, Susan | R | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1c630118-72c7-4281-8bc7-8ab3648070af/) |
 | Comer, James | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041987.pdf) |
 | Connolly, Gerald | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041690.pdf) |
@@ -218,7 +223,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Graves, Sam | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041852.pdf) |
 | Green, Al | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041368.pdf) |
 | Green, Mark | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040812.pdf) | $50-100k gold, $15k-$50k silver |
-| Greene, Marjorie | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057355.pdf) | Son owns < $1K Block, Inc |
+| Greene, Marjorie | R | GA | House | YES | [2025](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026658.pdf) | IBIT iShares Bitcoin ETF, Son owns < $1K Block, Inc |
 | Griffith, Morgan | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041879.pdf) |
 | Grijalva, Raúl | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041464.pdf) | $2k-$30k gold trust |
 | Grothman, Glenn | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041686.pdf) |
@@ -520,7 +525,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Turner, Michael | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040183.pdf) |
 | Underwood, Lauren | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058869.pdf) |
 | Valadao, David | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062640.pdf) | No assets disclosed |
-| Vance, J.D. | R | OH | Senate | YES | [2023](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | $100K-$250K BTC |
+| Vance, J.D. | R | - | Vice President | YES | [2023](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | $100K-$250K BTC |
 | Van Drew, Jefferson | R | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) | $100K-$250K GBTC |
 | Van Duyne, Beth | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041645.pdf) |
 | Van Hollen, Chris | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/cd3c4664-9884-4b80-bed1-f14620a0f77c/) |
@@ -558,3 +563,10 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Yakym, Rudy | R | IN | House | - | - |
 | Young, Todd | R | IN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/33d9f6e1-0cc6-41d8-acb6-619685ddde54/) |
 | Zinke, Ryan | R | MT | House | - | - |
+
+
+Known Differences between the main README and the automatically generated one:
+- David McCormick (PA Senate): owns BITB via Periodic Transaction Report, not yet disclosed in yearly report
+- Cynthia Lummis (WY Senate): does not have bitcoin disclosures in her latest filings, but has known Bitcoin holdings under a blind trust
+- Mike Collins (GA House): owns Ski Mask Dog, Velodrome, Aerodrome, The Graph in addition to disclosed ETH via Periodic Transaction Report, not yet disclosed in yearly report
+- Marjorie Greene (GA House): owns IBIT via Periodic Transaction Report, not yet disclosed in yearly report
