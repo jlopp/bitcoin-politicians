@@ -223,7 +223,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Graves, Sam | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041852.pdf) |
 | Green, Al | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041368.pdf) |
 | Green, Mark | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040812.pdf) | $50-100k gold, $15k-$50k silver |
-| Greene, Marjorie | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057355.pdf) | Son owns < $1K Block, Inc |
+| Greene, Marjorie | R | GA | House | YES | [2025](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026658.pdf) | IBIT iShares Bitcoin ETF, Son owns < $1K Block, Inc |
 | Griffith, Morgan | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041879.pdf) |
 | Grijalva, Raúl | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041464.pdf) | $2k-$30k gold trust |
 | Grothman, Glenn | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041686.pdf) |
@@ -569,3 +569,4 @@ Known Differences between the main README and the automatically generated one:
 - David McCormick (PA Senate): owns BITB via Periodic Transaction Report, not yet disclosed in yearly report
 - Cynthia Lummis (WY Senate): does not have bitcoin disclosures in her latest filings, but has known Bitcoin holdings under a blind trust
 - Mike Collins (GA House): owns Ski Mask Dog, Velodrome, Aerodrome, The Graph in addition to disclosed ETH via Periodic Transaction Report, not yet disclosed in yearly report
+- Marjorie Greene (GA House): owns IBIT via Periodic Transaction Report, not yet disclosed in yearly report
