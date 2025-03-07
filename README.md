@@ -1,5 +1,3 @@
-A fork of jlopp's [bitcoin-politicians](https://github.com/jlopp/bitcoin-politicians) project.
-
 Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the crypto industry.
 
 ## Automated updating
@@ -15,7 +13,7 @@ You can find financial disclosures here:
 
 Sort by date and open their most recent year's annual report, to which you should link on this page.
 
-## Bitcoin Holdings of US Congress Members
+# Bitcoin Holdings of US Congress Members
 
 NOTE: If you open a link to a Senator's disclosure, you need to paste the URL into a browser tab that has already accepted their site's Terms of Service.
 
