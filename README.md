@@ -345,7 +345,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | McClintock, Tom | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043558.pdf) |
 | McCollum, Betty | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042035.pdf) |
 | McConnell, Mitch | R | KY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/2bb9f12b-c87c-44ce-a024-89a9a0e890c9/) |
-| McCormick, David | R | PA | Senate | YES | (2025)[https://efdsearch.senate.gov/search/view/ptr/87e8ffc9-b032-4706-a4d1-8769a6eca634/] | $50K - $100K BITB |
+| McCormick, David | R | PA | Senate | YES | [2025](https://efdsearch.senate.gov/search/view/ptr/87e8ffc9-b032-4706-a4d1-8769a6eca634/) | $50K - $100K BITB |
 | McCormick, Rich | R | GA | House | - | - |
 | McGarvey, Morgan | D | KY | House | - | - |
 | McGovern, James | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042557.pdf) |
