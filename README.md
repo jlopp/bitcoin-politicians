@@ -1,6 +1,6 @@
 Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the crypto industry.  
 
-Almost all annual finanical disclosure reports are filed in the weeks prior to:
+Almost all Annual Finanical Disclosure Reports are filed in the weeks prior to:
 - May 15: The finanical disclosures deadline
 - August 13: The finanical disclosures deadline plus the allowed deadline extension period (90 days)
 
