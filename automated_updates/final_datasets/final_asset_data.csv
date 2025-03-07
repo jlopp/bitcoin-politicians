@@ -6572,6 +6572,11 @@ Synovus Financial Corp. (SNV),Steube,W. Gregory,FL,2023,house
 USAA,Steube,W. Gregory,FL,2023,house
 STOCK PLAN,Steube,W. Gregory,FL,2023,house
 Synovus Financial Corp. (SNV) [ST],Steube,W. Gregory,FL,2023,house
+Blind Trust,Johnson,Julie,TX,2021,house
+Legislative Pension State of Texas,Johnson,Julie,TX,2021,house
+U.S Savings Bond,Johnson,Julie,TX,2021,house
+Blind Trust,Johnson,Julie,TX,2021,house
+Legislative Pension/State of Texas,Johnson,Julie,TX,2021,house
 Maryland Retirement and Pension System,Cherfilus-McCormick,Sheila,FL,2023,house
 McCormick Law Firm LLC,Cherfilus-McCormick,Sheila,FL,2023,house
 State Farm Universal Life,Cherfilus-McCormick,Sheila,FL,2023,house
@@ -24910,7 +24915,7 @@ Fidelity Cash Reserves,Franklin,C. Scott,FL,2023,house
 "Home Depot, Inc. (HD)",Franklin,C. Scott,FL,2023,house
 Johnson & Johnson Common Stock (JNJ),Franklin,C. Scott,FL,2023,house
 JP Morgan Chase & Co. Common Stock (JPM),Franklin,C. Scott,FL,2023,house
-Kenvue Inc. Common Stock (KVUE),Franklin,C. Scott,FL,2023,house
+Kenview Inc. Common Stock (KVUE),Franklin,C. Scott,FL,2023,house
 McDonald's Corporation Common Stock (MCD),Franklin,C. Scott,FL,2023,house
 "Merck & Company, Inc. Common Stock (MRK)",Franklin,C. Scott,FL,2023,house
 Microsoft Corporation - Common Stock (MSFT),Franklin,C. Scott,FL,2023,house
@@ -24947,18 +24952,19 @@ Lord Abbett Short Duration High Yield Fund Class I (LSYIX),Franklin,C. Scott,FL,
 Lord Abbett Ultra Short Bond Fund - Class I (LUBYX),Franklin,C. Scott,FL,2023,house
 Lord Abbett Ultra Short Bond Fund - Class I (LUBYX),Franklin,C. Scott,FL,2023,house
 McDonald's Corporation Common Stock (MCD),Franklin,C. Scott,FL,2023,house
-"Merck & Company, Inc. Common Stock (MRK)",Franklin,C. Scott,FL,2023,house
-Microsoft Corporation - Common Stock (MSFT),Franklin,C. Scott,FL,2023,house
-"NextEra Energy, Inc. Common Stock (NEE)",Franklin,C. Scott,FL,2023,house
-"PepsiCo, Inc. - Common Stock (PEP)",Franklin,C. Scott,FL,2023,house
-"Pfizer, Inc. Common Stock (PFE)",Franklin,C. Scott,FL,2023,house
-Procter & Gamble Company (PG),Franklin,C. Scott,FL,2023,house
-Starbucks Corporation - Common Stock (SBUX),Franklin,C. Scott,FL,2023,house
-"United Parcel Service, Inc. Common Stock (UPS)",Franklin,C. Scott,FL,2023,house
-UnitedHealth Group Incorporated Common Stock (UNH),Franklin,C. Scott,FL,2023,house
-Visa Inc. (V),Franklin,C. Scott,FL,2023,house
-Walmart Inc. Common Stock (WMT),Franklin,C. Scott,FL,2023,house
-Apple Inc. - Common Stock (AAPL),Franklin,C. Scott,FL,2023,house
+MRK,Franklin,C. Scott,FL,2023,house
+MSFT,Franklin,C. Scott,FL,2023,house
+NEE,Franklin,C. Scott,FL,2023,house
+PEP,Franklin,C. Scott,FL,2023,house
+PFE,Franklin,C. Scott,FL,2023,house
+PG,Franklin,C. Scott,FL,2023,house
+SBUX,Franklin,C. Scott,FL,2023,house
+UPS,Franklin,C. Scott,FL,2023,house
+UNH,Franklin,C. Scott,FL,2023,house
+V,Franklin,C. Scott,FL,2023,house
+WMT,Franklin,C. Scott,FL,2023,house
+AAPL,Franklin,C. Scott,FL,2023,house
+BRK.B,Franklin,C. Scott,FL,2023,house
 "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",Franklin,C. Scott,FL,2023,house
 Comcast Corporation - Class A Common Stock (CMCSA) [ST],Franklin,C. Scott,FL,2023,house
 Costco Wholesale Corporation - Common Stock (COST) [ST],Franklin,C. Scott,FL,2023,house
@@ -24997,23 +25003,24 @@ Berkshire Hathaway Inc. New (BRK.B),Franklin,C. Scott,FL,2023,house
 Comcast Corporation - Class A (CMCSA),Franklin,C. Scott,FL,2023,house
 Discover Financial Services (DFS),Franklin,C. Scott,FL,2023,house
 Fidelity Mid-Cap Stock Fund (FMCSX),Franklin,C. Scott,FL,2023,house
-Fidelity Money Market Fund - Premium Class (FZDXX),Franklin,C. Scott,FL,2023,house
+Fidelity Money Market Fund - Premium Class (FZXX),Franklin,C. Scott,FL,2023,house
 "Home Depot, Inc. (HD)",Franklin,C. Scott,FL,2023,house
 "Invesco QQQ Trust, Series 1 (QQQ)",Franklin,C. Scott,FL,2023,house
 "Invesco QQQ Trust, Series 1 (QQQ)",Franklin,C. Scott,FL,2023,house
 "Invesco QQQ Trust, Series 1 (QQQ)",Franklin,C. Scott,FL,2023,house
-iShares Core S&P Small-Cap ETF (IJR),Franklin,C. Scott,FL,2023,house
-iShares Core S&P Small-Cap ETF (IJR),Franklin,C. Scott,FL,2023,house
-iShares Core S&P Small-Cap ETF (IJR),Franklin,C. Scott,FL,2023,house
-Johnson & Johnson (JNJ),Franklin,C. Scott,FL,2023,house
-JP Morgan Chase & Co. (JPM),Franklin,C. Scott,FL,2023,house
-McDonald's Corporation (MCD),Franklin,C. Scott,FL,2023,house
-Medtronic plc. Ordinary Shares (MDT),Franklin,C. Scott,FL,2023,house
-"Merck & Company, Inc. Common Stock (MRK)",Franklin,C. Scott,FL,2023,house
-Microsoft Corporation (MSFT),Franklin,C. Scott,FL,2023,house
-Microsoft Corporation (MSFT),Franklin,C. Scott,FL,2023,house
-"NextEra Energy, Inc. (NEE)",Franklin,C. Scott,FL,2023,house
-"NextEra Energy, Inc. (NEE)",Franklin,C. Scott,FL,2023,house
+iShares Core S&P Small-Cap ETF (IJR) [ST],Franklin,C. Scott,FL,2023,house
+iShares Core S&P Small-Cap ETF (IJR) [ST],Franklin,C. Scott,FL,2023,house
+iShares Core S&P Small-Cap ETF (IJR) [ST],Franklin,C. Scott,FL,2023,house
+Johnson & Johnson (JNJ) [ST],Franklin,C. Scott,FL,2023,house
+JP Morgan Chase & Co. (JPM) [ST],Franklin,C. Scott,FL,2023,house
+McDonald's Corporation (MCD) [ST],Franklin,C. Scott,FL,2023,house
+Medtronic plc. Ordinary Shares (MDT) [ST],Franklin,C. Scott,FL,2023,house
+"Merck & Company, Inc. Common Stock (MRK) [ST]",Franklin,C. Scott,FL,2023,house
+Microsoft Corporation (MSFT) [ST],Franklin,C. Scott,FL,2023,house
+Microsoft Corporation (MSFT) [ST],Franklin,C. Scott,FL,2023,house
+"NextEra Energy, Inc. (NEE) [ST]",Franklin,C. Scott,FL,2023,house
+"NextEra Energy, Inc. (NEE) [ST]",Franklin,C. Scott,FL,2023,house
+"NextEra Energy, Inc. (NEE) [ST]",Franklin,C. Scott,FL,2023,house
 "Pepsico, Inc. (PEP)",Franklin,C. Scott,FL,2023,house
 "Pfizer, Inc. (PFE)",Franklin,C. Scott,FL,2023,house
 "PNC Financial Services Group, Inc. (PNC)",Franklin,C. Scott,FL,2023,house
@@ -25028,20 +25035,19 @@ Walmart Inc. (WMT),Franklin,C. Scott,FL,2023,house
 Comcast Corporation - Class A (CMCSA),Franklin,C. Scott,FL,2023,house
 Costco Wholesale Corporation (COST),Franklin,C. Scott,FL,2023,house
 FCNTX,Franklin,C. Scott,FL,2023,house
-FFRHHX,Franklin,C. Scott,FL,2023,house
+FFRHX,Franklin,C. Scott,FL,2023,house
 Fidelity Quality Factor ETF (FQAL),Franklin,C. Scott,FL,2023,house
 FSKAX,Franklin,C. Scott,FL,2023,house
 iShares Core S&P 500 ETF (IVV),Franklin,C. Scott,FL,2023,house
-LSYLX,Franklin,C. Scott,FL,2023,house
+LSYK,Franklin,C. Scott,FL,2023,house
 LUBYX,Franklin,C. Scott,FL,2023,house
 Comcast Corporation - Class A (CMCSA),Franklin,C. Scott,FL,2023,house
 Costco Wholesale Corporation (COST) [ST],Franklin,C. Scott,FL,2023,house
 FSKAX [OT],Franklin,C. Scott,FL,2023,house
-LSIIX [OT],Franklin,C. Scott,FL,2023,house
+LSYIX [OT],Franklin,C. Scott,FL,2023,house
 "BRP Colleague, Inc. 401(k)",Franklin,C. Scott,FL,2023,house
 Fidelity Joint TBE (Owner: JT),Franklin,C. Scott,FL,2023,house
 Fidelity Roth IRA (Owner: SP),Franklin,C. Scott,FL,2023,house
-Fidelity Roth IRA,Franklin,C. Scott,FL,2023,house
 Fidelity Traditional IRA,Franklin,C. Scott,FL,2023,house
 ,Gonzalez-Colon,Jenniffer,PR,2023,house
 Cabrillo Credit Union Accounts,Vargas,Juan,CA,2023,house
