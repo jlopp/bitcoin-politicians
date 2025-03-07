@@ -1,6 +1,12 @@
-Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the crypto industry.
+Based upon public financial disclosures, we can know which politicians in Congress actually have skin in the crypto industry.  
 
-## Automated updating
+Almost all annual finanical disclosure reports are filed in the weeks prior to:
+- May 15: The finanical disclosures deadline
+- August 13: The finanical disclosures deadline plus the allowed deadline extension period (90 days)
+
+Periodic Transaction Reports are also filed throughout the year, but the automated updates process (mentioned below) does not yet analyze them. As a result, the repo will be up to date within 1 year at most.
+
+## Automated updates
 Workflow to automatically pull all relevant source data and extract asset names from it is available in the `automated_updates` folder. See [Automated Updates README.md](https://github.com/jlopp/bitcoin-politicians/blob/master/automated_updates/Automated%20Updates%20README.md)
 
 ## Contributing
