@@ -4,7 +4,6 @@ Based upon public financial disclosures, we can know which politicians in Congre
 Workflow to automatically pull all relevant source data and extract asset names from it is available in the `automated_updates` folder. See [Automated Updates README.md](https://github.com/jlopp/bitcoin-politicians/blob/master/automated_updates/Automated%20Updates%20README.md)
 
 ## Contributing
-NOTE: this repository will almost always be out of date because financial disclosures get posted on an unpredictable and sporadic basis.
 If you're aware of a discrepancy, contributions to this project are welcome by [editing the README.md file](https://github.com/jlopp/bitcoin-politicians/edit/master/README.md).
 
 You can find financial disclosures here:
