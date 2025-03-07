@@ -91,7 +91,7 @@ def get_current_congress_number():
 # take and modified from user dreslan at https://github.com/jlopp/bitcoin-politicians/issues/36
 def get_congress_members(limit=250, ignore_cache=True, test_set=False):
     congress = get_current_congress_number() # get congress number to match biennial Jan 3 cycle
-    
+
     # hitting the api takes a few seconds. nice to have this cached for faster development, not necessary for user
     if not ignore_cache:
         cache_file = f'./cache/congress_{congress}_members.pkl'
@@ -101,7 +101,7 @@ def get_congress_members(limit=250, ignore_cache=True, test_set=False):
                 print("congress members loaded from cache.")
                 return members
     
-    print('getting congress members from api.congress.gov...')
+    print(f'Getting Congress {congress} from api.congress.gov...')
     api_key = get_congress_gov_api_key()
     base_url = f"https://api.congress.gov/v3/member/congress/{congress}"
     members = []
