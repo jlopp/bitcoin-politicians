@@ -48,6 +48,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Barr, Garland | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042218.pdf) | $1-15k Gold Trust |
 | Bean, Aaron | R | FL | House | - | - |
 | Beatty, Joyce | D | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043705.pdf) |
+| Begich, Nicholas | R | AK | House | YES | [2024](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10058876.pdf) |
 | Bennet, Michael | D | CO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/39baf99f-a698-44c5-a764-0eb6490253b2/) |
 | Bentz, Cliff | R | OR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041270.pdf) |
 | Bera, Ami | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041885.pdf) |
