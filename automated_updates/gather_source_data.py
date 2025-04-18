@@ -24,7 +24,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--test-set', action='store_true', help='Use small dataset with 5 congress members for testing.')
 args = parser.parse_args()
 
-def retry_with_delay(func, *args, retries=3, delay=60, **kwargs):
+def retry_with_delay(func, *args, retries=2, delay=60, **kwargs):
     for attempt in range(retries):
         try:
             success = func(*args, **kwargs)
