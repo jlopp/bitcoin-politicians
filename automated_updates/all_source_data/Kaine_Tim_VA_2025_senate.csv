@@ -1,0 +1,38 @@
+1,IRA Managed by Morgan Stanley,Retirement PlansIRA,Spouse,,,
+1.1,SGENX - First Eagle Global A (NASDAQ),Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+1.2,"Morgan Stanley Bank, N.A.(New York, NY)Type: Money Market Account,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+2,Morgan Stanley Consultant Advisor Account,Brokerage/Managed Account,Joint,,,
+2.1,"Morgan Stanley - MSPBNA Savings(Rochester, NY)Type: Savings,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,","$1,001 - $2,500"
+2.2,"Morgan Stanley, N.A.(New York, NY)Type: Money Market Account,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+3,"Wells Fargo(Richmond, VA)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+4,IRA managed by Morgan Stanley,Retirement PlansIRA,Self,,,
+4.1,VWINX - Vanguard Wellesley Income Inv (NASDAQ),Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+4.2,QQQ - Invesco QQQ Trust,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+4.3,SDY - SPDR S&P Dividend ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+4.4,PFBPX - PIMCO Foreign Bond (USD-Hedged) P,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+4.5,PONPX - PIMCO Income Fund Class I-2,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+4.6,PRHSX - T. Rowe Price Health Sciences Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+4.7,PXSGX - Virtus KAR Small-Cap Growth Fund Class I,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+4.8,"Morgan Stanley(New York, NY)Type: IRA Cash Accounts,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+4.9,VO - Vanguard Mid-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+4.10,SGIIX - First Eagle Global Fund Class I,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+5,Virginia Retirement System,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000","None,",None (or less than $201)
+6,Virginia Retirement System,Retirement PlansDefined Benefit Pension Plan,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+7,Commonwealth of Virginia 457 Deferred Compensation Plan,Deferred CompensationDeferred Compensation - Other,Spouse,,,
+7.1,Target Date 2030 Portfolio,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+8,Commonwealth of Virginia Cash Match Plan- 401(a),Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+8.1,Target Date 2030 Portfolio,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9,Virginia 403(b),Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+9.1,FSNPX - Fidelity Freedom 2025 Fund Class K,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+10,TIAA - George Mason University Deferred Compensation Plan,Deferred CompensationDeferred Compensation - Other,Spouse,,,
+10.1,T-C Lifecycle 2020-Inst,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+11,Morgan Stanley Brokerage Account,Brokerage/Managed Account,Joint,,,
+11.1,"Morgan Stanley, N.A.(New York, NY)Type: Money Market Account,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+11.2,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$201 - $1,000"
+11.3,VO - Vanguard Mid-Cap ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+11.4,SGIIX - First Eagle Global Fund Class I,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+11.5,HBLIX - Hartford Balanced Income Fund Class I,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+11.6,PONPX - Pimco Income Fund Class I-2,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"
+11.7,PRHSX - T. Rowe Price Health Sciences Fund Inc.,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+11.8,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$1,001 - $2,500"
+11.9,TSIIX - Thornburg Strategic Income Fund Class I Shs,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,","$201 - $1,000"

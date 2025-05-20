@@ -1,0 +1,32 @@
+1,"USSFCU(Washington, DC)Type: Checking,",Bank Deposit,Joint,"$15,001 - $50,000","Dividends,",None (or less than $201)
+2,"USSFCU(Washington, DC)Type: Savings,",Bank Deposit,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+3,"USSFCU(Washington, DC)Type: Certificate of Deposit,",Bank Deposit,Joint,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+4,"USSFCU(Washington, DC)Type: Money Market Account,",Bank Deposit,Joint,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+5,"USSFCU(Washington, DC)Type: Certificate of Deposit,",Bank Deposit,Joint,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+6,"USSFCU(Washington, DC)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7,"Whidbey Island Bank(Freeland, WA)Type: Checking,",Bank Deposit,Joint,"$50,001 - $100,000","Interest,",None (or less than $201)
+8,"Whidbey Island Bank(Freeland, WA)Type: Savings,",Bank Deposit,Joint,"$50,001 - $100,000","Interest,",None (or less than $201)
+9,"Fidelity(Seattle, WA)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,","$201 - $1,000"
+10,Spouse IRA,Retirement PlansIRA,Spouse,,,
+10.1,PQIAX - Principal Equity Income A (NASDAQ),Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+11,Self IRA,Retirement PlansIRA,Self,,,
+11.1,PQIAX - Principal Equity Income A (NASDAQ),Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+12,Spouse IRA,Retirement PlansIRA,Spouse,,,
+12.1,VPMCX - Vanguard PRIMECAP Inv (NASDAQ),Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+12.2,VGENX - Vanguard Energy Inv (NASDAQ),Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+12.3,VWUSX - Vanguard U.S. Growth Fund Investor Shares,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+13,Variable AnnuityProvider: Fidelity,AnnuityVariable Annuity,Spouse,,,
+13.1,FAVAM,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+14,Spouse IRA,Retirement PlansIRA,Spouse,,,
+14.1,FFTHX - Fidelity Freedom 2035,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+14.2,FFXSX - Fidelity Limited Term Government,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+14.3,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+14.4,FDRXX-Fidelity Cash Reserves,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+14.5,FFFEX - Fidelity Freedom 2030,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+14.6,FMAGX - Fidelity Magellan,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+14.7,FBALX - Fidelity Balanced,Mutual FundsMutual Fund,Spouse,"$500,001 - $1,000,000","Excepted Investment Fund,",None (or less than $201)
+14.8,FGRIX - Fidelity Growth & Income,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+14.9,FFFFX - Fidelity Freedom 2040 Fund,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+15,Western & Southern Life Assurance Co. Individual Retirement AnnuityProvider: Western & Southern,AnnuityFixed,Spouse,"$100,001 - $250,000","Interest,",None (or less than $201)
+16,"Guardian Fixed Target AnnuityProvider: The Guardian Insurance and Annuity Company, Inc.",AnnuityFixed,Spouse,"$100,001 - $250,000","Interest,",None (or less than $201)
+17,State of Washington Retirement Plan PERS1,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000","Interest,",None (or less than $201)
