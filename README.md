@@ -23,547 +23,548 @@ Sort by date and open their most recent year's annual report, to which you shoul
 
 NOTE: If you open a link to a Senator's disclosure, you need to paste the URL into a browser tab that has already accepted their site's Terms of Service.
 
-| Name | Party | State  | House | Owner | Disclosure | Notes |
-|------|:-----:|:------:|-------|:-------------:|:----------:|-------|
-| Adams, Alma | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043648.pdf) |
-| Aderholt, Robert | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042695.pdf) |
-| Aguilar, Pete | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042324.pdf) |
-| Alford, Mark | R | MO | House | - | - |
-| Allen, Rick | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041000.pdf) |
-| Allred, Colin | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042542.pdf) |
-| Amodei, Mark | R | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041484.pdf) |
-| Arenholz, Ashley Hinson | R | IA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057096.pdf) | $1K-$15K GBTC, $1K-$15K BITO |
-| Armstrong, Kelly | R | ND | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042511.pdf) |
-| Arrington, Jodey | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042183.pdf) |
-| Auchincloss, Jake | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040680.pdf) |
-| Babin, Brian | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043193.pdf) |
-| Bacon, Don | R | NE | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041547.pdf) |
-| Baird, James | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042980.pdf) |
-| Balderson, Troy | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042269.pdf) |
-| Baldwin, Tammy | D | WI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/94bbc60f-debe-4696-a27e-4e39f51a6fd9/) |
-| Balint, Becca | D | VT | House | - | - |
-| Jim Banks | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040942.pdf) |
-| Barragán, Nanette | D | CA | House | - | - |
-| Barrasso, John | R | WY | Senate | - | - |
-| Barr, Garland | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042218.pdf) | $1-15k Gold Trust |
-| Bean, Aaron | R | FL | House | - | - |
-| Beatty, Joyce | D | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043705.pdf) |
-| Begich, Nicholas | R | AK | House | YES | [2024](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10058876.pdf) | $250K-$500K XRP, BCH, XLM, LTC, EOS, BTC |
-| Bennet, Michael | D | CO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/39baf99f-a698-44c5-a764-0eb6490253b2/) |
-| Bentz, Cliff | R | OR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041270.pdf) |
-| Bera, Ami | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041885.pdf) |
-| Bergman, Jack | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041937.pdf) |
-| Beyer, Donald | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040483.pdf) |
-| Bice, Stephanie | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042939.pdf) |
-| Biggs, Andy | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041364.pdf) |
-| Bilirakis, Gus | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218227.pdf) |
-| Bishop, Dan | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040056.pdf) |
-| Bishop, Sanford | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041468.pdf) |
-| Blackburn, Marsha | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d2c71251-566c-42a4-bdd3-3eb29450d6d4/) |
-| Blumenauer, Earl | D | OR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039957.pdf) |
-| Blumenthal, Richard | D | CT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/3740ce3d-a430-41d6-9220-350437e1b83b/) | $1M+ gold bullion |
-| Blunt Rochester, Lisa | D | DE | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041776.pdf) | sold all Gold Trust |
-| Boebert, Lauren | R | CO | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061648.pdf) | COIN |
-| Bonamici, Suzanne | D | OR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040877.pdf) | $100-250k gold coins |
-| Booker, Cory | D | NJ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/59bcec20-4be8-4b97-b453-5a867a1ae5e6/) |
-| Boozman, John | R | AR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/a5045417-d7d0-4af1-b5f8-278d65999874/) |
-| Bost, Mike | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042894.pdf) |
-| Bowman, Jamaal | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042559.pdf) |
-| Boyle, Brendan | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043424.pdf) |
-| Braun, Mike | R | IN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/61b143ed-2c78-46a4-854e-f81a39e46c91/) |
-| Brecheen, Josh | R | OK | House | - | - |
-| Britt, Katie Boyd | R | AL | Senate | YES | [2023](https://efdsearch.senate.gov/search/view/annual/ae8aa928-7d29-4e74-aac7-c8c9211713c7/) | Block, Inc.
-| Brownley, Julia | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040992.pdf) |
-| Brown, Sherrod | D | OH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c6720404-335d-44a6-891e-907418229c82/) |
-| Brown, Shontel | D | OH | House | NO | - |
-| Buchanan, Vern | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040027.pdf) |
-| Buck, Ken | R | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041697.pdf) | $1-15k Gold Trust |
-| Bucshon, Larry | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040126.pdf) |
-| Budd, Ted | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041365.pdf) |
-| Budzinski, Nicole | D | IL | House | - | - |
-| Burchett, Tim | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042355.pdf) |
-| Burgess, Michael | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041710.pdf) |
-| Burlison, Eric | R | MO | House | - | - |
-| Bush, Cori | D | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10038713.pdf) |
-| Calvert, Ken | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041608.pdf) |
-| Cammack, Katherine | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042416.pdf) |
-| Cantwell, Maria | D | WA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/39c11a93-d37f-4915-9c53-d841b06e9eba/) |
-| Capito, Shelley | R | WV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/487f490c-9e41-4fbe-9644-97ee4d23f7a8/) |
-| Caraveo, Yadira | D | CO | House | - | - |
-| Carbajal, Salud | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041883.pdf) |
-| Cárdenas, Tony | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042487.pdf) |
-| Cardin, Benjamin | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b5cc6c13-c3e1-42fa-8922-a76e541f6443/) |
-| Carey, Mike | R | OH | House | - | - |
-| Carl, Jerry | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042177.pdf) |
-| Carper, Thomas | D | DE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/78019695-788e-4b10-8612-73022fb76e51/) |
-| Carson, André | D | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043600.pdf) |
-| Carter, Earl | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040367.pdf) |
-| Carter, John | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040673.pdf) |
-| Carter, Troy | D | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8217941.pdf) |
-| Cartwright, Matthew | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040351.pdf) |
-| Casar, Gregorio | D | TX | House | - | - |
-| Case, Ed | D | HI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041773.pdf) |
-| Cassidy, Bill | R | LA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/50e02aba-3d11-42d9-b0fd-153fd1b21a8c/) |
-| Casten, Sean | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041677.pdf) |
-| Castor, Kathy | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041644.pdf) |
-| Castro, Joaquin | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218257.pdf) |
-| Chavez-DeRemer, Lori | R | OR | House | - | - |
-| Cherfilus-McCormick, Sheila | D | FL | House | - | - |
-| Chu, Judy | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040998.pdf) |
-| Cicilline, David | D | RI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043573.pdf) |
-| Ciscomani, Juan | R | AZ | House | - | - |
-| Clarke, Yvette | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043438.pdf) |
-| Clark, Katherine | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041383.pdf) |
-| Cleaver, Emanuel | D | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042874.pdf) |
-| Cline, Ben | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042173.pdf) |
-| Cloud, Michael | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042165.pdf) | $1-15k precious metals |
-| Clyburn, James | D | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042686.pdf) |
-| Clyde, Andrew | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039523.pdf) |
-| Cohen, Steve | D | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040832.pdf) | $50-100k gold bullion |
-| Cole, Tom | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040523.pdf) |
-| Collins, Mike | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060539.pdf) | ETH, Ski Mask Dog, Velodrome, Aerodrome, The Graph |
-| Collins, Susan | R | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1c630118-72c7-4281-8bc7-8ab3648070af/) |
-| Comer, James | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041987.pdf) |
-| Connolly, Gerald | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041690.pdf) |
-| Coons, Christopher | D | DE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/2637ee01-8f91-42f6-8afd-30b150f7da44/) |
-| Cornyn, John | R | TX | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1fc197cb-c7c7-4d4f-893d-18b5fdf57047/) |
-| Correa, Luis | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042331.pdf) |
-| Cortez Masto, Catherine | D | NV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1ca8ebc3-07e5-4fe3-855a-246dc3725e11/) |
-| Costa, Jim | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043002.pdf) |
-| Cotton, Tom | R | AR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/def41c9c-c01f-45c1-b29b-8ef91ec8fae3/) |
-| Courtney, Joe | D | CT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041890.pdf) |
-| Craig, Angie | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218258.pdf) |
-| Cramer, Kevin | R | ND | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/54d9ef7b-8ce3-4301-af5d-f67922f1dfea/) |
-| Crane, Eli | R | AZ | House | - | - |
-| Crapo, Michael | R | ID | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7842db15-848b-4e41-8205-8711c26927f1/) |
-| Crawford, Eric | R | AR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040737.pdf) |
-| Crenshaw, Dan | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043447.pdf) |
-| Crockett, Jasmine | D | TX | House | - | - |
-| Crow, Jason | D | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042217.pdf) |
-| Cruz, Ted | R | TX | Senate | YES | [2023](https://efdsearch.senate.gov/search/view/annual/9675a1d6-d0cc-48bb-b0ee-fb1b99c3de0d/) | $50-$100K BTC |
-| Cuellar, Henry | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040870.pdf) |
-| Curtis, John | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040200.pdf) |
-| Daines, Steve | R | MT | Senate | NO | [2023](https://efdsearch.senate.gov/search/view/annual/d2075cc1-1cdb-4caf-83d2-34841ab7f3ab/) | Sold all BITO, BITQ, BLOK, BTF, XBTF shares |
-| Davidson, Warren | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040160.pdf) |
-| Davids, Sharice | D | KS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041881.pdf) |
-| Davis, Danny | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043042.pdf) |
-| Davis, Donald | D | NC | House | - | - |
-| Dean, Madeleine | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042485.pdf) |
-| DeGette, Diana | D | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041180.pdf) |
-| De La Cruz, Mónica | R | TX | House | - | - |
-| DeLauro, Rosa | D | CT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041868.pdf) |
-| DelBene, Suzan | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040425.pdf) |
-| Deluzio, Chris | D | PA | House | - | - |
-| DeSaulnier, Mark | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041145.pdf) |
-| DesJarlais, Scott | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042786.pdf) |
-| D'Esposito, Anthony | R | NY | House | - | - |
-| Diaz-Balart, Mario | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041906.pdf) |
-| Dingell, Debbie | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039877.pdf) |
-| Doggett, Lloyd | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040231.pdf) |
-| Donalds, Byron | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043295.pdf) |
-| Duarte, John | R | CA | House | - | - |
-| Duckworth, Tammy | D | IL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/499d6489-b706-4451-bcd9-b9dedd933266/) |
-| Duncan, Jeff | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041941.pdf) |
-| Dunn, Neal | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042278.pdf) |
-| Durbin, Richard | D | IL | Senate | NO | [2020](https://efdsearch.senate.gov/search/print/paper/cec7aa17-c5f8-4280-be60-610b0517373e/)|
-| Edwards, Charles | R | NC | House | - | - |
-| Ellzey, Jake | R | TX | House | NO | - |
-| Emmer, Tom | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218235.pdf) |
-| Ernst, Joni | R | IA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b7ced2ee-ebfb-4d42-9ea6-328abecfc784/)|
-| Escobar, Veronica | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040129.pdf) |
-| Eshoo, Anna | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040599.pdf) |
-| Espaillat, Adriano | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042735.pdf) |
-| Estes, Ron | R | KS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042224.pdf) |
-| Evans, Dwight | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041532.pdf) | ARKX + gold trust + Paypal + Tesla + Western Union |
-| Ezell, Mike | R | MS | House | - | - |
-| Fallon, Patrick | R | TX | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060003.pdf) | $15K - $50K Block, Inc. |
-| Feenstra, Randy | R | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042773.pdf) |
-| Ferguson, Drew | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042138.pdf) |
-| Fetterman, John | D | PA | Senate | - | - |
-| Finstad, Brad | R | MN | House | - | - |
-| Fischbach, Michelle | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041736.pdf) |
-| Fischer, Deb | R | NE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/3e5aa01a-7a28-4fbd-8141-4cba9fc537eb/) |
-| Fitzgerald, Scott | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042167.pdf) | Nothing disclosed |
-| Fitzpatrick, Brian | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040252.pdf) |
-| Fleischmann, Charles | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218180.pdf) |
-| Fletcher, Lizzie | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041751.pdf) |
-| Flood, Mike | R | NE | House | - | - |
-| Foster, Bill | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040656.pdf) |
-| Foushee, Valerie | D | NC | House | - | - |
-| Foxx, Virginia | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040630.pdf) | $15-50k Gold Trust |
-| Frankel, Lois | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040644.pdf) | $15-50k Gold Trust |
-| Franklin, Scott | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042027.pdf) |
-| Frost, Maxwell | D | FL | House | - | - |
-| Fry, Russell | R | SC | House | - | - |
-| Fulcher, Russ | R | ID | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041813.pdf) |
-| Gaetz, Matt | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043510.pdf) |
-| Gallagher, Mike | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041218.pdf) |
-| Gallego, Ruben | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042071.pdf) |
-| Garamendi, John | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042524.pdf) |
-| Garbarino, Andrew | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041328.pdf) |
-| García, Jesús | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042189.pdf) |
-| Garcia, Mike | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10036148.pdf) |
-| Garcia, Robert Julio | D | CA | House | - | - |
-| Garcia, Sylvia | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042571.pdf) |
-| Gillibrand, Kirsten | D | NY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/62f96c02-951c-48f2-a227-9d8b17354f6d/) |
-| Gimenez, Carlos | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042665.pdf) |
-| Gluesenkamp Perez | D | WA | House | - | - |
-| Golden, Jared | D | ME | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040169.pdf) |
-| Goldman, Dan | D | NY | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf) | Block, Inc & Coinbase |
-| Gomez, Jimmy | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042896.pdf) |
-| Gonzales, Ernest | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041552.pdf) |
-| Gonzalez, Vicente | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218224.pdf) |
-| Gooden, Lance | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043120.pdf) |
-| Good, Robert | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041770.pdf) |
-| Gosar, Paul | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218236.pdf) |
-| Gottheimer, Josh | D | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf) | Block, Inc |
-| Graham, Lindsey | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f0d05aaf-ea30-4e0e-b35b-368e14bb1935/) |
-| Granger, Kay | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039886.pdf) |
-| Grassley, Charles | R | IA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6dc791b1-c2ad-4c7a-82db-fe961d842977/) |
-| Graves, Garret | R | LA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059697.pdf) | $1K-$15K COIN |
-| Graves, Sam | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041852.pdf) |
-| Green, Al | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041368.pdf) |
-| Green, Mark | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040812.pdf) | $50-100k gold, $15k-$50k silver |
-| Greene, Marjorie | R | GA | House | YES | [2025](https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026658.pdf) | IBIT iShares Bitcoin ETF, Son owns < $1K Block, Inc |
-| Griffith, Morgan | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041879.pdf) |
-| Grijalva, Raúl | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041464.pdf) | $2k-$30k gold trust |
-| Grothman, Glenn | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041686.pdf) |
-| Guest, Michael | R | MS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218237.pdf) |
-| Guthrie, Brett | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218219.pdf) |
-| Hageman, Harriet | R | WY | House | - | - |
-| Hagerty, Bill | R | TN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b2a6bec1-d597-4bd8-8d93-dc1235a1adea/) | $50k-$100k gold trust |
-| Harder, Josh | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040757.pdf) |
-| Harris, Andy | R | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043354.pdf)| $15k - $50k gold trust
-| Harshbarger, Diana | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043328.pdf) |
-| Hassan, Margaret | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8a373097-c7da-42f8-a91e-b408c8ab7278/) |
-| Hawley, Joshua | R | MO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1eeb0aee-337c-4c4a-8176-3e131c78acd8/) | $1k-$15k gold trust |
-| Hayes, Jahana | D | CT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040276.pdf) |
-| Heinrich, Martin | D | NM | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7fa7db35-f3fc-48f2-84ea-eea4601b2676/) |
-| Hern, Kevin | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043504.pdf) |
-| Hickenlooper, John | D | CO | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8ce6a0ba-f62b-401e-ac02-6f084b0d8c77/) |
-| Higgins, Brian | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041409.pdf) |
-| Higgens, Clay | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040372.pdf) | No assets disclosed |
-| Hill, French | R | AR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041847.pdf) |
-| Himes, James | D | CT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042008.pdf) |
-| Hirono, Mazie | D | HI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/861b60bd-3808-4d4f-aa17-73d973ab21c9/) |
-| Hoeven, John | R | ND | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b27ecc82-4df2-43e4-833f-3296e3eeebeb/) |
-| Horsford, Steven | D | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043460.pdf) |
-| Houchin, Erin | R | IN | House | - | - |
-| Houlahan, Chrissy | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042094.pdf) |
-| Hoyer, Steny | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041882.pdf) |
-| Hoyle, Valerie | D | OR | House | - | - |
-| Hudson, Richard | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218206.pdf) |
-| Huffman, Jared | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041332.pdf) |
-| Huizenga, Bill | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043445.pdf) |
-| Hunt, Wesley | R | TX | House | - | - |
-| Hyde-Smith, Cindy | R | MS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/57bfa4f2-a036-466e-86c5-52e19b91fe05/) |
-| Issa, Darrell | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040348.pdf) |
-| Ivey, Glenn | D | MD | House | - | - |
-| Jackson Lee, Sheila | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218265.pdf) |
-| Jackson, Jeffrey | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf) | Sold all Ankr, Cardano, Solana, Tether in 2022 |
-| Jackson, Jonathan | D | IL | House | - | - |
-| Jackson, Ronny | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042367.pdf) |
-| Jacobs, Sara | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10035488.pdf) | $15-50k Gold Trust |
-| James, John | R | MI | House | - | - |
-| Jayapal, Pramila | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041388.pdf) |
-| Jeffries, Hakeem | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041804.pdf) |
-| Johnson, Bill | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042321.pdf) |
-| Johnson, Dusty | R | SD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041049.pdf) |
-| Johnson, Henry | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042493.pdf) |
-| Johnson, Mike | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043280.pdf) |
-| Johnson, Ron | R | WI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/17a75cba-ab2a-42c3-84e7-7fbfd21d81f3/) |
-| Jordan, Jim | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040512.pdf) |
-| Joyce, David | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041841.pdf) |
-| Joyce, John | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042155.pdf) |
-| Kaine, Timothy | D | VA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8c5a922e-6f4f-4b68-a0de-e64627a1cd9e/) |
-| Kamlager-Dove, Sydney | D | CA | House | - | - |
-| Kaptur, Marcy | D | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042389.pdf) |
-| Kean, Thomas | R | NJ | House | - | - |
-| Keating, William | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041564.pdf) | $15K-$50K Gold ETF |
-| Kelly, Mark | D | AZ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/9a632396-2fa3-4f41-b865-bcef0ddd2f7a/) |
-| Kelly, Mike | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218228.pdf) | $1-$15 or $15-50k Gold Trust |
-| Kelly, Robin | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041893.pdf) |
-| Kelly, Trent | R | MS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041044.pdf) |
-| Kennedy, John | R | LA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/97aaf2cb-d457-426c-b5f4-c9a720283635/) |
-| Khanna, Ro | D | CA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220593.pdf) | Block, Inc |
-| Kiggans, Jennifer | R | VA | House | - | - |
-| Kildee, Daniel | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040520.pdf) |
-| Kiley, Kevin | R | CA | House | - | - |
-| Kilmer, Derek | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041545.pdf) |
-| Kim, Andy | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042141.pdf) |
-| Kim, Young | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042792.pdf) |
-| King, Angus | I | ME | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/66d8ba15-2b21-4d36-aae8-e135a8ae0e7e/) |
-| Klobuchar, Amy | D | MN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ac3395fd-85d3-46a4-aa7e-8368ea96d2af/) |
-| Krishnamoorthi, Raja | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041444.pdf) |
-| Kuster, Ann | D | NH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218264.pdf) |
-| Kustoff, David | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043731.pdf) |
-| LaHood, Darin | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041020.pdf) |
-| LaLota, Nicolas | R | NY | House | - | - |
-| LaMalfa, Doug | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041334.pdf) |
-| Lamborn, Doug | R | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218207.pdf) |
-| Landsman, Greg | D | OH | House | - | - |
-| Langworthy, Nicholas | R | NY | House | - | - |
-| Lankford, James | R | OK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/95006fcd-7aa0-4ddd-9719-1e263e4b5de0/) |
-| Larsen, Rick | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040564.pdf) |
-| Larson, John | D | CT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040701.pdf) |
-| Latta, Robert | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041391.pdf) |
-| LaTurner, Jacob | R | KS | House | - | - |
-| Lawler, Michael | R | NY | House | - | - |
-| Lee, Barbara | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042276.pdf) |
-| Lee, Laurel | R | FL | House | - | - |
-| Lee, Mike | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/af2f05af-b704-4ef7-ad44-051b3109a2de/) |
-| Lee, Summer | D | PA | House | - | - |
-| Lee, Susie | D | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040247.pdf) |
-| Leger Fernandez, Teresa | D | NM | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041798.pdf) |
-| Lesko, Debbie | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042354.pdf) |
-| Letlow, Julia | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042967.pdf) |
-| Levin, Mike | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040396.pdf) |
-| Lieu, Ted | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042330.pdf) |
-| Lofgren, Zoe | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040456.pdf) |
-| Loudermilk, Barry | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043320.pdf) |
-| Lucas, Frank | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041075.pdf) |
-| Luetkemeyer, Blaine | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218118.pdf) |
-| Luján, Ben | D | NM | Senate | NO | [2020](https://efdsearch.senate.gov/search/print/paper/71127e2f-b5ea-471a-841e-e5ec1102d452/) |
+| Name | Party | State | House | Owner | Disclosure | Notes |
+|------|:-----:|:-----:|-------|:------:|:----------:|-------|
+| Adams, Alma S. | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059952.pdf) | - |
+| Aderholt, Robert B. | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060381.pdf) | - |
+| Aguilar, Pete | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060414.pdf) | - |
+| Alford, Mark | R | MO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060029.pdf) | - |
+| Allen, Rick W. | R | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060415.pdf) | - |
+| Allred, Colin Z. | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059582.pdf) | - |
+| Amo, Gabe | D | RI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062638.pdf) | - |
+| Amodei, Mark E. | R | NV | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060908.pdf) | - |
+| Arenholz, Ashley | R | IA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057096.pdf) | GRAYSCALE BITCOIN TR BTC [GBTC], PROSHARES BITCOIN STRATEGY [BITO] |
+| Armstrong, Kelly | R | ND | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057429.pdf) | - |
+| Arrington, Jodey C. | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060179.pdf) | - |
+| Auchincloss, Jake | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059259.pdf) | - |
+| Babin, Brian | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061079.pdf) | - |
+| Bacon, Don | R | NE | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059759.pdf) | - |
+| Baird, James R. | R | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061119.pdf) | - |
+| Balderson, Troy | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057373.pdf) | - |
+| Baldwin, Tammy | D | WI | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/e1d51691-0931-46b8-a518-c4fc261653f9/) | - |
+| Balint, Becca | D | VT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059414.pdf) | - |
+| Banks, Jim | R | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062654.pdf) | - |
+| Barr, Andy | R | KY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062231.pdf) | - |
+| Barragan, Nanette Diaz | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057251.pdf) | - |
+| Barrasso, John | R | WY | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/9a90bea5-c762-4ccb-983f-db68a76b1e15/) | - |
+| Bean, Aaron | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060583.pdf) | - |
+| Beatty, Joyce | D | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060258.pdf) | - |
+| Bennet, Michael F. | D | CO | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/02513815-e33c-4286-a1c0-be256cfe895b/) | - |
+| Bentz, Cliff | R | OR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058877.pdf) | - |
+| Bera, Ami | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062178.pdf) | - |
+| Bergman, Jack | R | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061530.pdf) | - |
+| Beyer, Donald S. | D | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058899.pdf) | - |
+| Bice, Stephanie I. | R | OK | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059895.pdf) | - |
+| Biggs, Andy | R | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058937.pdf) | - |
+| Bilirakis, Gus M. | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220418.pdf) | - |
+| Bishop, Dan | R | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062570.pdf) | - |
+| Bishop, Sanford D. | D | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060373.pdf) | - |
+| Blackburn, Marsha | R | TN | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/ad42cbc0-ed6f-4bc8-a9ff-32e6063f1306/) | - |
+| Blumenauer, Earl | D | OR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059735.pdf) | - |
+| Blumenthal, Richard | D | CT | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/paper/86ac224d-3986-4406-9d5e-9c53db007ef4/) | - |
+| Blunt Rochester, Lisa | D | DE | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/8b27a178-5d21-4754-9f85-ff6471d75dea/) | - |
+| Boebert, Lauren | R | CO | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061648.pdf) | Crypto Money Movement COIN |
+| Bonamici, Suzanne | D | OR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059396.pdf) | - |
+| Booker, Cory A. | D | NJ | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/c5bef4ec-17d4-4c1f-b147-13453fe81588/) | - |
+| Boozman, John | R | AR | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/a66f9abf-311f-4494-871f-4631eb7ebc57/) | - |
+| Bost, Mike | R | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057580.pdf) | - |
+| Bowman, Jamaal | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060343.pdf) | - |
+| Boyle, Brendan F. | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057086.pdf) | - |
+| Braun, Mike | R | IN | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/31b2b826-95a2-4da8-b850-4a472b284a73/) | - |
+| Brecheen, Josh | R | OK | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060308.pdf) | - |
+| Britt, Katie Boyd | R | AL | Senate | YES | [2024](https://efdsearch.senate.gov/search/view/annual/ae8aa928-7d29-4e74-aac7-c8c9211713c7/) | SQ - Block, Inc. Class A Common Stock, |
+| Brown, Sherrod | D | OH | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/0091a0e6-17d3-4a52-963a-fc1db3c5d80f/) | - |
+| Brown, Shontel M. | D | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060560.pdf) | - |
+| Brownley, Julia | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059679.pdf) | - |
+| Buchanan, Vern | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059297.pdf) | - |
+| Bucshon, Larry | R | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059502.pdf) | - |
+| Budd, Ted | R | NC | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/ac4f24bc-25fa-4821-80ca-0aa41539710d/) | - |
+| Budzinski, Nikki | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059128.pdf) | - |
+| Burchett, Tim | R | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057335.pdf) | - |
+| Burgess, Michael C. | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060806.pdf) | - |
+| Burlison, Eric | R | MO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062690.pdf) | - |
+| Bush, Cori | D | MO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061337.pdf) | - |
+| Butler, Laphonza R. | D | CA | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/ede91fb4-df19-4993-bf20-c86b03143458/) | - |
+| Calvert, Ken | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060206.pdf) | - |
+| Cammack, Kat | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060622.pdf) | - |
+| Cantwell, Maria | D | WA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/7c685221-f760-4704-9387-874d9e7aab6e/) | - |
+| Capito, Shelley Moore | R | WV | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/56ff880c-f3ce-468c-99cd-a65364d4a0ad/) | - |
+| Caraveo, Yadira | D | CO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057540.pdf) | - |
+| Carbajal, Salud O. | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060345.pdf) | - |
+| Cardin, Benjamin L. | D | MD | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/3e3a7b84-38b9-49ab-80a8-89622e29b6f8/) | - |
+| Carey, Mike | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060281.pdf) | - |
+| Carl, Jerry L. | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060508.pdf) | - |
+| Carper, Thomas R. | D | DE | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/04db916f-2633-4633-ac3d-3fbda2e9c134/) | - |
+| Carson, André | D | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060751.pdf) | - |
+| Carter, Earl L. "Buddy" | R | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059359.pdf) | - |
+| Carter, Erica | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057735.pdf) | - |
+| Carter, John R. | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057735.pdf) | - |
+| Carter, Troy A. | D | LA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220481.pdf) | - |
+| Cartwright, Matt | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059028.pdf) | - |
+| Casar, Greg | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059479.pdf) | - |
+| Case, Ed | D | HI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060408.pdf) | - |
+| Casey, Robert P. | D | PA | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/f80907e1-7f43-4db1-8dda-28d885483742/) | - |
+| Cassidy, Bill | R | LA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/e010e69c-156c-41bd-b966-08248add369d/) | - |
+| Casten, Sean | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057544.pdf) | - |
+| Castor, Kathy | D | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059113.pdf) | - |
+| Castro, Joaquin | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220605.pdf) | - |
+| Chavez-DeRemer, Lori | R | OR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060899.pdf) | - |
+| Cherfilus-McCormick, Sheila | D | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059703.pdf) | - |
+| Chu, Judy | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059071.pdf) | - |
+| Ciscomani, Juan | R | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059453.pdf) | - |
+| Clark, Katherine M. | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059034.pdf) | - |
+| Clarke, Yvette D. | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062455.pdf) | - |
+| Cleaver, Emanuel | D | MO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059684.pdf) | - |
+| Cline, Ben | R | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059793.pdf) | - |
+| Cloud, Michael | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059227.pdf) | - |
+| Clyburn, James E. | D | SC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060249.pdf) | - |
+| Clyde, Andrew S. | R | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061852.pdf) | - |
+| Cohen, Steve | D | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060314.pdf) | - |
+| Cole, Tom | R | OK | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061100.pdf) | - |
+| Coleman, Bonnie | D | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220482.pdf) | - |
+| Collins, Mike | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060539.pdf) | ETH Cryptocurrency [CT] |
+| Collins, Susan M. | R | ME | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/3dfde21c-e97b-43ff-99ed-150fb29dfcdc/) | - |
+| Comer, James | R | KY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060545.pdf) | - |
+| Connolly, Gerald E. | D | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057570.pdf) | - |
+| Coons, Christopher A. | D | DE | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/dd3245e1-b4c3-4196-882a-4012cf2bd524/) | - |
+| Cornyn, John | R | TX | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/24280fe2-a3f8-485c-bdce-f5991d22c1cb/) | - |
+| Correa, J. Luis | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059001.pdf) | - |
+| Cortez Masto, Catherine | D | NV | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/a8706c27-3a15-492e-8d3b-86a35d631ce0/) | - |
+| Costa, Jim | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060909.pdf) | - |
+| Cotton, Tom | R | AR | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/1ecc063e-2ddb-467a-a938-c6f677662b95/) | - |
+| Courtney, Joe | D | CT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057521.pdf) | - |
+| Craig, Angie | D | MN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220496.pdf) | - |
+| Cramer, Kevin | R | ND | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/9025ef30-3182-4f55-98fd-cdf184ddd34b/) | - |
+| Cramer, Kevin | R | ND | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/91d94411-dd88-48e8-acc9-e386407a728f/) | - |
+| Crane, Elijah | R | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060393.pdf) | - |
+| Crapo, Mike | R | ID | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/75ec449f-af6f-41af-b911-48b0e9ed23c2/) | - |
+| Crawford, Eric A. "Rick" | R | AR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057567.pdf) | - |
+| Crenshaw, Dan | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062732.pdf) | - |
+| Crockett, Jasmine | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061435.pdf) | - |
+| Crow, Jason | D | CO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059547.pdf) | - |
+| Cruz, Ted | R | TX | Senate | YES | [2024](https://efdsearch.senate.gov/search/view/annual/9675a1d6-d0cc-48bb-b0ee-fb1b99c3de0d/) | Bitcoin Exchange/Platform: River Financial Inc |
+| Cuellar, Henry | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060039.pdf) | - |
+| Curtis, John R. | R | UT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057450.pdf) | - |
+| Cárdenas, Tony | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059460.pdf) | - |
+| D'Esposito, Anthony | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061470.pdf) | - |
+| Daines, Steve | R | MT | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/64bcf990-688c-41ce-9300-d7452f78e583/) | - |
+| Davids, Sharice | D | KS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060299.pdf) | - |
+| Davidson, Warren | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061293.pdf) | - |
+| Davis, Danny K. | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062685.pdf) | - |
+| Davis, Donald G. | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060732.pdf) | - |
+| De La Cruz, Monica | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059362.pdf) | - |
+| DeGette, Diana | D | CO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059101.pdf) | - |
+| DeLauro, Rosa L. | D | CT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060512.pdf) | - |
+| DeSaulnier, Mark | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059653.pdf) | - |
+| Dean, Madeleine | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059700.pdf) | - |
+| DelBene, Suzan K. | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059847.pdf) | - |
+| Deluzio, Christopher R. | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057068.pdf) | - |
+| DesJarlais, Scott | R | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060164.pdf) | - |
+| Diaz-Balart, Mario | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059030.pdf) | - |
+| Dingell, Debbie | D | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057106.pdf) | - |
+| Doggett, Lloyd | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057370.pdf) | - |
+| Donalds, Byron | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062779.pdf) | - |
+| Duarte, John S. | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220483.pdf) | - |
+| Duckworth, Tammy | D | VA | Senate | NO | [2023](https://efdsearch.senate.gov/search/view/annual/014b5055-8073-451f-8dcb-d7eec191e51a/) | - |
+| Duncan, Jeff | R | SC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060221.pdf) | - |
+| Dunn, Neal P. | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059499.pdf) | - |
+| Durbin, Richard J. | D | IL | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/paper/7d9d262c-64d6-4a65-adb5-59127dae1bb0/) | - |
+| Edwards, Chuck | R | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059419.pdf) | - |
+| Ellzey, Jake | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057509.pdf) | - |
+| Emmer, Tom | R | MN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220484.pdf) | - |
+| Ernst, Joni | R | IA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/512f89d1-aaa9-4850-bd2b-29622809776e/) | - |
+| Escobar, Veronica | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059323.pdf) | - |
+| Eshoo, Anna G. | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220419.pdf) | - |
+| Espaillat, Adriano | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060169.pdf) | - |
+| Estes, Ron | R | KS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060012.pdf) | - |
+| Evans, Dwight | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060496.pdf) | - |
+| Ezell, Mike | R | MS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057629.pdf) | - |
+| Fallon, Pat | R | TX | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060003.pdf) | Block, Inc. Class A Common Stock, (SQ) |
+| Feenstra, Randy | R | IA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061096.pdf) | - |
+| Ferguson, A. Drew | R | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060230.pdf) | - |
+| Fetterman, John | D | PA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/9ef89267-7a26-4195-8e77-fece18ed09a7/) | - |
+| Finstad, Brad | R | MN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060529.pdf) | - |
+| Fischbach, Michelle | R | MN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061489.pdf) | - |
+| Fischer, Deb | R | NE | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/d141d368-0226-4e4a-b7d4-26327b7105b4/) | - |
+| Fitzgerald, Scott | R | WI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059577.pdf) | - |
+| Fitzpatrick, Brian K. | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059165.pdf) | - |
+| Fleischmann, Charles J. "Chuck" | R | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220420.pdf) | - |
+| Fletcher, Lizzie | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058974.pdf) | - |
+| Flood, Mike | R | NE | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059391.pdf) | - |
+| Foster, Bill | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057232.pdf) | - |
+| Foushee, Valerie P. | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057344.pdf) | - |
+| Foxx, Virginia | R | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059335.pdf) | - |
+| Frankel, Lois | D | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057235.pdf) | - |
+| Franklin, C. Scott | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057719.pdf) | - |
+| Franklin, Scott | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057719.pdf) | - |
+| Frost, Maxwell | D | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061610.pdf) | - |
+| Fry, Russell | R | SC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058966.pdf) | - |
+| Fulcher, Russ | R | ID | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060187.pdf) | - |
+| Gallego, Ruben | D | AZ | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/31fa8808-03f6-43fa-b119-99fd52135898/) | - |
+| Garamendi, John | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059805.pdf) | - |
+| Garbarino, Andrew R. | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059492.pdf) | - |
+| Garcia, Jesús G. "Chuy" | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057643.pdf) | - |
+| Garcia, Mike | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060154.pdf) | - |
+| Garcia, Robert | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060154.pdf) | - |
+| Garcia, Sylvia R. | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059533.pdf) | - |
+| Gillibrand, Kirsten E. | D | NY | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/1458b0e4-3292-47e1-ad25-90fdc21e83a0/) | - |
+| Gimenez, Carlos A. | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060592.pdf) | - |
+| Gluesenkamp Perez, Marie | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058984.pdf) | - |
+| Golden, Jared F. | D | ME | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057089.pdf) | - |
+| Goldman, Daniel S. | D | NY | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf) | Block, Inc. Class A Common Stock, (SQ), Coinbase Global, Inc. - Class A Common Stock (COIN), Coinbase Global, Inc. - Class A (COIN) |
+| Gomez, Jimmy | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059944.pdf) | - |
+| Gonzales, Tony | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062766.pdf) | - |
+| Gonzalez, Vicente | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220595.pdf) | - |
+| Gonzalez-Colon, Jenniffer | R | PR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059869.pdf) | - |
+| Good, Bob | R | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060656.pdf) | - |
+| Gooden, Lance | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061400.pdf) | - |
+| Gosar, Paul A. | R | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220466.pdf) | - |
+| Gottheimer, Josh | D | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf) | Block, Inc. Class A Common Stock, (SQ), Block, Inc. Class A Common Stock, (SQ) [ST] |
+| Graham, Lindsey | R | SC | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/696f53d0-7b88-4762-90bd-fbc241707c55/) | - |
+| Gottheimer, Josh | D | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf) | Block, Inc. Class A Common Stock, (SQ) [ST], Block, Inc. Class A Common Stock, (SQ) |
+| Graham, Lindsey | R | SC | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/82a8cef2-fa7e-4ce7-92d2-798715c28d5f/) | - |
+| Granger, Kay | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057021.pdf) | - |
+| Grassley, Chuck | R | IA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/b466530c-0aae-4013-a055-8a517731a565/) | - |
+| Graves, Garret | R | LA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059697.pdf) | Coinbase Global, Inc. - Class A Common Stock (COIN) [ST] |
+| Graves, Sam | R | MO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061251.pdf) | - |
+| Green, Al | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060574.pdf) | - |
+| Green, Mark E. | R | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061193.pdf) | - |
+| Greene, Marjorie Taylor | R | GA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057355.pdf) | Block, Inc. Class A Common Stock, (SQ) [ST] |
+| Griffith, H. Morgan | R | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059696.pdf) | - |
+| Grijalva, Raúl M. | D | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059510.pdf) | - |
+| Grothman, Glenn | R | WI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060079.pdf) | - |
+| Guest, Michael | R | MS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220573.pdf) | - |
+| Guthrie, Brett | R | KY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220485.pdf) | - |
+| Hageman, Harriet M. | R | WY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059540.pdf) | - |
+| Hagerty, Bill | R | TN | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/03b313b5-2492-4264-8fa0-2f14bbafde77/) | - |
+| Harder, Josh | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058971.pdf) | - |
+| Harris, Andy | R | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062677.pdf) | - |
+| Harshbarger, Diana | R | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220574.pdf) | - |
+| Hassan, Margaret Wood | D | NH | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/32481311-3b9a-4ad3-be14-520c173cf5e3/) | - |
+| Hawley, Josh | R | MO | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/53ce291b-801b-4ace-a441-cc1d88c86069/) | - |
+| Hayes, Jahana | D | CT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059686.pdf) | - |
+| Heinrich, Martin | D | NM | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/ea129bbd-77b9-47a0-aeb9-f5faa5158934/) | - |
+| Hern, Kevin | R | OK | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060913.pdf) | - |
+| Hickenlooper, John W. | D | CO | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/2d8ab18f-612f-4dfd-92f7-87740b0cc9ec/) | - |
+| Higgins, Clay | R | LA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057485.pdf) | - |
+| Hill, J. French | R | AR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059437.pdf) | - |
+| Himes, James A. | D | CT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061258.pdf) | - |
+| Hirono, Mazie K. | D | HI | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/16dad072-2ce0-4bc8-ad36-c51aca7ec2fb/) | - |
+| Hoeven, John | R | ND | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/e9ae89fc-42b9-4dd3-a3ce-5a37aea0bb34/) | - |
+| Horsford, Steven | D | NV | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061279.pdf) | - |
+| Houchin, Erin | R | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058925.pdf) | - |
+| Houlahan, Chrissy | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060595.pdf) | - |
+| Hoyer, Steny H. | D | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060360.pdf) | - |
+| Hoyle, Val T. | D | OR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058978.pdf) | - |
+| Hudson, Richard | R | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060006.pdf) | - |
+| Huffman, Jared | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060152.pdf) | - |
+| Huizenga, Bill | R | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060544.pdf) | - |
+| Hunt, Wesley | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059868.pdf) | - |
+| Hyde-Smith, Cindy | R | MS | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/d20d2883-5d04-4355-901c-cce12f0c9a55/) | - |
+| Issa, Darrell | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060532.pdf) | - |
+| Ivey, Glenn | D | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059399.pdf) | - |
+| Jackson, Jeff | D | NC | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf) | Cardano, Solana, Cryptocurrency |
+| Jackson, Jonathan L. | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059883.pdf) | - |
+| Jackson, Ronny | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062668.pdf) | - |
+| Jacobs, Sara | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059210.pdf) | - |
+| James, John | R | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057721.pdf) | - |
+| Jayapal, Pramila | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059916.pdf) | - |
+| Jeffries, Hakeem S. | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059158.pdf) | - |
+| Johnson, Dusty | R | SD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059658.pdf) | - |
+| Johnson, Henry C. "Hank" | D | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060742.pdf) | - |
+| Johnson, Julie | D | TX | House | NO | [2021](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2021/10046144.pdf) | - |
+| Johnson, Mike | R | LA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059254.pdf) | - |
+| Johnson, Ron | R | WI | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/be1cbc9f-7e98-4e7d-9f90-a060498d5449/) | - |
+| Jordan, Jim | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058918.pdf) | - |
+| Joyce, David P. | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061272.pdf) | - |
+| Joyce, John | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059130.pdf) | - |
+| Kaine, Tim | D | VA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/0acdf6ca-e13d-4e0c-9028-93c43ec97131/) | - |
+| Kamlager-Dove, Sydney | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060088.pdf) | - |
+| Kaptur, Marcy | D | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060371.pdf) | - |
+| Kean, Thomas H. | R | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060678.pdf) | - |
+| Keating, William R. | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059951.pdf) | - |
+| Kelly, Mark | D | AZ | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/deaf96b2-f782-4cc2-89fc-f0f619e9aed4/) | - |
+| Kelly, Mike | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059739.pdf) | - |
+| Kelly, Robin L. | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059979.pdf) | - |
+| Kelly, Trent | R | MS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059344.pdf) | - |
+| Kennedy, John | R | LA | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/074d6eed-7fc7-41ec-900d-ee22977637f1/) | - |
+| Kennedy, Timothy M. | D | NY | House | NO | [2024](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10062077.pdf) | - |
+| Kennedy, Timothy M. | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062077.pdf) | - |
+| Khanna, Ro | D | CA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220593.pdf) | BLOCK INC CL A, BLOCK, INC. CMN CLASS A |
+| Kiggans, Jennifer A. | R | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059067.pdf) | - |
+| Kildee, Daniel T. | D | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059494.pdf) | - |
+| Kiley, Kevin | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059609.pdf) | - |
+| Kilmer, Derek | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059275.pdf) | - |
+| Kim, Andy | D | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059532.pdf) | - |
+| Kim, Young | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057252.pdf) | - |
+| King, Angus S. | I | ME | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/31f21bd8-5300-441c-b6e5-a2fe0661cc57/) | - |
+| Klobuchar, Amy | D | MN | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/e6e8b03d-3357-4864-ad96-1b321114cb9c/) | - |
+| Krishnamoorthi, Raja | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057306.pdf) | - |
+| Kuster, Ann M. | D | NH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220486.pdf) | - |
+| Kustoff, David | R | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059305.pdf) | - |
+| LaHood, Darin | R | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059266.pdf) | - |
+| LaLota, Nick | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060364.pdf) | - |
+| LaMalfa, Doug | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060038.pdf) | - |
+| LaTurner, Jake | R | KS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060099.pdf) | - |
+| Lamborn, Doug | R | CO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220575.pdf) | - |
+| Landsman, Greg | D | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060077.pdf) | - |
+| Langworthy, Nicholas A. | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061049.pdf) | - |
+| Lankford, James | R | OK | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/46c769a4-050d-4298-b95a-41284ad787e5/) | - |
+| Larsen, Rick | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057340.pdf) | - |
+| Larson, John B. | D | CT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059233.pdf) | - |
+| Latta, Robert E. | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058884.pdf) | - |
+| Lawler, Michael | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059706.pdf) | - |
+| Lee, Barbara | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061113.pdf) | - |
+| Lee, Laurel M. | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062650.pdf) | - |
+| Lee, Mike | R | UT | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/bb92d489-a444-452f-8fc3-783f92d061cd/) | - |
+| Lee, Summer L. | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062786.pdf) | - |
+| Lee, Susie | D | NV | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057548.pdf) | - |
+| Leger Fernandez, Teresa | D | NM | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059199.pdf) | - |
+| Lesko, Debbie | R | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059171.pdf) | - |
+| Letlow, Julia | R | LA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060677.pdf) | - |
+| Levin, Mike | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057312.pdf) | - |
+| Lieu, Ted | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060998.pdf) | - |
+| Lofgren, Zoe | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057543.pdf) | - |
+| Loudermilk, Barry | R | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061418.pdf) | - |
+| Lucas, Frank D. | R | OK | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057070.pdf) | - |
+| Luetkemeyer, Blaine | R | MO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220467.pdf) | - |
+| Lujan, Ben Ray | D | NM | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/paper/e9ec1cb6-4198-42c6-98f3-dfb0ff2b92b3/) | - |
 | Lummis, Cynthia | R | WY | Senate | YES | [2020](https://efdsearch.senate.gov/search/view/annual/5a9f95fe-06e6-4abf-866f-d1d174e510e9/) | $100K - $250K BTC, moved to blind trust in 2021 |
-| Luttrell, Morgan | R | TX | House | - | - |
-| Lynch, Stephen | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041076.pdf) |
-| Mace, Nancy | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043329.pdf) |
-| Magaziner, Seth | D | RI | House | - | - |
-| Malliotakis, Nicole | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042742.pdf) |
-| Manchin, Joe | D | WV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a7607e49-f151-4bb1-b230-604ab8bdf2c3/) |
-| Mann, Tracey | R | KS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041358.pdf) | ARKK |
-| Manning, Kathy | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040869.pdf) |
-| Markey, Edward | D | MA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/9dccb2c2-cd6f-4a6d-b644-c001653022bb/) |
-| Marshall, Roger | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a9188089-c0fa-4731-b759-58e429850cd8/) | $15-50k Silver Trust, $15-50k Gold Trust |
-| Massie, Thomas | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040193.pdf) |
-| Mast, Brian | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041619.pdf) |
-| Matsui, Doris | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218199.pdf) |
-| McBath, Lucy | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042414.pdf) |
-| McCarthy, Kevin | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041107.pdf) |
-| McCaul, Michael | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220569.pdf) |
-| McClain, Lisa | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043335.pdf) |
-| McClellan, Jennifer | D | VA | House | - | - |
-| McClintock, Tom | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043558.pdf) |
-| McCollum, Betty | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042035.pdf) |
-| McConnell, Mitch | R | KY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/2bb9f12b-c87c-44ce-a024-89a9a0e890c9/) |
+| Luttrell, Morgan | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059415.pdf) | - |
+| Lynch, Stephen F. | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057612.pdf) | - |
+| Mace, Nancy | R | SC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062802.pdf) | - |
+| Magaziner, Seth | D | RI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058871.pdf) | - |
+| Malliotakis, Nicole | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060618.pdf) | - |
+| Maloy, Celeste | R | UT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061120.pdf) | - |
+| Manchin, Joe | I | WV | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/0e5ba574-5ea4-475b-9967-86d065d0db7c/) | - |
+| Mann, Tracey | R | KS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059938.pdf) | - |
+| Manning, Kathy E. | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057256.pdf) | - |
+| Markey, Edward J. | D | MA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/paper/2bba0b72-2603-4abb-bad6-a7d19e3e7a87/) | - |
+| Marshall, Roger | R | KS | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/a9edda97-d22c-45c2-bff6-81e92b757285/) | - |
+| Massie, Thomas | R | KY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059521.pdf) | - |
+| Mast, Brian J. | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061066.pdf) | - |
+| Matsui, Doris O. | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220487.pdf) | - |
+| McBath, Lucy | D | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060971.pdf) | - |
+| McCaul, Michael T. | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220569.pdf) | - |
+| McClain, Lisa C. | R | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059852.pdf) | - |
+| McClellan, Jennifer L. | D | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059623.pdf) | - |
+| McClintock, Tom | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058822.pdf) | - |
+| McCollum, Betty | D | MN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059086.pdf) | - |
+| McConnell, Mitch | R | KY | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/632f557a-c28b-43a9-8de5-1be4faf38032/) | - |
+| McCormick, Richard | R | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060276.pdf) | - |
 | McCormick, David | R | PA | Senate | YES | [2025](https://efdsearch.senate.gov/search/view/ptr/87e8ffc9-b032-4706-a4d1-8769a6eca634/) | $50K - $100K BITB |
-| McCormick, Rich | R | GA | House | - | - |
-| McGarvey, Morgan | D | KY | House | - | - |
-| McGovern, James | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042557.pdf) |
-| McHenry, Patrick | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041742.pdf) |
-| McMorris Rodgers, Cathy | R | WA | House | - | - |
-| Meeks, Gregory | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041539.pdf) |
-| Menendez, Robert | D | NJ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c29a3943-a0a4-4783-8b40-87853956b455/) |
-| Menendez, Robert Jacobsen | D | NJ | House | - | - |
-| Meng, Grace | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040976.pdf) |
-| Merkley, Jeff | D | OR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/35a828c4-a167-4862-93e8-179d72e700d4/) |
-| Meuser, Daniel | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040374.pdf) |
-| Mfume, Kweisi | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043276.pdf) |
-| Miller, Carol | R | WV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042734.pdf) |
-| Miller, Mary | R | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041676.pdf) |
-| Miller, Max | R | OH | House | - | - |
-| Miller-Meeks, Mariannette | R | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043392.pdf) |
-| Mills, Cory | R | FL | House | - | - |
-| Molinaro, Marcus | R | NY | House | - | - |
-| Moolenaar, John | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042174.pdf) |
-| Mooney, Alexander | R | WV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043589.pdf) |
-| Moore, Barry | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057716.pdf) |
-| Moore, Blake | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041325.pdf) |
-| Moore, Gwen | D | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218087.pdf) |
-| Moran, Jerry | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6cc69cc0-afd4-4328-9b15-cd1ad66cede5/) |
-| Moran, Nathaniel | R | TX | House | - | - |
-| Morelle, Joseph | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042526.pdf) |
-| Moskowitz, Jared | D | FL | House | - | - |
-| Moulton, Seth | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041287.pdf) |
-| Moylan, James | R | GU | House | - | - |
-| Mrvan, Frank | D | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218086.pdf) |
-| Mullin, Kevin | D | CA | House | - | - |
-| Mullin, Markwayne | R | OK | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041022.pdf) |
-| Murkowski, Lisa | R | AK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c4061090-2ff1-444f-ae0d-777268a8ca7c/) |
-| Murphy, Christopher | D | CT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/dff99f15-f881-4399-be59-b2e054f20b55/) |
-| Murphy, Gregory | R | NC | House | - | - |
-| Murray, Patty | D | WA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d476ea8d-30b7-470d-bbb2-83247ef12bc6/) |
-| Nadler, Jerrold | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218129.pdf) |
-| Napolitano, Grace | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040823.pdf) |
-| Neal, Richard | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042257.pdf) |
-| Neguse, Joe | D | CO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042263.pdf) |
-| Nehls, Troy | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10035955.pdf) |
-| Newhouse, Dan | R | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042034.pdf) |
-| Nickel, Wiley | D | NC | House | - | - |
-| Norcross, Donald | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042764.pdf) |
-| Norman, Ralph | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043088.pdf) |
-| Norton, Eleanor | D | DC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040159.pdf) |
-| Nunn, Zachary | R | IA | House | - | - |
-| Obernolte, Jay | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10035121.pdf) |
-| Ocasio-Cortez, Alexandria | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043223.pdf) |
-| Ogles, Andrew | R | TN | House | - | - |
-| Omar, Ilhan | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042970.pdf) |
-| Ossoff, Jon | D | GA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/51e488a6-2446-418c-810b-b55ae183e69c/) |
-| Owens, Clarence | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041638.pdf) |
-| Padilla, Alejandro | D | CA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7b77c9b2-ce8a-4958-b34f-387efb5940b9/) | $1k-15k Gold Trust |
-| Pallone, Frank | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040439.pdf) |
-| Palmer, Gary | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040165.pdf) |
-| Panetta, Jimmy | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042232.pdf) |
-| Pappas, Chris | D | NH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041247.pdf) |
-| Pascrell, Bill | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040848.pdf) |
-| Paulina Luna, Anna | R | FL | House | - | - |
-| Paul, Rand | R | KY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ffc1c882-f932-4788-951b-d9fff5b658b1/) |
-| Pelosi, Nancy | D | CA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059734.pdf) | $250K - $500K Block, Inc |
-| Peltola, Mary | D | AK | House | - | - |
-| Pence, Greg | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041818.pdf) |
-| Perry, Scott | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042142.pdf) |
-| Peters, Gary | D | MI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ce211035-9d0a-4679-b3d3-a3147b6abfe0/) |
-| Peters, Scott | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041424.pdf) |
-| Pettersen, Brittany | D | CO | House | - | - |
-| Pfluger, August | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042774.pdf) |
-| Phillips, Dean | D | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041411.pdf) |
-| Pingree, Chellie | D | ME | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041540.pdf) |
-| Plaskett, Stacey | D | VI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2019/10038680.pdf) |
-| Pocan, Mark | D | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041966.pdf) |
-| Porter, Katie | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042329.pdf) |
-| Posey, Bill | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218088.pdf) |
-| Pressley, Ayanna | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040768.pdf) | 
-| Quigley, Mike | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218146.pdf) |
-| Radewagen, Aumua Amata | R | AS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040508.pdf) |
-| Ramirez, Delia | D | IL | House | - | - |
-| Raskin, Jamie | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041117.pdf) |
-| Reed, John | D | RI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/250dae9c-ee66-4527-9ace-16e026b5bc0a/) |
-| Reschenthaler, Guy | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041161.pdf) |
-| Ricketts, Pete | R | NE | Senate | - | - |
-| Risch, James | R | ID | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/9fe6b987-7d40-4fb5-ac66-9820580657c4/) |
-| Rogers, Harold | R | KY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218267.pdf) |
-| Rogers, Mike | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218198.pdf) |
-| Romney, Mitt | R | UT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/580c4c34-031f-4dbc-89e3-52c84effb069/) | $250K-$500K gold bullion |
-| Rose, John | R | TN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043727.pdf) |
-| Rosen, Jacky | R | NV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a0ba8285-475e-4619-8fce-b4606171ab41/) | $50k-$100k $SLV, $50K-$100K $GDX |
-| Rosendale, Matthew | R | MT | House | NO | [2021](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2021/10048167.pdf) | Nothing disclosed |
-| Ross, Deborah | D | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042259.pdf) |
-| Rounds, Mike | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/a2db205f-0f01-41aa-a39c-237125042319/) | $50K-100K Gold Trust |
-| Rouzer, David | R | NC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042659.pdf) | $1K-$15K Mastercard, Visa, Gold Trust |
-| Roy, Chip | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042728.pdf) | $1K-$15K gold trust |
-| Rubio, Marco | R | FL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/0c19383b-78fd-407b-ba17-112ee578243b/) |
-| Ruiz, Raul | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040346.pdf) | $15K-$50 gold trust |
-| Ruppersberger, A. Dutch | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039932.pdf) |
-| Rutherford, John | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041557.pdf) |
-| Ryan, Tim | D | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041372.pdf) |
-| Sablan, Gregorio | D | MP | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040030.pdf) |
-| Salazar, Maria | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042392.pdf) |
-| Salinas, Andrea | D | OR | House | - | - |
-| Sánchez, Linda | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043493.pdf) |
-| Sanders, Bernard | I | VT | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/c4a5f872-617c-4ea9-82b3-4ac52bde7779/) |
-| Santos, George | R | NY | House | - | - |
-| Sarbanes, John | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041705.pdf) |
-| Scalise, Steve | R | LA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041157.pdf) |
-| Scanlon, Mary | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040928.pdf) | $15K-$50K gold trust |
-| Schakowsky, Janice | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041534.pdf) |
-| Schatz, Brian | D | HI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/1ff046fb-0d84-47a1-bdd5-b538bc3b4048/) |
-| Schiff, Adam | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042429.pdf) |
-| Schmitt, Eric | R | MO | Senate | - | - |
-| Schneider, Bradley | D | IL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041199.pdf) |
-| Scholten, Hillary | D | MI | House | - | - |
-| Schrier, Kim | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042519.pdf) |
-| Schumer, Charles | D | NY | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/3bb014b5-83d4-469a-9d5e-6fdb4bc7259e/) |
-| Schweikert, David | R | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042643.pdf) |
-| Scott, Austin | R | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043338.pdf) |
-| Scott, David | D | GA | House | - | - |
-| Scott, Rick | R | FL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6b9fb205-454a-470b-b4cb-351f053b75e8/) | $500K-$1M $GDX, $1M-$2M $GLDM |
-| Scott, Robert | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042751.pdf) |
-| Scott, Tim | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/383d5d69-3b2a-49ba-a57d-eba2e97726b3/) |
-| Self, Keith | R | TX | House | - | - |
-| Sessions, Pete | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043422.pdf) | $15K-$50K Mastercard |
-| Sewell, Terri | D | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043271.pdf) |
-| Shaheen, Jeanne | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/84ba6931-cc90-4227-b33c-96fa00a503a3/) |
-| Sherman, Brad | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218239.pdf) |
-| Sherrill, Mikie | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041549.pdf) | $15K-$50K gold trust |
-| Simpson, Michael | R | ID | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042838.pdf) | $100K-$250 precious metals |
-| Sinema, Kyrsten | D | AZ | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/429aa5eb-0b1f-470b-a5ee-10eaf7f43770/) |
-| Slotkin, Elissa | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042516.pdf) |
-| Smith, Adam | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039967.pdf) |
-| Smith, Adrian | R | NE | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042453.pdf) |
-| Smith, Christopher | R | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042306.pdf) |
-| Smith, Jason | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042411.pdf) |
-| Smith, Tina | D | MN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/ba4992b2-d537-4c70-a2ae-03b1ae293899/) |
-| Smucker, Lloyd | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041975.pdf) |
-| Sorensen, Eric | D | IL | House | - | - |
-| Soto, Darren | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042230.pdf) |
-| Spanberger, Abigail | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040088.pdf) |
-| Spartz, Victoria | R | IN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042951.pdf) |
-| Stabenow, Debbie | D | MI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/879afb34-ce9d-412f-9d01-70c15bcac8e7/) |
-| Stansbury, Melanie | D | NM | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2021/10040188.pdf) |
-| Stanton, Greg | D | AZ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040307.pdf) |
-| Stauber, Pete | R | MN | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043358.pdf) |
-| Steel, Michelle | R | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041510.pdf) |
-| Stefanik, Elise | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218268.pdf) |
-| Steil, Bryan | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040794.pdf) |
-| Steube, Gregory | R | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041978.pdf) |
-| Stevens, Haley | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040950.pdf) |
-| Stewart, Chris | R | UT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041913.pdf) |
-| Strickland, Marilyn | D | WA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042473.pdf) |
-| Strong, Dale | R | AL | House | - | - |
-| Sullivan, Dan | R | AK | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/7567775a-9f88-42a7-b906-68a4449865a5/) |
-| Swalwell, Eric | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041327.pdf) |
-| Sykes, Emilia | D | OH | House | - | - |
-| Takano, Mark | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042128.pdf) |
-| Tenney, Claudia | R | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042689.pdf) | $1K-$15K $GLD & $1K-$15K Gold Miners |
-| Tester, Jon | D | MT | Senate | NO | [2021](https://efdsearch.senate.gov/search/view/annual/9cf17a83-283f-4fcc-9e83-868596ec1f97/)
-| Thanedar, Shri | D | MI | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057305.pdf) | $250K-$500K BTC, $15K-$50K LTC, $100K-$250K ETH |
-| Thompson, Bennie | D | MS | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042852.pdf) |
-| Thompson, Glenn | R | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042459.pdf) |
-| Thompson, Mike | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218197.pdf) |
-| Thune, John | R | SD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/d0245a09-294f-491e-ad0b-081b33688f2a/) |
-| Tiffany, Thomas | R | WI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041336.pdf) |
-| Tillis, Thom | R | NC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/008b142d-54f3-4e9b-8aca-f378eb9b9cf0/) | $1K-15K $SGGDX, $1K-$15K $PHYS |
-| Timmons, William | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040685.pdf) |
-| Titus, Dina | D | NV | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218278.pdf) |
-| Tlaib, Rashida | D | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041151.pdf) |
-| Tokuda, Jill | D | HI | House | - | - |
-| Tonko, Paul | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042991.pdf) |
-| Torres, Norma | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041659.pdf) |
-| Torres, Richie | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043595.pdf) |
-| Trahan, Lori | D | MA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041344.pdf) |
-| Trone, David | D | MD | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041946.pdf) |
-| Tuberville, Tommy | R | AL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/17abcf53-316c-4a5f-811e-40f13bdd442c/) |
-| Turner, Michael | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040183.pdf) |
-| Underwood, Lauren | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058869.pdf) |
-| Valadao, David | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062640.pdf) | No assets disclosed |
-| Vance, J.D. | R | - | Vice President | YES | [2023](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | $100K-$250K BTC |
-| Van Drew, Jefferson | R | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218181.pdf) | $100K-$250K GBTC |
-| Van Duyne, Beth | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041645.pdf) |
-| Van Hollen, Chris | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/paper/cd3c4664-9884-4b80-bed1-f14620a0f77c/) |
-| Van Orden, Derrick | R | WI | House | - | - |
-| Vargas, Juan | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040243.pdf) |
-| Vasquez, Gabriel | D | NM | House | - | - |
-| Veasey, Marc | D | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041013.pdf) |
-| Velázquez, Nydia | D | NY | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041727.pdf) |
-| Wagner, Ann | R | MO | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040256.pdf) |
-| Walberg, Tim | R | MI | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040623.pdf) |
-| Waltz, Michael | R | FL | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057260.pdf) | $50K-$100K BTC |
-| Warner, Mark | D | VA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/4c7a6e56-310b-4cbc-9310-72af1e0ea0d8/) |
-| Warnock, Raphael | D | GA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8be79d29-e293-478f-a858-63936281f883/) |
-| Warren, Elizabeth | D | MA | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/8685d414-5ed8-4d2e-b246-19790e981ff6/) |
-| Wasserman Schultz, Debbie | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041274.pdf) |
-| Waters, Maxine | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042931.pdf) |
-| Watson Coleman, Bonnie | D | NJ | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218279.pdf) |
-| Weber, Randy | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042047.pdf) |
-| Webster, Daniel | R | FL | House | - | - |
-| Welch, Peter | D | VT | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039965.pdf) |
-| Wenstrup, Brad | R | OH | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040308.pdf) |
-| Westerman, Bruce | R | AR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042589.pdf) |
-| Wexton, Jennifer | D | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042650.pdf) |
-| Whitehouse, Sheldon | D | RI | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/326a471d-d6a2-47e8-92f2-2a72eff6dffc/) |
-| Wicker, Roger | R | MS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/fdeb166e-b62a-43af-a8fb-9e2d29f75e41/) |
-| Wild, Susan | D | PA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041627.pdf) |
-| Williams, Brandon | R | NY | House | - | - |
-| Williams, Nikema | D | GA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10039119.pdf) |
-| Williams, Roger | R | TX | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042789.pdf) |
-| Wilson, Frederica | D | FL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040888.pdf) |
-| Wilson, Joe | R | SC | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040196.pdf) |
-| Wittman, Robert | R | VA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041201.pdf) |
-| Womack, Steve | R | AR | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10041059.pdf) |
-| Wyden, Ron | D | OR | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/21ae59f2-b870-4a5d-b5ec-bb8d01b116f4/) |
-| Yakym, Rudy | R | IN | House | - | - |
-| Young, Todd | R | IN | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/33d9f6e1-0cc6-41d8-acb6-619685ddde54/) |
-| Zinke, Ryan | R | MT | House | - | - |
+| McGarvey, Morgan | D | KY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059688.pdf) | - |
+| McGovern, James P. | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060397.pdf) | - |
+| McHenry, Patrick T. | R | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060043.pdf) | - |
+| Meeks, Gregory W. | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060027.pdf) | - |
+| Menendez, Robert | D | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060861.pdf) | - |
+| Meng, Grace | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059369.pdf) | - |
+| Merkley, Jeff | D | OR | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/f7a47b83-d0d1-4057-a001-c705cff6319f/) | - |
+| Meuser, Daniel | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060930.pdf) | - |
+| Mfume, Kweisi | D | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061339.pdf) | - |
+| Miller, Carol D. | R | WV | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061752.pdf) | - |
+| Miller, Mary E. | R | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060215.pdf) | - |
+| Miller, Max L. | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059565.pdf) | - |
+| Miller-Meeks, Mariannette | R | IA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061002.pdf) | - |
+| Mills, Cory | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060178.pdf) | - |
+| Molinaro, Marcus J. | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061183.pdf) | - |
+| Moolenaar, John R. | R | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060292.pdf) | - |
+| Mooney, Alexander X. | R | WV | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062529.pdf) | - |
+| Moore, Barry | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057716.pdf) | - |
+| Moore, Blake D. | R | UT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057449.pdf) | - |
+| Moore, Gwen | D | WI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220488.pdf) | - |
+| Moran, Jerry | R | KS | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/7beda471-6954-4a89-a1d8-9919afb1a571/) | - |
+| Moran, Nathaniel | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060240.pdf) | - |
+| Morelle, Joseph D. | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060705.pdf) | - |
+| Moskowitz, Jared | D | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062670.pdf) | - |
+| Moulton, Seth | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057110.pdf) | - |
+| Moylan, James C. | R | GU | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059913.pdf) | - |
+| Mrvan, Frank J. | D | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060749.pdf) | - |
+| Mullin, Kevin | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061164.pdf) | - |
+| Mullin, Markwayne | R | OK | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/314cb4e0-b326-43be-adf7-e783beb591a0/) | - |
+| Murkowski, Lisa | R | AK | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/9f529316-1356-46f4-9616-d6b97b22842d/) | - |
+| Murphy, Christopher | D | CT | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/5f41230d-a763-4b5c-ba50-7756a8226e04/) | - |
+| Murphy, Gregory F. | R | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059751.pdf) | - |
+| Murray, Patty | D | WA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/eb3d7622-7ab4-4a01-af38-a2bac2c3930f/) | - |
+| Nadler, Jerrold | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220489.pdf) | - |
+| Napolitano, Grace F. | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059421.pdf) | - |
+| Neal, Richard E. | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060911.pdf) | - |
+| Neguse, Joe | D | CO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060382.pdf) | - |
+| Nehls, Troy E. | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062762.pdf) | - |
+| Newhouse, Dan | R | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059166.pdf) | - |
+| Nickel, Wiley | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060464.pdf) | - |
+| Norcross, Donald | D | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059635.pdf) | - |
+| Norman, Ralph | R | SC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059370.pdf) | - |
+| Norton, Eleanor Holmes | D | DC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057623.pdf) | - |
+| Nunn, Zachary | R | IA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058821.pdf) | - |
+| Obernolte, Jay | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057742.pdf) | - |
+| Ocasio-Cortez, Alexandria | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060351.pdf) | - |
+| Ogles, Andrew | R | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060354.pdf) | - |
+| Omar, Ilhan | D | MN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060937.pdf) | - |
+| Ossoff, Jon | D | GA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/8e39e175-4a0b-4170-8981-294ba4e943d3/) | - |
+| Owens, Burgess | R | UT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062290.pdf) | - |
+| Padilla, Alex | D | CA | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/ca0fa419-d659-4a70-88f1-04687560399a/) | - |
+| Pallone, Frank | D | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058824.pdf) | - |
+| Palmer, Gary J. | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058923.pdf) | - |
+| Panetta, Jimmy | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059232.pdf) | - |
+| Pappas, Chris | D | NH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058983.pdf) | - |
+| Paul, Rand | R | KY | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/26b5e9a7-ce61-4034-9963-3e452816c87e/) | - |
+| Paulina Luna, Anna | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059246.pdf) | - |
+| Pelosi, Nancy | D | CA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059734.pdf) | Block, Inc. Class A Common Stock |
+| Peltola, Mary Sattler | D | AK | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060548.pdf) | - |
+| Pence, Greg | R | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059309.pdf) | - |
+| Perry, Scott | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059863.pdf) | - |
+| Peters, Gary C. | D | MI | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/a2657875-8c06-48fd-914e-e32930731d32/) | - |
+| Peters, Scott H. | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061056.pdf) | - |
+| Pettersen, Brittany | D | CO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059117.pdf) | - |
+| Pfluger, August | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059397.pdf) | - |
+| Phillips, Dean | D | MN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057744.pdf) | - |
+| Pingree, Chellie | D | ME | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060194.pdf) | - |
+| Plaskett, Stacey E. | D | VI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061296.pdf) | - |
+| Pocan, Mark | D | WI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061559.pdf) | - |
+| Porter, Katie | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060103.pdf) | - |
+| Posey, Bill | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220468.pdf) | - |
+| Pressley, Ayanna | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061223.pdf) | - |
+| Quigley, Mike | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220469.pdf) | - |
+| Radewagen, Aumua Amata Coleman | R | AS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059318.pdf) | - |
+| Ramirez, Delia C. | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059937.pdf) | - |
+| Raskin, Jamie | D | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059548.pdf) | - |
+| Reed, Jack | D | RI | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/8462e488-37da-44f6-84d2-410a3388114d/) | - |
+| Reschenthaler, Guy | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060469.pdf) | - |
+| Ricketts, Pete | R | NE | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/355ca0f6-a3d6-4d82-bb2f-d35283c4404d/) | - |
+| Risch, James E. | R | ID | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/6231982e-5f6c-4e56-bffb-b40ccd38397b/) | - |
+| Rodgers, Cathy | R | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057665.pdf) | - |
+| Rogers, Harold | R | KY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220606.pdf) | - |
+| Rogers, Mike D. | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220490.pdf) | - |
+| Romney, Mitt | R | UT | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/fe4735ee-8675-4ef8-9408-6c87340f1d81/) | - |
+| Rose, John W. | R | TN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061010.pdf) | - |
+| Rosen, Jacky | D | NV | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/f773ab4e-abed-426c-9c17-95a91cc78412/) | - |
+| Rosendale, Matthew M. | R | MT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059430.pdf) | - |
+| Ross, Deborah K. | D | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059715.pdf) | - |
+| Rounds, Mike | R | SD | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/157efca4-3dd9-4fa1-9f76-28801e38d12d/) | - |
+| Rouzer, David | R | NC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060621.pdf) | - |
+| Roy, Chip | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060253.pdf) | - |
+| Rubio, Marco | R | FL | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/45f8d47c-fa4b-4a5d-b810-33bf8e7e521b/) | - |
+| Ruiz, Raul | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058890.pdf) | - |
+| Ruppersberger, C. A. Dutch | D | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058985.pdf) | - |
+| Rutherford, John H. | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059848.pdf) | - |
+| Ryan, Patrick | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059418.pdf) | - |
+| Sablan, Gregorio Kilili Camacho | D | MP | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057550.pdf) | - |
+| Salazar, Maria Elvira | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057762.pdf) | - |
+| Salinas, Andrea | D | OR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057554.pdf) | - |
+| Sanchez, Linda T. | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061605.pdf) | - |
+| Sanders, Bernard | I | VT | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/73212fa2-e326-4793-8020-1d126e59054c/) | - |
+| Sarbanes, John P. | D | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060024.pdf) | - |
+| Scalise, Steve | R | LA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057111.pdf) | - |
+| Scanlon, Mary Gay | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060201.pdf) | - |
+| Schakowsky, Janice D. | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059251.pdf) | - |
+| Schatz, Brian | D | HI | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/c0bab3b6-4e45-4318-8f17-f06d7efbec4b/) | - |
+| Schiff, Adam B. | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057292.pdf) | - |
+| Schmitt, Eric | R | MO | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/b86d9173-de3a-4f1c-bf2c-29b7f956ba4f/) | - |
+| Schneider, Bradley Scott | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059475.pdf) | - |
+| Scholten, Hillary J. | D | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060915.pdf) | - |
+| Schrier, Kim | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057734.pdf) | - |
+| Schumer, Charles E. | D | NY | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/bba80a2f-2cff-4c01-a60e-416b8b44c8cd/) | - |
+| Schweikert, David | R | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060213.pdf) | - |
+| Scott, Austin | R | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062669.pdf) | - |
+| Scott, David | D | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062669.pdf) | - |
+| Scott, Rick | R | FL | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/f1c73d96-7e08-4a24-bd97-ec0b085782b8/) | - |
+| Scott, Robert C. "Bobby" | D | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061165.pdf) | - |
+| Scott, Tim | R | SC | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/31313d73-5cb1-4799-9622-ebbf621712a8/) | - |
+| Self, Keith | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220491.pdf) | - |
+| Sessions, Pete | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062485.pdf) | - |
+| Sewell, Terri A. | D | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062696.pdf) | - |
+| Shaheen, Jeanne | D | NH | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/952e43aa-f40c-4311-b8f1-b08d3e8ff097/) | - |
+| Sherman, Brad | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220492.pdf) | - |
+| Sherrill, Mikie | D | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060419.pdf) | - |
+| Simpson, Michael K. | R | ID | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059701.pdf) | - |
+| Sinema, Kyrsten | I | AZ | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/eb37d9be-fe95-4680-a93d-8e22b7f887cc/) | - |
+| Slotkin, Elissa | D | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060506.pdf) | - |
+| Smith, Adam | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059530.pdf) | - |
+| Smith, Adrian | R | NE | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059993.pdf) | - |
+| Smith, Christopher H. | R | NJ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061508.pdf) | - |
+| Smith, Jason | R | MO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060205.pdf) | - |
+| Smith, Tina | D | MN | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/2ebdc6b4-99ab-4386-a182-854495c34248/) | - |
+| Smucker, Lloyd | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059918.pdf) | - |
+| Sorensen, Eric | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059289.pdf) | - |
+| Soto, Darren | D | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059606.pdf) | - |
+| Spanberger, Abigail Davis | D | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058906.pdf) | - |
+| Spartz, Victoria | R | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061003.pdf) | - |
+| Stabenow, Debbie | D | MI | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/2a07642e-57d6-482c-abf1-71b5416afa66/) | - |
+| Stansbury, Melanie A. | D | NM | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061095.pdf) | - |
+| Stanton, Greg | D | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060122.pdf) | - |
+| Stauber, Pete | R | MN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059931.pdf) | - |
+| Steel, Michelle | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060211.pdf) | - |
+| Stefanik, Elise M. | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220576.pdf) | - |
+| Steil, Bryan | R | WI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059613.pdf) | - |
+| Steube, W. Gregory | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057284.pdf) | - |
+| Stevens, Haley M. | D | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060894.pdf) | - |
+| Strickland, Marilyn | D | WA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061264.pdf) | - |
+| Strong, Dale W. | R | AL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057458.pdf) | - |
+| Sullivan, Dan | R | AK | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/d312120e-0f6d-4d85-89f6-7aa083037537/) | - |
+| Suozzi, Thomas R. | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060566.pdf) | - |
+| Swalwell, Eric | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061638.pdf) | - |
+| Sykes, Emilia Strong | D | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059346.pdf) | - |
+| Takano, Mark | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061334.pdf) | - |
+| Tenney, Claudia | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060313.pdf) | - |
+| Tester, Jon | D | MT | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/d8a0617f-2a28-465f-933c-21f67dbdce0d/) | - |
+| Thanedar, Shri | D | MI | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057305.pdf) | Litecoin, Ethereum, Bitcoin |
+| Thompson, Bennie G. | D | MS | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060790.pdf) | - |
+| Thompson, Glenn | R | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059584.pdf) | - |
+| Thompson, Mike | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220493.pdf) | - |
+| Thune, John | R | SD | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/da632936-283a-44b9-a261-535973791a12/) | - |
+| Tiffany, Thomas P. | R | WI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059274.pdf) | - |
+| Tillis, Thomas | R | NC | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/5f91f59d-3962-48bd-a19f-fa97f502642f/) | - |
+| Timmons, William R. | R | SC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060199.pdf) | - |
+| Titus, Dina | D | NV | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220494.pdf) | - |
+| Tlaib, Rashida | D | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057613.pdf) | - |
+| Tokuda, Jill N. | D | HI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059942.pdf) | - |
+| Tonko, Paul | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060062.pdf) | - |
+| Torres, Norma J. | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060139.pdf) | - |
+| Torres, Ritchie | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060420.pdf) | - |
+| Trahan, Lori | D | MA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060049.pdf) | - |
+| Trone, David J. | D | MD | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059089.pdf) | - |
+| Tuberville, Tommy | R | AL | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/9fd713f6-2903-424f-9069-385bcfd463b4/) | - |
+| Turner, Michael R. | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057584.pdf) | - |
+| Underwood, Lauren | D | IL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058869.pdf) | - |
+| Valadao, David G. | R | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062640.pdf) | - |
+| Van Drew, Jefferson | R | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220495.pdf) | Greyscale Investment Trust |
+| Van Duyne, Beth | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062418.pdf) | - |
+| Van Hollen, Chris | D | MD | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/paper/875a1b37-8209-4276-8451-b8c1d8ee1a83/) | - |
+| Van Orden, Derrick | R | WI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060782.pdf) | - |
+| Vance, J. D. | R | OH | Senate | YES | [2024](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | BTCExchange/Platform: Coinbase |
+| Vargas, Juan | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060557.pdf) | - |
+| Vasquez, Gabe | D | NM | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061303.pdf) | - |
+| Veasey, Marc A. | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059416.pdf) | - |
+| Velázquez, Nydia M. | D | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060080.pdf) | - |
+| Wagner, Ann | R | MO | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059149.pdf) | - |
+| Walberg, Tim | R | MI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059633.pdf) | - |
+| Waltz, Michael | R | FL | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057260.pdf) | Bitcoin [OT] |
+| Warner, Mark R. | D | VA | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/3e6d6b43-dd61-4594-813e-1c35ce99c58b/) | - |
+| Warnock, Raphael G. | D | GA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/978c4901-4987-442b-8c3f-e40e28fc05ac/) | - |
+| Warren, Elizabeth | D | MA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/fd6288d2-f24d-4a46-ae29-96de9f53978e/) | - |
+| Wasserman Schultz, Debbie | D | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057649.pdf) | - |
+| Waters, Maxine | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062261.pdf) | - |
+| Weber, Randy K. Sr. | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062345.pdf) | - |
+| Webster, Daniel | R | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057044.pdf) | - |
+| Welch, Peter | D | VT | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/674866ed-cc5a-4165-8c6f-3fa5a519b201/) | - |
+| Wenstrup, Brad R. | R | OH | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059617.pdf) | - |
+| Westerman, Bruce | R | AR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060295.pdf) | - |
+| Wexton, Jennifer | D | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061314.pdf) | - |
+| Whitehouse, Sheldon | D | RI | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/1eb0d806-fa8f-44bd-a693-910e67cad938/) | - |
+| Wicker, Roger F. | R | MS | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/2f301679-7bb3-43a7-8adc-86dd7b13ddd9/) | - |
+| Wild, Susan | D | PA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060924.pdf) | - |
+| Williams, Brandon | R | NY | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061243.pdf) | - |
+| Williams, Nikema | D | GA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061324.pdf) | - |
+| Williams, Roger | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059583.pdf) | - |
+| Wilson, Frederica S. | D | FL | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060465.pdf) | - |
+| Wilson, Joe | R | SC | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060013.pdf) | - |
+| Wittman, Robert J. | R | VA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059371.pdf) | - |
+| Womack, Steve | R | AR | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059669.pdf) | - |
+| Wyden, Ron | D | OR | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/ed172e8b-cb21-4759-8a1c-7b7125fc3454/) | - |
+| Yakym, Rudy | R | IN | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060220.pdf) | - |
+| Young, Todd | R | IN | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/fb5f7acf-ca54-4557-87cf-33d7bacb6bfa/) | - |
+| Zinke, Ryan K. | R | MT | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059772.pdf) | - |
 
 
 Known Differences between the main README and the automatically generated one:
