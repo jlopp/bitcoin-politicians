@@ -1,21 +1,21 @@
 last_name,first_name,party,state,chamber,owner,filing_year,link,triggered_terms,matched_asset_names
-Arenholz,Ashley,R,IA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057096.pdf,"bitcoin, bito, btc, bitcoin, grayscale, gbtc","PROSHARES BITCOIN STRATEGY [BITO], GRAYSCALE BITCOIN TR BTC [GBTC]"
+Arenholz,Ashley,R,IA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057096.pdf,"btc, bitcoin, grayscale, gbtc, bitcoin, bito","GRAYSCALE BITCOIN TR BTC [GBTC], PROSHARES BITCOIN STRATEGY [BITO]"
 Boebert,Lauren,R,CO,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061648.pdf,crypto,Crypto Money Movement COIN
 Britt,Katie Boyd,R,AL,senate,True,2024,https://efdsearch.senate.gov/search/view/annual/ae8aa928-7d29-4e74-aac7-c8c9211713c7/,"block, inc","SQ - Block, Inc. Class A Common Stock,"
 Collins,Mike,R,GA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060539.pdf,"cryptocurrency, crypto",ETH Cryptocurrency [CT]
-Cruz,Ted,R,TX,senate,True,2024,https://efdsearch.senate.gov/search/view/annual/9675a1d6-d0cc-48bb-b0ee-fb1b99c3de0d/,"bitcoin, bitc",Bitcoin Exchange/Platform: River Financial Inc
+Cruz,Ted,R,TX,senate,True,2024,https://efdsearch.senate.gov/search/view/annual/9675a1d6-d0cc-48bb-b0ee-fb1b99c3de0d/,bitcoin,Bitcoin Exchange/Platform: River Financial Inc
 Fallon,Pat,R,TX,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060003.pdf,"block, inc","Block, Inc. Class A Common Stock, (SQ)"
-Goldman,Daniel S.,D,NY,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf,"coinbase, block, inc","Block, Inc. Class A Common Stock, (SQ), Coinbase Global, Inc. - Class A (COIN), Coinbase Global, Inc. - Class A Common Stock (COIN)"
+Goldman,Daniel S.,D,NY,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057681.pdf,"block, inc, coinbase","Block, Inc. Class A Common Stock, (SQ), Coinbase Global, Inc. - Class A Common Stock (COIN), Coinbase Global, Inc. - Class A (COIN)"
 Gottheimer,Josh,D,NJ,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf,"block, inc","Block, Inc. Class A Common Stock, (SQ) [ST], Block, Inc. Class A Common Stock, (SQ)"
 Graves,Garret,R,LA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059697.pdf,coinbase,"Coinbase Global, Inc. - Class A Common Stock (COIN) [ST]"
 Greene,Marjorie Taylor,R,GA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057355.pdf,"block, inc","Block, Inc. Class A Common Stock, (SQ) [ST]"
-Jackson,Jeff,D,NC,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf,"cryptocurrency, crypto, solana, cardano","Cardano, Solana, Cryptocurrency"
-Khanna,Ro,D,CA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220593.pdf,"block inc, block, inc","BLOCK INC CL A, BLOCK, INC. CMN CLASS A"
+Jackson,Jeff,D,NC,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061286.pdf,"cardano, solana, cryptocurrency, crypto","Cardano, Solana, Cryptocurrency"
+Khanna,Ro,D,CA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220593.pdf,"block, inc, block inc","BLOCK INC CL A, BLOCK, INC. CMN CLASS A"
 Pelosi,Nancy,D,CA,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059734.pdf,"block, inc","Block, Inc. Class A Common Stock"
-Thanedar,Shri,D,MI,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057305.pdf,"ethereum, bitcoin, litecoin","Bitcoin, Litecoin, Ethereum"
+Thanedar,Shri,D,MI,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057305.pdf,"ethereum, litecoin, bitcoin","Litecoin, Ethereum, Bitcoin"
 Van Drew,Jefferson,R,NJ,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220495.pdf,greyscale,Greyscale Investment Trust
 Vance,J. D.,R,OH,senate,True,2024,https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/,"btc, coinbase",BTCExchange/Platform: Coinbase
-Waltz,Michael,R,FL,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057260.pdf,"bitcoin, bitc",Bitcoin [OT]
+Waltz,Michael,R,FL,house,True,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057260.pdf,bitcoin,Bitcoin [OT]
 Adams,Alma S.,D,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059952.pdf,,
 Aderholt,Robert B.,R,AL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060381.pdf,,
 Aguilar,Pete,D,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060414.pdf,,
@@ -134,6 +134,7 @@ Cotton,Tom,R,AR,senate,False,2024,https://efdsearch.senate.gov/search/view/annua
 Courtney,Joe,D,CT,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057521.pdf,,
 Craig,Angie,D,MN,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220496.pdf,,
 Cramer,Kevin,R,ND,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/9025ef30-3182-4f55-98fd-cdf184ddd34b/,,
+Cramer,Kevin,R,ND,senate,False,2025,https://efdsearch.senate.gov/search/view/annual/91d94411-dd88-48e8-acc9-e386407a728f/,,
 Crane,Elijah,R,AZ,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060393.pdf,,
 Crapo,Mike,R,ID,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/0e3b35aa-e3be-4524-a1d0-00f8f10c2fe2/,,
 Crapo,Mike,R,ID,senate,False,2025,https://efdsearch.senate.gov/search/view/annual/75ec449f-af6f-41af-b911-48b0e9ed23c2/,,
@@ -197,6 +198,7 @@ Foushee,Valerie P.,D,NC,house,False,2023,https://disclosures-clerk.house.gov/pub
 Foxx,Virginia,R,NC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059335.pdf,,
 Frankel,Lois,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057235.pdf,,
 Franklin,C. Scott,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057719.pdf,,
+Franklin,Scott,R,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057719.pdf,,
 Frost,Maxwell,D,FL,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061610.pdf,,
 Fry,Russell,R,SC,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10058966.pdf,,
 Fulcher,Russ,R,ID,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060187.pdf,,
@@ -274,6 +276,7 @@ Jayapal,Pramila,D,WA,house,False,2023,https://disclosures-clerk.house.gov/public
 Jeffries,Hakeem S.,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059158.pdf,,
 Johnson,Dusty,R,SD,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059658.pdf,,
 Johnson,"Henry C. ""Hank""",D,GA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060742.pdf,,
+Johnson,Julie,D,TX,house,False,2021,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2021/10046144.pdf,,
 Johnson,Mike,R,LA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059254.pdf,,
 Johnson,Ron,R,WI,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/d9214500-b134-4e99-8584-0e49cfb247e9/,,
 Johnson,Ron,R,WI,senate,False,2025,https://efdsearch.senate.gov/search/view/annual/be1cbc9f-7e98-4e7d-9f90-a060498d5449/,,
@@ -292,6 +295,7 @@ Kelly,Robin L.,D,IL,house,False,2023,https://disclosures-clerk.house.gov/public_
 Kelly,Trent,R,MS,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059344.pdf,,
 Kennedy,John,R,LA,senate,False,2024,https://efdsearch.senate.gov/search/view/annual/074d6eed-7fc7-41ec-900d-ee22977637f1/,,
 Kennedy,Timothy M.,D,NY,house,False,2024,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10062077.pdf,,
+Kennedy,Timothy M.,D,NY,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062077.pdf,,
 Kiggans,Jennifer A.,R,VA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059067.pdf,,
 Kildee,Daniel T.,D,MI,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059494.pdf,,
 Kiley,Kevin,R,CA,house,False,2023,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059609.pdf,,
