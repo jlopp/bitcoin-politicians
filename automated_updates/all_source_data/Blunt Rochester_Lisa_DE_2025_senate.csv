@@ -1,0 +1,53 @@
+1,American Funds 529Institution: American Funds,Education Savings Plans529 College Savings Plan,Self,,,
+1.1,FCFGX - American Funds College 2039 Fund Class 529-F-2,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+2,"Santander(Wilmington, DE)Type: Checking, Savings,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+3,"Wells Fargo(Wilmington, DE)Type: Checking, Savings,",Bank Deposit,Self,"$15,001 - $50,000","Interest,",None (or less than $201)
+4,Charles Schwab Roth IRA,Retirement PlansIRA,Self,,,
+4.1,DFISX - Dfa International Small Company Portfolio,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.2,IEMG - iShares Core MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+4.3,VEA - Vanguard FTSE Developed Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","None,",None (or less than $201)
+4.4,"Charles Schwab(Wilmington, DE)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+5,Charles Schwab IRA,Retirement PlansIRA,Self,,,
+5.1,XLRE - S&P 500 Real Estate Sector SPDR,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","None,",None (or less than $201)
+5.2,VEA - Vanguard FTSE Developed Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","None,",None (or less than $201)
+5.3,SPMD - SPDR Mid Cap Portfolio ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+5.4,IEMG - iShares Core MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","None,",None (or less than $201)
+5.5,VCIT - Vanguard Intermediate-Term Corporate Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","None,",None (or less than $201)
+5.6,BND - Vanguard Total Bond Market ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","None,",None (or less than $201)
+5.7,VGIT - Vanguard Intermediate-Term Treasury ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None,",None (or less than $201)
+5.8,"Charles Schwab(Wilmington, DE)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+6,Lisa Blunt Rochester Revocable Trust,TrustGeneral Trust,Self,,,
+6.1,"Seton VillaDescription: Prior residence. (Wilmington, DE)",Real EstateResidential,Self,"$250,001 - $500,000","None,",None (or less than $201)
+6.2,"Charles Schwab(Wilmington, DE)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$100,001 - $250,000","Interest,","$201 - $1,000"
+6.3,Charles Schwab Revocable Trust,Brokerage/Managed Account,Self,,,
+6.3.1,"Charles Schwab(Wilmington, DE)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$50,001 - $100,000","Interest,",None (or less than $201)
+6.3.2,AGG - iShares Core U.S. Aggregate Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,000,001 - $5,000,000","Dividends,","$15,001 - $50,000"
+6.3.3,SPSB - SPDR Short Term Corporate Bond Portfolio ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+6.3.4,IEI - iShares 3-7 Year Treasury Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Dividends, Capital Gains,","$5,001 - $15,000"
+6.3.5,VCIT - Vanguard Intermediate-Term Corporate Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+6.3.6,VGIT - Vanguard Intermediate-Term Treasury ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Dividends, Capital Gains,",None (or less than $201)
+6.3.7,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Self,"$1,000,001 - $5,000,000","Dividends,","$15,001 - $50,000"
+6.3.8,VEA - Vanguard FTSE Developed Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$500,001 - $1,000,000","Dividends,","$15,001 - $50,000"
+6.3.9,IEMG - iShares Core MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$250,001 - $500,000","Dividends, Capital Gains,","$5,001 - $15,000"
+6.3.10,IWR - iShares Russell Mid-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+6.3.11,IJR - iShares Core S&P Small-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+6.3.12,AVDV - Avantis International Small Cap Value ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+6.3.13,VUG - Vanguard Growth ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Dividends, Capital Gains,","$15,001 - $50,000"
+6.3.14,IJH - iShares Core S&P Mid-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Dividends,","$1,001 - $2,500"
+6.3.15,DFSCX - Dfa U.S. Micro Cap Portfolio,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+6.3.16,DFSVX - Dfa U.S. Small Cap Value Portfolio,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+6.4,"ToskCompany: Tosk, Inc. (Wilmington, DE) Description: Biopharmaceutical company.",Corporate SecuritiesNon-Public Stock,Self,"$15,001 - $50,000","None,",None (or less than $201)
+7,Schneider Electric Pension,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,"None,",None (or less than $201)
+8,Delaware Pension,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,"None,",None (or less than $201)
+9,Donor Advised Fund,Brokerage/Managed Account,Self,,,
+9.1,"Charles Schwab(Wilmington, DE)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+9.2,BND - Vanguard Total Bond Market ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","None,",None (or less than $201)
+9.3,XLRE - S&P 500 Real Estate Sector SPDR,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","None,",None (or less than $201)
+9.4,SPLG - SPDR Large Cap Portfolio ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","None,",None (or less than $201)
+9.5,VEA - Vanguard FTSE Developed Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+9.6,SPMD - SPDR Mid Cap Portfolio ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+9.7,AVUV - Avantis U.S. Small Cap Value ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+9.8,IEMG - iShares Core MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None,",None (or less than $201)
+9.9,AVDV - Avantis International Small Cap Value ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","None,",None (or less than $201)
+9.10,Delaware Community Foundation,Brokerage/Managed Account,Self,,,
+9.10.1,Delaware Community Foundation Flagship Long-Term Pool,Equity Index-Linked Note,Self,"$250,001 - $500,000","None,",None (or less than $201)

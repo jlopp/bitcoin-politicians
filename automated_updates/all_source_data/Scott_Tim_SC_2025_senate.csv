@@ -1,0 +1,74 @@
+1,"RIVERTOWN INVESTMENTS, LLC (50% INTEREST)Company: RIVERTOWN INVESTMENTS, LLC (CHARLESTON, SC) Description: RESIDENTIAL REAL ESTATE",Business EntityLimited Liability Company (LLC),Self,,,
+1.1,"GOOSE CREEK, SC Description: RESIDENTIAL RENTAL (GOOSE CREEK, SC)",Real EstateResidential,Self,"$100,001 - $250,000","Rent/Royalties,","$1,001 - $2,500"
+1.2,"HANAHAN, SCDescription: RESIDENTIAL RENTAL (HANAHAN, SC) (Hanahan, SC)",Real EstateResidential,Self,"$100,001 - $250,000","Rent/Royalties,","$201 - $1,000"
+1.3,"SUMMERVILLE, SCDescription: Residential Rental (Summerville, SC)",Real EstateResidential,Self,"$100,001 - $250,000","Rent/Royalties,","$2,501 - $5,000"
+2,"CONGRESSIONAL FEDERAL CREDIT UNION(WASHINGTON, DC)Type: Checking,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+3,ALLSTATE INSURANCE COMPANYProvider: ALLSTATE INSURANCE COMPANY,Life InsuranceUniversal,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+4,ALLSTATE INSURANCE COMPANYProvider: ALLSTATE INSURANCE COMPANY,Life InsuranceUniversal,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+5,LINCOLN BENEFIT/ALLSTATE INSURANCE COMPANY,Life InsuranceVariable,Self,,,
+5.1,FGIKX - Fidelity Growth & Income K (NASDAQ),Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+5.2,FASIX - Fidelity Asset Manager 20% (NASDAQ),Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+6,SC RETIREMENT SYSTEM,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000","None,",None (or less than $201)
+7,CHARLES SCHWAB BROKERAGE ACCT,Brokerage/Managed Account,Self,,,
+7.1,"Charles Schwab(Westlake, TX)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$15,001 - $50,000","Interest,",None (or less than $201)
+7.2,AT&T INC,Corporate SecuritiesStock,Self,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+7.3,ALPHABET INC,Corporate SecuritiesStock,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7.4,AMERICAN AIRLS GROUP,Corporate SecuritiesStock,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.5,APPLE INC,Corporate SecuritiesStock,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7.6,BOEING CO,Corporate SecuritiesStock,Self,"$15,001 - $50,000","Dividends,",None (or less than $201)
+7.7,DELTA AIR LINES INC DEL,Corporate SecuritiesStock,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7.8,PALANTIR TECHNOLOGIES INC,Corporate SecuritiesStock,Self,"None (or less than $1,001)","Capital Gains,","$201 - $1,000"
+7.9,PROCTOR & GAMBLE,Corporate SecuritiesStock,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7.10,TARGET CORP,Corporate SecuritiesStock,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7.11,THE COCA-COLA CO,Corporate SecuritiesStock,Self,"$1,001 - $15,000","Dividends,",None (or less than $201)
+7.12,ISHARES TIPS BOND ETF,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+7.13,NUSI - Nationwide Nasdaq-100 Risk-Managed Income ETF,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+7.14,XLF - SPDR Select Sector Fund - Financial,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+7.15,BEST BUY,Corporate SecuritiesStock,Self,"None (or less than $1,001)","Dividends,",None (or less than $201)
+7.16,FORD MOTOR CO,Corporate SecuritiesStock,Self,"None (or less than $1,001)","Dividends,",None (or less than $201)
+7.17,Tesla Inc,Corporate SecuritiesStock,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.18,NUSI - NEOS Nasdaq-100 Hedged Equity Income ETF,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+8,ALLSTATE BROKERAGE ACCOUNT,Brokerage/Managed Account,Self,,,
+8.1,OPPAX - Invesco Global Fund Class A,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,","$1,001 - $2,500"
+9,"WELLS FARGO(CHARLESTON, SC)Type: Checking, Savings,",Bank Deposit,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+10,BAIRD BROKERAGE/MANAGED ACCOUNT,Brokerage/Managed Account,Spouse,,,
+10.1,"BAIRD(MILWAUKEE, WI)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"None (or less than $1,001)","Interest,",None (or less than $201)
+10.2,AMZN - Amazon.com Inc,Corporate SecuritiesStock,Spouse,"$250,001 - $500,000","Dividends,",None (or less than $201)
+10.3,VANGUARD TREASURY MONEY MARKET INVESTOR CLRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Spouse,"$1,000,001 - $5,000,000","Interest,","$5,001 - $15,000"
+11,BAIRD BROKERAGE/MANAGED ACCOUNT (2ND),Brokerage/Managed Account,Spouse,,,
+11.1,"BAIRD(MILWAUKEE, WI)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$15,001 - $50,000","Interest,","$1,001 - $2,500"
+11.2,BA - Boeing Company,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+11.3,SAMT - Strategas Macro Thematic Opportunities ETF,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,","$2,501 - $5,000"
+11.4,DVY - iShares Select Dividend ETF,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+11.5,IJR - iShares Core S&P Small-Cap,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+11.6,DGRO - iShares Core Dividend Growth ETF,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,","$2,501 - $5,000"
+11.7,IDV - iShares International Select Dividend ETF,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,","$2,501 - $5,000"
+11.8,RSP - Invesco S&P 500 Equal Weight ETF,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,","$1,001 - $2,500"
+11.9,MCVIX - MFS Mid Cap Value Fund - Class I,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,","$5,001 - $15,000"
+11.10,XLK - S&P 500 Technology Sector SPDR,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+11.11,SUB - iShares Short-Term National Muni Bond ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+11.12,MUB - iShares National Muni Bond ETF,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,","$2,501 - $5,000"
+12,Spousal IRA,Retirement PlansIRA,Spouse,,,
+12.1,"BAIRD(MILWAUKEE, WI)Type: Money Market Account,",Bank Deposit,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13,Spousal SEP-IRA,Retirement PlansIRA,Spouse,,,
+13.1,"BAIRD(MILWAUKEE, WI)Type: Money Market Account,",Bank Deposit,Spouse,"None (or less than $1,001)","None,",None (or less than $201)
+13.2,AEIYX - American Century Equity Income Fund - Y Class,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.3,SAMT - Strategas Macro Thematic Opportunities ETF,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.4,BMDIX - Baird Midcap Fd Inst Cl,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.5,CCWIX - Baird Chautauqua International Growth Fund - Ins,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.6,DCZRX - Delaware Small Cap Core Fund Class R6,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.7,QUAL - iShares MSCI USA Quality Factor ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+13.8,IVV - iShares Core S&P 500 ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+13.9,MCVIX - MFS Mid Cap Value Fund - Class I,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.10,PRUFX - T. Rowe Price Growth Stock Fund - I Class,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.11,VEA - Vanguard FTSE Developed Markets ETF,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.12,LCRIX - Leuthold Core Investment Fund Inst Cl,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.13,DODIX - Dodge & Cox Income Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.14,PIMIX - Pimco Income Fund Insti Class,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13.15,TSIIX - Thornburg Strategic Income Fund Class I Shs,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+14,SC 529 PLANInstitution: SOUTH CAROLINA,Education Savings Plans529 College Savings Plan,Spouse,,,
+14.1,CMDAX - Columbia Moderate Track Ages 16-17 Class Ag,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+15,SC 529 PLANInstitution: SOUTH CAROLINA,Education Savings Plans529 College Savings Plan,Spouse,,,
+15.1,CLGAX - Columbia Moderate Track Ages 18+ Class Ag,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+16,"SPOUSAL BUSINESSCompany: MEB, LLC (CHARLESTON, SC) Description: REAL ESTATE SALES AND INVESTMENTS",Business EntityLimited Liability Company (LLC),Spouse,,,
+16.1,"WELLS FARGO(CHARLESTON, SC)Type: Checking,",Bank Deposit,Spouse,"$50,001 - $100,000","None,",None (or less than $201)

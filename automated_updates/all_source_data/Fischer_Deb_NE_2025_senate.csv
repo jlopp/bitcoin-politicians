@@ -1,0 +1,39 @@
+1,"Wells Fargo(Valentine, NE)Type: Checking,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+2,"Rocky Ford LandDescription: Agricultural Land (Valentine, NE)",Real EstateUnimproved Land,Joint,"$15,001 - $50,000","None,",None (or less than $201)
+3,"Union Bank & Trust(Lincoln, NE)Type: Checking,",Bank Deposit,Joint,"None (or less than $1,001)","Interest,","$201 - $1,000"
+4,"Sunny Slope Ranch, IncCompany: Sunny Slope Ranch, Inc. (Valentine, NE) Description: Ranching",Corporate SecuritiesNon-Public Stock,Self,"$1,000,001 - $5,000,000","None,",None (or less than $201)
+5,"Sunny Slope Ranch, IncCompany: Sunny Slope Ranch, Inc (Valentine, NE) Description: Ranching",Corporate SecuritiesNon-Public Stock,Spouse,"Over $1,000,000 and held independently by spouse or dependent child","None,",None (or less than $201)
+6,"Wells Fargo(Valentine, NE)Type: Savings,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+7,Debra Fischer Beneficiary IRA,Retirement PlansIRA,Self,,,
+7.1,DCCIX - Delaware Small Cap Core Fund Institutional,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.2,ICEIX - Ivy International Core Equity Fund Class I,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.3,LASYX - Loomis Sayles Strategic Alpha Fund Class Y,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.4,LSWWX - Loomis Sayles Global Allocation Fund Class Y,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.5,NERYX - Loomis Sayles Core Plus Bond Fd Cl Y,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.6,PARWX - Parnassus Endeavor Fund - Investor Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.7,PONPX - Pimco Income Fund Class I-2,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+7.8,PRWCX - T. Rowe Price Capital Appreciation Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.9,THIIX - Thornburg Limited Term Income Fd Cl I Shs,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","None,",None (or less than $201)
+7.10,"TOWN BANK NATIONAL ASSSOCIATION(HEARTLAND, WI)Type: IRA Cash Accounts,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.11,"FJNUEX FIRST TRUST VEST NASDAQ 100 BUFFERED 20,10",Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+7.12,"FSVGBX FIRST TRUST VEST LARGE CAP DEEP BUFFERED 20, 56",Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+8,LPL Financial,Brokerage/Managed Account,Joint,,,
+8.1,XLE - SPDR Select Sector Fund - Energy Select Sector,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+8.2,BIL - SPDR Bloomberg 1-3 Month T-Bill ETF,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+8.3,SPEM - SPDR Emerging Markets Portfolio ETF,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+8.4,SPDW - SPDR Portfolio Developed World ex-US ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+8.5,SPYG - SPDR S&P 500 Growth Portfolio ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+8.6,SPYV - SPDR S&P 500 Value Portfolio ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+8.7,SLYG - SPDR S&P 600 Small Cap Growth ETF (based on S&P Sm,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+8.8,SLYV - SPDR S&P 600 Small Cap Value ETF (based on S&P Sma,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+8.9,XME - SPDR S&P Metals & Mining ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+8.10,XOP - SPDR S&P Oil & Gas Explor & Product,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+8.11,RAAX - Vaneck Inflation Allocation ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+8.12,"Truist Bank(Fort Mill, SC)Type: Money Market Account,",Bank Deposit,Joint,"None (or less than $1,001)","Interest,",None (or less than $201)
+8.13,"Citibank NA(New Castle, Delaware)Type: Brokerage Sweep Account,",Bank Deposit,Joint,"None (or less than $1,001)","Interest,",None (or less than $201)
+8.14,"FJCRRX FIRST TRUST CBOE VEST LARGE CAP DEEP BUFFERED 20, 39",Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Dividends,","$201 - $1,000"
+8.15,"FZBZQX FIRST TRUST CBOE VEST LARGE CAP DEEP BUFFERED 30, 12",Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Dividends,","$201 - $1,000"
+8.16,"US BANK NATIONAL ASSOCIATION(ST PAUL, MINNESOTA)Type: Brokerage Sweep Account,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,","$201 - $1,000"
+8.17,"FYUORX FIRST TRUST VEST SMALL CAP BUFFERED 20, 5",Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+8.18,"FPDNTX FIRST TRUST VEST NASDAQ 100 BUFFERED 20, 17",Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+9,"Note Receivable Company: Sunny Slope Ranch Inc (Valentine, Nebraska)",Accounts ReceivableFrom a Business,Joint,"$100,001 - $250,000","Interest,","$5,001 - $15,000"

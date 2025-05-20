@@ -1,0 +1,75 @@
+1,BFIGX - American Funds Inflation Linked Bond Fund - Clas,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+2,BREIX - Baron Real Estate Fd Insti Shs,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Dividends, Capital Gains,","$201 - $1,000"
+3,FCNTX-Fidelity Contrafund (NASDAQ),Mutual FundsMutual Fund,Self,"$500,001 - $1,000,000","Dividends, Capital Gains,","$15,001 - $50,000"
+4,SGIIX-First Eagle Global I (NASDAQ),Mutual FundsMutual Fund,Self,"$250,001 - $500,000","Dividends, Capital Gains,","$5,001 - $15,000"
+5,FLMVX - JPMorgan Mid Cap Value L,Mutual FundsMutual Fund,Self,"$250,001 - $500,000","Dividends, Capital Gains,","$15,001 - $50,000"
+6,HFQIX - Janus Henderson Global Equity Income Fund - I Sh,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+7,NINLX - Neuberger Berman Intrinsic Value Insti,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Capital Gains,","$201 - $1,000"
+8,PRGTX - T. Rowe Price Global Technology Fd Inc,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+9,PRNHX-T. Rowe Price New Horizons (NASDAQ),Mutual FundsMutual Fund,Self,"$500,001 - $1,000,000","Capital Gains,","$15,001 - $50,000"
+10,VLIIX - Value Line Capital Appreciation Fund Inc. Insti,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Dividends,","$1,001 - $2,500"
+11,"Tompson-Hoeven PartnershipCompany: Tompson-Hoeven Partnership (Bismarck, North Dakota) Description: Montana Farmland Rental",Business EntityGeneral Partnership,Self,,,
+11.1,"FarmlandDescription: 720 acres of farmland (Stanford, MT)",Real EstateUnimproved Land,Self,"$50,001 - $100,000","Rent/Royalties, Interest,","$2,501 - $5,000"
+12,First Western Bank & Trust IRA,Retirement PlansIRA,Spouse,,,
+12.1,DFREX - DFA Real Estate Securities Portfolio Institutional,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+12.2,JHQRX - JPMorgan Hedged Equity Fund Class R6,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+12.3,FSMAX - Fidelity Extended Market Index Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+12.4,VFIAX - Vanguard 500 Index Fund Admiral Shares,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+12.5,VTMGX - Vanguard Developed Markets Index Fund Admiral Shar,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+12.6,FIQVX - Fidelity Advisor Convertible Securities Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","None,",None (or less than $201)
+13,First Western Bank & Trust IRA,Retirement PlansIRA,Self,,,
+13.1,VSMAX - Vanguard Small Cap Index Adm (NASDAQ),Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+13.2,CSRSX - Cohen & Steers Realty Shares Fund Class L,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+13.3,JHQRX - JPMorgan Hedged Equity Fund Class R6,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+13.4,OIEJX - JPMorgan Equity Income Fund Class R6,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","None,",None (or less than $201)
+13.5,TMPRX - Touchstone Mid Cap Fund Class R6,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+13.6,VTMGX - Vanguard Developed Markets Index Fund Admiral Shar,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","None,",None (or less than $201)
+13.7,FIHBX - Federated Hermes Institutional High Yield Bond Fun,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+13.8,FBKWX - Fidelity Advisor Total Bond Fund Class Z,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","None,",None (or less than $201)
+13.9,FIPDX - Fidelity Inflation-Protected Bond Index Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+13.10,VBTLX - Vanguard Total Bond Market Index Fund Admiral Shar,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+13.11,VIGAX - Vanguard Growth Index Fd Admiral Shs,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","None,",None (or less than $201)
+13.12,FUMBX - Fidelity Short-Term Treasury Bond Index Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+13.13,FIQVX - Fidelity Advisor Convertible Securities Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+13.14,JMBUX - Jpmorgan Mortgage Backed Securities Fund R6,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","None,",None (or less than $201)
+13.15,VWETX - Vanguard Long-Term Investment Grade Fund Admiral,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","None,",None (or less than $201)
+14,John Hoeven Qualified Blind Trust,TrustBlind,Self,"$5,000,001 - $25,000,000","Qualified Blind Trust,","$1,000,001 - $5,000,000"
+15,"Hoeven Family, LLLPCompany: Hoeven Family, LLLP (Bismarck, ND) Description: Holding company",Business EntityLimited Liability Limited Partnership (LLLP),Self,,,
+15.1,"Westbrand, Inc. Company: Westbrand, Inc. (Minot, ND) Description: Bank Holding Company",Corporate SecuritiesNon-Public Stock,Self,"$1,000,001 - $5,000,000","Dividends,","$50,001 - $100,000"
+16,"John H. Hoeven, III 2021 Irrevocable Spousal Lifetime Access Trust",TrustGeneral Trust,Spouse,,,
+16.1,"Hoeven Family, LLLPCompany: Hoeven Family, LLLP (Bismarck, ND) Description: Holding company",Business EntityLimited Liability Limited Partnership (LLLP),Spouse,,,
+16.1.1,"Westbrand, Inc.Company: Westbrand, Inc. (Minot, ND) Description: Bank Holding Company",Corporate SecuritiesNon-Public Stock,Spouse,"$5,000,001 - $25,000,000","Dividends,","$50,001 - $100,000"
+17,"First Western Bank & Trust(Minot, North Dakota)Type: Certificate of Deposit, Checking, Money Market Account,",Bank Deposit,Self,"$1,000,001 - $5,000,000","Interest,","$100,001 - $1,000,000"
+18,"First Western Bank & Trust(Minot, North Dakota)Type: Checking, Savings,",Bank Deposit,Spouse,"$15,001 - $50,000","Interest,","$2,501 - $5,000"
+19,"Stifel(Bismarck, North Dakota)Type: Money Market Account,",Bank Deposit,Self,"$15,001 - $50,000","Interest,","$201 - $1,000"
+20,"Hoeven Family, LLLPCompany: Hoeven Family, LLLP (BISMARCK, ND) Description: Holding company",Business EntityLimited Liability Limited Partnership (LLLP),Spouse,,,
+20.1,"Westbrand, Inc.Company: Westbrand, Inc. (Minot, ND) Description: Bank Holding Company",Corporate SecuritiesNon-Public Stock,Spouse,"$1,000,001 - $5,000,000","Dividends,","$1,001 - $2,500"
+21,CSRSX - Cohen & Steers Realty Shares Inc.,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Dividends, Capital Gains, Other, (Nondividend distribution)","$2,501 - $5,000Other $1,001.00"
+22,FIQVX - Fidelity Advisor Convertible Securities Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends, Capital Gains,","$5,001 - $15,000"
+23,JHQRX - Jpmorgan Hedged Equity Fund - R6,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Dividends, Capital Gains,","$2,501 - $5,000"
+24,DAADX - Emerging Markets Ex China Core Equity Portfolio,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Dividends, Capital Gains,","$5,001 - $15,000"
+25,OIEJX - Jpmorgan Equity Income Fund R6,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Dividends, Capital Gains,","$5,001 - $15,000"
+26,JEPRX - Jpmorgan Equity Premium Income Fund Class R6,Mutual FundsMutual Fund,Self,"$250,001 - $500,000","Dividends, Capital Gains,","$50,001 - $100,000"
+27,TMPRX - Touchstone Mid Cap Fund Class R6,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Dividends, Capital Gains,","$5,001 - $15,000"
+28,VTMGX - Vanguard Developed Markets Index Admiral,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Dividends, Capital Gains,","$15,001 - $50,000"
+29,VIGAX - Vanguard Growth Index Fd Admiral Shs,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Dividends, Capital Gains,","$15,001 - $50,000"
+30,VPADX - Vanguard Pacific Stock Index Fund Admiral Shares,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends, Capital Gains,","$1,001 - $2,500"
+31,VSMAX - Vanguard Small Cap Index Fd Admiral Shs,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Dividends, Capital Gains,","$5,001 - $15,000"
+32,OSTSX - Jpmorgan Short Class Intermediate Municipal Bond,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","Interest, Capital Gains,","$2,501 - $5,000"
+33,PHMIX - Pimco Fds High Yield Municipal Bond Fund Insti,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Interest, Capital Gains,","$2,501 - $5,000"
+34,VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Interest, Capital Gains,","$5,001 - $15,000"
+35,VWLUX - Vanguard Long-Term Tax-Exempt Fd Admiral Shs,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Interest, Capital Gains,","$5,001 - $15,000"
+36,CSRSX - Cohen & Steers Realty Shares Inc.,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+37,FIQVX - Fidelity Advisor Convertible Securities Fund,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Dividends, Capital Gains,","$1,001 - $2,500"
+38,JHQRX - Jpmorgan Hedged Equity Fund - R6,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+39,DAADX - Emerging Markets Ex China Core Equity Portfolio,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Dividends,","$1,001 - $2,500"
+40,OIEJX - Jpmorgan Equity Income Fund R6,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Dividends, Capital Gains,","$5,001 - $15,000"
+41,JEPRX - Jpmorgan Equity Premium Income Fund Class R6,Mutual FundsMutual Fund,Spouse,"$500,001 - $1,000,000","Dividends,","$2,501 - $5,000"
+42,TMPRX - Touchstone Mid Cap Fund Class R6,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Dividends, Capital Gains,","$5,001 - $15,000"
+43,VTMGX - Vanguard Developed Markets Index Admiral,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Dividends,","$2,501 - $5,000"
+44,VIGAX - Vanguard Growth Index Fd Admiral Shs,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Dividends,","$201 - $1,000"
+45,VPADX - Vanguard Pacific Stock Index Fund Admiral Shares,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+46,VSMAX - Vanguard Small Cap Index Fd Admiral Shs,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+47,PHMIX - Pimco Fds High Yield Municipal Bond Fund Insti,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+48,VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","None,",None (or less than $201)
+49,VWLUX - Vanguard Long-Term Tax-Exempt Fd Admiral Shs,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
