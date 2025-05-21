@@ -32,14 +32,27 @@ def deduplicate_link_source_file():
         print(f"No file found at {csv_file_path}")
         return
     
-    df = pd.read_csv(csv_file_path)
+    try:
+        # First try with standard reading
+        df = pd.read_csv(csv_file_path)
+    except pd.errors.ParserError as e:
+        print(f"Error reading CSV file: {e}")
+        print("Attempting to read with error handling...")
+        # Try with error handling (pandas version compatibility)
+        try:
+            # For pandas 1.4+
+            df = pd.read_csv(csv_file_path, on_bad_lines='warn')
+        except TypeError:
+            # For older pandas versions
+            df = pd.read_csv(csv_file_path, error_bad_lines=False, warn_bad_lines=True)
+        
+    print(df.head())
     df = df.drop_duplicates()
     df.to_csv(csv_file_path, index=False)
 
 def get_new_disclosures():
     source_data_links = pd.read_csv(os.path.join(source_data_dir, "source_data_links.csv"))
     final_summary_data = pd.read_csv('./final_datasets/final_summary_data.csv')
-
     merged_data = source_data_links.merge(
         final_summary_data,
         on=['last_name', 'first_name', 'state'],

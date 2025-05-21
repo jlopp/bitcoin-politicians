@@ -1,0 +1,94 @@
+1,"TDBank(Bangor, ME)Type: Checking,",Bank Deposit,Joint,"$50,001 - $100,000","Interest,",None (or less than $201)
+2,"TDBank(Bangor, ME)Type: Certificate of Deposit,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,","$1,001 - $2,500"
+3,"TDBank(Bangor, ME)Type: Savings,",Bank Deposit,Spouse,"$500,001 - $1,000,000","Interest,","$15,001 - $50,000"
+4,"TDBank(Bangor, ME)Type: Certificate of Deposit,",Bank Deposit,Spouse,"$100,001 - $250,000","Interest,","$5,001 - $15,000"
+5,"Bangor Savings Bank(Bangor, Maine)Type: Checking,",Bank Deposit,Joint,"$50,001 - $100,000","Interest,",None (or less than $201)
+6,"US Senate Federal CU(Alexandria, VA)Type: Savings,",Bank Deposit,Self,"$15,001 - $50,000","Interest,","$201 - $1,000"
+7,"VOYA - Voya Financial, Inc.",Deferred CompensationDeferred Compensation - Other,Self,,,
+7.1,INGIX - Voya U.S. Stock Index Fund,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,","$15,001 - $50,000"
+8,FASMX - Fidelity Asset Manager 50%Filer comment:  (IRA),Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,","$15,001 - $50,000"
+9,FSKAX - Fidelity Total Market Index FundFiler comment:  (IRA),Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,","$15,001 - $50,000"
+10,VEU - Vanguard All-World ex-US Shares Index ETF,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+11,SWGXX-Schwab Gov Securities Fd 808515209Filer comment:  (Trust),Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+12,SWGXX-Schwab Gov Securities Fd 808515209Filer comment:  (IRA),Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+13,SNOXX - Schwab Treasury Obligations Money FundFiler comment:  (Trust),Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Dividends, Capital Gains,","$5,001 - $15,000"
+14,SNOXX - Schwab Treasury Obligations Money FundFiler comment:  (IRA),Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+15,FIGRX - Fidelity International Discovery Fund,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+16,VWSUX - Vanguard Short-Term Tax-Exempt Fd Admiral,Mutual FundsMutual Fund,Spouse,"None (or less than $1,001)","Dividends,","$201 - $1,000"
+17,VTI - Vanguard Total Stock Market ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$250,001 - $500,000","Dividends,","$2,501 - $5,000"
+18,IJH - iShares Core S&P Mid-Cap ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+19,SPY - SPDR S&P 500 ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+20,VIG - Vanguard Div Appreciation ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$100,001 - $250,000","Dividends,","$2,501 - $5,000"
+21,Federal Farm Credit Bank 3133EMBH4Rate/Coupon: 0.530%  Matures: 09/29/2025,Corporate SecuritiesCorporate Bond,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+22,Federal Home Loan Bank 3130AQAT0Rate/Coupon: 1.280%  Matures: 12/29/2025,Corporate SecuritiesCorporate Bond,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+23,"LIL - Lennox International, Inc. 526107AF4Rate/Coupon: 1.700%  Matures: 08/01/2027",Corporate SecuritiesCorporate Bond,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+24,Paypal Holdings Inc. 70450YAC7Rate/Coupon: 2.400%  Matures: 10/01/2024,Corporate SecuritiesCorporate Bond,Spouse,"None (or less than $1,001)","Interest,","$1,001 - $2,500"
+25,Parker-Hannifin Corp 701094AQ7Rate/Coupon: 3.650%  Matures: 6/15/2024,Corporate SecuritiesCorporate Bond,Spouse,"None (or less than $1,001)","Interest,","$201 - $1,000"
+26,Biogen Inc 09062XAF0Rate/Coupon: 4.050%  Matures: 9/15/2025,Corporate SecuritiesCorporate Bond,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+27,Fidelity National Information Services 31620MBW5Rate/Coupon: 4.700%  Matures: 7/15/2027,Corporate SecuritiesCorporate Bond,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+28,Thermo Fisher Scientific Inc 883556CU4Rate/Coupon: 4.950%  Matures: 11/21/2032,Corporate SecuritiesCorporate Bond,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+29,Wells Fargo & Co 95001DGW4Rate/Coupon: 5.450%  Matures: 8/8/2034,Corporate SecuritiesCorporate Bond,Spouse,"$15,001 - $50,000","Interest,",None (or less than $201)
+30,Portland ME Arpt Rev Green Bd 736564DZ5Rate/Coupon: 4.000%  Matures: 01/01/2024,Government SecuritiesMunicipal Security,Spouse,"None (or less than $1,001)","Interest,","$201 - $1,000"
+31,Waterville ME 942231QM6Rate/Coupon: 2.125%  Matures: 04/01/2024,Government SecuritiesMunicipal Security,Spouse,"None (or less than $1,001)","Interest,","$201 - $1,000"
+32,ME St Muni Bond Bank 56045RWK1Rate/Coupon: 2.625%  Matures: 09/01/2028,Government SecuritiesMunicipal Security,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+33,ME St Housing Auth 56052FVT9Rate/Coupon: 1.200%  Matures: 11/15/2028,Government SecuritiesMunicipal Security,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+34,Maine St 56052AE93Rate/Coupon: 1.000%  Matures: 06/01/2024,Government SecuritiesMunicipal Security,Spouse,"None (or less than $1,001)","Interest,","$201 - $1,000"
+35,Scarborough ME 806075S57Rate/Coupon: 2.000%  Matures: 11/01/2026,Government SecuritiesMunicipal Security,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+36,ME St Housing Auth (Social Bds) Ser D 56052FWH4Rate/Coupon: 1.375%  Matures: 11/15/2028,Government SecuritiesMunicipal Security,Spouse,"$50,001 - $100,000","Interest,","$1,001 - $2,500"
+37,Portland ME 736560TV5Rate/Coupon: 5.000%  Matures: 5/1/2025,Government SecuritiesMunicipal Security,Spouse,"$50,001 - $100,000","Interest,","$1,001 - $2,500"
+38,York ME 987092HX4Rate/Coupon: 3.000%  Matures: 7/1/2026,Government SecuritiesMunicipal Security,Spouse,"$50,001 - $100,000","Interest,","$1,001 - $2,500"
+39,ME St Health & Higher Ed 56042RXW7Rate/Coupon: 5.000%  Matures: 7/1/2030,Government SecuritiesMunicipal Security,Spouse,"$50,001 - $100,000","Interest,",None (or less than $201)
+40,ME St Muni Bond Bank 56045RYX1Rate/Coupon: 5.000%  Matures: 11/1/2031,Government SecuritiesMunicipal Security,Spouse,"$15,001 - $50,000","Interest,","$201 - $1,000"
+41,US Treasury Note 912828B66Rate/Coupon: None  Matures: NoneFiler comment:  2.750% Due 2/15/2024,Government SecuritiesUS Treasury/Agency Security,Spouse,"None (or less than $1,001)","Interest,","$201 - $1,000"
+42,US Treasury Note 91282CJV4Rate/Coupon: None  Matures: NoneFiler comment:  4.250% Due 1/31/2026,Government SecuritiesUS Treasury/Agency Security,Spouse,"$50,001 - $100,000","Interest,",None (or less than $201)
+43,ACN - Accenture plc,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+44,GOOGL - Alphabet Inc.,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+45,"AMZN - Amazon.com, Inc.",Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","None,",None (or less than $201)
+46,AMT - American Tower Corporation,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+47,"AWK - American Water Works Company, Inc.",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+48,"AME - AMETEK, Inc.",Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+49,APH - Amphenol Corporation,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+50,AON - Aon plc,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,",None (or less than $201)
+51,AAPL - Apple Inc.,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+52,BRK-B - Berkshire Hathaway Inc.,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,",None (or less than $201)
+53,BA - The Boeing Company,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,",None (or less than $201)
+54,SCHW - The Charles Schwab Corporation,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+55,CME - CME Group Inc.,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+56,COP - ConocoPhillips,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+57,DHR - Danaher CorporationFiler comment:  (Trust),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,",None (or less than $201)
+58,DHR - Danaher CorporationFiler comment:  (IRA),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,",None (or less than $201)
+59,ECL - Ecolab Inc.,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+60,GL - Globe Life Inc.,Corporate SecuritiesStock,Spouse,"None (or less than $1,001)","Dividends, Capital Gains,","$5,001 - $15,000"
+61,GSIMX - Goldman Sachs Gqg Partners International Opportu,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$2,501 - $5,000"
+62,HSY - The Hershey Company Common Stock,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+63,JNJ - Johnson & Johnson,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+64,JPM - JPMorgan Chase & Co.Filer comment:  (Trust),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+65,JPM - JPMorgan Chase & Co.Filer comment:  (IRA),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+66,LIN - Linde Plc,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+67,MA - MasterCard Incorporated,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+68,MRK - Merck & Co. Inc.,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+69,MTD - Mettler-Toledo International Inc.,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,",None (or less than $201)
+70,MCHP - Microchip Technology Incorporated,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+71,MSFT - Microsoft Corporation,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+72,"NEE - NextEra Energy, Inc.",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+73,NVDA - NVIDIA Corporation - Common Stock,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,",None (or less than $201)
+74,"PEP - Pepsico, Inc.",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+75,PSX - Phillips 66Filer comment:  (Trust),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+76,PSX - Phillips 66Filer comment:  (IRA),Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","Dividends,","$201 - $1,000"
+77,RTX - Rtx Corp,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+78,"ROP - Roper Technologies, Inc.",Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+79,XLY - SPDR Select Sector Fund - Consumer DiscretionaryFiler comment:  (Trust),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,",None (or less than $201)
+80,XLY - SPDR Select Sector Fund - Consumer DiscretionaryFiler comment:  (IRA),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,",None (or less than $201)
+81,TFX - Teleflex Incorporated,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+82,TMO - Thermo Fisher Scientific Inc.,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,",None (or less than $201)
+83,"TJX - The TJX Companies, Inc.Filer comment:  (Trust)",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+84,"TJX - The TJX Companies, Inc.Filer comment:  (IRA)",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+85,UNP - Union Pacific Corporation,Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,","$1,001 - $2,500"
+86,UNH - UnitedHealth Group IncorporatedFiler comment:  (Trust),Corporate SecuritiesStock,Spouse,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+87,UNH - UnitedHealth Group IncorporatedFiler comment:  (IRA),Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+88,USB - U.S. Bancorp,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$1,001 - $2,500"
+89,VLTO - Veralto CorporationFiler comment:  (Trust),Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+90,VLTO - Veralto CorporationFiler comment:  (IRA),Corporate SecuritiesStock,Spouse,"$1,001 - $15,000","Dividends,",None (or less than $201)
+91,V - Visa Inc.,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+92,DIS - The Walt Disney Company,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+93,"WCN - Waste Connections, Inc.",Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"

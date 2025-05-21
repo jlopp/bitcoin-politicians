@@ -10,3 +10,4 @@ intermediate_files
 intermediate_files_test
 missing_disclosures.txt
 cache
+.Rhistory

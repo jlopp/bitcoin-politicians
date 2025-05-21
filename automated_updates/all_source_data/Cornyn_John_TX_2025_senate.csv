@@ -1,0 +1,30 @@
+1,"Bank of America checking account(Austin, Texas)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+2,"Bank of America savings account(Austin, Texas)Type: Savings,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+3,UBS,Brokerage/Managed Account,Self,,,
+3.1,"UBS Bank USA Deposit account(San Antonio, Texas)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$1,001 - $15,000","Dividends, Interest, Capital Gains,",None (or less than $201)
+3.2,AGTHX - The Growth Fund of America Class A Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+3.3,ANEFX - American Funds New Economy Fund A,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,","$2,501 - $5,000"
+3.4,SMCWX - American Funds Smallcap World A,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+4,UBS IRA (Spouse),Retirement PlansIRA,Spouse,,,
+4.1,"UBS Bank USA Deposit account(San Antonio, Texas)Type: IRA Cash Accounts,",Bank Deposit,Spouse,"None (or less than $1,001)","Dividends, Interest, Capital Gains,",None (or less than $201)
+4.2,SMCWX - American Funds Smallcap World A,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+4.3,AGTHX - The Growth Fund of America Class A Shares,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+4.4,ANWPX - New Perspective Fund Class A Shares,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+5,UBS Inherited IRA,Retirement PlansIRA,Self,,,
+5.1,"UBS Bank USA Deposit account (Inherited IRA)(San Antonio, Texas)Type: IRA Cash Accounts,",Bank Deposit,Self,"$1,001 - $15,000","Dividends, Interest, Capital Gains,",None (or less than $201)
+5.2,SMCWX - American Funds Smallcap World A,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+5.3,AGTHX - The Growth Fund of America Class A Shares,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+5.4,ANWPX - New Perspective Fund Class A Shares,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+6,Employees Retirement System of Texas,Retirement PlansDefined Benefit Pension Plan,Self,"$50,001 - $100,000","None,",None (or less than $201)
+7,TX County and District Retirement System,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000","None,",None (or less than $201)
+8,Employees Retirement System of Texas,Retirement PlansDefined Benefit Pension Plan,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+9,Judicial Retirement System of Texas,Retirement PlansDefined Benefit Pension Plan,Self,"$50,001 - $100,000","None,",None (or less than $201)
+10,Talcott Resolution Life & Annuities (Inherited Annuity)Provider: Talcott Resolution Life & Annuities,AnnuityFixed,Self,"$1,001 - $15,000","None,",None (or less than $201)
+11,Talcott Resolution Life & Annuities (Inherited Annuity)Provider: Talcott Resolution Life & Annuities,AnnuityFixed,Self,"$1,001 - $15,000","None,",None (or less than $201)
+12,UBS (Spouse Separate Property),Brokerage/Managed Account,Spouse,,,
+12.1,"UBS Bank USA Deposit Account(San Antonio, TX)Type: Brokerage Sweep Account,",Bank Deposit,Spouse,"$15,001 - $50,000","Dividends, Interest, Capital Gains,",None (or less than $201)
+12.2,AMRMX - American Mutual Fund Class A Shares,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"
+12.3,ANCFX - Fundamental Investors Class A Shares,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,","$15,001 - $50,000"
+12.4,AIVSX - American Funds Investment CO of America A,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"
+12.5,CAIBX - Capital Income Builder Cl A Shs,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,","$5,001 - $15,000"
+12.6,SMCWX - American Funds Smallcap World A,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)

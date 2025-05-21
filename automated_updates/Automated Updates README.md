@@ -79,7 +79,7 @@ To quickly set up and ensure all code paths are functioning, a pre-defined test 
 **parse_asset_names_llm.py**  
 * Sends images to OpenAI's API with specific prompts, extracting asset names and saving them to `./all_processed_data`.
 * Use the `--new-only` flag to parse only new disclosures since last run.
-* To parallelize this step, Use parse_asset_names_llm_parallel.py instead (8 workers by default). Requires OpenAI API Usage Tier 2 or higher.
+* To parallelize this step, use `parse_asset_names_llm_parallel.py`, which uses 8 workers by default. Requires OpenAI API Usage Tier 2 or higher.
      
 **summarize_results.py**  
 * Summarizes files in `./all_processed_data` into `final_datasets/final_asset_data.csv` and `final_datasets/final_summary_data.csv`.

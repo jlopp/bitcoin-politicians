@@ -1,0 +1,21 @@
+1,"HealthEquity Corporate(Draper, UT)Type: Savings,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+2,"Wells Fargo(Sioux Falls, SD)Type: Checking, Money Market Account, Savings,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+3,Merrill Lynch - CMA Account,Brokerage/Managed Account,Self,,,
+3.1,"Bank of America, N.A.(Atlanta, GA)Type: Money Market Account,",Bank Deposit,Self,"$100,001 - $250,000","Interest,","$5,001 - $15,000"
+3.2,ETHIX - Eaton Vance High Income Opportunites Fund Class,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+3.3,PGEOX - George Putnam Balanced Fund Class A,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+3.4,OIGAX - Invesco Oppenheimer International Growth Fund Cl,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+3.5,IWM - iShares Russell 2000 ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+3.6,LGRRX - Loomis Sayles Funds - Growth Fund Class A [Trust,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+3.7,MEIAX - MFS Series Trust I - MFS Value Fund Class A,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+3.8,PPSAX - Principal Funds Inc. - Spectrum Preferred and C,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+3.9,POGAX - Putnam Growth Opportunities Fund Class A,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+3.10,PEQUX - Putnam Focused International Equity Fund A,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+4,"The Gamaliel Project LLCCompany: The Gamaliel Project LLC (Atlanta, GA) Description: Holding Company",Business EntityLimited Liability Company (LLC),Self,,,
+4.1,"ML Bank Deposit Program(Atlanta, GA)Type: Money Market Account,",Bank Deposit,Self,"$100,001 - $250,000","Interest,","$2,501 - $5,000"
+5,MMBB - American Baptist Church Retirement Plan,Retirement PlansDefined Contribution Pension Plan,Self,,,
+5.1,Balanced Fund,Mutual FundsMutual Fund,Self,"$500,001 - $1,000,000","Excepted Investment Fund,",None (or less than $201)
+5.2,VTTHX - Vanguard Target Retirement 2035 Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+6,MMBB - American Baptist Churches Tax-Deferred Annuity Plan,Retirement PlansDefined Contribution Pension Plan,Self,,,
+6.1,Balanced Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+6.2,VTTHX - Vanguard Target Retirement 2035 Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)

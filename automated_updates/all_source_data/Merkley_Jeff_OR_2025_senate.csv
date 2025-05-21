@@ -1,0 +1,38 @@
+1,Fidelity Retirement,Retirement PlansIRA,Self,,,
+1.1,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Self,"$500,001 - $1,000,000","Excepted Investment Fund,",None (or less than $201)
+2,"Unitus Community Credit Union(Portland, OR)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+3,"Unitus Community Credit Union(Portland, OR)Type: Savings,",Bank Deposit,Joint,"None (or less than $1,001)","Interest,",None (or less than $201)
+4,"Unitus Community Credit Union,(Portland, OR)Type: Savings,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+5,Providence Retirement,Retirement PlansIRA,Spouse,,,
+5.1,FGKFX - Fidelity Growth Company K6 Fund,Mutual FundsMutual Fund,Spouse,"Over $1,000,000 and held independently by spouse or dependent child","Excepted Investment Fund,",None (or less than $201)
+5.2,Providence Core Retirement Plan,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+5.3,Providence 401k,Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+5.3.1,Large Cap Fidelity Growth Company Pool CL3,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+6,"Rental HouseDescription: Rental House (Washington, DC)",Real EstateResidential,Joint,"$1,000,001 - $5,000,000","Rent/Royalties,","$15,001 - $50,000"
+7,"Rental House Description: Rental House (Portland, OR)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$15,001 - $50,000"
+8,"Rental HouseDescription: Rental House (Portland, OR)",Real EstateResidential,Joint,"$500,001 - $1,000,000","Rent/Royalties,","$15,001 - $50,000"
+9,"Undeveloped LotDescription: Undeveloped Lot (Portland, OR)",Real EstateUnimproved Land,Joint,"$250,001 - $500,000","None,",None (or less than $201)
+10,"Rental House (Washington DC #2)Description: Kentucky Ave (Washington, DC)",Real EstateResidential,Joint,"$1,000,001 - $5,000,000","Rent/Royalties,","$15,001 - $50,000"
+11,Fidelity Retirement,Retirement PlansIRA,Spouse,,,
+11.1,FDRXX-Fidelity Cash Reserves,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+11.2,FDSVX - Fidelity Growth Discovery Fund,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+11.3,FDGRX - Fidelity Growth Company,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+11.4,FBGRX - Fidelity Blue Chip Growth Fund,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+12,Public Employee Retirement - Individual Account,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000","None,",None (or less than $201)
+13,Public Employee Retirement - Regular Account,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000","None,",None (or less than $201)
+14,"Portland Rental HouseDescription: Rental House (Portland, OR)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$15,001 - $50,000"
+15,Solar Renewable Energy CreditsDescription: Sales of solar renewable energy credits,Personal PropertyOther,Joint,"$1,001 - $15,000","Other, (Sales of solar renewable energy credits.)","Other $2,701.35"
+16,"SoFi(San Francisco, CA)Type: Savings,",Bank Deposit,Joint,"$100,001 - $250,000","Interest,","$5,001 - $15,000"
+17,Fidelity IRA BDA,Retirement PlansIRA,Joint,,,
+17.1,SPAXX -- Fidelity Government Money Market,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+17.2,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+18,Fidelity Brokerage Account,Brokerage/Managed Account,Joint,,,
+18.1,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$1,001 - $2,500"
+18.2,FGRIX - Fidelity Growth and Income Pt,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$2,501 - $5,000"
+18.3,FBGRX - Fidelity Blue Chip Growth Fund,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$2,501 - $5,000"
+18.4,FDVLX - Fidelity Value Fund,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$2,501 - $5,000"
+18.5,JAGIX - Janus Henderson Growth and Income Fund - T Share,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$2,501 - $5,000"
+18.6,VPMCX - Vanguard Primecap Fund,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,","$2,501 - $5,000"
+18.7,VFIAX - Vanguard 500 Index Fd Admiral Shs,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,","$201 - $1,000"
+18.8,SPAXX -- Fidelity Government Money Market,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+19,"Bread Financial(Columbus, OH)Type: Certificate of Deposit,",Bank Deposit,Joint,"$100,001 - $250,000","None,",None (or less than $201)

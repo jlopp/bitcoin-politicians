@@ -1,0 +1,12 @@
+1,"US Bank(St Paul, MN)Type: Checking,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+2,"Cantwell 2000 Campaign LoanCompany: Cantwell 2000 Campaign (Seattle, WA) Filer comment:  Loan to Senate Campaign",Accounts ReceivableFrom a Business,Self,"$1,000,001 - $5,000,000","None,",None (or less than $201)
+3,RealNetworks - 401(k) Retirement,Retirement PlansDefined Contribution Pension Plan,Self,,,
+3.1,Vanguard Retirement Savings TrustFiler comment:  RealNetworks 401(k) Retirement,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+3.2,VWNFX-Vanguard Windsor II Inv (NASDAQ)Filer comment:  RealNetworks 401(k) Retirement,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+3.3,AVPAX - American Beacon Small Cp Val Inv (NASDAQ)Filer comment:  RealNetworks 401(k) Retirement,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+3.4,VBMFX - Vanguard Total Bond Market Index Inv (NASDAQ)Filer comment:  RealNetworks 401(k) Retirement,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+3.5,HACAX-Harbor Capital Appreciation Instl (NASDAQ)Filer comment:  RealNetworks 401(k) Retirement,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"
+3.6,CCASX-Conestoga Small Cap InvestorsFiler comment:  RealNetworks 401(k) Retirement,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+3.7,MDITX - MFS International Diversification Fund Class R4Filer comment:  RealNetworks 401(k) Retirement,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+3.8,Putnam Stable Value FundFiler comment:  Investment held in RealNetworks Inc 401(k),Mutual FundsStable Value Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+4,"US Bancorp Investments(St Paul, MN)Type: Money Market Account, Filer comment:  Money Market Fund.",Bank Deposit,Self,"$15,001 - $50,000","Interest,",None (or less than $201)
