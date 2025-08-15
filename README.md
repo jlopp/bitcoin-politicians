@@ -221,8 +221,6 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Gosar, Paul A. | R | AZ | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220466.pdf) | - |
 | Gottheimer, Josh | D | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf) | Block, Inc. Class A Common Stock, (SQ), Block, Inc. Class A Common Stock, (SQ) [ST] |
 | Graham, Lindsey | R | SC | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/696f53d0-7b88-4762-90bd-fbc241707c55/) | - |
-| Gottheimer, Josh | D | NJ | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057523.pdf) | Block, Inc. Class A Common Stock, (SQ) [ST], Block, Inc. Class A Common Stock, (SQ) |
-| Graham, Lindsey | R | SC | Senate | NO | [2024](https://efdsearch.senate.gov/search/view/annual/82a8cef2-fa7e-4ce7-92d2-798715c28d5f/) | - |
 | Granger, Kay | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10057021.pdf) | - |
 | Grassley, Chuck | R | IA | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/annual/b466530c-0aae-4013-a055-8a517731a565/) | - |
 | Graves, Garret | R | LA | House | YES | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059697.pdf) | Coinbase Global, Inc. - Class A Common Stock (COIN) [ST] |
@@ -532,7 +530,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Van Duyne, Beth | R | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10062418.pdf) | - |
 | Van Hollen, Chris | D | MD | Senate | NO | [2025](https://efdsearch.senate.gov/search/view/paper/875a1b37-8209-4276-8451-b8c1d8ee1a83/) | - |
 | Van Orden, Derrick | R | WI | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060782.pdf) | - |
-| Vance, J. D. | R | OH | Senate | YES | [2024](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | BTCExchange/Platform: Coinbase |
+| Vance, J. D. | R | OH | Vice President | YES | [2024](https://efdsearch.senate.gov/search/view/annual/2f2f5bbc-50c5-4b00-acd9-85870f9e349c/) | BTCExchange/Platform: Coinbase |
 | Vargas, Juan | D | CA | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10060557.pdf) | - |
 | Vasquez, Gabe | D | NM | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10061303.pdf) | - |
 | Veasey, Marc A. | D | TX | House | NO | [2023](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10059416.pdf) | - |
