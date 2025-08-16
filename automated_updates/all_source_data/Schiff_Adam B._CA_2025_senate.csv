@@ -1,0 +1,19 @@
+1,UBS - Inherited IRA,Retirement PlansIRA,Spouse,,,
+1.1,SMH - VanEck Semiconductor ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+2,UBS Brokerage Account,Brokerage/Managed Account,Spouse,,,
+2.1,AAPL - Apple Inc,Corporate SecuritiesStock,Spouse,"$100,001 - $250,000","Dividends,","$201 - $1,000"
+2.2,"IVV - iShares Core S&P 500 ETFFiler comment:  Inadvertently reported $100,001-$250,000 value range in 2023",Mutual FundsExchange Traded Fund/Note,Spouse,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+2.3,"QQQ - Invesco QQQ Trust, Series 1Filer comment:  Inadvertently reported $50,001-$100,000 value range in 2023",Mutual FundsExchange Traded Fund/Note,Spouse,"$100,001 - $250,000","Excepted Investment Fund,","$201 - $1,000"
+3,UBS - IRA,Retirement PlansIRA,Spouse,,,
+3.1,FPURX - Fidelity Puritan Fund,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+4,UBS - IRA,Retirement PlansIRA,Self,,,
+4.1,IVV - iShares Core S&P 500 ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+4.2,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsExchange Traded Fund/Note,Self,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+4.3,"UBS Financial Services, Inc.(San Diego, CA)Type: IRA Cash Accounts,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+5,Franklin Templeton – Brokerage Account,Brokerage/Managed Account,Joint,,,
+5.1,FGRAX - Franklin Growth Opportunities Fund Class A,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$15,001 - $50,000"
+5.2,TEDIX - Mutual Global Discovery Fund Class A,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,","$5,001 - $15,000"
+5.3,FRDPX - Franklin Managed Trust Rising Dividends Fund Cl,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"
+5.4,TESIX - Franklin Mutual Shares Fund Class A,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,","$5,001 - $15,000"
+6,Allianze Life Insurance – Inherited Fixed AnnuityProvider: Allianze Life Insurance Company Of North America Filer comment:  Inherited Annuity in 2024,AnnuityFixed,Self,"$15,001 - $50,000","None,",None (or less than $201)
+7,"Bank of America – Bank Deposit(Tampa, FL)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)

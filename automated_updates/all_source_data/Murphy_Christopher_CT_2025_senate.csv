@@ -1,0 +1,11 @@
+1,"USAA(Washington, DC)Type: Checking,",Bank Deposit,Joint,"$15,001 - $50,000","None,",None (or less than $201)
+2,"USAA(Washington, DC)Type: Savings,",Bank Deposit,Joint,"$250,001 - $500,000","None,",None (or less than $201)
+3,CHET 529 PlanInstitution: CHET,Education Savings Plans529 College Savings Plan,Child,,,
+3.1,CT Portfolio 2027 (Fidelity Blend),Mutual FundsMutual Fund,Child,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+3.2,CT US Sustainability Index,Mutual FundsMutual Fund,Child,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+4,CHET 529 PlanInstitution: CHET,Education Savings Plans529 College Savings Plan,Child,,,
+4.1,CT Portfolio 2030 (Fidelity Blend),Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+4.2,Principal Plus Interest,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+4.3,CT Stable Value Portfolio,Mutual FundsStable Value Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+5,"Residential PropertyDescription: Residential Real Estate (Hartford, CT)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$15,001 - $50,000"
+6,"USAA(San Antonio, Texas)Type: Checking,",Bank Deposit,Self,"$15,001 - $50,000","Interest,",None (or less than $201)

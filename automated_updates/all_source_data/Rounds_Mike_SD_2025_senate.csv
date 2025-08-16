@@ -1,0 +1,88 @@
+1,"Oahe Federal Credit Union(Pierre, SD)Type: Savings,",Bank Deposit,Self,"$100,001 - $250,000","Interest,","$1,001 - $2,500"
+2,"BankWest(Pierre, SD)Type: Checking,",Bank Deposit,Joint,"$100,001 - $250,000","None,",None (or less than $201)
+3,"First National Bank(Pierre, SD)Type: Savings,",Bank Deposit,Self,"$1,001 - $15,000","None,",None (or less than $201)
+4,"FRA, LLCCompany: FRA, LLC (Pierre, SD) Description: Farm ownership",Business EntityLimited Liability Company (LLC),Self,,,
+4.1,"FRA FarmDescription: Farm (Pierre, SD)",Farm,Self,"$250,001 - $500,000","None,",None (or less than $201)
+5,"Lake Sharpe Investments, LLCCompany: Lake Sharpe Investments, LLC (Pierre, SD) Description: Investments (Assets Below)",Business EntityLimited Liability Company (LLC),Joint,,,
+5.1,"Nordic Venture Partners Fund II, LLCCompany: Nordic Venture Partners Fund, II (Sioux Falls, SD) Description: Investments",Business EntityLimited Liability Company (LLC),Joint,,,
+5.1.1,"Locals Love Us, LLCCompany: Locals Love Us, LLC (Sioux Falls, SD) Description: Business Advertisement and Marketing",Business EntityLimited Liability Company (LLC),Joint,"None (or less than $1,001)","None,",None (or less than $201)
+5.1.2,"Novita, LLCCompany: Novita, LLC (Brookings, SD) Description: Agriculture Technology - animal nutrition production",Business EntityLimited Liability Company (LLC),Joint,"$15,001 - $50,000","None,","$201 - $1,000"
+5.1.3,"Bird Dog LLU, LLCCompany: Bird Dog LLU, LLC (Sioux Falls, SD) Description: Marketing Company",Business EntityLimited Liability Company (LLC),Joint,"$1,001 - $15,000","None,",None (or less than $201)
+5.1.4,"Aeronics, IncCompany: Aeronics, Inc (Austin, TX) Description: Equipment Manufacturing",Business EntityLimited Liability Company (LLC),Joint,"$500,001 - $1,000,000","Dividends, Interest,","$15,001 - $50,000"
+6,"Roundtable, LLCCompany: Roundtable, LLC (Fort Pierre, SD) Description: Farm",Business EntityLimited Liability Company (LLC),Self,,,
+6.1,"Roundtable Farm Description: Farmland (Lyman County, SD) Filer comment:  Underlying asset of Roundtable, LLC",Farm,Self,"$1,000,001 - $5,000,000","None,",None (or less than $201)
+6.2,"Bankwest(Pierre, SD)Type: Checking,",Bank Deposit,Self,"$100,001 - $250,000","None,",None (or less than $201)
+7,"Bird Dog Hospitality Fund 1, LLC Company: Bird Dog Hospitality Fund 1, LLC (Sioux Falls, SD) Description: Business Entity which holds underlying assets",Business EntityLimited Liability Company (LLC),Joint,,,
+7.1,"Bird Dog Hospitality I, LLCCompany: Bird Dog Hospitality I, LLC (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+7.1.1,"Hotel 1Description: Hospitality Property (Chadron, NE)",Real EstateCommercial,Joint,"$15,001 - $50,000","Dividends, Interest,","$201 - $1,000"
+7.2,"Bird Dog Hospitality II, LLCCompany: Bird Dog Hospitality II, LLC (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+7.2.1,"Hotel 2Description: Hospitality Property (Oskaloosa, IA)",Real EstateCommercial,Joint,"$15,001 - $50,000","Dividends, Interest,","$201 - $1,000"
+7.3,"Bird Dog Hospitality III, LLCCompany: Bird Dog Hospitality III, LLC (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+7.3.1,"Hotel 3Description: Hospitality Property (Cedar Rapids, IA)",Real EstateCommercial,Joint,"$50,001 - $100,000","Dividends, Interest,","$201 - $1,000"
+7.4,"Bird Dog Hospitality IV, LLCCompany: Bird Dog Hospitality IV, LLC (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+7.4.1,"Hotel 4Description: Hospitality Property (Madison, WI)",Real EstateCommercial,Joint,"$50,001 - $100,000","Dividends, Interest,","$1,001 - $2,500"
+7.5,"Bird Dog Hospitality V, LLCCompany: Bird Dog Hospitality V, LLC (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+7.5.1,"Hotel 5Description: Hospitality Property (Bismarck, ND)",Real EstateCommercial,Joint,"$50,001 - $100,000","Dividends, Interest,","$201 - $1,000"
+8,"Bird Dog Hospitality Fund 2, LLC Company: Bird Dog Hospitality Fund 2, LLC (Sioux Falls, SD) Description: Business Entity which holds underlying assets",Business EntityLimited Liability Company (LLC),Joint,,,
+8.1,"BDH2 - Marshall, LLCCompany: Bird Dog Hospitality 2 (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+8.1.1,"Hotel 1Description: Hospitality Property (Marshall, MN)",Real EstateCommercial,Joint,"$50,001 - $100,000","Dividends, Interest,","$5,001 - $15,000"
+8.2,"BDH2 - Valentine, LLCCompany: Bird Dog Hospitality 2 (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+8.2.1,"Hotel 2Description: Hospitality Property (Valentine, NE)",Real EstateCommercial,Joint,"$15,001 - $50,000","Dividends, Interest,","$1,001 - $2,500"
+8.3,"BDH2 - New Ulm, LLCCompany: Bird Dog Hospitality 2 (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+8.3.1,"Hotel 3Description: Hospitality Property (New Ulm, MN)",Real EstateCommercial,Joint,"$50,001 - $100,000","Dividends, Interest,","$2,501 - $5,000"
+8.4,"BDH2 - Shoreview, LLCCompany: Bird Dog Hospitality 2 (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+8.4.1,"Hotel 4Description: Hospitality Property (Shoreview, MN)",Real EstateCommercial,Joint,"$50,001 - $100,000","Dividends, Interest,","$5,001 - $15,000"
+8.5,"BDH2 - New Ulm 2, LLCCompany: Bird Dog Hospitality 2 (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+8.5.1,"Hotel 5Description: Hospitality Property (New Ulm, MN)",Real EstateCommercial,Joint,"$15,001 - $50,000","Dividends, Interest,","$1,001 - $2,500"
+8.6,"BDH2 - Valentine 2, LLCCompany: Bird Dog Hospitality 2 (Sioux Falls, SD) Description: Business Entity which holds underlying asset",Business EntityLimited Liability Company (LLC),Joint,,,
+8.6.1,"Hotel 6Description: Hospitality Property (Valentine, NE)",Real EstateCommercial,Joint,"$15,001 - $50,000","Dividends, Interest,","$1,001 - $2,500"
+9,Osaic Individual Retirement Account,Brokerage/Managed Account,Self,,,
+9.1,"Pershing LLC(Pierre, SD)Type: IRA Cash Accounts,",Bank Deposit,Self,"$15,001 - $50,000","Interest,",None (or less than $201)
+9.2,IAU - iShares Gold Trust Shares of the iShares Gold Trus,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.3,SPHY - SPDR Portfolio High Yield Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.4,BND - Vanguard Total Bond Market ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+9.5,VEA - Vanguard FTSE Developed Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.6,VTIP - Vanguard Short-Term Inflation-Protected Securities,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+9.7,BNDX - Vanguard Total International Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.8,VCR - Vanguard Consumer Discretion ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.9,VDC - Vanguard Consumer Staples ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.10,VDE - Vanguard Energy ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9.11,VFH - Financial ETF Vanguard,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.12,VHT - Vanguard Health Care ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.13,VIS - Vanguard Industrials ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.14,VGT - Information Technology ETF Vanguard,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+9.15,VAW - Vanguard Materials ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9.16,VPU - Vanguard Utilities ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9.17,VNQI - Vanguard Global ex-U.S. Real Estate ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9.18,VWO - Vanguard FTSE Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.19,VMBS - Vanguard Mortgage-Backed Securities ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+9.20,VNQ - Vanguard Real Estate ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.21,VO - Vanguard Mid-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.22,VB - Vanguard Small-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+9.23,BSV - Vanguard Short-Term Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+9.24,VOX - Vanguard Communication Services  ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+10,Osaic Brokerage Account,Brokerage/Managed Account,Self,,,
+10.1,"Pershing LLC(Pierre, SD)Type: Money Market Account,",Bank Deposit,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+10.2,IAU - iShares Gold Trust Shares of the iShares Gold Trus,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+10.3,BSV - Vanguard Short-Term Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"
+10.4,BND - Vanguard Total Bond Market ETF,Mutual FundsExchange Traded Fund/Note,Self,"$250,001 - $500,000","Excepted Investment Fund,","$5,001 - $15,000"
+10.5,VEA - Vanguard FTSE Developed Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,","$2,501 - $5,000"
+10.6,VTIP - Vanguard Short-Term Inflation-Protected Securities,Mutual FundsExchange Traded Fund/Note,Self,"$250,001 - $500,000","Excepted Investment Fund,","$5,001 - $15,000"
+10.7,BNDX - Vanguard Total International Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"
+10.8,VCR - Vanguard Consumer Discretion ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,","$201 - $1,000"
+10.9,VDC - Vanguard Consumer Staples ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+10.10,VDE - Vanguard Energy ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+10.11,VFH - Vanguard Financials ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,","$1,001 - $2,500"
+10.12,VHT - Vanguard Health Care ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,","$201 - $1,000"
+10.13,VIS - Vanguard Industrials ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+10.14,VGT - Vanguard Information Tech ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,","$201 - $1,000"
+10.15,VAW - Vanguard Materials ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+10.16,VPU - Vanguard Utilities ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+10.17,VOX - Vanguard Communication Services  ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+10.18,VNQI - Vanguard Global ex-U.S. Real Estate ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+10.19,VWO - Vanguard FTSE Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","Excepted Investment Fund,","$1,001 - $2,500"
+10.20,VMBS - Vanguard Mortgage-Backed Securities ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"
+10.21,VNQ - Vanguard Real Estate ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+10.22,VO - Vanguard Mid-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+10.23,VB - Vanguard Small-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","Excepted Investment Fund,","$201 - $1,000"
+10.24,SPHY - SPDR Portfolio High Yield Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,","$5,001 - $15,000"

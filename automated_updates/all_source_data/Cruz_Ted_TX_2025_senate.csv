@@ -1,0 +1,46 @@
+1,GAJPX - Goldman Sachs Dynamic Municipal Income Fund Class,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+2,VYM - High Dividend Yield Vanguard ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+3,XOM-Exxon Mobil Corporation (NYSE),Corporate SecuritiesStock,Joint,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+4,VIG - Dividend Appreciation ETF Vanguard,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+5,XLE - SPDR Select Sector Fund - Energy Select Sector,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+6,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+7,GSPPX - Goldman Sachs Strategic Growth Fund Class P,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+8,GMYPX - Goldman Sachs Large Cap Value Fund Class P Share,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9,EPD-Enterprise Products Partners L.P. (NYSE),Corporate SecuritiesStock,Joint,"$100,001 - $250,000","Dividends,","$5,001 - $15,000"
+10,DRLL - EA Series Trust Strive U.S. Energy ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Excepted Investment Fund,","$201 - $1,000"
+11,HNDL - Strategy Shares Nasdaq 7HANDL Index ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+12,"Goldman Sachs Bank USA(Houston, Texas)Type: Savings,",Bank Deposit,Joint,"$100,001 - $250,000","Interest,","$2,501 - $5,000"
+13,USAA 529 - Child 2Institution: USAA,Education Savings Plans529 College Savings Plan,Joint,,,
+13.1,Age-Based Option 14-15: Conservative Portfolio,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+13.2,Plan FBO  Aggressive Growth Portfolio,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+13.3,Plan FBO Moderately Aggressive Portfolio,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+13.4,Plan FBO  Moderate Portfolio,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+14,Fidelity 529 - Child 1Institution: Fidelity,Education Savings Plans529 College Savings Plan,Joint,,,
+14.1,MA Portfolio 2027,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+15,Traditional IRA,Retirement PlansIRA,Spouse,,,
+15.1,GAFPX - Goldman Sachs Enhanced Dividend Global Equity Port,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+16,"Bank of America(Houston, Texas)Type: Checking,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+17,"Bank of America(Houston, Texas)Type: Savings,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+18,"American Express(Houston, Texas)Type: Savings,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+19,"Chase(Houston, Texas)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+20,Texas ERS Retirement Account,Retirement PlansDefined Benefit Pension Plan,Self,"$50,001 - $100,000","None,",None (or less than $201)
+21,"Health Equity HSA(Houston, Texas)Type: Savings,",Bank Deposit,Self,"$1,001 - $15,000","Interest,",None (or less than $201)
+22,Morgan Lewis Bockius LLP Tax-Saver Retirement Plan,Retirement PlansDefined Contribution Pension Plan,Self,,,
+22.1,Vanguard Target Retirement 2040 Tr I,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+22.2,VGSNX - Vanguard Real Estate Index Fund Institutional Shar,Mutual FundsMutual Fund,Self,"$50,001 - $100,000","Excepted Investment Fund,","$1,001 - $2,500"
+22.3,AEPGX - American Funds Europacific Growth A,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+22.4,FSSLX - Fidelity Series Small Cap Core Fund,Mutual FundsMutual Fund,Self,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+23,Morgan Lewis Bockius LLP Defined Contribution Plan,Retirement PlansDefined Contribution Pension Plan,Self,,,
+23.1,Vanguard Target Retirement 2035 Tr I,Mutual FundsMutual Fund,Self,"$250,001 - $500,000","Excepted Investment Fund,",None (or less than $201)
+24,Morgan Lewis Cash Balance Retirement Plan,Retirement PlansDefined Benefit Pension Plan,Self,"$500,001 - $1,000,000","None,",None (or less than $201)
+25,"Goldman Sachs(Houston, Texas)Type: Savings,",Bank Deposit,Child,"$1,001 - $15,000","Interest,","$201 - $1,000"
+26,"Goldman Sachs(Houston, Texas)Type: Savings,",Bank Deposit,Child,"$1,001 - $15,000","Interest,","$201 - $1,000"
+27,"Goldman Sachs(Houston, Texas)Type: Checking,",Bank Deposit,Child,"$1,001 - $15,000","Interest,",None (or less than $201)
+28,"GS-The Goldman Sachs Group, Inc.",Corporate SecuritiesStock,Spouse,"$1,000,001 - $5,000,000","Dividends, Interest,","$15,001 - $50,000"
+29,Spouse 401K,Retirement PlansDefined Contribution Pension Plan,Spouse,,,
+29.1,LIJIX - BlackRock LifePath Index 2035 Fund Institutional S,Mutual FundsMutual Fund,Spouse,"$1,000,001 - $5,000,000","Excepted Investment Fund,",None (or less than $201)
+30,Bitcoin Exchange/Platform: River Financial Inc,Cryptocurrency,Self,"$100,001 - $250,000","None,",None (or less than $201)
+31,"Bitcoin MinersDescription: Three Bitcoin Miners (Iraan, Texas)",Other Securities,Self,,,
+31.1,Bitcoin MinersDescription: Bitmain S21,Personal PropertyOther,Self,"$15,001 - $50,000","Other, (Bitcoin)","Other $5,001.00"
+32,"Private Equity Co-Investment Partners III LLCDescription: Private Equity (New York, NY)",Investment FundPrivate Equity Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,","$201 - $1,000"
+33,"TPG Tech Adjacencies II Access LLCDescription: Private Equity (New York, NY)",Investment FundPrivate Equity Fund,Joint,"$1,001 - $15,000","Excepted Investment Fund,","$2,501 - $5,000"
