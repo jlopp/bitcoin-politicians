@@ -118,7 +118,8 @@ bitcoin_crypto_terms = [
     'block, inc',
     'block inc',
     '\(sq\)',
-    # shitcoins
+    # crypto
+    'aerodrome',
     'avalanche',
     '\(avax\)',
     'binance',
@@ -137,9 +138,11 @@ bitcoin_crypto_terms = [
     'ripple',
     'xrp',
     'shiba inu',
+    'ski mask dog',
     'solana',
     'toncoin',
     'uniswap',
+    'velodrome'
 ]
 
 # terms to be explicitly excluded
@@ -158,6 +161,8 @@ bitcoin_crypto_terms_false_positives = [
     'CALIF PRSMULTCCN EGID COR',
     'XRPO Inc PC 360',
     'Canaan LLC',
+    'Irenic Capital',
+    'SUBITO HEALTH'
 ]
 
 source_data_dir = './all_source_data/'
