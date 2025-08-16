@@ -11,7 +11,9 @@ def assets_from_house_clean_image_to_csv(input_image_path):
 
 	# use '|' separator to avoid characters in asset names
 	response = send_to_api("This is a public disclosure form for a US congressman from house.gov. Get the asset names in the 'Asset' column of the Assets table. Return only a | separated list. If there are no assets listed, state: 'None'. No other commentary.", 
-							base64_image)
+							base64_image,
+							model='gpt-5-mini' # use cheaper model on clean forms
+							)
 	
 	# print(response);print('\n')
 	if re.sub(r'[^a-zA-Z]', '', response.strip().lower() ) == 'none':

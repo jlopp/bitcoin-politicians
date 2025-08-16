@@ -1,0 +1,45 @@
+1,"US Bank Account **04(Boise, ID)Type: Checking, Money Market Account,",Bank Deposit,Joint,"$50,001 - $100,000","Interest,",None (or less than $201)
+2,"US Bank Account **25(Boise, ID)Type: Checking,",Bank Deposit,Joint,"None (or less than $1,001)","None,",None (or less than $201)
+3,"US Bank Account **15(Boise, ID)Type: Checking,",Bank Deposit,Spouse,"$15,001 - $50,000","Interest,",None (or less than $201)
+4,"40+ Acres Land, Ada County, IDDescription: Currently Operated as Farm and Ranch Land (Ada County, ID)",Farm,Joint,"$5,000,001 - $25,000,000","Rent/Royalties,","$5,001 - $15,000"
+5,"40 +/- Acres Land, Canyon County, IDDescription: Currently Operated as Farm and Ranch Land (Canyon County, ID)",Farm,Joint,"$5,000,001 - $25,000,000","Rent/Royalties,","$5,001 - $15,000"
+6,"Black Angus Farms LLCCompany: Black Angus Farms (Boise, Idaho) Description: Farming, ranching, property holding company",Business EntityLimited Liability Company (LLC),Joint,,,
+6.1,"Agricultural and Commercial Real Estate PropertyDescription: 77 Acres Land, Agricultural and Commercial Real Estate Property, Cloverdale Road (Ada County, Idaho)",Real EstateCommercial,Joint,"$5,000,001 - $25,000,000","Rent/Royalties,","$15,001 - $50,000"
+7,"160 +/- Acres Land, Ada County, IDDescription: Currently Operated as Farm and Ranch Land (Ada County, ID)",Farm,Joint,"$1,000,001 - $5,000,000","Rent/Royalties, Capital Gains,","$5,001 - $15,000"
+8,"American Trailer Sales Co - Marketing Livestock Trailers (2400 S. Janeen Street, Boise, ID 83709)Company: American Trailer Sales Co (Boise, ID) Description: Marketing Livestock Trailers Filer comment:  Business distribution used for business taxes.",Corporate SecuritiesNon-Public Stock,Spouse,"$1,000,001 - $5,000,000","Other, (Other (Distribution))","Other $100,001.00"
+9,"Capital City Management LLC (5400 South Cole Road, Boise, ID 83709)Company: Capital City Management LLC (Boise, ID) Description: Real Estate Holding Company",Business EntityLimited Liability Company (LLC),Joint,,,
+9.1,"Residential Real PropertyDescription: Rental Home (Boise, ID) Filer comment:  Removed 200 North Pond asset listed on CY 2018 disclosure because it was a duplicate of this asset.",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$5,001 - $15,000"
+9.2,"Ada County Rental PropertyDescription: Rental property located on Highlander Street (Ada County, ID)",Real EstateResidential,Joint,"$500,001 - $1,000,000","Rent/Royalties,","$15,001 - $50,000"
+10,"Sage Meadow Ranch, Inc - Farm and Ranching Company (5400 South Cole Road, Boise, ID 83709)Company: Sage Meadow Ranch Inc. (Boise, ID) Description: Farm and Ranching Company",Corporate SecuritiesNon-Public Stock,Spouse,"$250,001 - $500,000","Dividends,",None (or less than $201)
+11,"Ada County Rental Property DesertDescription: Rental property located in Boise, ID/the desert (Boise, Idaho)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$5,001 - $15,000"
+12,"JR & JR Properties LLCCompany: JR & JR Properties LLC (Boise, ID) Description: Real estate holding.",Business EntityLimited Liability Company (LLC),Joint,,,
+12.1,"Commercial Real EstateDescription: Commercial Office Building (Boise, ID)",Real EstateCommercial,Joint,"$250,001 - $500,000","Rent/Royalties,","$5,001 - $15,000"
+13,Public Employee Retirement System of Idaho FundFiler comment:  Income from the pension reported on Part 2 as a distribution. This is my personal pension but listed as jointly owned due to Idaho community property laws.,Retirement PlansDefined Benefit Pension Plan,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+14,PERSI Choice 401(K) PlanFiler comment:  This is my personal pension but listed as jointly owned due to Idaho community property laws.,Retirement PlansDefined Contribution Pension Plan,Joint,,,
+14.1,PERSI Short Term Investment Portfolio,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+14.2,PERSI Total Return Fund,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+15,State of Idaho Deferred Compensation Program 457(b) ProgramFiler comment:  This is my personal pension but listed as jointly owned due to Idaho community property laws.,Deferred CompensationDeferred Compensation - Other,Joint,,,
+15.1,Nationwide Fixed Fund,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+15.2,VINIX - Vanguard Institutional Index,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+16,"Notes owed by Risch for Lt. Gov. Committees Resulting from 2002 Primary Election Campaign, Boise, IDCompany: Risch for Lt. Gov. Committees (Boise, ID)",Accounts ReceivableFrom a Business,Joint,"$250,001 - $500,000","Interest,",None (or less than $201)
+17,"Notes Owed by American Trailer Sales Co.Company: American Trailer Sales Co. (Boise, ID)",Accounts ReceivableFrom a Business,Joint,"$500,001 - $1,000,000","Interest,",None (or less than $201)
+18,T. Rowe Price Rollover IRA,Retirement PlansIRA,Joint,,,
+18.1,T. Rowe Price Summit Cash Reserve,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+18.2,PEXMX - T. Rowe Price Extended Equity Market Index Fund,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+18.3,PREIX - T. Rowe Price Equity Index Fund,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+19,Former Law Firm Simple Retirement Plan,Retirement PlansDefined Contribution Pension Plan,Joint,,,
+19.1,T. Rowe Price Mid-Cap Growth Fund,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+19.2,T. Rowe Price Small-Cap Stock Fund,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+19.3,T. Rowe Price Equity Income Fund,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+19.4,T. Rowe Price Extended Equity Market Index Fund,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+19.5,T. Rowe Price Government Money Fund,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+19.6,T. Rowe Price U.S. Treasury Money Fund,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+20,Tanaka Growth Fund,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+21,Fidelity Asset Manager 85%,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+22,"CondominiumDescription: Condominium 1207 (Washington, DC)",Real EstateResidential,Joint,"$500,001 - $1,000,000","None,",None (or less than $201)
+23,"E Trade Financial(Boise, ID)Type: Brokerage Sweep Account,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+24,"First Interstate Bank ***1582(Bend, Oregon)Type: Checking,",Bank Deposit,Joint,"$15,001 - $50,000","Interest,",None (or less than $201)
+25,Charles Schwab,Brokerage/Managed Account,Self,,,
+25.1,TQQQ - ProShares UltraPro QQQ,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,","$1,001 - $2,500"
+25.2,SPY - SPDR??S&P 500? ETF Trust,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","Excepted Investment Fund,","$1,001 - $2,500"
+25.3,"TD Ameritrade(Boise, ID)Type: Brokerage Sweep Account,",Bank Deposit,Self,"$100,001 - $250,000","Excepted Investment Fund,","$201 - $1,000"

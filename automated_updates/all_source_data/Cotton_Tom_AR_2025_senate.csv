@@ -1,0 +1,22 @@
+1,"Bank of America(Charlotte, NC)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+2,"Bank of America(Charlotte, NC)Type: Savings,",Bank Deposit,Joint,"$1,001 - $15,000","Interest,",None (or less than $201)
+3,"Northern Trust(Chicago, IL)Type: Checking,",Bank Deposit,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+4,Fidelity Roth IRA,Retirement PlansIRA,Self,,,
+4.1,SPRXX-Fidelity Money Market,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends, Interest,",None (or less than $201)
+5,Northern Trust Roth IRA,Retirement PlansIRA,Spouse,,,
+5.1,IWV - iShares Russell 3000 ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+5.2,NOGXX - U.S. Government Money Market Fund,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+6,Northern Trust Rollover IRA,Retirement PlansIRA,Spouse,,,
+6.1,IWV - iShares Russell 3000 ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000","Dividends,","$201 - $1,000"
+7,Northern Trust Discretionary Account,Brokerage/Managed Account,Spouse,,,
+7.1,IWV - iShares Russell 3000 ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$50,001 - $100,000","Dividends,","$201 - $1,000"
+7.2,NOGXX - U.S. Government Money Market Fund,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000","Interest,",None (or less than $201)
+8,"SLG Solutions LLCCompany: SLG Solutions LLC (McLean, Viginia) Description: For business consulting and governance Filer comment:  Consistent with Instructions from Ethics in CY2020, amendment treats equity in the LLC, calculated as assets minus liabilities",Business EntityLimited Liability Company (LLC),Spouse,"$15,001 - $50,000","Interest,",None (or less than $201)
+9,Child 1 UTMA,UGMA/UTMA,Child,,,
+9.1,"Northern Trust(Chicago, IL)Type: Savings,",Bank Deposit,Child,"$1,001 - $15,000","Interest,",None (or less than $201)
+10,Child 2 UTMA,UGMA/UTMA,Child,,,
+10.1,"Northern Trust(Chicago, IL)Type: Savings,",Bank Deposit,Child,"$1,001 - $15,000","Interest,",None (or less than $201)
+11,"TBC Books LLCCompany: TBC Books LLC (Little Rock, Arkansas) Description: Book writing",Business EntityLimited Liability Company (LLC),Self,"$1,001 - $15,000","None,",None (or less than $201)
+12,"Marcus by Goldman Sachs(NYC, New York)Type: Savings, Filer comment:  Marcus Savings Account #1 (of 3).",Bank Deposit,Joint,"$100,001 - $250,000","Interest,","$5,001 - $15,000"
+13,"Marcus by Goldman Sachs(NYC, New York)Type: Savings, Filer comment:  Marcus Savings Account # 2 (of 3).",Bank Deposit,Joint,"$100,001 - $250,000","Interest,","$5,001 - $15,000"
+14,"Marcus by Goldman Sachs(NYC, New York)Type: Savings, Filer comment:  Marcus Savings Account #3 (of 3). Funds transferred to Savings from CD listed in CY23 FD>Assets>#14.",Bank Deposit,Joint,"$15,001 - $50,000","Interest,","$1,001 - $2,500"

@@ -1,0 +1,28 @@
+1,IRA Brokerage Cash Services,Retirement PlansIRA,Self,,,
+1.1,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","None, Excepted Investment Fund,",None (or less than $201)
+1.2,VO - Vanguard Mid-Cap ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None, Excepted Investment Fund,",None (or less than $201)
+1.3,VOE - Vanguard Mid-Cap Value ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None, Excepted Investment Fund,",None (or less than $201)
+1.4,VBR - Vanguard Small-Cap Value ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000","None, Excepted Investment Fund,",None (or less than $201)
+1.5,VTI - Total Stock Market ETF Vanguard,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000","None, Excepted Investment Fund,",None (or less than $201)
+1.6,US TREASURY NOTESRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"$1,001 - $15,000","None,",None (or less than $201)
+1.7,"Wells Fargo(Jefferson City, MO)Type: Brokerage Sweep Account, IRA Cash Accounts,",Bank Deposit,Self,"$1,001 - $15,000","Interest,","$201 - $1,000"
+1.8,US TREASURY NOTESRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"$1,001 - $15,000","None,",None (or less than $201)
+1.9,GLD - SPDR Gold Trust,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None, Excepted Investment Fund,",None (or less than $201)
+1.10,VONG - Vanguard Russell 1000 Growth ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000","None, Excepted Investment Fund,",None (or less than $201)
+1.11,VIOV - Vanguard S&P Small-Cap 600 Value ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000","None, Excepted Investment Fund,",None (or less than $201)
+1.12,US TREASURY NOTESRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"$15,001 - $50,000","None,",None (or less than $201)
+1.13,US TREASURY NOTESRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"$15,001 - $50,000","None,",None (or less than $201)
+1.14,US TREASURY NOTESRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"$15,001 - $50,000","None,",None (or less than $201)
+1.15,US Treasury NoteRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"$1,001 - $15,000","None,",None (or less than $201)
+1.16,US Treasury NoteRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"$1,001 - $15,000","None,",None (or less than $201)
+2,MOSERS,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,"None,",None (or less than $201)
+3,Public School Retirement System,Retirement PlansDefined Benefit Pension Plan,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+4,MOST 529 PlanInstitution: State of MissouriFiler comment:  Child #1,Education Savings Plans529 College Savings Plan,Child,,,
+4.1,Vanguard Conservative Growth Portfolio,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","None, Excepted Investment Fund,",None (or less than $201)
+4.2,Vanguard Aggressive Growth Portfolio,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","None, Excepted Investment Fund,",None (or less than $201)
+5,Fidelity Advisor 529 PlanInstitution: Fidelity Advisor Plan Sponsored by New HampshireFiler comment:  Child #1,Education Savings Plans529 College Savings Plan,Child,,,
+5.1,Fidelity Advisory Port Class 2025 Age Based Fund,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","None, Excepted Investment Fund,",None (or less than $201)
+6,Permanent Whole Life InsuranceProvider: Northwestern Mutual,Life InsuranceWhole,Child,"$50,001 - $100,000","None,",None (or less than $201)
+7,Permanent Whole Life InsuranceProvider: Northwestern Mutual,Life InsuranceWhole,Child,"$50,001 - $100,000","None,",None (or less than $201)
+8,"Goldie Co LLCCompany: Goldie Co LLC (Webster Groves, Missouri) Description: Administrative services",Business EntityLimited Liability Company (LLC),Spouse,"$1,001 - $15,000","None,","$1,001 - $2,500"
+9,"UMB Bank(Kirkwood, Missouri)Type: Checking,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)

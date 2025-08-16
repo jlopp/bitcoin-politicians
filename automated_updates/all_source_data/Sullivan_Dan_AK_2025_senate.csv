@@ -1,0 +1,73 @@
+1,MALOX - BlackRock Global Allocation Instl (NASDAQ),Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains, Excepted Investment Fund,","$2,501 - $5,000"
+2,NARAX - Virtus Multi-Sector S/T Bd A (NASDAQ),Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains, Excepted Investment Fund,","$5,001 - $15,000"
+3,RPM - RPM International Inc. (NYSE),Corporate SecuritiesStock,Joint,"$1,000,001 - $5,000,000","Dividends, Capital Gains,","$15,001 - $50,000"
+4,MANLX - BlackRock National Municipal Instl (NASDAQ),Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains, Excepted Investment Fund,","$5,001 - $15,000"
+5,AFTFX - American Funds TaxExempt Bond F1 (NASDAQ),Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains, Excepted Investment Fund,","$5,001 - $15,000"
+6,"State of Alaska Permanent FundDescription: State Fund Managed by Alaska Permanent Fund Corp. (Juneau, AK)",Other Securities,Self,"None (or less than $1,001)","Excepted Investment Fund,","$1,001 - $2,500"
+7,"State of Alaska Permanent FundDescription: State Fund Managed by Alaska Permanent Fund Corp. (Juneau, AK)",Other Securities,Spouse,"None (or less than $1,001)","Excepted Investment Fund,","$1,001 - $2,500"
+8,"Rental PropertyDescription: 301 Crystal Mtn. Rd (Girdwood, AK)",Real EstateResidential,Joint,"$250,001 - $500,000","Rent/Royalties,","$5,001 - $15,000"
+9,IRA,Retirement PlansIRA,Self,,,
+9.1,FGTXX Goldman Sachs FS Government Fund,Mutual FundsMutual Fund,Self,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+9.2,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9.3,MASKX - Ishares Russell 2000 Small-Cap Index Fund - Inst,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9.4,FSGGX - Fidelity Global Ex U.S. Index Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+9.5,VBTLX - Vanguard Total Bond Market Index Fund Admiral Sh,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+10,IRA,Retirement PlansIRA,Spouse,,,
+10.1,FGTXX GS FS Government Fund,Mutual FundsMutual Fund,Spouse,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+10.2,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+10.3,MASKX - Ishares Russell 2000 Small-Cap Index Fund - Inst,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+10.4,FSGGX - Fidelity Global Ex U.S. Index Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+10.5,VBTLX - Vanguard Total Bond Market Index Fund Admiral Sh,Mutual FundsMutual Fund,Spouse,"None (or less than $1,001)","Excepted Investment Fund,",None (or less than $201)
+11,Uniform Transfer to Minors Act College Fund,UGMA/UTMA,Child,,,
+11.1,HNACX - Harbor Capital Appreciation Fund Retirement Class,Mutual FundsMutual Fund,Child,"$15,001 - $50,000","Capital Gains, Excepted Investment Fund,","$2,501 - $5,000"
+11.2,HNVRX - Harbor Small Cap Value Fund Retirement Class,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+11.3,VPMAX - Vanguard PRIMECAP Adm (NASDAQ),Mutual FundsMutual Fund,Child,"$15,001 - $50,000","Dividends, Capital Gains, Excepted Investment Fund,","$1,001 - $2,500"
+11.4,WCMIX - WCM Focused International Growth Fund Institutiona,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Dividends, Capital Gains, Excepted Investment Fund,","$201 - $1,000"
+11.5,FTXXX - GS Investor Tax-Exempt Money Market Fund,Mutual FundsStable Value Fund,Child,"$1,001 - $15,000","Interest, Excepted Investment Fund,",None (or less than $201)
+11.6,SIDRX - Hartford Schroders International Multi-Cap Value F,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Dividends, Excepted Investment Fund,",None (or less than $201)
+11.7,DODGX - Dodge & Cox Stock Fund,Mutual FundsMutual Fund,Child,"$15,001 - $50,000","Dividends, Capital Gains, Excepted Investment Fund,","$1,001 - $2,500"
+11.8,CCALX - Conestoga Small Cap Fund Institutional Class,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+11.9,GQGIX - Gqg Partners Emerging Markets Equity Fund Instit,Mutual FundsMutual Fund,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+11.10,VOO - Vanguard S&P 500 ETF,Mutual FundsExchange Traded Fund/Note,Child,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+12,IWF - iShares Russell 1000 Growth (NYSEArca),Mutual FundsExchange Traded Fund/Note,Joint,"$250,001 - $500,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+13,IWD - iShares Russell 1000 Value (NYSEArca),Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000","Dividends, Excepted Investment Fund,","$201 - $1,000"
+14,EFA - iShares MSCI EAFE (NYSEArca),Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+15,GFAFX - American Funds Growth Fund of Amer F1 (NASDAQ),Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains, Excepted Investment Fund,","$1,001 - $2,500"
+16,"Birch Lake TownsiteDescription: Block 1, Lot 14 Birch Lake Townsite (Birch Lake, Alaska)",Real EstateUnimproved Land,Spouse,"$15,001 - $50,000","None,",None (or less than $201)
+17,"Birch Lake TownsiteDescription: Block 1, Lot 13 Birch lake Townsite (Birch Lake, Alaska)",Real EstateUnimproved Land,Spouse,"$100,001 - $250,000","None,",None (or less than $201)
+18,FTXXX - GS Investor Tax-Exempt Money Market Fund,Mutual FundsStable Value Fund,Joint,"$250,001 - $500,000","Interest, Excepted Investment Fund,","$15,001 - $50,000"
+19,"Wells Fargo(Anchorage, AK)Type: Checking, Savings,",Bank Deposit,Joint,"$1,001 - $15,000","None,",None (or less than $201)
+20,"Baan O Yeel KonDescription: Alaska Native Claims Settlement Act village corporation (Rampart, AK)",Other Securities,Spouse,"None (or less than $1,001)","None, Excepted Investment Fund,",None (or less than $201)
+21,"Doyon LimitedDescription: Alaska Native Claims Settlement Act regional corporation (Fairbanks, AK)",Other Securities,Spouse,"$1,001 - $15,000","None, Excepted Investment Fund,",None (or less than $201)
+22,529 Education Plan - Child 1Institution: BlackRock 529 College Advantage,Education Savings Plans529 College Savings Plan,Spouse,,,
+22.1,BlackRock Moderate Portfolio Option - A,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000","Excepted Investment Fund,",None (or less than $201)
+22.2,BlackRock Growth Portfolio Option - A,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+22.3,BlackRock College Enrollment Option - A,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000","Excepted Investment Fund,",None (or less than $201)
+23,529 Education Plan - Child 2Institution: BlackRock 529 College Advantage,Education Savings Plans529 College Savings Plan,Spouse,,,
+23.1,BlackRock Moderate Portfolio Option - A,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+23.2,BlackRock Growth Portfolio Option - A,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000","Excepted Investment Fund,",None (or less than $201)
+23.3,BR College Enrollment Option - A,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000","Excepted Investment Fund,",None (or less than $201)
+24,WCMIX - WCM Focused International Growth Fund Institutiona,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Excepted Investment Fund,","$201 - $1,000"
+25,ABCIX - American Beacon The London Company Income Equity,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends, Excepted Investment Fund,","$201 - $1,000"
+26,VEA - Vanguard FTSE Developed Markets ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+27,VOO - Vanguard S&P 500 ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$250,001 - $500,000","Dividends, Excepted Investment Fund,","$2,501 - $5,000"
+28,CCALX - Conestoga Small Cap Fund Institutional Class,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Capital Gains, Excepted Investment Fund,","$201 - $1,000"
+29,DODGX - Dodge & Cox Stock Fund,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Dividends, Capital Gains, Excepted Investment Fund,","$201 - $1,000"
+30,GQEIX - Gqg Partners US Select Quality Equity Fund Insti,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Excepted Investment Fund,","$201 - $1,000"
+31,POLIX - Polen Growth Fund Institutional Class,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Capital Gains, Excepted Investment Fund,","$2,501 - $5,000"
+32,GTCMX - Glenmede Ptfls Muni Intermediate Portfolio,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Dividends, Capital Gains, Excepted Investment Fund,","$201 - $1,000"
+33,"Global Credit Union(Anchorage, AK)Type: Savings,",Bank Deposit,Spouse,"$50,001 - $100,000","Interest,","$2,501 - $5,000"
+34,BMVP - Invesco Bloomberg Mvp Multi-Factor ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends, Capital Gains, Excepted Investment Fund,","$5,001 - $15,000"
+35,GTCSX - Glenmede Small Capitalization Equity Portfolio A,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Excepted Investment Fund,","$201 - $1,000"
+36,DFAPX - Dfa Investment Grade Portfolio,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+37,VAIPX - Vanguard Inflation Protected Securities Fund Adm,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Dividends, Capital Gains, Excepted Investment Fund,","$201 - $1,000"
+38,EAGL - Eagle Capital Select Equity ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends, Excepted Investment Fund,","$201 - $1,000"
+39,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+40,PVAL - Putnam Focused Large Cap Value ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+41,IJR - iShares Core S&P Small-Cap ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+42,Vanguard Index Funds Small Cap ETF- VB,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+43,DODFX - Dodge & Cox International Stock Fund,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends, Excepted Investment Fund,","$201 - $1,000"
+44,EMXC - Emrg Mkts Ex China Ishares MSCI ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+45,VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Excepted Investment Fund,","$2,501 - $5,000"
+46,VNQ - Vanguard Real Estate ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000","Dividends, Excepted Investment Fund,","$1,001 - $2,500"
+47,GQGIX,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)","Capital Gains, Excepted Investment Fund,","$5,001 - $15,000"

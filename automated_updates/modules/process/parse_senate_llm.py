@@ -12,7 +12,7 @@ def assets_from_senate_image_to_csv(input_image_path):
 	# use '|' separator to avoid characters in asset names
 	response = send_to_api(message="This is a public disclosure form for a US congressman from senate.gov. Get the asset names in the form. Return them in a | separated list only. If there are no assets listed, state: 'None'. No other commentary.", 
 						base64_image=base64_image,
-						model='gpt-4o')
+						model='gpt-5')
 	
 	# print(response);print('\n')
 	if re.sub(r'[^a-zA-Z]', '', response.strip().lower() ) == 'none':
