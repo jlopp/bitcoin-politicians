@@ -1,0 +1,31 @@
+1,"Bank of Hawaii(Honolulu, HI)Type: Checking, Savings",Bank Deposit,Joint,"$15,001 - $50,000",None,None (or less than $201)
+2,TIAA-CREF Research Corp of UH Retirement,"Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Self,--,,
+2.1,QCEQPX - Equity Index Account - Class R2Filer comment:  Ticker symbol change; previously reported as TIAA-CREF Equity Index R2 (TIQRX),Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+2.2,TRRSX - TIAA-CREF Real Estate Sec Retire (NASDAQ),Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+2.3,QCSCPX - CREF Responsible Balanced Account R2Filer comment:  Ticker symbol change; previously reported as TIAA-CREF Social Choice Eq Retire (TRSCX),Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+2.4,QCSTPX - Stock Account - Class R2,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+3,American Funds 529Institution: American Funds,Education Savings Plans529 College Savings Plan,Joint,--,,
+3.1,CWMAX - American Funds Washington Mutual 529A (NASDAQ),Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+3.2,CGFAX - American Funds Growth Fund of Amer 529A (NASDAQ),Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+3.3,CBOAX - American Funds Interm Bd Fd of Amer 529A (NASDAQ),Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+3.4,CICAX - American Funds Invmt Co of Amer 529A (NASDAQ),Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+4,Helping Hands Hawaii 403(b) Thrift,"Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Self,--,,
+4.1,MASSX -Mutual of America Instl Small Cap Growth,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+4.2,MAVSX - Mutual of America Instl Small Cap Value,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+4.3,Mutual of America - Calvert VP SRI Balanced Portfolio,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+4.4,Mutual of America - Fidelity Investments VIP Contrafund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+5,"Schatz Collaborative LLCCompany: Schatz Collaborative LLC (Honolulu, HI) Description: Community based real estate development consulting services",Business EntityLimited Liability Company (LLC),Spouse,"None (or less than $1,001)",None,None (or less than $201)
+6,Employee's Retirement System of the State of Hawaii,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,None,None (or less than $201)
+7,ScholarShare529Institution: TIAA,Education Savings Plans529 College Savings Plan,Joint,--,,
+7.1,2024/2025 Enrollment Portfolio Passive,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+7.2,Enrollment Year Portfolio Passive,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+8,ScholarShare529Institution: TIAA,Education Savings Plans529 College Savings Plan,Joint,--,,
+8.1,Enrollment Year Portfolio Passive,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+9,"Residential PropertyDescription: Residential Real Estate (Washington, DC)",Real EstateResidential,Joint,"$250,001 - $500,000",Rent/Royalties,"$5,001 - $15,000"
+10,"Residential PropertyDescription: Residential Real Estate (Honolulu, HI)",Real EstateResidential,Joint,"$1,000,001 - $5,000,000",Rent/Royalties,"$15,001 - $50,000"
+11,"Pier Wailuku, LLCCompany: Pier Wailuku, LLC (Los Alamitos, CA) Description: Holding Company",Business EntityLimited Liability Company (LLC),Spouse,--,,
+11.1,"Investment in Residential PropertyDescription: Residential Property (Wailuku, HI)",Real EstateResidential,Spouse,"$50,001 - $100,000",Rent/Royalties,"$50,001 - $100,000"
+12,Inspira - Traditional IRA,Retirement PlansIRA,Spouse,--,,
+12.1,The Standard Guaranteed Fixed Interest Fund Z,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+13,"At Ease CorporationCompany: At Ease Corporation (Falls Chuch, VA) Description: S-Corp",Business EntityLimited Liability Company (LLC),Spouse,--,,
+13.1,"Osceola Mill Bed & Breakfast Inn & CabinDescription: Bed & Breakfast (Vesuvius, VA) Filer comment:  Overall loss in 2025",Real EstateResidential,Spouse,"$500,001 - $1,000,000",Rent/Royalties,"$50,001 - $100,000"

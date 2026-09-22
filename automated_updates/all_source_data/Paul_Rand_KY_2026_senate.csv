@@ -1,0 +1,50 @@
+1,"German American Bank(Jasper, IN)Type: Checking, Savings",Bank Deposit,Joint,"$15,001 - $50,000",Interest,None (or less than $201)
+2,CPFXX - American Century Capital Preser (NASDAQ),Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+3,BGEIX - American Century Global Gold Inv (NASDAQ),Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000",Excepted Investment Fund,"$201 - $1,000"
+4,"Alchemy, LLCCompany: Alchemy, LLC (Bowling Green, KY) Description: real estate",Business EntityLimited Liability Company (LLC),Joint,--,,
+4.1,"Rental PropertyDescription: Rental Property (Destin, FL)",Real EstateResidential,Joint,"$100,001 - $250,000",Rent/Royalties,"$5,001 - $15,000"
+5,"Carona LimitedCompany: Carona Limited (Lake Jackson, TX) Description: Rental property.",Business EntityLimited Partnership (LP),Self,--,,
+5.1,"Rental Property 1Description: Rental Property (Lake Jackson, TX)",Real EstateResidential,Self,"$1,001 - $15,000",None,None (or less than $201)
+5.2,"Rental Property 2Description: Rental Property (Lake Jackson, TX)",Real EstateResidential,Self,"$1,001 - $15,000",None,None (or less than $201)
+5.3,"Rental Property 3Description: Rental Property (Lake Jackson, TX)",Real EstateResidential,Self,"$1,001 - $15,000",None,None (or less than $201)
+5.4,"Rental Property 4Description: Rental Property (Lake Jackson, TX)",Real EstateResidential,Self,"$15,001 - $50,000",None,None (or less than $201)
+5.5,"Rental Property 5Description: Farm Land (Lake Jackson, TX)",Real EstateCommercial,Self,"$1,001 - $15,000",None,None (or less than $201)
+5.6,"Rental Property 6Description: Rental Property (Lake Jackson, TX)",Real EstateResidential,Self,"$1,001 - $15,000",None,None (or less than $201)
+5.7,CashDescription: Cash,Personal PropertyOther Property,Self,"$15,001 - $50,000",None,None (or less than $201)
+6,JACNX - Janus Contrarian D (NASDAQ),Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$5,001 - $15,000"
+7,NuView IRA Inc,Retirement PlansIRA,Self,--,,
+7.1,"CHANDLER REAL ESTATE PARTNERS XV LPCompany: CHANDLER REAL ESTATE PARTNERS XV LP (Newport News, VA) Description: Investment in rental real estate",Business EntityLimited Partnership (LP),Self,"$50,001 - $100,000",None,None (or less than $201)
+7.2,"Chandler Real Estate Partners XIV LPCompany: Chandler Real Estate Partners XIV LP (Newport News, VA) Description: Investment in rental real estate",Business EntityLimited Partnership (LP),Self,"$50,001 - $100,000",None,None (or less than $201)
+7.3,"Chandler Real Estate Partners XIII LPCompany: Chandler Real Estate Partners XIII LP (Newport News, VA) Description: Investment in rental real estate",Business EntityLimited Partnership (LP),Self,"$50,001 - $100,000",None,None (or less than $201)
+7.4,"NuView IRA Inc(Longwood, FL)Type: IRA Cash Accounts",Bank Deposit,Self,"$15,001 - $50,000",None,None (or less than $201)
+7.5,"Chandler Real Estate Partners XIX LPCompany: Chandler Real Estate Partners XIX LP (Newport News, VA) Description: Investment in rental real estate",Business EntityLimited Partnership (LP),Self,"$15,001 - $50,000",None,None (or less than $201)
+8,JANBX - Janus Henderson Balanced Fund Class D,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+9,JNMCX - Janus Henderson Mid Cap Value Fund Class D,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+10,JNRFX - Janus Henderson Research Fund Class D,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000",Excepted Investment Fund,"$5,001 - $15,000"
+11,AOMIX - American Century Investments One Choice Portfolio:,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+12,"GILD - Gilead Sciences, Inc. - Common Stock",Corporate SecuritiesStock,Spouse,"$1,001 - $15,000",Dividends,"$201 - $1,000"
+13,JNGSX - Janus Henderson Global Real Estate Fund - D Shar,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+14,"Chandler Real Estate Partners XIII LPCompany: Chandler Real Estate Partners XIII LP (Newport News, Virginia) Description: Investment in rental real estate",Business EntityLimited Partnership (LP),Self,"$100,001 - $250,000",Rent/Royalties,"$5,001 - $15,000"
+15,LUV - SOUTHWEST AIRLINES,Corporate SecuritiesStock,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+16,JNGTX - Janus Henderson Global Technology Fund - D Share,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+17,SPAXXX - FIDELITY GOVERMENT MONET MARKET,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000",Interest,"$5,001 - $15,000"
+18,SPAXXX - FIDELITY GOVERMENT MONET MARKET,Mutual FundsMutual Fund,Self,"$100,001 - $250,000",Excepted Investment Fund,"$2,501 - $5,000"
+19,FSPGX - Fidelity Large Cap Growth Index Fund,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Dividends,None (or less than $201)
+20,FBGRX - Fidelity Blue Chip Growth Fund,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Dividends,"$201 - $1,000"
+21,FSELX - Fidelity Select Semiconductors Portfolio,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Dividends,"$1,001 - $2,500"
+22,PCOXX FEDERATED HERMES PRM CASH,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000",Interest,"$2,501 - $5,000"
+23,FSPGX - Fidelity Large Cap Growth Index Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+24,FBGRX - Fidelity Blue Chip Growth Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+25,FSELX - Fidelity Select Semiconductors Portfolio,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,"$1,001 - $2,500"
+26,ACDXX - Janus Henderson Government Money Market Fund - American Cancer Society Support - Class D,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+27,PCOXX - Federated Hermes Prime Cash Obligations Fund - Wealth Shares,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+28,USAGX - Victory Precious Metals and Minerals Fund (Formerly USAA Precious Metals and Minerals Fund) - Victory Precious Metals and Minerals Fund Shares,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+29,VGELX - Vanguard Energy Fund - Admiral Shares,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$2,501 - $5,000"
+30,VBIAX - VANGUARD BALANCED INDEX FUND - Admiral Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,"$201 - $1,000"
+31,VTHRX - Vanguard Target Retirement 2030 Fund - Investor Shares,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+32,VFIAX - Vanguard 500 Index Fund - Admiral Shares,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+33,RRPIX - RISING RATES OPPORTUNITY PROFUND - RISING RATES OPPORTUNITY PROFUND INVESTOR CLASS,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+34,RYJUX - Inverse Government Long Bond Strategy Fund - Investor Class,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+35,VBTLX - Vanguard Total Bond Market Index Fund - Admiral Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+36,VFITX - Vanguard Intermediate-Term Treasury Fund - Investor Shares,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+37,VMRXX - Vanguard Cash Reserves Federal Money Market Fund - Admiral Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)

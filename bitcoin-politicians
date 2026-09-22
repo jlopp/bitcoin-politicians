@@ -1,0 +1,131 @@
+#!/usr/bin/env python3
+
+import argparse
+import subprocess
+import sys
+from pathlib import Path
+
+
+AUTOMATED_UPDATES_DIR = Path(__file__).resolve().parent / "automated_updates"
+
+
+def positive_integer(value):
+    value = int(value)
+    if value < 1:
+        raise argparse.ArgumentTypeError("must be at least 1")
+    return value
+
+
+def run_stage(name, script, arguments=None):
+    print(f"\n==> {name}", file=sys.stderr)
+    command = [sys.executable, str(AUTOMATED_UPDATES_DIR / script)]
+    if arguments:
+        command.extend(arguments)
+    return subprocess.run(command, cwd=AUTOMATED_UPDATES_DIR).returncode
+
+
+def extraction_arguments(args):
+    arguments = ["--workers", str(args.workers)]
+    if args.new_only:
+        arguments.append("--new-only")
+    return arguments
+
+
+def build_parser():
+    parser = argparse.ArgumentParser(
+        prog="bitcoin-politicians",
+        description="Update the Bitcoin Politicians disclosure datasets.",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    gather_parser = subparsers.add_parser(
+        "gather",
+        help="Download and prepare the latest disclosure source files.",
+    )
+    gather_parser.add_argument(
+        "--test-set",
+        action="store_true",
+        help="Process the small test set instead of all current members.",
+    )
+
+    extract_parser = subparsers.add_parser(
+        "extract",
+        help="Extract asset names from prepared disclosure images.",
+    )
+    extract_parser.add_argument(
+        "--new-only",
+        action="store_true",
+        help="Process only disclosures listed in new_disclosures.csv.",
+    )
+    extract_parser.add_argument(
+        "--workers",
+        type=positive_integer,
+        default=8,
+        metavar="N",
+        help="Number of concurrent OpenRouter requests (default: 8).",
+    )
+
+    subparsers.add_parser(
+        "summarize",
+        help="Build the final CSV and Markdown datasets.",
+    )
+
+    update_parser = subparsers.add_parser(
+        "update",
+        help="Run gather, extract, and summarize in sequence.",
+    )
+    update_parser.add_argument(
+        "--new-only",
+        action="store_true",
+        help="Extract only disclosures listed in new_disclosures.csv.",
+    )
+    update_parser.add_argument(
+        "--workers",
+        type=positive_integer,
+        default=8,
+        metavar="N",
+        help="Number of concurrent OpenRouter requests (default: 8).",
+    )
+
+    return parser
+
+
+def main(argv=None):
+    args = build_parser().parse_args(argv)
+
+    try:
+        if args.command == "gather":
+            arguments = ["--test-set"] if args.test_set else []
+            return run_stage("Gathering disclosures", "gather_source_data.py", arguments)
+
+        if args.command == "extract":
+            return run_stage(
+                "Extracting asset names",
+                "parse_asset_names_llm_parallel.py",
+                extraction_arguments(args),
+            )
+
+        if args.command == "summarize":
+            return run_stage("Building final datasets", "summarize_results.py")
+
+        stages = (
+            ("Gathering disclosures", "gather_source_data.py", []),
+            (
+                "Extracting asset names",
+                "parse_asset_names_llm_parallel.py",
+                extraction_arguments(args),
+            ),
+            ("Building final datasets", "summarize_results.py", []),
+        )
+        for name, script, arguments in stages:
+            exit_code = run_stage(name, script, arguments)
+            if exit_code:
+                return exit_code
+        return 0
+    except KeyboardInterrupt:
+        print("\nInterrupted.", file=sys.stderr)
+        return 130
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

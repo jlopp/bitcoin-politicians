@@ -12,6 +12,7 @@ import csv
 import time
 import os
 import requests
+import re
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -26,6 +27,9 @@ def start_chrome_driver(chrome_driver_path, headless=True):
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
     return driver
+
+def _normalized_name(value):
+    return " ".join(re.sub(r"[^a-z0-9]+", " ", value.casefold()).split())
 
 def download_senate_source_data_most_recent(last_name, first_name, state_abbr, party, headless):
     driver = start_chrome_driver(chrome_driver_path, headless=headless)
@@ -51,17 +55,30 @@ def download_senate_source_data_most_recent(last_name, first_name, state_abbr, p
     date_received_column.click(); time.sleep(1)
     wait.until(EC.presence_of_element_located((By.ID, "filedReports")))
     annual_report_links = driver.find_elements(By.XPATH, "//a[contains(text(), 'Annual Report') and not(contains(text(), 'Amendment')) and not(contains(text(), 'Extension'))]")
-    if len(annual_report_links) == 0: return False
+    if len(annual_report_links) == 0:
+        driver.quit()
+        return False
 
     report_links_with_dates = {}
+    expected_first_name = _normalized_name(first_name)
     for link in annual_report_links:
         if "Annual Report" in link.text and "Amendment" not in link.text:
-            date_cell = link.find_element(By.XPATH, "./ancestor::tr/td[last()]")
+            row = link.find_element(By.XPATH, "./ancestor::tr")
+            cells = row.find_elements(By.TAG_NAME, "td")
+            result_first_name = _normalized_name(cells[0].text) if cells else ""
+            if not (
+                result_first_name == expected_first_name
+                or result_first_name.startswith(expected_first_name + " ")
+            ):
+                continue
+            date_cell = cells[-1]
             date_text = date_cell.text.strip()
             report_date = datetime.strptime(date_text, "%m/%d/%Y")
             report_links_with_dates[report_date] = link
     
-    if not report_links_with_dates: return False
+    if not report_links_with_dates:
+        driver.quit()
+        return False
 
     most_recent_date = max(report_links_with_dates.keys())
     most_recent_link = report_links_with_dates[most_recent_date]

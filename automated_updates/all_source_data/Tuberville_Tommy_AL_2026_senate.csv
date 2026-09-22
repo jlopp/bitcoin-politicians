@@ -1,0 +1,87 @@
+1,"Hancock Whitney Bank(Santa Rosa Beach, FL)Type: Checking",Bank Deposit,Joint,"$1,001 - $15,000",Interest,None (or less than $201)
+2,Prudential Variable AnnuityProvider: Prudential,AnnuityVariable Annuity,Self,--,,
+2.1,AST Preservation Asset Allocation Portfolio,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+2.2,AST Prudential Growth Allocation,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",None,None (or less than $201)
+2.3,AST Balanced Asset Allocation,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",None,None (or less than $201)
+2.4,AST J.P. Morgan Moderate Multi-Asset,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+2.5,AST PGIM Agressive Multi-Asset Port,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+3,Osaic IRA (formerly Lincoln IRA),Retirement PlansIRA,Self,--,,
+3.1,"Fidelity (FDRXX)(Boston, MA)Type: Brokerage Sweep Account",Bank Deposit,Self,"$250,001 - $500,000",None,None (or less than $201)
+3.2,GOOGL - Alphabet Inc.,Corporate SecuritiesStock,Self,"$100,001 - $250,000",None,None (or less than $201)
+3.3,AAPL - Apple Inc.,Corporate SecuritiesStock,Self,"$250,001 - $500,000",None,None (or less than $201)
+3.4,C - Citigroup Inc.,Corporate SecuritiesStock,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.5,NUE - Nucor Corporation,Corporate SecuritiesStock,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.6,PFE - Pfizer Inc.,Corporate SecuritiesStock,Self,"$15,001 - $50,000",None,None (or less than $201)
+3.7,PM - Philip Morris International Inc.,Corporate SecuritiesStock,Self,"$15,001 - $50,000",None,None (or less than $201)
+3.8,"UAA - Under Armour, Inc.",Corporate SecuritiesStock,Self,"$1,001 - $15,000",None,None (or less than $201)
+3.9,VZ - Verizon Communications Inc.,Corporate SecuritiesStock,Self,"$15,001 - $50,000",None,None (or less than $201)
+3.10,WMT - Walmart Inc.,Corporate SecuritiesStock,Self,"$100,001 - $250,000",None,None (or less than $201)
+3.11,FSPSX - Fidelity International Index Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.12,FSMDX - Fidelity Mid Cap Index Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.13,SGIIX - First Eagle Global Fund Class I,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.14,TDIV - First Trust NASDAQ Technology Dividend Index Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.15,IVV - iShares Core S&P 500 ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.16,XLP - Consumer Staples Select Sector SPDR Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.17,XLU - Utilities Select Sector SPDR Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.18,XLV - Health Care Select Sector SPDR Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.19,XAR - SPDR S&P Aerospace & Defense ETF,Mutual FundsMutual Fund,Self,"$100,001 - $250,000",None,None (or less than $201)
+3.20,VIG - Vanguard Dividend Appreciation Index Fund ETF Shar,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000",None,None (or less than $201)
+3.21,QQQ - Invesco QQQ Trust,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000",None,None (or less than $201)
+3.22,PFF - iShares Preferred and Income Securities ETF,Mutual FundsExchange Traded Fund/Note,Self,"None (or less than $1,001)",None,None (or less than $201)
+3.23,DTD - WisdomTree U.S. Total Dividend Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.24,BMY - Bristol-Myers Squibb Company Common Stock,Corporate SecuritiesStock,Self,"None (or less than $1,001)",None,None (or less than $201)
+3.25,"PayPal Holdings, Inc.",Corporate SecuritiesStock,Self,"None (or less than $1,001)",None,None (or less than $201)
+3.26,WAB - WABTEC COM,Corporate SecuritiesStock,Self,"$1,001 - $15,000",None,None (or less than $201)
+3.27,ABNFX - The Bond Fund of America Class F2,Corporate SecuritiesStock,Self,"$100,001 - $250,000",None,None (or less than $201)
+3.28,RSP - Invesco S&P 500 Equal Weight ETF,Corporate SecuritiesStock,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.29,DHS - Wisdomtree U.S. High Dividend Fund,Corporate SecuritiesStock,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.30,US Treas Bills Zero CPNRate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Self,"None (or less than $1,001)",None,None (or less than $201)
+3.31,FSMSX - FS Multi-Strategy Alternatives Fund Class I,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.32,PQIIX - Pimco Dividend and Income Fund Class Instl,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.33,LVHI - Legg Mason International Low Volatility High Divid,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.34,DGRW - WisdomTree U.S. Quality Dividend Growth Fund,Mutual FundsExchange Traded Fund/Note,Self,"None (or less than $1,001)",None,None (or less than $201)
+3.35,USIG - iShares Broad USD Investment Grade Corporate Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.36,HELO - JPMorgan Hedged Equity Laddered Overlay ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.37,PFIUX - PIMCO Dynamic Bond Fund - Institutional,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+3.38,XLF - The Financial Select Sector SPDR Fund,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",None,None (or less than $201)
+4,Osaic Joint Brokerage Account (formerly Lincoln Joint Brokerage Account),Brokerage/Managed Account,Joint,--,,
+4.1,"Fidelity (SPAXX)(Boston, MA)Type: Brokerage Sweep Account",Bank Deposit,Joint,"$15,001 - $50,000",Dividends,"$5,001 - $15,000"
+4.2,ABBV - AbbVie Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$201 - $1,000"
+4.3,ACN - Accenture plc,Corporate SecuritiesStock,Joint,"$1,001 - $15,000",Dividends,"$201 - $1,000"
+4.4,GOOGL - Alphabet Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$15,001 - $50,000"
+4.5,"AWK - American Water Works Company, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+4.6,AMGN - Amgen Inc.,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains","$15,001 - $50,000"
+4.7,AAPL - Apple Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$50,001 - $100,000"
+4.8,ADM - Archer-Daniels-Midland Company,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains","$2,501 - $5,000"
+4.9,"STZ - Constellation Brands, Inc.",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains","$1,001 - $2,500"
+4.10,DEO - Diageo plc,Corporate SecuritiesStock,Joint,"None (or less than $1,001)",Dividends,"$1,001 - $2,500"
+4.11,DUK - Duke Energy Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$5,001 - $15,000"
+4.12,"GS - The Goldman Sachs Group, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$5,001 - $15,000"
+4.13,JPM - JPMorgan Chase & Co.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000","Dividends, Capital Gains","$15,001 - $50,000"
+4.14,LLY - Eli Lilly and Company,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains","$15,001 - $50,000"
+4.15,LMT - Lockheed Martin Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+4.16,MA - Mastercard Incorporated,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$5,001 - $15,000"
+4.17,MSFT - Microsoft Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$15,001 - $50,000"
+4.18,"NextEra Energy, Inc.",Corporate SecuritiesStock,Joint,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+4.19,ORCL - Oracle Corporation,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$5,001 - $15,000"
+4.20,"PEP - PepsiCo, Inc.",Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains","$5,001 - $15,000"
+4.21,PFE - Pfizer Inc.,Corporate SecuritiesStock,Joint,"$1,001 - $15,000",Dividends,"$1,001 - $2,500"
+4.22,PM - Philip Morris International Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000",Dividends,"$1,001 - $2,500"
+4.23,PG - The Procter & Gamble Company,Corporate SecuritiesStock,Joint,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+4.24,QCOM - QUALCOMM Incorporated,Corporate SecuritiesStock,Joint,"$15,001 - $50,000",Dividends,"$5,001 - $15,000"
+4.25,TXN - Texas Instruments Incorporated,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains","$5,001 - $15,000"
+4.26,TSCO - Tractor Supply Company,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$15,001 - $50,000"
+4.27,WMT - Walmart Inc.,Corporate SecuritiesStock,Joint,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+4.28,BIRMINGHAM ALA GO WTS SER (09088RJ31)Rate/Coupon: 5%  Matures: 12/01/2043,Government SecuritiesMunicipal Security,Joint,"None (or less than $1,001)",Interest,None (or less than $201)
+4.29,CARR - Carrier Global Corporation,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains","$5,001 - $15,000"
+4.30,OC  - Owens Corning Common Stock New,Corporate SecuritiesStock,Joint,"None (or less than $1,001)","Dividends, Capital Gains","$5,001 - $15,000"
+4.31,CSX - CSX Corp,Corporate SecuritiesStock,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$5,001 - $15,000"
+5,"Southern States Bank/First Bank(Auburn, AL)Type: Checking",Bank Deposit,Joint,"$15,001 - $50,000",Interest,None (or less than $201)
+6,"Fifth Third Bank(Cincinnati, OH)Type: Checking, Savings",Bank Deposit,Joint,"$15,001 - $50,000",Interest,None (or less than $201)
+7,Alabama Pension,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,Other (Pension Payment),"Other $47,071.32"
+8,University of Miami Pension,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,None,None (or less than $201)
+9,Disney SIP,Retirement PlansIRA,Self,--,,
+9.1,BTC LifePath Ret F,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+10,LPL Financial Joint Brokerage Account,Brokerage/Managed Account,Joint,--,,
+10.1,"Goldman Sachs(New York, NY)Type: Money Market Account",Bank Deposit,Joint,"None (or less than $1,001)",Dividends,None (or less than $201)
+11,"Property 2Description: House (Santa Rosa Beach, FL)",Real EstateResidential,Joint,"$500,001 - $1,000,000",None,None (or less than $201)

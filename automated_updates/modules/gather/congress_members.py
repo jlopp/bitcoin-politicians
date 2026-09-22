@@ -88,18 +88,37 @@ def get_current_congress_number():
     
     return congress
 
+def apply_member_name_exceptions(members):
+    # Congress.gov and financial disclosures sometimes use different legal,
+    # congressional, accented, or compound names.
+    aliases = {
+        ('Barragán, Nanette Diaz', 'CA'): 'Barragan, Nanette Diaz',
+        ('García, Jesús G. "Chuy"', 'IL'): 'Garcia, Jesús G. "Chuy"',
+        ('Hernández, Pablo Jose', 'PR'): 'Hernandez, Pablo Jose',
+        ('Hinson, Ashley', 'IA'): 'Arenholz, Ashley',
+        ('Luján, Ben Ray', 'NM'): 'Lujan, Ben Ray',
+        ('Luna, Anna Paulina', 'FL'): 'Paulina Luna, Anna',
+        ('McClain Delaney, April', 'MD'): 'Delaney, April',
+        ('Perez, Marie Gluesenkamp', 'WA'): 'Gluesenkamp Perez, Marie',
+        ('Sánchez, Linda T.', 'CA'): 'Sanchez, Linda T.',
+        ('Watson Coleman, Bonnie', 'NJ'): 'Coleman, Bonnie',
+    }
+    for member in members:
+        member[0] = aliases.get((member[0], member[2]), member[0])
+    return members
+
 # take and modified from user dreslan at https://github.com/jlopp/bitcoin-politicians/issues/36
 def get_congress_members(limit=250, ignore_cache=True, test_set=False):
     congress = get_current_congress_number() # get congress number to match biennial Jan 3 cycle
+    cache_file = f'./cache/congress_{congress}_members.pkl'
 
     # hitting the api takes a few seconds. nice to have this cached for faster development, not necessary for user
     if not ignore_cache:
-        cache_file = f'./cache/congress_{congress}_members.pkl'
         if os.path.exists(cache_file):
             with open(cache_file, 'rb') as file:
                 members = pickle.load(file)
                 print("congress members loaded from cache.")
-                return members
+                return apply_member_name_exceptions(members)
     
     print(f'Getting Congress {congress} from api.congress.gov...')
     api_key = get_congress_gov_api_key()
@@ -138,10 +157,9 @@ def get_congress_members(limit=250, ignore_cache=True, test_set=False):
     members = sorted(members, key=lambda x: x['name'])
     members = parse_members(members)
     
-    if not ignore_cache:
-        with open(cache_file, 'wb') as file:
-            pickle.dump(members, file)
-            print("cached congress members for future use.")
+    with open(cache_file, 'wb') as file:
+        pickle.dump(members, file)
+        print("cached congress members for future use.")
 
     if test_set:
         # Use a test set that will hit all code paths:
@@ -157,13 +175,7 @@ def get_congress_members(limit=250, ignore_cache=True, test_set=False):
         print('using test set:')
         for member in members: print(member)
 
-    # manual exceptions for name mismatches that are impossible to accomodate programmatically
-    # example: congress.gov api gives "Hinson, Ashley" (Iowa) who files under Arenholz as of 2022
-    for i in range(len(members)):
-        if members[i][0] == 'Hinson, Ashley' and members[i][2] == 'IA':
-            members[i][0] = 'Arenholz, Ashley'
-
-    return members
+    return apply_member_name_exceptions(members)
 
 def parse_members(members):
     parsed_members = []

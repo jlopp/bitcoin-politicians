@@ -1,0 +1,52 @@
+1,"Bank of America(Charlotte, NC)Type: Checking",Bank Deposit,Self,"$100,001 - $250,000",None,None (or less than $201)
+2,New Jersey Public Employee Retirement System Pension,Retirement PlansDefined Benefit Pension Plan,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+3,"Bank of America(Charlotte, NC)Type: Savings",Bank Deposit,Self,"$1,001 - $15,000",None,None (or less than $201)
+4,Fidelity Brokerage Account,Brokerage/Managed Account,Self,--,,
+4.1,FNCMX - Fidelity Nasdaq Composite Index,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$1,001 - $2,500"
+4.2,FOCPX - Fidelity OTC Pt,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$15,001 - $50,000"
+4.3,FBGRX - Fidelity Blue Chip Growth Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$1,001 - $2,500"
+4.4,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+4.5,FSPTX - Fidelity Select Technology,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$5,001 - $15,000"
+4.6,FMILX - Fidelity New Millennium Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$2,501 - $5,000"
+4.7,SPAXX - Fidelity Government Money Market Fund,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+4.8,FWWFX - Fidelity Worldwide FundFiler comment:  Sold for a loss in 2025,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+4.9,FEQIX - Fidelity Equity Income Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+4.10,FBALX - Fidelity Balanced Fund,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",Excepted Investment Fund,"$201 - $1,000"
+4.11,FGRIX - Fidelity Growth and Income Pt,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,"$2,501 - $5,000"
+4.12,FLVCX - Fidelity Leveraged Company Stock Fd,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$2,501 - $5,000"
+4.13,"Fidelity(Boston, MA)Type: Money Market Account",Bank Deposit,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.14,FPURX - Fidelity Puritan FundFiler comment:  Purchased & sold in 2025,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",Excepted Investment Fund,"$2,501 - $5,000"
+4.15,FSPSX - Fidelity International Index Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$1,001 - $2,500"
+4.16,FEMKX - Fidelity Emerging Markets Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+5,Fidelity Traditional IRA,Retirement PlansIRA,Self,--,,
+5.1,FNCMX - Fidelity Nasdaq Composite Index,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+5.2,FOCPX - Fidelity OTC Pt,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+5.3,FBGRX - Fidelity Blue Chip Growth Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+5.4,BPTIX - Baron Partners Fund Inst Shs,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+5.5,"AKRE - Akre Focus ETFFiler comment:  AKRIX (Institutional Class) shares were transitioned into the Akre Focus ETF (AKRE) on October 27, 2025.",Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+5.6,IVW - iShares S&P 500 Growth ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+5.7,FEQIX - Fidelity Equity Income Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+5.8,FMILX - Fidelity New Millennium Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+5.9,FCNTX - Fidelity Contrafund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+5.10,FEMKX - Fidelity Emerging Markets Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+6,"Bank of America(Charlotte, NC)Type: Checking, SavingsFiler comment:  Spouse holds jointly with mother",Bank Deposit,Joint,"$1,001 - $15,000",None,None (or less than $201)
+7,"BCWR HALLMARK, LLCCompany: BCWR HALLMARK, LLC (Los Angeles, CA) Description: Commercial Real Estate Investment Company",Business EntityLimited Liability Company (LLC),Spouse,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+8,"BRASA REAL ESTATE FUND II, LPDescription: Commercial Real Estate Investments (Los Angeles, CA) Filer comment:  Overall loss in 2025",Investment FundPrivate Equity Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+9,"BRASA REAL ESTATE FUND III AFFILIATES, LPDescription: Commercial & Residential Real Estate Investments (Los Angeles, CA) Filer comment:  Overall loss in 2025",Investment FundPrivate Equity Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+10,Los Angeles City Employees' Retirement System (LACERS),Retirement PlansDefined Benefit Pension Plan,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+11,"webAI, Inc.Company: webAI, Inc. (Austin, TX) Description: Technology Company - Series A-5 Preferred Filer comment:  Asset sold at cost in 2026",Corporate SecuritiesNon-Public Stock,Spouse,"$50,001 - $100,000",None,None (or less than $201)
+12,RBC Capital Markets LLC - Brokerage,Brokerage/Managed Account,Spouse,--,,
+12.1,"RBC(Minneapolis, MN)Type: Brokerage Sweep Account",Bank Deposit,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+12.2,"JD - JD.com, Inc. - American Depositary SharesFiler comment:  Asset sold in full in 2026.",Corporate SecuritiesStock,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+12.3,"AMZN - Amazon.com, Inc. - Common StockFiler comment:  Asset sold in full in 2026.",Corporate SecuritiesStock,Spouse,"$50,001 - $100,000",None,None (or less than $201)
+12.4,AAPL - Apple Inc. - Common StockFiler comment:  No longer held. Spouse returned stock previously gifted to her by her parents back to her parents in 2026.,Corporate SecuritiesStock,Spouse,"$500,001 - $1,000,000",None,None (or less than $201)
+12.5,MCD - McDonald's Corporation Common StockFiler comment:  Asset sold in full in 2026.,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+12.6,"NFLX - Netflix, Inc. - Common StockFiler comment:  Asset sold in full in 2026.",Corporate SecuritiesStock,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+12.7,NVDA - NVIDIA Corporation - Common StockFiler comment:  Asset sold in full in 2026.,Corporate SecuritiesStock,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+12.8,"ALNY - Alnylam Pharmaceuticals, Inc. - Common StockFiler comment:  Asset sold in full in 2026.",Corporate SecuritiesStock,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+12.9,United States Treasury Bill; 4.2436%; Due 12/18/25Rate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Spouse,"None (or less than $1,001)",Capital Gains,"$201 - $1,000"
+12.10,United States Treasury Bill; 0%; Due 1/29/2026Rate/Coupon: None  Matures: None,Government SecuritiesUS Treasury/Agency Security,Spouse,"$100,001 - $250,000",None,None (or less than $201)
+13,Fidelity Rollover IRA,Retirement PlansIRA,Spouse,--,,
+13.1,SPY - State Street SPDR S&P 500 ETF Trust,Mutual FundsExchange Traded Fund/Note,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+14,"Brasa Capital Management, LLCCompany: Brasa Capital Management, LLC (Los Angeles, CA) Description: Holding Company",Business EntityLimited Liability Company (LLC),Spouse,--,,
+14.1,"BCM P1, LLCCompany: BCM P1, LLC (Wilmington, DE) Description: Incentive fee entity",Business EntityLimited Liability Company (LLC),Spouse,"$15,001 - $50,000",None,None (or less than $201)

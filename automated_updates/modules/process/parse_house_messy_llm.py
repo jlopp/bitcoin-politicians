@@ -1,4 +1,4 @@
-from modules.process.openai_wrapper import encode_image, send_to_api
+from modules.process.openrouter_wrapper import encode_image, extract_assets
 from config import processed_data_dir
 
 import csv
@@ -9,19 +9,10 @@ import re
 def assets_from_house_messy_image_to_csv(input_image_path):
 	base64_image = encode_image(input_image_path)
 
-	# use '|' separator to avoid characters in asset names
-	response = send_to_api(message="This is a public disclosure form for a US congressman from house.gov. Get the asset names in the form. Return them in a | separated list only. If there are no assets listed, state: 'None'. No other commentary.", 
-						base64_image=base64_image, 
-						model="gpt-5")
-	
-	# print(response);print('\n')
-	if re.sub(r'[^a-zA-Z]', '', response.strip().lower() ) == 'none':
-		# print('No assets on this page.')
-		response = ''
-
-	asset_list = [response.strip() for response in response.split("|")]
-	
-	return asset_list
+	return extract_assets(
+		message="This is a public disclosure form for a US congressman from house.gov. Transcribe every asset name in the form verbatim. If there are no assets, return an empty assets list. Do not include commentary or explanations.",
+		base64_image=base64_image,
+	)
 
 def assets_from_house_messy_to_csv_entire_folder(folder_path):
 	folder_name = folder_path.split('/')[-1]

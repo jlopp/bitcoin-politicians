@@ -1,0 +1,58 @@
+1,"Needham Bank(Needham, MA)Type: Checking",Bank Deposit,Joint,"$50,001 - $100,000",Interest,"$201 - $1,000"
+2,Northwestern Mutual Adjustable Comp LifeProvider: Northwestern Mutual,Life InsuranceWhole,Self,"$100,001 - $250,000",Dividends,"$2,501 - $5,000"
+3,Northwestern Mutual Whole LifeProvider: Northwestern Mutual,Life InsuranceWhole,Self,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+4,Northwestern Mutual Whole Life Policy Provider: Northwestern Mutual,Life InsuranceWhole,Spouse,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+5,Northwestern Mutual Adjustable Comp Life Provider: Northwestern Mutual,Life InsuranceWhole,Spouse,"$100,001 - $250,000",Dividends,"$2,501 - $5,000"
+6,Northwestern Mutual Adjustable Comp LifeProvider: Northwestern Mutual,Life InsuranceWhole,Spouse,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+7,"Onadune, LLCCompany: Onadune, LLC (Boston, MA) Description: Shared ownership of rental property in RI",Business EntityLimited Liability Company (LLC),Self,--,,
+7.1,"OnaduneDescription: Vacation/Rental Property (Little Compton, RI)",Real EstateResidential,Self,"$100,001 - $250,000",None,None (or less than $201)
+8,"Onadune, LLCCompany: Onadune, LLC (Boston, MA) Description: Shared ownership of rental property in RI",Business EntityLimited Liability Company (LLC),Spouse,--,,
+8.1,"OnaduneDescription: Vacation/Rental Property (Little Compton, RI)",Real EstateResidential,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+9,Fidelity - Rollover IRA,Retirement PlansIRA,Spouse,--,,
+9.1,VEA - Vanguard FTSE Developed Markets Index Fund ETF Sha,Mutual FundsExchange Traded Fund/Note,Spouse,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+9.2,FDRXX - Fidelity Government Cash Reserves,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+9.3,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+9.4,IWD - iShares Russell 1000 Value ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+9.5,IWF - iShares Russell 1000 Growth ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+9.6,IWN - iShares Russell 2000 Value ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+9.7,IWO - iShares Russell 2000 Growth ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+9.8,AGG - iShares Core U.S. Aggregate Bond ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$500,001 - $1,000,000",Excepted Investment Fund,None (or less than $201)
+10,Fidelity - Rollover IRA,Retirement PlansIRA,Self,--,,
+10.1,VEA - Vanguard FTSE Developed Markets Index Fund ETF Sha,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+10.2,FDRXX - Fidelity Government Cash Reserves,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+10.3,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+10.4,IWD - iShares Russell 1000 Value ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+10.5,IWF - iShares Russell 1000 Growth ETF,Mutual FundsExchange Traded Fund/Note,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+10.6,IWN - iShares Russell 2000 Value ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+10.7,IWO - iShares Russell 2000 Growth ETF,Mutual FundsExchange Traded Fund/Note,Self,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+10.8,AGG - iShares Core U.S. Aggregate Bond ETF,Mutual FundsExchange Traded Fund/Note,Self,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+11,"Fidelity Partners Healthcare System, Inc. Retirement Plan","Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Self,--,,
+11.1,VTTVX - Vanguard Target Retirement 2025 Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+12,Fidelity - Brokerage,Brokerage/Managed Account,Joint,--,,
+12.1,AWF - AllianceBernstein Global High Income Fund,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$201 - $1,000"
+12.2,YYY - Amplify High Income ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$201 - $1,000"
+12.3,DBC - Invesco DB Commodity Index Tracking Fund,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$2,501 - $5,000"
+12.4,DVY - iShares Select Dividend ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$5,001 - $15,000"
+12.5,JNK - SPDR Bloomberg Barclays High Yield Bond ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$201 - $1,000"
+12.6,VTI - Vanguard Total Stock Market Index Fund ETF Shares,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+12.7,VTV - Vanguard Value ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000",Excepted Investment Fund,"$2,501 - $5,000"
+12.8,IYY - iShares Dow Jones U.S. ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$5,001 - $15,000"
+12.9,VUG - Vanguard Growth ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000",Excepted Investment Fund,"$201 - $1,000"
+12.10,FZFXX - Fidelity Treasury Money Market Fund,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+12.11,FDRXX - Fidelity Government Cash Reserves,Mutual FundsMutual Fund,Joint,"$1,001 - $15,000",Excepted Investment Fund,"$1,001 - $2,500"
+12.12,VV - Vanguard Large-Cap ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000",Excepted Investment Fund,"$1,001 - $2,500"
+12.13,VBK - Vanguard Small-Cap Growth ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000",Excepted Investment Fund,"$5,001 - $15,000"
+12.14,ITA - iShares U.S. Aerospace & Defense ETF,Mutual FundsExchange Traded Fund/Note,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$1,001 - $2,500"
+12.15,VEA - Vanguard Developed Markets Index Fund - ETF Shares,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000",Excepted Investment Fund,"$5,001 - $15,000"
+12.16,VBR - Vanguard Small-Cap Value Index Fund - ETF Shares,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000",Excepted Investment Fund,"$1,001 - $2,500"
+12.17,VTEB - Vanguard Tax-Exempt Bond Index Fund - ETF Shares,Mutual FundsExchange Traded Fund/Note,Joint,"$250,001 - $500,000",Excepted Investment Fund,"$15,001 - $50,000"
+12.18,DFIEX - International Core Equity 2 Portfolio - Institutional Class,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$201 - $1,000"
+13,TIAA-CREF Retirement Plan - Phillips Exeter Academy,"Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Spouse,--,,
+13.1,TIAA TraditionalProvider: TIAA-CREF,AnnuityFixed,Spouse,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+14,TIAA-CREF Retirement Plan - Wesleyan University,Retirement PlansDeferred Compensation,Spouse,--,,
+14.1,TIAA TraditionalProvider: TIAA-CREF,AnnuityFixed,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+15,TIAA-CREF Retirement Plan - School Year Abroad 403(b) DC Plan,"Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Spouse,--,,
+15.1,QCMMRX - College Retirement Equities Fund - CREF Money Mark,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+16,TIAA-CREF Retirement Plan - School Year Abroad 403(b) TDA Plan,Retirement PlansDeferred Compensation,Spouse,--,,
+16.1,QCMMRX - College Retirement Equities Fund - CREF Money Mark,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+17,"Needham Bank(Needham, MA)Type: Checking",Bank Deposit,Spouse,"$15,001 - $50,000",None,None (or less than $201)

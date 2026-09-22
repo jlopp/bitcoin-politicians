@@ -1,4 +1,4 @@
-# Part 2 of the pipeline: uses OpenAI multimodal endpoint to parse images
+# Part 2 of the pipeline: uses an OpenRouter multimodal model to parse images
 
 from config import house_clean_pdf_dir, house_messy_pdf_dir, senate_dir, processed_data_dir, source_data_dir
 from modules.process.parse_house_clean_llm import assets_from_house_clean_to_csv_entire_folder
@@ -34,7 +34,7 @@ existing_outputs = [output.replace('.csv','') for output in os.listdir(processed
 outdated_files = [file.replace('.pdf','') for file in get_outdated_source_files(os.listdir(source_data_dir))]
 skips = existing_outputs + outdated_files
 
-# TODO: this should be parallelized, bottleneck will be OpenAI usage tier
+# TODO: this should be parallelized; API rate limits are the likely bottleneck
 # Process folders in house_clean_pdf_dir
 root = next(os.walk(house_clean_pdf_dir))[0]
 dirs = sorted(next(os.walk(house_clean_pdf_dir))[1])

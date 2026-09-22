@@ -1,5 +1,36 @@
 <!-- <link rel="stylesheet" href="https://mottie.github.io/tablesorter/css/theme.default.css">-->
 <style>
+/* Widen the Midnight theme's 650px content area by 30%. */
+.wrapper,
+section {
+        max-width: 845px;
+}
+.holdings-link {
+        position: relative;
+        color: #ffcc00;
+        white-space: nowrap;
+}
+.holdings-tooltip {
+        display: none;
+        position: absolute;
+        z-index: 10;
+        right: 0;
+        top: 1.5em;
+        width: 360px;
+        max-width: 70vw;
+        padding: 10px;
+        color: #f0f0f0;
+        background: #252525;
+        border: 1px solid #ffcc00;
+        border-radius: 4px;
+        white-space: normal;
+        text-align: left;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+}
+.holdings-link:hover .holdings-tooltip,
+.holdings-link:focus .holdings-tooltip {
+        display: block;
+}
 /* header */
 .tablesorter-default th,
 .tablesorter-default thead td {

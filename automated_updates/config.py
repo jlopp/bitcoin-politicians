@@ -161,6 +161,7 @@ bitcoin_crypto_terms_false_positives = [
     'CALIF PRSMULTCCN EGID COR',
     'XRPO Inc PC 360',
     'Canaan LLC',
+    'NEW CANAAN',
     'Irenic Capital',
     'SUBITO HEALTH'
 ]

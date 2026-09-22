@@ -1,0 +1,26 @@
+1,"Congressional Federal Credit Union(Washington, D.C.)Type: Checking, Savings",Bank Deposit,Self,"$15,001 - $50,000",None,None (or less than $201)
+2,"Wells Fargo(Portland, Oregon)Type: Checking, Savings",Bank Deposit,Joint,"$50,001 - $100,000",Interest,"$1,001 - $2,500"
+3,"Wells Fargo(Portland, Oregon)Type: Checking, Savings",Bank Deposit,Spouse,"$100,001 - $250,000",Interest,"$1,001 - $2,500"
+4,Morgan Stanley IRA Account,Retirement PlansIRA,Self,--,,
+4.1,"Morgan Stanley IRA(New York, New York)Type: IRA Cash Accounts",Bank Deposit,Self,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+4.2,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsMutual Fund,Self,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+5,Fidelity,Brokerage/Managed Account,Self,--,,
+5.1,"Fidelity Cash Core(New York, New York)Type: IRA Cash Accounts",Bank Deposit,Self,"None (or less than $1,001)",None,None (or less than $201)
+5.2,RYOCX - NASDAQ-100 Fund - Investor Class,Mutual FundsMutual Fund,Self,"$250,001 - $500,000",Excepted Investment Fund,"$15,001 - $50,000"
+6,Fidelity SEP,Retirement PlansIRA,Spouse,--,,
+6.1,FDRXX - Fidelity Government Cash Reserves,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+6.2,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+6.3,SPY - State Street SPDR S&P 500 ETF Trust,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+6.4,FSMAX - Fidelity Extended Market Index Fund,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+6.5,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Spouse,"$500,001 - $1,000,000",Excepted Investment Fund,None (or less than $201)
+7,Fidelity Account,Brokerage/Managed Account,Spouse,--,,
+7.1,FDMMX - Fidelity Massachusetts Municipal Income Fund,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+7.2,SPAXX - Fidelity Government Money Market Fund,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000",Excepted Investment Fund,"$201 - $1,000"
+7.3,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000",Excepted Investment Fund,"$2,501 - $5,000"
+7.4,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+7.5,RYOCX - NASDAQ-100 Fund - Investor Class,Mutual FundsMutual Fund,Spouse,"$1,000,001 - $5,000,000",Excepted Investment Fund,"$50,001 - $100,000"
+8,"Global Health Institute, LLCCompany: Global Health Institute, LLC (Chevy Chase, MD) Description: Health education and medical services",Business EntityLimited Liability Company (LLC),Spouse,--,,
+8.1,"Wells Fargo(Portland, Oregon)Type: Checking, Savings",Bank Deposit,Spouse,"$50,001 - $100,000",None,None (or less than $201)
+9,TIAA Account,"Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Spouse,--,,
+9.1,TIAA Traditional Retirement Annuity,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+9.2,TIAA CREF S&P Index Account R3Filer comment:  Name change. Previously reported as CREF Equity Index R3.,Mutual FundsMutual Fund,Spouse,"$500,001 - $1,000,000",Excepted Investment Fund,None (or less than $201)

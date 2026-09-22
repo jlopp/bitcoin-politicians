@@ -1,0 +1,53 @@
+1,GAJPX - Goldman Sachs Dynamic Municipal Income Fund Class,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+2,XOM-Exxon Mobil Corporation (NYSE),Corporate SecuritiesStock,Joint,"$100,001 - $250,000",Dividends,"$5,001 - $15,000"
+3,VIG - Dividend Appreciation ETF Vanguard,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+4,XLE - SPDR Select Sector Fund - Energy Select Sector,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000",Excepted Investment Fund,"$201 - $1,000"
+5,SPY - SPDR S&P 500,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+6,EPD-Enterprise Products Partners L.P. (NYSE),Corporate SecuritiesStock,Joint,"$100,001 - $250,000",Dividends,"$15,001 - $50,000"
+7,DRLL - EA Series Trust Strive U.S. Energy ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000",Excepted Investment Fund,"$201 - $1,000"
+8,"Victory Capital 529 - Child 2Institution: Victory Capital Services, Inc.",Education Savings Plans529 College Savings Plan,Joint,--,,
+8.1,Age-Based Option 14-15: Conservative Portfolio,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+8.2,Plan FBO Aggressive Growth Portfolio,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+8.3,Plan FBO Moderately Aggressive Portfolio,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+8.4,Plan FBO Moderate Portfolio,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+9,Fidelity 529 - Child 1Institution: Fidelity,Education Savings Plans529 College Savings Plan,Joint,--,,
+9.1,MA Portfolio 2027,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+10,Traditional IRA,Retirement PlansIRA,Spouse,--,,
+10.1,GAFPX - Goldman Sachs Enhanced Dividend Global Equity Port,Mutual FundsMutual Fund,Spouse,"$50,001 - $100,000",Excepted Investment Fund,"$1,001 - $2,500"
+11,"Bank of America(Houston, Texas)Type: Checking",Bank Deposit,Joint,"$1,001 - $15,000",Interest,None (or less than $201)
+12,"Bank of America(Houston, Texas)Type: Savings",Bank Deposit,Joint,"$15,001 - $50,000",Interest,None (or less than $201)
+13,"American Express(Houston, Texas)Type: Savings",Bank Deposit,Joint,"$50,001 - $100,000",Interest,"$201 - $1,000"
+14,"Chase(Houston, Texas)Type: Checking",Bank Deposit,Joint,"$1,001 - $15,000",Interest,None (or less than $201)
+15,Texas ERS Retirement Account,Retirement PlansDefined Benefit Pension Plan,Self,"$50,001 - $100,000",None,None (or less than $201)
+16,"Health Equity HSA(Houston, Texas)Type: Savings",Bank Deposit,Self,"$1,001 - $15,000",Interest,None (or less than $201)
+17,Morgan Lewis Bockius LLP Tax-Saver Retirement Plan,"Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Self,--,,
+17.1,Vanguard Target Retirement 2040 Tr I,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+17.2,VGSNX - Vanguard Real Estate Index Fund Institutional Shar,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,"$1,001 - $2,500"
+17.3,AEPGX - American Funds Europacific Growth A,Mutual FundsMutual Fund,Self,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+17.4,FSSLX - Fidelity Series Small Cap Core Fund,Mutual FundsMutual Fund,Self,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+18,Morgan Lewis Bockius LLP Defined Contribution Plan,"Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Self,--,,
+18.1,Vanguard Target Retirement 2035 Tr I,Mutual FundsMutual Fund,Self,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+19,Morgan Lewis Cash Balance Retirement Plan,Retirement PlansDefined Benefit Pension Plan,Self,"$500,001 - $1,000,000",None,None (or less than $201)
+20,"Goldman Sachs(Houston, Texas)Type: Checking",Bank Deposit,Child,"$1,001 - $15,000",Interest,None (or less than $201)
+21,"GS-The Goldman Sachs Group, Inc.",Corporate SecuritiesStock,Spouse,"$1,000,001 - $5,000,000","Dividends, Interest","$50,001 - $100,000"
+22,Spouse 401K,"Retirement Plans401(k), 403(b), or other Defined Contribution Plan.",Spouse,--,,
+22.1,LIJIX - BlackRock LifePath Index 2035 Fund Institutional S,Mutual FundsMutual Fund,Spouse,"$1,000,001 - $5,000,000",Excepted Investment Fund,None (or less than $201)
+23,Bitcoin Exchange/Platform: River Financial Inc,Cryptocurrency,Self,"$100,001 - $250,000",None,None (or less than $201)
+24,"Bitcoin MinersDescription: Three Bitcoin Miners (Iraan, Texas)",Other,Self,--,,
+24.1,Bitcoin MinersDescription: Bitmain S21,Personal PropertyOther Property,Self,"$1,001 - $15,000",Other (Bitcoin),"Other $5,001.00"
+25,"Private Equity Co-Investment Partners III LLCDescription: Private Equity (New York, NY)",Investment FundPrivate Equity Fund,Joint,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+26,"TPG Tech Adjacencies II Access LLCDescription: Private Equity (New York, NY)",Investment FundPrivate Equity Fund,Joint,"$15,001 - $50,000",Excepted Investment Fund,"$2,501 - $5,000"
+27,"8VC RSS Access LLCDescription: Private Equity (New York, NY)",Investment FundPrivate Equity Fund,Joint,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+28,GSGO - Goldman Sachs Growth Opportunities ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+29,DIV - Global X SuperDividend U.S. ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+30,XSHD - Invesco S&P SmallCap High Dividend Low Volatility ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$1,001 - $15,000",Excepted Investment Fund,"$201 - $1,000"
+31,SPYD - SPDR(R) Portfolio S&P 500 High Dividend ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+32,Goldman Sachs - Child 1,Brokerage/Managed Account,Child,--,,
+32.1,"Goldman Sachs(Houston, Texas)Type: Savings",Bank Deposit,Child,"$1,001 - $15,000",Interest,None (or less than $201)
+32.2,SPY - State Street SPDR S&P 500 ETF Trust,Mutual FundsExchange Traded Fund/Note,Child,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+33,Goldman Sachs - Child 2,Brokerage/Managed Account,Child,--,,
+33.1,"Goldman Sachs(Houston, Texas)Type: Savings",Bank Deposit,Child,"$1,001 - $15,000",Interest,None (or less than $201)
+33.2,SPY - State Street SPDR S&P 500 ETF Trust,Mutual FundsExchange Traded Fund/Note,Child,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+34,BlackRock Municipal Income Trust,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$2,501 - $5,000"
+35,GSPPX - Goldman Sachs Strategic Growth Fund - Class P Shares,Mutual FundsMutual Fund,Joint,"None (or less than $1,001)",Excepted Investment Fund,"$5,001 - $15,000"
+36,"Goldman Sachs Bank USA(Houston, TX)Type: Certificate of Deposit",Bank Deposit,Joint,"None (or less than $1,001)",Interest,"$1,001 - $2,500"

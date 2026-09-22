@@ -1,0 +1,54 @@
+1,State of Iowa Retirement,Retirement PlansDefined Benefit Pension Plan,Self,Unascertainable,None,None (or less than $201)
+2,"First Interstate Bank(Omaha, NE)Type: Checking",Bank Deposit,Self,"$1,001 - $15,000",Interest,None (or less than $201)
+3,"U.S. Senate Federal Credit Union(Washington, DC)Type: Checking, Savings",Bank Deposit,Self,"$1,001 - $15,000",Dividends,None (or less than $201)
+4,Axos Advisor Services Roth IRA,Retirement PlansIRA,Self,--,,
+4.1,DWGHX - American Funds Developing World Growth and Incom,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.2,AMRFX - American Mutual Fund Class F-2 Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.3,FINFX - Fundamental Investors Class F-2 Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.4,IGFFX - International Growth and Income Fd Cl F-2 Shs,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.5,NEFFX - The New Economy Fund Class F-2 Shs,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.6,IVW - iShares S&P 500 Growth ETF,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.7,SPY - SPDR??S&P 500? ETF Trust,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.8,MIAYX - American Funds Multi-Sector Income Fund Class F-,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.9,AIVFX - American Funds International Vantage Fund Class,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.10,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.11,EEM - iShares MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.12,EFA - iShares MSCI EAFE ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.13,SSO - ProShares Ultra S&P500,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.14,QLD - ProShares Ultra QQQ,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.15,MFAFX - American Funds Mortgage Fund - Class F-2,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.16,ABNFX - BOND FUND OF AMERICA - Class F-2,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.17,FRGXX - Government Portfolio - Institutional Class,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.18,FTDZX - FRANKLIN BIOTECHNOLOGY DISCOVERY FUND - Advisor Class,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+4.19,SMCFX - SMALLCAP WORLD FUND INC - Class F-2,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+5,Pershing LLC,Brokerage/Managed Account,Self,--,,
+5.1,DODIX - Dodge & Cox Income Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+5.2,FIHBX - Federated Hermes Institutional High Yield Bond Fun,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Dividends,"$201 - $1,000"
+5.3,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+5.4,TRLGX - T. Rowe Price Large-Cap Growth Fund I Class,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends, Capital Gains","$1,001 - $2,500"
+5.5,MEIIX - MFS Value Fund Class I,Mutual FundsMutual Fund,Self,"$15,001 - $50,000","Dividends, Capital Gains","$1,001 - $2,500"
+5.6,PRRIX - PIMCO Real Return Fund Institutional Class,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Dividends,"$201 - $1,000"
+5.7,PIREX - Principal Real Estate Securities Fund Institutiona,Mutual FundsMutual Fund,Self,"$1,001 - $15,000","Dividends, Capital Gains",None (or less than $201)
+5.8,VMVAX - Vanguard Mid-Cap Value Index Fund Admiral Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Dividends,"$201 - $1,000"
+5.9,VIMAX - Vanguard Mid-Cap Index Fund Admiral Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Dividends,None (or less than $201)
+5.10,GOSXX - Federated Hermes Government Obligations Fund - Service Shares,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Dividends,None (or less than $201)
+5.11,OTCIX - MFS Mid Cap Growth Fund - Class I,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",Capital Gains,"$1,001 - $2,500"
+6,Axos Advisor Services Traditional IRA,Brokerage/Managed Account,Self,--,,
+6.1,IVW - iShares S&P 500 Growth ETF,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.2,SPY - SPDR??S&P 500? ETF Trust,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.3,AVEM - Avantis Emerging Markets Equity ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.4,QARP - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.5,GSLC - Goldman Sachs ActiveBeta(R) U.S. Large Cap Equity ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.6,GSSC - Goldman Sachs ActiveBeta(R) U.S. Small Cap Equity ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.7,"QQQ - Invesco QQQ Trust, Series 1",Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.8,EEM - iShares MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.9,EFA - iShares MSCI EAFE ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.10,TDV - ProShares S&P Technology Dividend Aristocrats ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.11,SSO - ProShares Ultra S&P500,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.12,QLD - ProShares Ultra QQQ,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.13,FNDF - Schwab Fundamental International Equity ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.14,TOUS - T. Rowe Price International Equity ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.15,VFLO - VictoryShares Free Cash Flow ETF,Mutual FundsExchange Traded Fund/Note,Self,"$1,001 - $15,000",None,None (or less than $201)
+6.16,FRGXX - Government Portfolio - Institutional Class,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+7,"Capital One(Richmond, Virginia)Type: Savings",Bank Deposit,Self,"$1,001 - $15,000",Interest,"$201 - $1,000"
+8,"First Interstate Bank(Omaha, NE)Type: Checking, Money Market AccountFiler comment:  Filer is a named custodian on relative’s account.",Bank Deposit,Joint,"$250,001 - $500,000",Interest,"$1,001 - $2,500"

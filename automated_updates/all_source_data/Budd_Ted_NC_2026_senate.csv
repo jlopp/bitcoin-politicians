@@ -1,0 +1,71 @@
+1,"Ally Bank(Philadelphia, Pennsylvania)Type: Savings",Bank Deposit,Joint,"$50,001 - $100,000",Interest,"$1,001 - $2,500"
+2,"Truist Financial(Winston Salem, North Carolina)Type: Checking, Money Market Account",Bank Deposit,Child,"$1,001 - $15,000",Interest,None (or less than $201)
+3,"PS1 Rural Hall LLCFiler comment:  Retail sporting goods, indoor range and training facility.  Doing business as ProShots.",Business EntitySole Proprietorship,Self,"$1,000,001 - $5,000,000",Other (Business income),"Other $100,001.00"
+4,Amy Kathryn Budd 2017 Irrv Trust FBO (DC3) - Trust,TrustGeneral Trust,Child,--,,
+4.1,RTSSX - Russell Investment Tax-Managed U.S. Mid & Small Ca,Mutual FundsMutual Fund,Child,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+4.2,RETSX - Russell Investment Tax-Managed U.S. Large Cap Fund,Mutual FundsMutual Fund,Child,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+4.3,RTXSX - Russell Investment Tax-Managed Real Assets Fund Cl,Mutual FundsMutual Fund,Child,"$1,001 - $15,000",Excepted Investment Fund,"$201 - $1,000"
+4.4,RTHSX - Russell Investments Tax-Exempt High Yield Bond Fun,Mutual FundsMutual Fund,Child,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+4.5,DFUS - Dimensional U.S. Equity ETF,Mutual FundsExchange Traded Fund/Note,Child,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+4.6,DFAX - Dimensional World Ex U.S. Core Equity 2 ETF,Mutual FundsExchange Traded Fund/Note,Child,"$15,001 - $50,000",Excepted Investment Fund,"$201 - $1,000"
+4.7,DFNM - Dimensional National Municipal Bond ETF,Mutual FundsExchange Traded Fund/Note,Child,"$1,001 - $15,000",Excepted Investment Fund,"$201 - $1,000"
+4.8,MUB - iShares National Muni Bond ETF,Mutual FundsExchange Traded Fund/Note,Child,"None (or less than $1,001)",Excepted Investment Fund,None (or less than $201)
+4.9,FIQZX - Fidelity Intermediate Municipal Income Fund - Fidelity Advisor Intermediate Municipal Income Fund: Class Z,Mutual FundsMutual Fund,Child,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+4.10,HYG - iShares iBoxx $ High Yield Corporate Bond ETF,Mutual FundsMutual Fund,Child,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+5,Fidelity Brokerage Services #18,Brokerage/Managed Account,Spouse,--,,
+5.1,RTXSX - Tax-Managed Real Assets Fund - CLASS S,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+5.2,RTHSX - Russell Investments Tax-Exempt High Yield Bond Fun,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+5.3,DFUS - Dimensional U.S. Equity ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$50,001 - $100,000",Excepted Investment Fund,None (or less than $201)
+5.4,DFAS - Dimensional U.S. Small Cap ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+5.5,DFAX - Dimensional World Ex U.S. Core Equity 2 ETF,Mutual FundsExchange Traded Fund/Note,Spouse,"$100,001 - $250,000",Excepted Investment Fund,"$2,501 - $5,000"
+5.6,"Fidelity - SPRXX(Matthews, NC)Type: Money Market Account",Bank Deposit,Spouse,"None (or less than $1,001)",Interest,None (or less than $201)
+5.7,"Fidelity - FDRXX(Matthews, NC)Type: Brokerage Sweep Account",Bank Deposit,Spouse,"$1,001 - $15,000",Interest,None (or less than $201)
+5.8,DFAU - Dimensional US Core Equity Market ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+5.9,IWM - iShares Russell 2000 ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,"$1,001 - $2,500"
+6,AKB - ROTH IRA,Retirement PlansIRA,Spouse,--,,
+6.1,RGISX - Russell Investments Global Infrastructure Fund Cla,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+6.2,RINTX - Russell Investments International Developed Market,Mutual FundsMutual Fund,Spouse,"None (or less than $1,001)",None,None (or less than $201)
+6.3,RLESX - Russell Investments U.S. Small Cap Equity Fund Cla,Mutual FundsMutual Fund,Spouse,"None (or less than $1,001)",None,None (or less than $201)
+6.4,CMCYX - VanEck CM Commodity Index Fund Class Y,Mutual FundsMutual Fund,Spouse,"None (or less than $1,001)",None,None (or less than $201)
+6.5,RGCSX - Russell Investments Opportunistic Credit Fund Clas,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+6.6,FIQGX - Fidelity Advisor Emerging Markets Discovery Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+6.7,DFAU - Dimensional US Core Equity Market ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+6.8,DUHP - Dimensional US High Profitability ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+6.9,CREEX - Columbia Real Estate Equity Fund Class I,Mutual FundsMutual Fund,Spouse,"None (or less than $1,001)",None,None (or less than $201)
+6.10,PEIYX - Putnam Large Cap Value Fund Class Y,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+6.11,FSRNX - Fidelity Real Estate Index Fund,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+6.12,FZAJX - Fidelity International Growth Fund - Fidelity Advisor International Growth Fund: Class Z,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",None,None (or less than $201)
+6.13,DFAS - Dimensional U.S. Small Cap ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+6.14,DFIC - Dimensional International Core Equity 2 ETF,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",None,None (or less than $201)
+7,TPB - ROTH IRA,Retirement PlansIRA,Self,--,,
+7.1,RGISX - Russell Investments Global Infrastructure Fund Cla,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+7.2,RINTX - Russell Investments International Developed Market,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",None,None (or less than $201)
+7.3,RLESX - Russell Investments U.S. Small Cap Equity Fund Cla,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",None,None (or less than $201)
+7.4,CMCYX - VanEck CM Commodity Index Fund Class Y,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",None,None (or less than $201)
+7.5,RGCSX - Russell Investments Opportunistic Credit Fund Clas,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+7.6,FIQGX - Fidelity Advisor Emerging Markets Discovery Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+7.7,DFAU - Dimensional US Core Equity Market ETF,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+7.8,DUHP - Dimensional US High Profitability ETF,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",None,None (or less than $201)
+7.9,CREEX - Columbia Real Estate Equity Fund Class I,Mutual FundsMutual Fund,Self,"None (or less than $1,001)",None,None (or less than $201)
+7.10,PEIYX - Putnam Large Cap Value Fund Class Y,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",None,None (or less than $201)
+7.11,FSRNX - Fidelity Real Estate Index Fund,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+7.12,FZAJX - Fidelity International Growth Fund - Fidelity Advisor International Growth Fund: Class Z,Mutual FundsMutual Fund,Self,"$1,001 - $15,000",None,None (or less than $201)
+7.13,DFAS - Dimensional U.S. Small Cap ETF,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",None,None (or less than $201)
+7.14,DFIC - Dimensional International Core Equity 2 ETF,Mutual FundsMutual Fund,Self,"$15,001 - $50,000",None,None (or less than $201)
+8,"Budd Family LLCCompany: Budd Family LLC (Winston Salem, North Carolina) Description: Real Estate Rental and Farm Filer comment:  $1,447 in interest income was earned by Budd Family LLC from Miscellaneous Accounts not attributable to any of the four assets owned by the LLC.",Business EntityLimited Liability Company (LLC),Child,--,,
+8.1,"Budd FarmDescription: Farm (Advance, North Carolina)",Farm/Ranch,Child,"$250,001 - $500,000",Rent/Royalties,None (or less than $201)
+8.2,"Beach PropertyDescription: Beach Rental Property (Wilmington, North Carolina)",Real EstateResidential,Child,"$250,001 - $500,000",Rent/Royalties,None (or less than $201)
+8.3,"Budd Hope LLCCompany: Budd Hope LLC (Advance, NC) Description: Owner of commercial building",Business EntityLimited Liability Company (LLC),Child,--,,
+8.3.1,"Real EstateDescription: Warehouse on Hope Church Road (Winston-Salem, NC)",Real EstateCommercial,Child,"$250,001 - $500,000","Rent/Royalties, Interest","$15,001 - $50,000"
+8.4,"Office BuildingDescription: Stratford Rd Office Building (Winston Salem, NC)",Real EstateCommercial,Child,"$250,001 - $500,000",Rent/Royalties,"$15,001 - $50,000"
+9,Lincoln Flexible Premium Variable Life Insurance - 351,Life InsuranceVariable,Self,--,,
+9.1,LVIP Vanguard Bnd Alloc Fnd SC (791),Mutual FundsMutual Fund,Self,"$15,001 - $50,000",None,None (or less than $201)
+9.2,LVIP SSGA S&P 500 Index SC (946),Mutual FundsMutual Fund,Self,"$15,001 - $50,000",None,None (or less than $201)
+10,Lincoln Flexible Premium Variable Life Insurance - 613,Life InsuranceVariable,Joint,--,,
+10.1,LVIP Vanguard Bnd Alloc Fnd SC (791),Mutual FundsMutual Fund,Joint,"$100,001 - $250,000",None,None (or less than $201)
+10.2,LVIP SSGA S&P 500 Index SC (946),Mutual FundsMutual Fund,Joint,"$100,001 - $250,000",None,None (or less than $201)
+11,"T Paul Properties, LLCCompany: T Paul Properties, LLC (Advance, NC) Description: Partner in commercial real estate business",Business EntityLimited Liability Company (LLC),Spouse,--,,
+11.1,"Budd Hope LLCCompany: Budd Hope LLC (Advance, NC) Description: Owner of commercial building",Business EntityLimited Liability Company (LLC),Spouse,--,,
+11.1.1,"Real EstateDescription: Warehouse on Hope Church Road (Winston-Salem, NC)",Real EstateCommercial,Spouse,"$500,001 - $1,000,000",Rent/Royalties,"$15,001 - $50,000"
+12,"Citibank, NA(Sioux Falls, SD)Type: Savings",Bank Deposit,Joint,"$1,001 - $15,000",Interest,"$201 - $1,000"
+13,"Truist Financial(Winston Salem, NC)Type: Checking",Bank Deposit,Joint,"$1,001 - $15,000",Interest,None (or less than $201)

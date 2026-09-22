@@ -1,0 +1,33 @@
+1,"Huntersville ResidenceDescription: Primary Residence - House (Huntersville, NC)",Real EstateResidential,Joint,"$1,000,001 - $5,000,000",None,None (or less than $201)
+2,IBM - International Business Machines Corporation Common,Corporate SecuritiesStock,Self,"$100,001 - $250,000",None,None (or less than $201)
+3,"Wells Fargo - Banking/Checking(Cornelius, NC)Type: Checking",Bank Deposit,Joint,"$1,001 - $15,000",Interest,"$201 - $1,000"
+4,Morgan Stanley Brokerage Account X066,Brokerage/Managed Account,Joint,--,,
+4.1,"Morgan Stanley cash account(Cornelius, NC)Type: Checking, Money Market Account",Bank Deposit,Joint,"$15,001 - $50,000",Interest,None (or less than $201)
+4.2,IXN - iShares Global Tech ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000",Dividends,"$201 - $1,000"
+4.3,IWD - iShares Russell 1000 Value ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$250,001 - $500,000",Dividends,"$2,501 - $5,000"
+4.4,IWM - iShares Russell 2000 ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+4.5,DODFX - Dodge & Cox International Stock Fund,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+4.6,HNACX - Harbor Capital Appreciation Fund - Retirement Cl,Mutual FundsMutual Fund,Joint,"$250,001 - $500,000",None,None (or less than $201)
+4.7,PMAQX - Principal Funds Inc. - Midcap Fund Class R6,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000",Dividends,None (or less than $201)
+4.8,PONPX - Pimco Income Fund Class I-2,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains","$5,001 - $15,000"
+5,Morgan Stanley IRA Account x065,Brokerage/Managed Account,Joint,--,,
+5.1,"Morgan Stanley(Cornelius, NC)Type: Money Market Account",Bank Deposit,Joint,"$15,001 - $50,000",None,None (or less than $201)
+5.2,IEMG - iShares Core MSCI Emerging Markets ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000",Dividends,"$2,501 - $5,000"
+5.3,IWF - iShares Russell 1000 Growth ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$250,001 - $500,000",Dividends,"$1,001 - $2,500"
+5.4,ABNFX - The Bond Fd of America Class F-2 Shares,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains","$5,001 - $15,000"
+5.5,MAHQX - Blackrock Total Return Fund Class I,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains","$5,001 - $15,000"
+5.6,CIVIX - Causeway International Value Fund - Institutiona,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Interest, Capital Gains","$1,001 - $2,500"
+5.7,GSIMX - Goldman Sachs Gqg Partners International Opportu,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains","$1,001 - $2,500"
+5.8,GQGIX - Gqg Partners Emerging Markets Equity Fund Instit,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains","$1,001 - $2,500"
+5.9,HDGIX - The Hartford Dividend & Growth Fund Class I,Mutual FundsMutual Fund,Joint,"$100,001 - $250,000","Dividends, Capital Gains","$2,501 - $5,000"
+5.10,OANMX - Oakmark Fund Institutional Class,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains","$201 - $1,000"
+5.11,IWD - Russell 1000 Value Ishares ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends, Capital Gains","$1,001 - $2,500"
+5.12,IEFA - iShares Core MSCI EAFE ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000",Dividends,"$5,001 - $15,000"
+5.13,IVV - iShares Core S&P 500,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends, Capital Gains","$1,001 - $2,500"
+5.14,IWP - iShares Russell Midcap Growth ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$50,001 - $100,000","Dividends, Capital Gains","$201 - $1,000"
+5.15,FBND - Fidelity Total Bond ETF,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends, Capital Gains","$5,001 - $15,000"
+5.16,CGGR - Capital Group Growth ETF - Share class,Mutual FundsExchange Traded Fund/Note,Joint,"$100,001 - $250,000","Dividends, Interest",None (or less than $201)
+5.17,WFMIX - Allspring Special Mid Cap Value Fund - Institutional Class,Mutual FundsMutual Fund,Joint,"$15,001 - $50,000","Dividends, Capital Gains","$201 - $1,000"
+5.18,PFTPX - PIMCO Low Duration Income Fund - I-2,Mutual FundsMutual Fund,Joint,"$50,001 - $100,000","Dividends, Capital Gains","$2,501 - $5,000"
+6,IBM Defined Benefit Plan,Retirement PlansDefined Benefit Pension Plan,Joint,"$50,001 - $100,000",None,None (or less than $201)
+7,NC State Employees Pension Plan,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000",None,None (or less than $201)

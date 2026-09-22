@@ -1,0 +1,31 @@
+1,"USSFCU(Washington, DC)Type: Checking",Bank Deposit,Joint,"$15,001 - $50,000",Dividends,None (or less than $201)
+2,"USSFCU(Washington, DC)Type: Savings",Bank Deposit,Joint,"$1,001 - $15,000",Dividends,None (or less than $201)
+3,"USSFCU(Washington, DC)Type: Certificate of Deposit",Bank Deposit,Joint,"$100,001 - $250,000",Dividends,"$5,001 - $15,000"
+4,"USSFCU(Washington, DC)Type: Money Market Account",Bank Deposit,Joint,"$50,001 - $100,000",Dividends,"$201 - $1,000"
+5,"USSFCU(Washington, DC)Type: Certificate of Deposit",Bank Deposit,Joint,"$100,001 - $250,000",Dividends,"$5,001 - $15,000"
+6,"USSFCU(Washington, DC)Type: Checking",Bank Deposit,Joint,"$1,001 - $15,000",Dividends,None (or less than $201)
+7,"Whidbey Island Bank(Freeland, WA)Type: Checking",Bank Deposit,Joint,"$50,001 - $100,000",Interest,None (or less than $201)
+8,"Whidbey Island Bank(Freeland, WA)Type: Savings",Bank Deposit,Joint,"$50,001 - $100,000",Interest,None (or less than $201)
+9,"Fidelity(Seattle, WA)Type: Checking",Bank Deposit,Joint,"$100,001 - $250,000",Interest,"$201 - $1,000"
+10,Variable AnnuityProvider: Fidelity,AnnuityVariable Annuity,Spouse,--,,
+10.1,FMPBC,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+11,Spouse IRA,Retirement PlansIRA,Spouse,--,,
+11.1,FFTHX - Fidelity Freedom 2035,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+11.2,FFXSX - Fidelity Limited Term Government,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+11.3,FXAIX - Fidelity 500 Index Fund,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+11.4,FDRXX-Fidelity Cash Reserves,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+11.5,FFFEX - Fidelity Freedom 2030,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+11.6,FMAGX - Fidelity Magellan,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+11.7,FBALX - Fidelity Balanced,Mutual FundsMutual Fund,Spouse,"$500,001 - $1,000,000",Excepted Investment Fund,None (or less than $201)
+11.8,FGRIX - Fidelity Growth & Income,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+11.9,FFFFX - Fidelity Freedom 2040 Fund,Mutual FundsMutual Fund,Spouse,"$250,001 - $500,000",Excepted Investment Fund,None (or less than $201)
+11.10,VPMCX - Vanguard PRIMECAP Fund - Investor Shares,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+11.11,VGENX - Vanguard Energy Fund - Investor Shares,Mutual FundsMutual Fund,Spouse,"$1,001 - $15,000",Excepted Investment Fund,None (or less than $201)
+11.12,VWUSX - Vanguard U.S. Growth Fund - Investor Shares,Mutual FundsMutual Fund,Spouse,"$15,001 - $50,000",Excepted Investment Fund,None (or less than $201)
+11.13,"Fidelity(Seattle, WA)Type: Money Market AccountFiler comment:  SPAXX",Bank Deposit,Spouse,"$1,001 - $15,000",Dividends,None (or less than $201)
+11.14,PQIAX - Equity Income Fund formerly Equity Income Fund I - Class A,Mutual FundsMutual Fund,Spouse,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
+12,Western & Southern Life Assurance Co. Individual Retirement AnnuityProvider: Western & Southern,AnnuityFixed,Spouse,"$250,001 - $500,000",Interest,None (or less than $201)
+13,"Guardian Fixed Target AnnuityProvider: The Guardian Insurance and Annuity Company, Inc.",AnnuityFixed,Spouse,"$100,001 - $250,000",Interest,None (or less than $201)
+14,State of Washington Retirement Plan PERS1,Retirement PlansDefined Benefit Pension Plan,Self,"$15,001 - $50,000",Interest,None (or less than $201)
+15,Self IRA,Retirement PlansIRA,Self,--,,
+15.1,PQIAX - Equity Income Fund formerly Equity Income Fund I - Class A,Mutual FundsMutual Fund,Self,"$100,001 - $250,000",Excepted Investment Fund,None (or less than $201)
